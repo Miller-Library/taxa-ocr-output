@@ -1,0 +1,2354 @@
+{
+  "processId": 10215255,
+  "status": "FINISHED",
+  "content": {
+    "text": "size (as measured by standard deviation) went from 33% of average size to 57% of average size\nfrom day 12 to day 34 (se Fig\nCross-sections stained for the Notchl demonstrated that blood vessels in the brain (not\nshown) as well as a small subset of cells in the PVZ (see Fig. 8) expressed a Notch family\nreceptor in high enough quantities and with enough homology to the mammalian Notchl to stain\nwith a polyclonal anti-human Notch-1.\nDISCUSSION\nSome processes crossing the boundary into the PVZ (see Fig. 1) suggest that there may\nbe tectal control over the fate of PVZ cells including division, migration, and differentiation.\nConversely, the control may be in the way of PVZ cells sending processes into the tectum itself.\nEither way, there is likely signaling occurring between distant cells that organizes the movement\nbetween layers. An injection of lipophilic dye into the tectal layers may determine the location\nof the cell bodies associated with these processes. An early study with horseradish peroxidase\nused a similar method to determine the location of processes afferent to the tectum from other\nparts of the brain (Northcutt, 1984).\nGFP lipofection was successful in demonstrating cell division subsequent to dissection in\nthe PVZ and tectum (see Fig. 2 and 3). Given the slicing technique used (one slice dividing the\nbrain into anterior and posterior sections), the assignment of post-mitotic cells into only striated\ntectum or only PVZ was challenging as discrimination of adjacent tissue layers under\nfluorescence is difficult in deep tissue. However, the use of relatively large tissue sections had\nmerit in that it left large areas of tissue far from the blade path and relatively undisturbed. The\npresence of dividing cells in tissue away from the traumatized edge (see Fig 2c and 2d) suggests",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "289,263 289,2906 2262,2906 2262,263"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "281,328 463,370 661,345 715,382 902,330 1016,370 1368,333 1617,380 1775,338 1967,338 2071,385 2221,345 2221,251 2056,293 1866,251 1659,291 1491,237 1395,279 1188,239 971,291 878,249 281,254"
+            },
+            "baseline": {
+              "points": "295,316 391,322 488,322 584,322 681,322 778,322 874,322 971,322 1067,321 1164,320 1261,320 1357,320 1454,322 1550,322 1647,322 1744,322 1840,322 1937,324 2033,325 2130,325 2227,325"
+            },
+            "text": "size (as measured by standard deviation) went from 33% of average size to 57% of average size",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "276,276 276,336 343,336 343,276"
+                },
+                "text": "size"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "364,281 364,341 415,341 415,281"
+                },
+                "text": "(as"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "437,282 437,342 618,342 618,282"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "645,282 645,342 681,342 681,282"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "707,282 707,342 868,342 868,282"
+                },
+                "text": "standard"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "894,281 894,341 1096,341 1096,281"
+                },
+                "text": "deviation)"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1113,280 1113,340 1206,340 1206,280"
+                },
+                "text": "went"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1222,280 1222,340 1294,340 1294,280"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1336,280 1336,340 1398,340 1398,280"
+                },
+                "text": "33%"
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1440,282 1440,342 1476,342 1476,282"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_1_w11",
+                "coords": {
+                  "points": "1497,282 1497,342 1642,342 1642,282"
+                },
+                "text": "average"
+              },
+              {
+                "id": "tr_1_tl_1_w12",
+                "coords": {
+                  "points": "1664,282 1664,342 1731,342 1731,282"
+                },
+                "text": "size"
+              },
+              {
+                "id": "tr_1_tl_1_w13",
+                "coords": {
+                  "points": "1757,282 1757,342 1783,342 1783,282"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_1_w14",
+                "coords": {
+                  "points": "1809,282 1809,342 1876,342 1876,282"
+                },
+                "text": "57%"
+              },
+              {
+                "id": "tr_1_tl_1_w15",
+                "coords": {
+                  "points": "1919,283 1919,343 1954,343 1954,283"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_1_w16",
+                "coords": {
+                  "points": "1976,285 1976,345 2121,345 2121,285"
+                },
+                "text": "average"
+              },
+              {
+                "id": "tr_1_tl_1_w17",
+                "coords": {
+                  "points": "2147,285 2147,345 2214,345 2214,285"
+                },
+                "text": "size"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "283,456 385,478 449,454 560,473 634,451 661,473 747,446 799,476 910,466 910,389 845,375 582,402 486,377 394,394 283,360"
+            },
+            "baseline": {
+              "points": "298,435 328,435 359,435 390,435 421,435 451,435 482,435 513,435 544,435 574,435 605,435 636,435 667,435 697,434 728,432 759,434 790,435 820,435 851,433 882,430 913,426"
+            },
+            "text": "from day 12 to day 34 (se Fig",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "289,395 289,455 357,455 357,395"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "397,395 397,455 458,455 458,395"
+                },
+                "text": "day"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "488,395 488,455 521,455 521,395"
+                },
+                "text": "12"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "550,395 550,455 572,455 572,395"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "601,395 601,455 663,455 663,395"
+                },
+                "text": "day"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "692,393 692,453 726,453 726,393"
+                },
+                "text": "34"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "755,394 755,454 805,454 805,394"
+                },
+                "text": "(se"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "828,392 828,452 884,452 884,392"
+                },
+                "text": "Fig"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "431,567 2221,594 2221,513 2115,476 2068,515 1957,473 1782,515 1711,473 1568,515 1501,473 1321,515 431,498"
+            },
+            "baseline": {
+              "points": "444,549 533,549 622,552 711,549 800,552 889,552 978,552 1068,552 1157,552 1246,552 1335,552 1424,552 1513,552 1602,552 1692,552 1781,552 1870,555 1959,555 2048,555 2137,555 2227,555"
+            },
+            "text": "Cross-sections stained for the Notchl demonstrated that blood vessels in the brain (not",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "436,510 436,570 726,570 726,510"
+                },
+                "text": "Cross-sections"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "747,512 747,572 878,572 878,512"
+                },
+                "text": "stained"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "904,512 904,572 960,572 960,512"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "976,512 976,572 1026,572 1026,512"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "1052,512 1052,572 1194,572 1194,512"
+                },
+                "text": "Notchl"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1216,512 1216,572 1475,572 1475,512"
+                },
+                "text": "demonstrated"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1501,512 1501,572 1577,572 1577,512"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1603,512 1603,572 1709,572 1709,512"
+                },
+                "text": "blood"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1736,512 1736,572 1873,572 1873,512"
+                },
+                "text": "vessels"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1894,515 1894,575 1918,575 1918,515"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1949,515 1949,575 2000,575 2000,515"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "2026,515 2026,575 2117,575 2117,515"
+                },
+                "text": "brain"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "2143,515 2143,575 2219,575 2219,515"
+                },
+                "text": "(not"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "281,695 1203,710 1279,673 2110,720 2110,624 2046,611 281,624"
+            },
+            "baseline": {
+              "points": "295,662 386,665 477,662 568,665 659,665 750,668 841,668 932,667 1023,666 1114,668 1205,668 1296,668 1387,668 1478,668 1569,668 1660,670 1751,668 1842,668 1933,670 2024,669 2116,665"
+            },
+            "text": "shown) as well as a small subset of cells in the PVZ (see Fig. 8) expressed a Notch family",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "281,623 281,683 429,683 429,623"
+                },
+                "text": "shown)"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "446,622 446,682 477,682 477,622"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "499,624 499,684 583,684 583,624"
+                },
+                "text": "well"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "600,625 600,685 631,685 631,625"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "653,625 653,685 663,685 663,625"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "690,627 690,687 795,687 795,627"
+                },
+                "text": "small"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "812,627 812,687 934,687 934,627"
+                },
+                "text": "subset"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "951,626 951,686 987,686 987,626"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1009,626 1009,686 1088,686 1088,626"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1110,628 1110,688 1136,688 1136,628"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1163,628 1163,688 1215,688 1215,628"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1237,628 1237,688 1316,688 1316,628"
+                },
+                "text": "PVZ"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1349,628 1349,688 1417,688 1417,628"
+                },
+                "text": "(see"
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "1439,628 1439,688 1518,688 1518,628"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_4_w15",
+                "coords": {
+                  "points": "1535,628 1535,688 1572,688 1572,628"
+                },
+                "text": "8)"
+              },
+              {
+                "id": "tr_1_tl_4_w16",
+                "coords": {
+                  "points": "1588,629 1588,689 1773,689 1773,629"
+                },
+                "text": "expressed"
+              },
+              {
+                "id": "tr_1_tl_4_w17",
+                "coords": {
+                  "points": "1806,628 1806,688 1816,688 1816,628"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_4_w18",
+                "coords": {
+                  "points": "1838,629 1838,689 1948,689 1948,629"
+                },
+                "text": "Notch"
+              },
+              {
+                "id": "tr_1_tl_4_w19",
+                "coords": {
+                  "points": "1976,628 1976,688 2097,688 2097,628"
+                },
+                "text": "family"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "276,818 2253,809 2221,730 276,740"
+            },
+            "baseline": {
+              "points": "289,779 387,780 486,782 584,782 683,782 781,782 880,782 978,782 1077,782 1175,784 1274,782 1373,783 1471,785 1570,785 1668,785 1767,785 1865,785 1964,785 2062,787 2161,787 2260,791"
+            },
+            "text": "receptor in high enough quantities and with enough homology to the mammalian Notchl to stain",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "276,739 276,799 439,799 439,739"
+                },
+                "text": "receptor"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "456,741 456,801 483,801 483,741"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "506,742 506,802 587,802 587,742"
+                },
+                "text": "high"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "609,742 609,802 745,802 745,742"
+                },
+                "text": "enough"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "773,742 773,802 963,802 963,742"
+                },
+                "text": "quantities"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "986,742 986,802 1045,802 1045,742"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1073,742 1073,802 1149,802 1149,742"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1177,742 1177,802 1312,802 1312,742"
+                },
+                "text": "enough"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1335,744 1335,804 1531,804 1531,744"
+                },
+                "text": "homology"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1559,745 1559,805 1580,805 1580,745"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1608,745 1608,805 1662,805 1662,745"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1684,745 1684,805 1913,805 1913,745"
+                },
+                "text": "mammalian"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1941,745 1941,805 2082,805 2082,745"
+                },
+                "text": "Notchl"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "2104,747 2104,807 2131,807 2131,747"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_5_w15",
+                "coords": {
+                  "points": "2159,748 2159,808 2240,808 2240,748"
+                },
+                "text": "stain"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "283,937 478,912 636,961 685,922 727,947 838,910 951,932 1077,910 1077,845 1038,836 964,855 900,833 818,868 283,841"
+            },
+            "baseline": {
+              "points": "298,892 337,895 376,897 415,898 455,896 494,895 533,896 572,898 612,898 651,898 690,896 729,895 769,897 808,898 847,898 886,898 926,898 965,898 1004,898 1043,896 1083,898"
+            },
+            "text": "with a polyclonal anti-human Notch-1.",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "283,853 283,913 359,913 359,853"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "385,857 385,917 400,917 400,857"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "421,855 421,915 635,915 635,855"
+                },
+                "text": "polyclonal"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "651,856 651,916 870,916 870,856"
+                },
+                "text": "anti-human"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "897,858 897,918 1075,918 1075,858"
+                },
+                "text": "Notch-1."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "1072,1183 1109,1181 1139,1151 1200,1173 1274,1149 1343,1163 1467,1149 1469,1070 1432,1080 1410,1057 1378,1082 1356,1070 1326,1085 1284,1057 1262,1080 1215,1082 1200,1067 1075,1090"
+            },
+            "baseline": {
+              "points": "1086,1134 1111,1134 1137,1134 1163,1134 1189,1134 1215,1134 1241,1134 1267,1134 1292,1134 1318,1133 1344,1132 1370,1131 1396,1131 1422,1131 1448,1132 1474,1137"
+            },
+            "text": "DISCUSSION",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "1077,1094 1077,1154 1438,1154 1438,1094"
+                },
+                "text": "DISCUSSION"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "424,1287 858,1277 974,1314 1331,1269 2048,1321 2209,1289 2167,1213 1970,1205 1575,1228 1250,1188 1203,1220 1114,1181 915,1228 680,1181 574,1232 486,1186 424,1225"
+            },
+            "baseline": {
+              "points": "438,1262 526,1259 615,1259 704,1260 792,1261 881,1259 970,1259 1058,1259 1147,1262 1236,1260 1325,1262 1413,1262 1502,1265 1591,1262 1679,1262 1768,1262 1857,1265 1945,1265 2034,1265 2123,1265 2212,1259"
+            },
+            "text": "Some processes crossing the boundary into the PVZ (see Fig. 1) suggest that there may",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "424,1220 424,1280 527,1280 527,1220"
+                },
+                "text": "Some"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "554,1219 554,1279 741,1279 741,1219"
+                },
+                "text": "processes"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "763,1219 763,1279 918,1279 918,1219"
+                },
+                "text": "crossing"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "946,1219 946,1279 997,1279 997,1219"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1024,1220 1024,1280 1201,1280 1201,1220"
+                },
+                "text": "boundary"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1227,1220 1227,1280 1289,1280 1289,1220"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1321,1222 1321,1282 1367,1282 1367,1222"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1394,1222 1394,1282 1472,1282 1472,1222"
+                },
+                "text": "PVZ"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1504,1223 1504,1283 1571,1283 1571,1223"
+                },
+                "text": "(see"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1597,1222 1597,1282 1680,1282 1680,1222"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1696,1222 1696,1282 1733,1282 1733,1222"
+                },
+                "text": "1)"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1749,1223 1749,1283 1899,1283 1899,1223"
+                },
+                "text": "suggest"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1915,1225 1915,1285 1988,1285 1988,1225"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "2005,1225 2005,1285 2098,1285 2098,1225"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "2119,1222 2119,1282 2196,1282 2196,1222"
+                },
+                "text": "may"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "281,1415 2169,1400 2169,1324 2007,1304 1721,1346 1361,1343 1299,1304 1213,1343 1033,1306 281,1334"
+            },
+            "baseline": {
+              "points": "295,1373 389,1376 483,1376 577,1376 671,1373 765,1376 859,1376 953,1376 1047,1376 1141,1376 1235,1379 1329,1379 1423,1379 1517,1379 1611,1379 1705,1379 1799,1379 1893,1379 1987,1379 2081,1379 2176,1382"
+            },
+            "text": "be tectal control over the fate of PVZ cells including division, migration, and differentiation.",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "282,1333 282,1393 320,1393 320,1333"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "343,1336 343,1396 448,1396 448,1336"
+                },
+                "text": "tectal"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "465,1336 465,1396 604,1396 604,1336"
+                },
+                "text": "control"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "621,1333 621,1393 704,1393 704,1333"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "721,1335 721,1395 776,1395 776,1335"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "799,1336 799,1396 859,1396 859,1336"
+                },
+                "text": "fate"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "888,1336 888,1396 926,1396 926,1336"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "944,1336 944,1396 1021,1396 1021,1336"
+                },
+                "text": "PVZ"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1049,1336 1049,1396 1132,1396 1132,1336"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1155,1339 1155,1399 1332,1399 1332,1339"
+                },
+                "text": "including"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1361,1339 1361,1399 1533,1399 1533,1339"
+                },
+                "text": "division,"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1550,1339 1550,1399 1755,1399 1755,1339"
+                },
+                "text": "migration,"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1772,1339 1772,1399 1833,1399 1833,1339"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1861,1339 1861,1399 2161,1399 2161,1339"
+                },
+                "text": "differentiation."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "283,1514 870,1538 929,1499 1198,1533 1267,1501 1558,1550 1693,1504 2236,1523 2201,1430 283,1444"
+            },
+            "baseline": {
+              "points": "298,1486 395,1489 492,1489 589,1490 686,1492 784,1492 881,1492 978,1492 1075,1492 1172,1492 1270,1492 1367,1492 1464,1492 1561,1493 1658,1494 1756,1492 1853,1493 1950,1495 2047,1495 2144,1495 2242,1495"
+            },
+            "text": "Conversely, the control may be in the way of PVZ cells sending processes into the tectum itself.",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "288,1449 288,1509 526,1509 526,1449"
+                },
+                "text": "Conversely,"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "543,1449 543,1509 590,1509 590,1449"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "617,1452 617,1512 760,1512 760,1452"
+                },
+                "text": "control"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "776,1452 776,1512 845,1512 845,1452"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "872,1452 872,1512 908,1512 908,1452"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "935,1452 935,1512 956,1512 956,1452"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "983,1452 983,1512 1036,1512 1036,1452"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1063,1452 1063,1512 1131,1512 1131,1452"
+                },
+                "text": "way"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1158,1452 1158,1512 1195,1512 1195,1452"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1211,1452 1211,1512 1290,1512 1290,1452"
+                },
+                "text": "PVZ"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1317,1452 1317,1512 1402,1512 1402,1452"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1423,1452 1423,1512 1571,1512 1571,1452"
+                },
+                "text": "sending"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1598,1453 1598,1513 1783,1513 1783,1453"
+                },
+                "text": "processes"
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "1805,1452 1805,1512 1868,1512 1868,1452"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_10_w15",
+                "coords": {
+                  "points": "1895,1454 1895,1514 1948,1514 1948,1454"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w16",
+                "coords": {
+                  "points": "1970,1455 1970,1515 2080,1515 2080,1455"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_10_w17",
+                "coords": {
+                  "points": "2124,1455 2124,1515 2234,1515 2234,1455"
+                },
+                "text": "itself."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "279,1652 476,1620 616,1659 690,1624 1114,1656 1558,1620 1676,1661 2248,1634 2248,1563 2061,1548 279,1555"
+            },
+            "baseline": {
+              "points": "292,1606 395,1606 498,1606 601,1606 704,1606 807,1606 910,1609 1013,1609 1116,1607 1219,1607 1323,1606 1426,1609 1529,1609 1632,1609 1735,1609 1838,1609 1941,1609 2044,1609 2147,1609 2251,1609"
+            },
+            "text": "Either way, there is likely signaling occurring between distant cells that organizes the movement",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "284,1566 284,1626 397,1626 397,1566"
+                },
+                "text": "Either"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "419,1566 419,1626 511,1626 511,1566"
+                },
+                "text": "way,"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "522,1566 522,1626 616,1626 616,1566"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "637,1566 637,1626 662,1626 662,1566"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "684,1566 684,1626 787,1626 787,1566"
+                },
+                "text": "likely"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "813,1568 813,1628 990,1628 990,1568"
+                },
+                "text": "signaling"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1016,1567 1016,1627 1197,1627 1197,1567"
+                },
+                "text": "occurring"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1223,1566 1223,1626 1374,1626 1374,1566"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1400,1569 1400,1629 1534,1629 1534,1569"
+                },
+                "text": "distant"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1551,1569 1551,1629 1634,1629 1634,1569"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1655,1569 1655,1629 1732,1629 1732,1569"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1748,1569 1748,1629 1935,1629 1935,1569"
+                },
+                "text": "organizes"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1956,1569 1956,1629 2007,1629 2007,1569"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "2029,1569 2029,1629 2241,1629 2241,1569"
+                },
+                "text": "movement"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "283,1748 525,1745 587,1787 954,1733 1109,1777 1245,1740 1316,1772 1782,1735 1925,1777 2211,1735 2211,1666 2157,1652 1873,1691 1765,1654 1600,1689 1504,1654 1400,1689 1324,1656 1203,1691 961,1652 843,1686 283,1669"
+            },
+            "baseline": {
+              "points": "298,1719 394,1719 490,1722 586,1720 682,1722 778,1722 874,1722 970,1722 1066,1722 1162,1722 1258,1722 1354,1722 1450,1724 1546,1725 1642,1725 1738,1725 1834,1725 1930,1725 2026,1725 2122,1725 2218,1722"
+            },
+            "text": "between layers. An injection of lipophilic dye into the tectal layers may determine the location",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "283,1679 283,1739 437,1739 437,1679"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "469,1681 469,1741 597,1741 597,1681"
+                },
+                "text": "layers."
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "624,1681 624,1741 670,1741 670,1681"
+                },
+                "text": "An"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "696,1682 696,1742 861,1742 861,1682"
+                },
+                "text": "injection"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "887,1682 887,1742 928,1742 928,1682"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "944,1682 944,1742 1124,1742 1124,1682"
+                },
+                "text": "lipophilic"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1151,1682 1151,1742 1212,1742 1212,1682"
+                },
+                "text": "dye"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1233,1682 1233,1742 1300,1742 1300,1682"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1326,1682 1326,1742 1377,1742 1377,1682"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1404,1684 1404,1744 1506,1744 1506,1684"
+                },
+                "text": "tectal"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1523,1685 1523,1745 1636,1745 1636,1685"
+                },
+                "text": "layers"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1657,1685 1657,1745 1728,1745 1728,1685"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1755,1685 1755,1745 1951,1745 1951,1685"
+                },
+                "text": "determine"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "1972,1685 1972,1745 2023,1745 2023,1685"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w15",
+                "coords": {
+                  "points": "2049,1684 2049,1744 2199,1744 2199,1684"
+                },
+                "text": "location"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "283,1856 537,1891 870,1841 1553,1893 2199,1861 2199,1782 2039,1772 1997,1804 283,1782"
+            },
+            "baseline": {
+              "points": "298,1836 393,1833 488,1836 584,1836 679,1836 775,1836 870,1836 965,1836 1061,1836 1156,1839 1252,1839 1347,1838 1442,1839 1538,1839 1633,1837 1729,1839 1824,1839 1919,1839 2015,1839 2110,1839 2206,1842"
+            },
+            "text": "of the cell bodies associated with these processes. An early study with horseradish peroxidase",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "283,1795 283,1855 317,1855 317,1795"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "338,1794 338,1854 383,1854 383,1794"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "409,1794 409,1854 479,1854 479,1794"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "495,1796 495,1856 616,1856 616,1796"
+                },
+                "text": "bodies"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "642,1796 642,1856 834,1856 834,1796"
+                },
+                "text": "associated"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "860,1796 860,1856 936,1856 936,1796"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "967,1796 967,1856 1057,1856 1057,1796"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1083,1799 1083,1859 1285,1859 1285,1799"
+                },
+                "text": "processes."
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1311,1798 1311,1858 1361,1858 1361,1798"
+                },
+                "text": "An"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1387,1798 1387,1858 1478,1858 1478,1798"
+                },
+                "text": "early"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1504,1798 1504,1858 1599,1858 1599,1798"
+                },
+                "text": "study"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1625,1797 1625,1857 1701,1857 1701,1797"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1732,1799 1732,1859 1954,1859 1954,1799"
+                },
+                "text": "horseradish"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "1980,1799 1980,1859 2187,1859 2187,1799"
+                },
+                "text": "peroxidase"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "291,1987 1139,1977 1277,2011 1521,1960 2132,1999 2191,1979 2191,1905 288,1898"
+            },
+            "baseline": {
+              "points": "304,1949 398,1949 493,1949 587,1951 682,1949 777,1949 871,1952 966,1951 1061,1952 1155,1952 1250,1952 1345,1952 1439,1952 1534,1952 1629,1952 1723,1953 1818,1952 1913,1955 2007,1955 2102,1955 2197,1955"
+            },
+            "text": "used a similar method to determine the location of processes afferent to the tectum from other",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "287,1909 287,1969 365,1969 365,1909"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "395,1909 395,1969 405,1969 405,1909"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "430,1909 430,1969 562,1969 562,1909"
+                },
+                "text": "similar"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "582,1909 582,1969 719,1969 719,1909"
+                },
+                "text": "method"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "744,1909 744,1969 768,1969 768,1909"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "798,1911 798,1971 990,1971 990,1911"
+                },
+                "text": "determine"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1010,1911 1010,1971 1064,1971 1064,1911"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1089,1912 1089,1972 1236,1972 1236,1912"
+                },
+                "text": "location"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1261,1912 1261,1972 1299,1972 1299,1912"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1315,1912 1315,1972 1501,1972 1501,1912"
+                },
+                "text": "processes"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1521,1912 1521,1972 1678,1972 1678,1912"
+                },
+                "text": "afferent"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1694,1912 1694,1972 1718,1972 1718,1912"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1743,1912 1743,1972 1796,1972 1796,1912"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w14",
+                "coords": {
+                  "points": "1822,1913 1822,1973 1929,1973 1929,1913"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_14_w15",
+                "coords": {
+                  "points": "1974,1915 1974,1975 2042,1975 2042,1915"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_14_w16",
+                "coords": {
+                  "points": "2082,1915 2082,1975 2180,1975 2180,1915"
+                },
+                "text": "other"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "283,2120 488,2085 592,2120 683,2080 907,2117 1021,2085 1001,2009 863,2011 833,2036 712,1994 634,2031 542,1992 426,2029 283,2031"
+            },
+            "baseline": {
+              "points": "298,2068 334,2066 370,2065 406,2065 443,2065 479,2065 515,2065 552,2065 588,2065 624,2065 661,2065 697,2065 733,2065 769,2065 806,2065 842,2065 878,2065 915,2065 951,2063 987,2063 1024,2068"
+            },
+            "text": "parts of the brain (Northcutt, 1984).",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "289,2026 289,2086 377,2086 377,2026"
+                },
+                "text": "parts"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "399,2025 399,2085 437,2085 437,2025"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "455,2025 455,2085 504,2085 504,2025"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "533,2025 533,2085 620,2085 620,2025"
+                },
+                "text": "brain"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "648,2025 648,2085 875,2085 875,2025"
+                },
+                "text": "(Northcutt,"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "892,2023 892,2083 1024,2083 1024,2023"
+                },
+                "text": "1984)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "439,2199 599,2248 818,2191 1001,2236 1447,2191 1607,2226 2255,2209 2255,2132 1977,2113 1691,2152 1526,2108 1484,2140 439,2140"
+            },
+            "baseline": {
+              "points": "453,2176 543,2179 633,2179 724,2179 814,2179 905,2182 995,2182 1086,2182 1176,2182 1267,2182 1357,2182 1447,2182 1538,2182 1628,2182 1719,2182 1809,2182 1900,2182 1990,2182 2081,2183 2171,2185 2262,2185"
+            },
+            "text": "GFP lipofection was successful in demonstrating cell division subsequent to dissection in",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "445,2136 445,2196 520,2196 520,2136"
+                },
+                "text": "GFP"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "547,2139 547,2199 753,2199 753,2139"
+                },
+                "text": "lipofection"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "780,2139 780,2199 850,2199 850,2139"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "872,2142 872,2202 1078,2202 1078,2142"
+                },
+                "text": "successful"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "1095,2142 1095,2202 1115,2202 1115,2142"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1143,2142 1143,2202 1419,2202 1419,2142"
+                },
+                "text": "demonstrating"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1446,2142 1446,2202 1516,2202 1516,2142"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1533,2142 1533,2202 1679,2202 1679,2142"
+                },
+                "text": "division"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1707,2142 1707,2202 1933,2202 1933,2142"
+                },
+                "text": "subsequent"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1944,2142 1944,2202 1971,2202 1971,2142"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1999,2143 1999,2203 2187,2203 2187,2143"
+                },
+                "text": "dissection"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "2215,2145 2215,2205 2242,2205 2242,2145"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "283,2347 407,2310 535,2374 616,2322 1213,2315 1294,2357 1639,2307 1735,2347 2218,2307 2218,2241 2014,2223 1965,2260 1873,2231 1659,2265 283,2233"
+            },
+            "baseline": {
+              "points": "298,2292 394,2295 490,2295 586,2295 683,2295 779,2294 875,2298 972,2298 1068,2296 1164,2298 1261,2298 1357,2298 1453,2296 1549,2298 1646,2298 1742,2298 1838,2298 1935,2298 2031,2298 2127,2298 2224,2298"
+            },
+            "text": "the PVZ and tectum (see Fig. 2 and 3). Given the slicing technique used (one slice dividing the",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "289,2252 289,2312 338,2312 338,2252"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "361,2255 361,2315 438,2315 438,2255"
+                },
+                "text": "PVZ"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "467,2255 467,2315 527,2315 527,2255"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "550,2255 550,2315 660,2315 660,2255"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "705,2254 705,2314 772,2314 772,2254"
+                },
+                "text": "(see"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "800,2256 800,2316 877,2316 877,2256"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "889,2258 889,2318 905,2318 905,2258"
+                },
+                "text": "2"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "933,2258 933,2318 988,2318 988,2258"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1016,2256 1016,2316 1066,2316 1066,2256"
+                },
+                "text": "3)."
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1094,2257 1094,2317 1204,2317 1204,2257"
+                },
+                "text": "Given"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1233,2258 1233,2318 1283,2318 1283,2258"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1305,2257 1305,2317 1427,2317 1427,2257"
+                },
+                "text": "slicing"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1455,2257 1455,2317 1638,2317 1638,2257"
+                },
+                "text": "technique"
+              },
+              {
+                "id": "tr_1_tl_17_w14",
+                "coords": {
+                  "points": "1666,2258 1666,2318 1744,2318 1744,2258"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_17_w15",
+                "coords": {
+                  "points": "1772,2258 1772,2318 1849,2318 1849,2258"
+                },
+                "text": "(one"
+              },
+              {
+                "id": "tr_1_tl_17_w16",
+                "coords": {
+                  "points": "1872,2258 1872,2318 1954,2318 1954,2258"
+                },
+                "text": "slice"
+              },
+              {
+                "id": "tr_1_tl_17_w17",
+                "coords": {
+                  "points": "1977,2258 1977,2318 2137,2318 2137,2258"
+                },
+                "text": "dividing"
+              },
+              {
+                "id": "tr_1_tl_17_w18",
+                "coords": {
+                  "points": "2160,2258 2160,2318 2209,2318 2209,2258"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "283,2438 749,2475 917,2418 1405,2475 1765,2418 2024,2475 2098,2438 2233,2458 2233,2361 2108,2344 1777,2379 1314,2342 283,2361"
+            },
+            "baseline": {
+              "points": "298,2412 395,2412 492,2411 589,2412 686,2412 783,2412 880,2412 977,2412 1074,2413 1171,2412 1268,2412 1365,2413 1462,2415 1559,2412 1656,2415 1753,2414 1850,2415 1947,2415 2044,2415 2141,2415 2239,2415"
+            },
+            "text": "brain into anterior and posterior sections), the assignment of post-mitotic cells into only striated",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "287,2372 287,2432 375,2432 375,2372"
+                },
+                "text": "brain"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "405,2371 405,2431 469,2431 469,2371"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "494,2371 494,2431 646,2431 646,2371"
+                },
+                "text": "anterior"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "667,2372 667,2432 725,2432 725,2372"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "750,2372 750,2432 922,2432 922,2372"
+                },
+                "text": "posterior"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "942,2372 942,2432 1134,2432 1134,2372"
+                },
+                "text": "sections),"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1149,2372 1149,2432 1198,2432 1198,2372"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1223,2372 1223,2432 1443,2432 1443,2372"
+                },
+                "text": "assignment"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1464,2374 1464,2434 1498,2434 1498,2374"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1518,2374 1518,2434 1749,2434 1749,2374"
+                },
+                "text": "post-mitotic"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1774,2374 1774,2434 1863,2434 1863,2374"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1883,2375 1883,2435 1946,2435 1946,2375"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1976,2375 1976,2435 2054,2435 2054,2375"
+                },
+                "text": "only"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "2080,2375 2080,2435 2212,2435 2212,2375"
+                },
+                "text": "striated"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "281,2566 2029,2554 2029,2490 1839,2460 1758,2495 1346,2463 947,2497 703,2458 281,2487"
+            },
+            "baseline": {
+              "points": "295,2525 381,2525 468,2525 555,2525 642,2525 729,2525 816,2528 903,2528 990,2528 1077,2528 1164,2528 1250,2528 1337,2528 1424,2528 1511,2531 1598,2528 1685,2528 1772,2528 1859,2528 1946,2528 2033,2528"
+            },
+            "text": "tectum or only PVZ was challenging as discrimination of adjacent tissue layers under",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "281,2485 281,2545 392,2545 392,2485"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "433,2485 433,2545 468,2545 468,2485"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "489,2485 489,2545 564,2545 564,2485"
+                },
+                "text": "only"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "590,2485 590,2545 666,2545 666,2485"
+                },
+                "text": "PVZ"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "702,2485 702,2545 768,2545 768,2485"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "794,2488 794,2548 1016,2548 1016,2488"
+                },
+                "text": "challenging"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1042,2488 1042,2548 1077,2548 1077,2488"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1098,2488 1098,2548 1377,2548 1377,2488"
+                },
+                "text": "discrimination"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1403,2488 1403,2548 1443,2548 1443,2488"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1464,2489 1464,2549 1626,2549 1626,2489"
+                },
+                "text": "adjacent"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1642,2488 1642,2548 1748,2548 1748,2488"
+                },
+                "text": "tissue"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1774,2488 1774,2548 1885,2548 1885,2488"
+                },
+                "text": "layers"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1911,2488 1911,2548 2017,2548 2017,2488"
+                },
+                "text": "under"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "281,2675 1006,2655 1255,2689 1314,2652 1780,2699 1898,2655 2214,2660 2214,2593 2152,2586 1294,2610 956,2576 919,2608 737,2554 555,2610 281,2586"
+            },
+            "baseline": {
+              "points": "295,2642 391,2642 487,2642 583,2642 679,2642 775,2642 871,2642 968,2642 1064,2644 1160,2642 1256,2643 1352,2643 1448,2642 1544,2645 1641,2645 1737,2645 1833,2645 1929,2645 2025,2645 2121,2645 2218,2645"
+            },
+            "text": "fluorescence is difficult in deep tissue. However, the use of relatively large tissue sections had",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "286,2602 286,2662 523,2662 523,2602"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "549,2602 549,2662 574,2662 574,2602"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "595,2602 595,2662 757,2662 757,2602"
+                },
+                "text": "difficult"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "772,2602 772,2662 797,2662 797,2602"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "823,2602 823,2662 904,2662 904,2602"
+                },
+                "text": "deep"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "935,2602 935,2662 1061,2662 1061,2602"
+                },
+                "text": "tissue."
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1087,2602 1087,2662 1284,2662 1284,2602"
+                },
+                "text": "However,"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1300,2603 1300,2663 1350,2663 1350,2603"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1376,2602 1376,2662 1431,2662 1431,2602"
+                },
+                "text": "use"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1457,2602 1457,2662 1492,2662 1492,2602"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1508,2605 1508,2665 1690,2665 1690,2605"
+                },
+                "text": "relatively"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1716,2605 1716,2665 1807,2665 1807,2605"
+                },
+                "text": "large"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1827,2605 1827,2665 1933,2665 1933,2605"
+                },
+                "text": "tissue"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "1959,2605 1959,2665 2116,2665 2116,2605"
+                },
+                "text": "sections"
+              },
+              {
+                "id": "tr_1_tl_20_w15",
+                "coords": {
+                  "points": "2137,2605 2137,2665 2197,2665 2197,2605"
+                },
+                "text": "had"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "288,2805 683,2773 880,2817 1080,2766 1279,2822 1652,2773 1982,2815 2209,2778 2209,2719 2083,2689 860,2724 638,2684 525,2726 454,2684 288,2721"
+            },
+            "baseline": {
+              "points": "301,2758 396,2758 492,2758 587,2758 683,2758 778,2758 874,2758 969,2758 1065,2758 1160,2758 1256,2758 1352,2760 1447,2758 1543,2760 1638,2758 1734,2758 1829,2758 1925,2758 2020,2759 2116,2759 2212,2758"
+            },
+            "text": "merit in that it left large areas of tissue far from the blade path and relatively undisturbed. The",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "288,2718 288,2778 393,2778 393,2718"
+                },
+                "text": "merit"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "408,2718 408,2778 433,2778 433,2718"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "459,2718 459,2778 534,2778 534,2718"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "550,2718 550,2778 574,2778 574,2718"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "590,2718 590,2778 655,2778 655,2718"
+                },
+                "text": "left"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "670,2718 670,2778 761,2778 761,2718"
+                },
+                "text": "large"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "786,2718 786,2778 876,2778 876,2718"
+                },
+                "text": "areas"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "902,2718 902,2778 937,2778 937,2718"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "953,2718 953,2778 1058,2778 1058,2718"
+                },
+                "text": "tissue"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1084,2718 1084,2778 1133,2778 1133,2718"
+                },
+                "text": "far"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1149,2718 1149,2778 1219,2778 1219,2718"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1261,2718 1261,2778 1310,2778 1310,2718"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "1336,2719 1336,2779 1431,2779 1431,2719"
+                },
+                "text": "blade"
+              },
+              {
+                "id": "tr_1_tl_21_w14",
+                "coords": {
+                  "points": "1457,2718 1457,2778 1532,2778 1532,2718"
+                },
+                "text": "path"
+              },
+              {
+                "id": "tr_1_tl_21_w15",
+                "coords": {
+                  "points": "1558,2719 1558,2779 1618,2779 1618,2719"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_21_w16",
+                "coords": {
+                  "points": "1644,2718 1644,2778 1824,2778 1824,2718"
+                },
+                "text": "relatively"
+              },
+              {
+                "id": "tr_1_tl_21_w17",
+                "coords": {
+                  "points": "1850,2718 1850,2778 2101,2778 2101,2718"
+                },
+                "text": "undisturbed."
+              },
+              {
+                "id": "tr_1_tl_21_w18",
+                "coords": {
+                  "points": "2127,2718 2127,2778 2192,2778 2192,2718"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "288,2906 703,2951 974,2882 1639,2931 1965,2891 2147,2941 2238,2904 2238,2822 2039,2815 288,2837"
+            },
+            "baseline": {
+              "points": "301,2878 398,2875 495,2875 592,2875 689,2875 787,2875 884,2875 981,2875 1078,2875 1175,2875 1273,2875 1370,2875 1467,2875 1564,2875 1661,2878 1759,2875 1856,2875 1953,2875 2050,2875 2147,2876 2245,2875"
+            },
+            "text": "presence of dividing cells in tissue away from the traumatized edge (see Fig 2c and 2d) suggests",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "288,2835 288,2895 452,2895 452,2835"
+                },
+                "text": "presence"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "479,2835 479,2895 514,2895 514,2835"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "535,2835 535,2895 690,2895 690,2835"
+                },
+                "text": "dividing"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "717,2835 717,2895 799,2895 799,2835"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "820,2835 820,2895 846,2895 846,2835"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "872,2835 872,2895 975,2895 975,2835"
+                },
+                "text": "tissue"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1001,2835 1001,2895 1093,2895 1093,2835"
+                },
+                "text": "away"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1120,2835 1120,2895 1192,2895 1192,2835"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1229,2835 1229,2895 1280,2895 1280,2835"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1306,2835 1306,2895 1528,2895 1528,2835"
+                },
+                "text": "traumatized"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1554,2836 1554,2896 1641,2896 1641,2836"
+                },
+                "text": "edge"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1663,2836 1663,2896 1735,2896 1735,2836"
+                },
+                "text": "(see"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "1756,2835 1756,2895 1812,2895 1812,2835"
+                },
+                "text": "Fig"
+              },
+              {
+                "id": "tr_1_tl_22_w14",
+                "coords": {
+                  "points": "1839,2835 1839,2895 1874,2895 1874,2835"
+                },
+                "text": "2c"
+              },
+              {
+                "id": "tr_1_tl_22_w15",
+                "coords": {
+                  "points": "1901,2835 1901,2895 1962,2895 1962,2835"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_22_w16",
+                "coords": {
+                  "points": "1989,2835 1989,2895 2050,2895 2050,2835"
+                },
+                "text": "2d)"
+              },
+              {
+                "id": "tr_1_tl_22_w17",
+                "coords": {
+                  "points": "2066,2835 2066,2895 2231,2895 2231,2835"
+                },
+                "text": "suggests"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

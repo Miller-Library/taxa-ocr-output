@@ -1,0 +1,2268 @@
+{
+  "processId": 10215262,
+  "status": "FINISHED",
+  "content": {
+    "text": "Introduction\nAtrazine is a s-triazine herbicide that has been used for over 40 years to kill broad\nleaf and grassy weeds by inhibition of photosynthesis [fig 1). It is used in over 80\ncountries (Hayes et al., 2002), and in the U.S. alone accounts for 86% of herbicides. The\nU.S., primarily the Midwest, uses 76.4 million pounds per year. Atrazine is applied to\n76% of the corn grown in the U.S. as well as to sorghum, sugarcane, wheat, guava,\nmacadamia nuts, hay, summer fallow, forestry, Christmas trees, sod, and residential turf\n(parks, golf courses, private lawns).\nGiven the large amount of atrazine in the environment, toxicological studies on\natrazine are very important. The LD5O in rats is 1.75 ppm (Islam, 2001). However, there\nhave been reported effects at concentrations which are approximately 1000 times lower.\nAtrazine has been reported by the EPA to cause neuroendocrine effects in rats at\nconcentrations of 18 ppb. The most recent and perhaps most striking study found that\nconcentrations of atrazine down to 0.1 ppb induced hermaphroditism and demasculation\nof the larynges of male African clawed frogs, Xenopus laevis (Hayes et al., 2002). At\nconcentrations as low as 25 ppb, there was a tenfold decrease in testosterone in these\nfrogs. It was proposed that atrazine decreased testosterone production and increased\nestrogen production.\nThese toxicological studies have been limited and targeted specific systems such\nas the endocrine system. This study investigates the toxicity of atrazine on a more general\ncellular mechanism. This mechanism is the multixenobiotic resistance (MXR)\nmechanism and is one of two ways in which cells deal with toxicants. In the first\nmechanism the toxicant enters the cell and is broken down or converted to other",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "394,341 394,2992 2257,2992 2257,341"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "414,419 446,432 476,416 575,432 697,409 780,428 782,329 658,329 616,354 584,338 416,343"
+            },
+            "baseline": {
+              "points": "429,403 454,401 479,399 505,398 530,397 556,397 581,397 607,397 632,397 657,397 683,397 708,397 734,397 759,397 785,397"
+            },
+            "text": "Introduction",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "423,357 423,417 751,417 751,357"
+                },
+                "text": "Introduction"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "561,534 1090,573 1217,531 1304,589 1440,534 1642,570 2252,554 2252,448 1757,476 1667,421 1529,481 1037,432 561,476"
+            },
+            "baseline": {
+              "points": "573,516 657,516 741,515 825,514 909,513 994,513 1078,513 1162,513 1246,513 1330,513 1415,513 1499,512 1583,512 1667,513 1751,513 1836,513 1920,513 2004,513 2088,513 2172,513 2257,516"
+            },
+            "text": "Atrazine is a s-triazine herbicide that has been used for over 40 years to kill broad",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "561,476 561,536 722,536 722,476"
+                },
+                "text": "Atrazine"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "748,474 748,534 773,534 773,474"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "794,474 794,534 803,534 803,474"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "829,473 829,533 1011,533 1011,473"
+                },
+                "text": "s-triazine"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1037,473 1037,533 1215,533 1215,473"
+                },
+                "text": "herbicide"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1241,473 1241,533 1311,533 1311,473"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1327,473 1327,533 1387,533 1387,473"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1414,472 1414,532 1494,532 1494,472"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1520,472 1520,532 1600,532 1600,472"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1631,472 1631,532 1681,532 1681,472"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1703,473 1703,533 1788,533 1788,473"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1804,473 1804,533 1844,533 1844,473"
+                },
+                "text": "40"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "1870,473 1870,533 1971,533 1971,473"
+                },
+                "text": "years"
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "1992,473 1992,533 2017,533 2017,473"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_2_w15",
+                "coords": {
+                  "points": "2048,473 2048,533 2113,533 2113,473"
+                },
+                "text": "kill"
+              },
+              {
+                "id": "tr_1_tl_2_w16",
+                "coords": {
+                  "points": "2129,473 2129,533 2230,533 2230,473"
+                },
+                "text": "broad"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "405,706 754,642 918,688 984,646 1143,685 1201,646 1467,646 1575,699 1658,646 2093,656 2072,573 405,577"
+            },
+            "baseline": {
+              "points": "417,632 501,632 585,632 669,632 753,629 837,629 921,629 1005,629 1089,631 1173,629 1257,629 1341,629 1425,629 1509,629 1593,629 1677,629 1761,629 1845,629 1929,629 2013,629 2098,623"
+            },
+            "text": "leaf and grassy weeds by inhibition of photosynthesis [fig 1). It is used in over 80",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "417,592 417,652 490,652 490,592"
+                },
+                "text": "leaf"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "508,592 508,652 564,652 564,592"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "593,592 593,652 705,652 705,592"
+                },
+                "text": "grassy"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "734,589 734,649 853,649 853,589"
+                },
+                "text": "weeds"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "877,589 877,649 916,649 916,589"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "939,589 939,649 1131,649 1131,589"
+                },
+                "text": "inhibition"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1154,589 1154,649 1193,649 1193,589"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1211,589 1211,649 1506,649 1506,589"
+                },
+                "text": "photosynthesis"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1529,589 1529,649 1585,649 1585,589"
+                },
+                "text": "[fig"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1620,589 1620,649 1670,649 1670,589"
+                },
+                "text": "1)."
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1683,589 1683,649 1710,649 1710,589"
+                },
+                "text": "It"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1728,589 1728,649 1750,649 1750,589"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1773,589 1773,649 1857,649 1857,589"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "1881,589 1881,649 1908,649 1908,589"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_3_w15",
+                "coords": {
+                  "points": "1932,589 1932,649 2016,649 2016,589"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_3_w16",
+                "coords": {
+                  "points": "2039,585 2039,645 2078,645 2078,585"
+                },
+                "text": "80"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "407,775 1000,796 1224,757 1378,814 1477,764 2226,764 2226,699 1962,676 407,706"
+            },
+            "baseline": {
+              "points": "420,749 510,749 601,749 691,749 782,746 873,749 963,749 1054,749 1145,746 1235,746 1326,746 1417,746 1507,746 1598,746 1689,746 1779,746 1870,746 1961,746 2051,746 2142,746 2233,749"
+            },
+            "text": "countries (Hayes et al., 2002), and in the U.S. alone accounts for 86% of herbicides. The",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "407,709 407,769 586,769 586,709"
+                },
+                "text": "countries"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "608,709 608,769 745,769 745,709"
+                },
+                "text": "(Hayes"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "767,706 767,766 799,766 799,706"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "815,708 815,768 883,768 883,708"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "900,709 900,769 1031,769 1031,709"
+                },
+                "text": "2002),"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1048,708 1048,768 1105,768 1105,708"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1133,706 1133,766 1159,766 1159,706"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1186,706 1186,766 1233,766 1233,706"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1260,706 1260,766 1344,766 1344,706"
+                },
+                "text": "U.S."
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1361,706 1361,766 1460,766 1460,706"
+                },
+                "text": "alone"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1482,706 1482,766 1657,766 1657,706"
+                },
+                "text": "accounts"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1679,706 1679,766 1731,766 1731,706"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1753,706 1753,766 1810,766 1810,706"
+                },
+                "text": "86%"
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "1859,706 1859,766 1896,766 1896,706"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w15",
+                "coords": {
+                  "points": "1912,706 1912,766 2134,766 2134,706"
+                },
+                "text": "herbicides."
+              },
+              {
+                "id": "tr_1_tl_4_w16",
+                "coords": {
+                  "points": "2150,707 2150,767 2218,767 2218,707"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "407,892 524,931 736,881 968,913 1313,885 1389,929 2176,890 2176,796 407,816"
+            },
+            "baseline": {
+              "points": "420,862 512,862 605,862 697,862 790,860 882,862 975,862 1068,862 1160,862 1253,862 1345,860 1438,861 1530,862 1623,862 1716,862 1808,862 1901,862 1993,862 2086,862 2179,862"
+            },
+            "text": "U.S., primarily the Midwest, uses 76.4 million pounds per year. Atrazine is applied to",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "412,822 412,882 507,882 507,822"
+                },
+                "text": "U.S.,"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "523,822 523,882 702,882 702,822"
+                },
+                "text": "primarily"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "729,820 729,880 776,880 776,820"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "803,822 803,882 994,882 994,822"
+                },
+                "text": "Midwest,"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "1016,822 1016,882 1089,882 1089,822"
+                },
+                "text": "uses"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1116,822 1116,882 1189,882 1189,822"
+                },
+                "text": "76.4"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1216,821 1216,881 1348,881 1348,821"
+                },
+                "text": "million"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1376,821 1376,881 1512,881 1512,821"
+                },
+                "text": "pounds"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1534,822 1534,882 1592,882 1592,822"
+                },
+                "text": "per"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1613,822 1613,882 1713,882 1713,822"
+                },
+                "text": "year."
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1730,822 1730,882 1893,882 1893,822"
+                },
+                "text": "Atrazine"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1915,822 1915,882 1941,882 1941,822"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1963,822 1963,882 2100,882 2100,822"
+                },
+                "text": "applied"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "2127,822 2127,882 2152,882 2152,822"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "405,984 672,1021 876,987 2111,1012 2111,948 2017,915 1713,945 1283,913 1224,948 405,913"
+            },
+            "baseline": {
+              "points": "417,976 506,976 595,976 685,979 774,979 864,979 953,979 1042,976 1132,979 1221,976 1311,976 1400,976 1490,979 1579,979 1668,979 1758,979 1847,979 1937,982 2026,979 2116,982"
+            },
+            "text": "76% of the corn grown in the U.S. as well as to sorghum, sugarcane, wheat, guava,",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "405,936 405,996 468,996 468,936"
+                },
+                "text": "76%"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "512,936 512,996 548,996 548,936"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "565,936 565,996 612,996 612,936"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "640,938 640,998 713,998 713,938"
+                },
+                "text": "corn"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "741,939 741,999 863,999 863,939"
+                },
+                "text": "grown"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "890,939 890,999 916,999 916,939"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "943,938 943,998 996,998 996,938"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1023,936 1023,996 1108,996 1108,936"
+                },
+                "text": "U.S."
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1124,938 1124,998 1156,998 1156,938"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1178,936 1178,996 1262,996 1262,936"
+                },
+                "text": "well"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1279,936 1279,996 1310,996 1310,936"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1332,936 1332,996 1358,996 1358,936"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1385,938 1385,998 1576,998 1576,938"
+                },
+                "text": "sorghum,"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1593,939 1593,999 1811,999 1811,939"
+                },
+                "text": "sugarcane,"
+              },
+              {
+                "id": "tr_1_tl_6_w15",
+                "coords": {
+                  "points": "1828,940 1828,1000 1960,1000 1960,940"
+                },
+                "text": "wheat,"
+              },
+              {
+                "id": "tr_1_tl_6_w16",
+                "coords": {
+                  "points": "1977,939 1977,999 2109,999 2109,939"
+                },
+                "text": "guava,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "400,1102 520,1145 738,1111 798,1155 1000,1120 1081,1162 1189,1111 1398,1145 1845,1116 1955,1164 2215,1113 2215,1044 2052,1030 1953,1060 1748,1023 1693,1065 568,1030 400,1067"
+            },
+            "baseline": {
+              "points": "412,1095 502,1095 592,1095 682,1095 773,1095 863,1095 953,1095 1044,1095 1134,1095 1224,1095 1315,1095 1405,1095 1495,1095 1585,1095 1676,1095 1766,1095 1856,1095 1947,1095 2037,1095 2127,1095 2218,1095"
+            },
+            "text": "macadamia nuts, hay, summer fallow, forestry, Christmas trees, sod, and residential turf",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "400,1055 400,1115 617,1115 617,1055"
+                },
+                "text": "macadamia"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "643,1055 643,1115 738,1115 738,1055"
+                },
+                "text": "nuts,"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "754,1055 754,1115 839,1115 839,1055"
+                },
+                "text": "hay,"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "856,1055 856,1115 1017,1115 1017,1055"
+                },
+                "text": "summer"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1038,1055 1038,1115 1179,1115 1179,1055"
+                },
+                "text": "fallow,"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1195,1055 1195,1115 1362,1115 1362,1055"
+                },
+                "text": "forestry,"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1378,1055 1378,1115 1575,1115 1575,1055"
+                },
+                "text": "Christmas"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1596,1055 1596,1115 1706,1115 1706,1055"
+                },
+                "text": "trees,"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1722,1055 1722,1115 1803,1115 1803,1055"
+                },
+                "text": "sod,"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1819,1055 1819,1115 1879,1115 1879,1055"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1905,1055 1905,1115 2117,1115 2117,1055"
+                },
+                "text": "residential"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "2133,1055 2133,1115 2203,1115 2203,1055"
+                },
+                "text": "turf"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "407,1260 720,1221 938,1251 989,1217 1152,1254 1155,1162 745,1145 702,1178 409,1166"
+            },
+            "baseline": {
+              "points": "420,1218 456,1214 493,1212 530,1212 567,1215 603,1213 640,1212 677,1212 714,1212 750,1212 787,1212 824,1212 861,1212 897,1212 934,1212 971,1212 1008,1212 1044,1210 1081,1210 1118,1213 1155,1215"
+            },
+            "text": "(parks, golf courses, private lawns).",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "412,1172 412,1232 548,1232 548,1172"
+                },
+                "text": "(parks,"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "565,1172 565,1232 643,1232 643,1172"
+                },
+                "text": "golf"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "659,1172 659,1232 827,1232 827,1172"
+                },
+                "text": "courses,"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "844,1172 844,1232 979,1232 979,1172"
+                },
+                "text": "private"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1006,1170 1006,1230 1153,1230 1153,1170"
+                },
+                "text": "lawns)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "557,1359 2192,1368 2178,1267 557,1274"
+            },
+            "baseline": {
+              "points": "570,1328 651,1325 732,1325 814,1328 895,1328 976,1328 1058,1328 1139,1328 1220,1328 1302,1325 1383,1325 1464,1325 1546,1325 1627,1325 1708,1326 1790,1328 1871,1328 1952,1328 2034,1327 2115,1328 2197,1328"
+            },
+            "text": "Given the large amount of atrazine in the environment, toxicological studies on",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "561,1286 561,1346 669,1346 669,1286"
+                },
+                "text": "Given"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "694,1285 694,1345 742,1345 742,1285"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "772,1288 772,1348 860,1348 860,1288"
+                },
+                "text": "large"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "885,1288 885,1348 1037,1348 1037,1288"
+                },
+                "text": "amount"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "1057,1288 1057,1348 1091,1348 1091,1288"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1111,1288 1111,1348 1257,1348 1257,1288"
+                },
+                "text": "atrazine"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1283,1285 1283,1345 1307,1345 1307,1285"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1332,1285 1332,1345 1386,1345 1386,1285"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1411,1285 1411,1345 1680,1345 1680,1285"
+                },
+                "text": "environment,"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1695,1288 1695,1348 1960,1348 1960,1288"
+                },
+                "text": "toxicological"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1975,1287 1975,1347 2107,1347 2107,1287"
+                },
+                "text": "studies"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "2132,1288 2132,1348 2166,1348 2166,1288"
+                },
+                "text": "on"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "393,1465 681,1502 793,1458 938,1509 1056,1458 1212,1497 1283,1451 1587,1451 1750,1506 1810,1463 2215,1451 2215,1405 2155,1392 1828,1378 393,1401"
+            },
+            "baseline": {
+              "points": "406,1444 496,1444 587,1442 678,1442 769,1443 859,1444 950,1444 1041,1444 1132,1444 1222,1442 1313,1442 1404,1442 1495,1444 1585,1444 1676,1442 1767,1444 1858,1444 1948,1444 2039,1442 2130,1444 2221,1442"
+            },
+            "text": "atrazine are very important. The LD5O in rats is 1.75 ppm (Islam, 2001). However, there",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "399,1404 399,1464 545,1464 545,1404"
+                },
+                "text": "atrazine"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "573,1402 573,1462 621,1462 621,1402"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "643,1402 643,1462 724,1462 724,1402"
+                },
+                "text": "very"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "746,1403 746,1463 963,1463 963,1403"
+                },
+                "text": "important."
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "980,1404 980,1464 1044,1464 1044,1404"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1072,1404 1072,1464 1180,1464 1180,1404"
+                },
+                "text": "LD5O"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1202,1402 1202,1462 1229,1462 1229,1402"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1257,1402 1257,1462 1316,1462 1316,1402"
+                },
+                "text": "rats"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1339,1402 1339,1462 1365,1462 1365,1402"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1388,1402 1388,1462 1463,1462 1463,1402"
+                },
+                "text": "1.75"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1491,1404 1491,1464 1555,1464 1555,1404"
+                },
+                "text": "ppm"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1594,1402 1594,1462 1734,1462 1734,1402"
+                },
+                "text": "(Islam,"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1751,1404 1751,1464 1887,1464 1887,1404"
+                },
+                "text": "2001)."
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "1898,1402 1898,1462 2098,1462 2098,1402"
+                },
+                "text": "However,"
+              },
+              {
+                "id": "tr_1_tl_10_w15",
+                "coords": {
+                  "points": "2115,1403 2115,1463 2201,1463 2201,1403"
+                },
+                "text": "there"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "393,1601 568,1569 724,1615 957,1571 1129,1628 1373,1585 1493,1624 1665,1571 1757,1626 1856,1575 2201,1605 2201,1513 2114,1500 393,1509"
+            },
+            "baseline": {
+              "points": "406,1558 496,1561 586,1561 676,1561 766,1561 856,1561 946,1561 1036,1561 1126,1561 1216,1561 1306,1561 1396,1561 1486,1561 1576,1561 1666,1561 1756,1561 1846,1561 1936,1561 2026,1561 2116,1561 2206,1564"
+            },
+            "text": "have been reported effects at concentrations which are approximately 1000 times lower.",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "398,1519 398,1579 483,1579 483,1519"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "504,1521 504,1581 584,1581 584,1521"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "615,1521 615,1581 772,1581 772,1521"
+                },
+                "text": "reported"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "797,1521 797,1581 928,1581 928,1521"
+                },
+                "text": "effects"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "949,1521 949,1581 984,1581 984,1521"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1000,1521 1000,1581 1288,1581 1288,1521"
+                },
+                "text": "concentrations"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1314,1521 1314,1581 1420,1581 1420,1521"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1451,1521 1451,1581 1501,1581 1501,1521"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1526,1521 1526,1581 1809,1581 1809,1521"
+                },
+                "text": "approximately"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1840,1521 1840,1581 1926,1581 1926,1521"
+                },
+                "text": "1000"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1952,1521 1952,1581 2053,1581 2053,1521"
+                },
+                "text": "times"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "2078,1521 2078,1581 2204,1581 2204,1521"
+                },
+                "text": "lower."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "396,1727 695,1700 800,1736 860,1700 902,1732 1136,1686 1242,1732 1431,1693 1518,1739 1651,1693 1739,1732 2061,1718 2061,1624 2017,1617 396,1644"
+            },
+            "baseline": {
+              "points": "409,1680 491,1677 574,1677 657,1677 740,1677 823,1677 905,1677 988,1677 1071,1677 1154,1677 1237,1677 1319,1677 1402,1677 1485,1677 1568,1677 1651,1677 1733,1677 1816,1677 1899,1677 1982,1677 2065,1677"
+            },
+            "text": "Atrazine has been reported by the EPA to cause neuroendocrine effects in rats at",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "395,1637 395,1697 558,1697 558,1637"
+                },
+                "text": "Atrazine"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "584,1637 584,1697 642,1697 642,1637"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "663,1637 663,1697 746,1697 746,1637"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "772,1637 772,1697 934,1697 934,1637"
+                },
+                "text": "reported"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "960,1637 960,1697 999,1697 999,1637"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1030,1637 1030,1697 1079,1697 1079,1637"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1104,1637 1104,1697 1178,1697 1178,1637"
+                },
+                "text": "EPA"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1213,1637 1213,1697 1237,1697 1237,1637"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1267,1637 1267,1697 1366,1697 1366,1637"
+                },
+                "text": "cause"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1391,1637 1391,1697 1703,1697 1703,1637"
+                },
+                "text": "neuroendocrine"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1728,1637 1728,1697 1851,1697 1851,1637"
+                },
+                "text": "effects"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1877,1637 1877,1697 1901,1697 1901,1637"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1931,1637 1931,1697 1995,1697 1995,1637"
+                },
+                "text": "rats"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "2015,1637 2015,1697 2049,1697 2049,1637"
+                },
+                "text": "at"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "393,1824 1014,1812 1132,1851 1208,1803 1313,1833 1431,1801 1681,1845 1734,1805 1939,1845 2157,1803 2157,1723 393,1757"
+            },
+            "baseline": {
+              "points": "406,1791 493,1794 581,1794 669,1794 757,1794 845,1794 933,1794 1021,1794 1109,1794 1197,1794 1285,1794 1372,1794 1460,1794 1548,1794 1636,1794 1724,1794 1812,1794 1900,1794 1988,1791 2076,1794 2164,1794"
+            },
+            "text": "concentrations of 18 ppb. The most recent and perhaps most striking study found that",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "398,1754 398,1814 687,1814 687,1754"
+                },
+                "text": "concentrations"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "709,1754 709,1814 744,1814 744,1754"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "766,1754 766,1814 801,1814 801,1754"
+                },
+                "text": "18"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "829,1754 829,1814 916,1814 916,1754"
+                },
+                "text": "ppb."
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "932,1754 932,1814 1004,1814 1004,1754"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1025,1754 1025,1814 1123,1814 1123,1754"
+                },
+                "text": "most"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1139,1754 1139,1814 1258,1814 1258,1754"
+                },
+                "text": "recent"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1280,1754 1280,1814 1336,1814 1336,1754"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1363,1754 1363,1814 1512,1814 1512,1754"
+                },
+                "text": "perhaps"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1533,1754 1533,1814 1631,1814 1631,1754"
+                },
+                "text": "most"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1647,1754 1647,1814 1792,1814 1792,1754"
+                },
+                "text": "striking"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1819,1754 1819,1814 1917,1814 1917,1754"
+                },
+                "text": "study"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1948,1751 1948,1811 2051,1811 2051,1751"
+                },
+                "text": "found"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "2078,1754 2078,1814 2150,1814 2150,1754"
+                },
+                "text": "that"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "396,1939 2206,1957 2206,1842 2077,1865 2042,1833 1870,1874 1716,1838 681,1879 552,1842 396,1881"
+            },
+            "baseline": {
+              "points": "409,1913 499,1910 589,1910 679,1910 769,1910 859,1910 949,1908 1040,1910 1130,1910 1220,1913 1310,1910 1400,1910 1490,1910 1580,1910 1671,1910 1761,1910 1851,1910 1941,1910 2031,1910 2121,1910 2212,1910"
+            },
+            "text": "concentrations of atrazine down to 0.1 ppb induced hermaphroditism and demasculation",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "401,1870 401,1930 689,1930 689,1870"
+                },
+                "text": "concentrations"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "710,1870 710,1930 750,1930 750,1870"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "766,1870 766,1930 916,1930 916,1870"
+                },
+                "text": "atrazine"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "942,1868 942,1928 1044,1928 1044,1868"
+                },
+                "text": "down"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "1071,1870 1071,1930 1096,1930 1096,1870"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1122,1870 1122,1930 1178,1930 1178,1870"
+                },
+                "text": "0.1"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1194,1872 1194,1932 1261,1932 1261,1872"
+                },
+                "text": "ppb"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1287,1870 1287,1930 1431,1930 1431,1870"
+                },
+                "text": "induced"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1458,1870 1458,1930 1782,1930 1782,1870"
+                },
+                "text": "hermaphroditism"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1824,1870 1824,1930 1885,1930 1885,1870"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1911,1870 1911,1930 2194,1930 2194,1870"
+                },
+                "text": "demasculation"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "396,2079 1019,2049 1433,2091 1562,2047 1762,2082 1969,2035 2153,2065 2153,1973 2111,1962 396,1987"
+            },
+            "baseline": {
+              "points": "409,2030 496,2030 583,2027 671,2030 758,2027 846,2029 933,2027 1021,2027 1108,2027 1196,2027 1283,2028 1370,2027 1458,2027 1545,2027 1633,2028 1720,2029 1808,2027 1895,2027 1983,2027 2070,2027 2158,2024"
+            },
+            "text": "of the larynges of male African clawed frogs, Xenopus laevis (Hayes et al., 2002). At",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "402,1990 402,2050 440,2050 440,1990"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "458,1990 458,2050 507,2050 507,1990"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "530,1988 530,2048 696,2048 696,1988"
+                },
+                "text": "larynges"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "719,1987 719,2047 757,2047 757,1987"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "774,1988 774,2048 862,2048 862,1988"
+                },
+                "text": "male"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "885,1987 885,2047 1029,2047 1029,1987"
+                },
+                "text": "African"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1057,1987 1057,2047 1190,2047 1190,1987"
+                },
+                "text": "clawed"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1213,1987 1213,2047 1328,2047 1328,1987"
+                },
+                "text": "frogs,"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1340,1987 1340,2047 1512,2047 1512,1987"
+                },
+                "text": "Xenopus"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1529,1987 1529,2047 1645,2047 1645,1987"
+                },
+                "text": "laevis"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1662,1988 1662,2048 1800,2048 1800,1988"
+                },
+                "text": "(Hayes"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1823,1987 1823,2047 1856,2047 1856,1987"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1873,1987 1873,2047 1939,2047 1939,1987"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "1951,1987 1951,2047 2083,2047 2083,1987"
+                },
+                "text": "2002)."
+              },
+              {
+                "id": "tr_1_tl_15_w15",
+                "coords": {
+                  "points": "2101,1985 2101,2045 2144,2045 2144,1985"
+                },
+                "text": "At"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "396,2196 534,2162 1000,2203 1341,2155 2006,2194 2134,2150 2134,2077 1700,2111 396,2084"
+            },
+            "baseline": {
+              "points": "409,2146 495,2143 582,2143 668,2143 755,2146 841,2143 928,2146 1014,2143 1101,2143 1187,2141 1274,2143 1361,2143 1447,2141 1534,2143 1620,2143 1707,2143 1793,2143 1880,2143 1966,2143 2053,2143 2140,2140"
+            },
+            "text": "concentrations as low as 25 ppb, there was a tenfold decrease in testosterone in these",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "401,2103 401,2163 687,2163 687,2103"
+                },
+                "text": "concentrations"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "707,2104 707,2164 742,2164 742,2104"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "768,2104 768,2164 817,2164 817,2104"
+                },
+                "text": "low"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "854,2104 854,2164 889,2164 889,2104"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "914,2105 914,2165 949,2165 949,2105"
+                },
+                "text": "25"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "975,2103 975,2163 1065,2163 1065,2103"
+                },
+                "text": "ppb,"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1080,2102 1080,2162 1170,2162 1170,2102"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1196,2101 1196,2161 1261,2161 1261,2101"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1287,2103 1287,2163 1297,2163 1297,2103"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1322,2102 1322,2162 1452,2162 1452,2102"
+                },
+                "text": "tenfold"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1478,2103 1478,2163 1639,2163 1639,2103"
+                },
+                "text": "decrease"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1669,2103 1669,2163 1689,2163 1689,2103"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1720,2103 1720,2163 1951,2163 1951,2103"
+                },
+                "text": "testosterone"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "1977,2103 1977,2163 2001,2163 2001,2103"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_16_w15",
+                "coords": {
+                  "points": "2027,2102 2027,2162 2122,2162 2122,2102"
+                },
+                "text": "these"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "391,2279 550,2318 881,2288 964,2339 1359,2268 1677,2330 1851,2279 2086,2293 2121,2210 393,2213"
+            },
+            "baseline": {
+              "points": "403,2263 489,2262 575,2260 661,2260 747,2262 833,2260 919,2260 1005,2260 1091,2260 1177,2260 1264,2260 1350,2260 1436,2260 1522,2260 1608,2260 1694,2260 1780,2260 1866,2260 1952,2260 2038,2260 2125,2260"
+            },
+            "text": "frogs. It was proposed that atrazine decreased testosterone production and increased",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "390,2222 390,2282 504,2282 504,2222"
+                },
+                "text": "frogs."
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "519,2220 519,2280 548,2280 548,2220"
+                },
+                "text": "It"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "564,2220 564,2280 637,2280 637,2220"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "658,2222 658,2282 836,2282 836,2222"
+                },
+                "text": "proposed"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "861,2220 861,2280 935,2280 935,2220"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "955,2220 955,2280 1104,2280 1104,2220"
+                },
+                "text": "atrazine"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1129,2220 1129,2280 1316,2280 1316,2220"
+                },
+                "text": "decreased"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1342,2220 1342,2280 1579,2280 1579,2220"
+                },
+                "text": "testosterone"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1600,2220 1600,2280 1813,2280 1813,2220"
+                },
+                "text": "production"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1843,2220 1843,2280 1902,2280 1902,2220"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1927,2220 1927,2280 2109,2280 2109,2220"
+                },
+                "text": "increased"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "391,2447 462,2461 520,2408 580,2415 612,2445 658,2420 715,2433 761,2397 826,2413 826,2344 768,2314 695,2337 651,2323 628,2344 580,2348 513,2328 492,2341 465,2321 423,2339 391,2330"
+            },
+            "baseline": {
+              "points": "403,2379 428,2377 453,2376 478,2376 503,2377 529,2378 554,2379 579,2379 604,2379 630,2379 655,2379 680,2379 705,2379 731,2378 756,2376 781,2377 806,2379 832,2379"
+            },
+            "text": "estrogen production.",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "396,2336 396,2396 555,2396 555,2336"
+                },
+                "text": "estrogen"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "587,2338 587,2398 824,2398 824,2338"
+                },
+                "text": "production."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "547,2509 784,2548 975,2505 1168,2551 1387,2502 1552,2542 1750,2502 1904,2542 2203,2514 2203,2452 2084,2433 1336,2450 1118,2406 1023,2456 791,2459 547,2415"
+            },
+            "baseline": {
+              "points": "561,2492 643,2492 725,2494 808,2495 890,2495 973,2494 1055,2492 1137,2492 1220,2492 1302,2492 1385,2492 1467,2492 1549,2492 1632,2495 1714,2492 1797,2495 1879,2492 1961,2492 2044,2492 2126,2492 2209,2492"
+            },
+            "text": "These toxicological studies have been limited and targeted specific systems such",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "552,2452 552,2512 659,2512 659,2452"
+                },
+                "text": "These"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "686,2455 686,2515 948,2515 948,2455"
+                },
+                "text": "toxicological"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "964,2452 964,2512 1098,2512 1098,2452"
+                },
+                "text": "studies"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "1124,2452 1124,2512 1206,2512 1206,2452"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1233,2452 1233,2512 1309,2512 1309,2452"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1336,2452 1336,2512 1469,2512 1469,2452"
+                },
+                "text": "limited"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1495,2452 1495,2512 1556,2512 1556,2452"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1583,2454 1583,2514 1732,2514 1732,2454"
+                },
+                "text": "targeted"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1759,2453 1759,2513 1907,2513 1907,2453"
+                },
+                "text": "specific"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1934,2452 1934,2512 2088,2512 2088,2452"
+                },
+                "text": "systems"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "2109,2452 2109,2512 2185,2512 2185,2452"
+                },
+                "text": "such"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "386,2650 775,2663 890,2624 1362,2680 1483,2620 1564,2652 1741,2617 2123,2654 2236,2620 2238,2560 386,2578"
+            },
+            "baseline": {
+              "points": "400,2609 496,2612 593,2611 690,2609 787,2609 883,2612 980,2612 1077,2609 1174,2609 1271,2611 1367,2609 1464,2609 1561,2609 1658,2609 1755,2611 1851,2611 1948,2609 2045,2609 2142,2609 2239,2612"
+            },
+            "text": "as the endocrine system. This study investigates the toxicity of atrazine on a more general",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "386,2569 386,2629 420,2629 420,2569"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "441,2571 441,2631 491,2631 491,2571"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "517,2570 517,2630 703,2630 703,2570"
+                },
+                "text": "endocrine"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "729,2569 729,2629 886,2629 886,2569"
+                },
+                "text": "system."
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "902,2572 902,2632 982,2632 982,2572"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1008,2569 1008,2629 1103,2629 1103,2569"
+                },
+                "text": "study"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1129,2570 1129,2630 1361,2630 1361,2570"
+                },
+                "text": "investigates"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1382,2569 1382,2629 1432,2629 1432,2569"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1458,2569 1458,2629 1604,2629 1604,2569"
+                },
+                "text": "toxicity"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1630,2569 1630,2629 1670,2629 1670,2569"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1685,2571 1685,2631 1837,2631 1837,2571"
+                },
+                "text": "atrazine"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1863,2570 1863,2630 1898,2630 1898,2570"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1929,2569 1929,2629 1938,2629 1938,2569"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "1964,2569 1964,2629 2054,2629 2054,2569"
+                },
+                "text": "more"
+              },
+              {
+                "id": "tr_1_tl_20_w15",
+                "coords": {
+                  "points": "2080,2569 2080,2629 2226,2629 2226,2569"
+                },
+                "text": "general"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "382,2746 747,2778 830,2742 982,2808 1060,2746 1173,2737 1281,2785 1341,2744 1525,2778 2001,2744 2001,2666 1932,2661 382,2682"
+            },
+            "baseline": {
+              "points": "394,2725 474,2728 555,2728 635,2727 716,2728 797,2728 877,2725 958,2725 1038,2725 1119,2725 1200,2725 1280,2725 1361,2725 1441,2725 1522,2725 1603,2725 1683,2721 1764,2725 1844,2725 1925,2725 2006,2728"
+            },
+            "text": "cellular mechanism. This mechanism is the multixenobiotic resistance (MXR)",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "382,2687 382,2747 528,2747 528,2687"
+                },
+                "text": "cellular"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "544,2687 544,2747 792,2747 792,2687"
+                },
+                "text": "mechanism."
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "808,2686 808,2746 888,2746 888,2686"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "909,2685 909,2745 1122,2745 1122,2685"
+                },
+                "text": "mechanism"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1163,2685 1163,2745 1188,2745 1188,2685"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1208,2685 1208,2745 1259,2745 1259,2685"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1285,2685 1285,2745 1598,2745 1598,2685"
+                },
+                "text": "multixenobiotic"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1624,2682 1624,2742 1811,2742 1811,2682"
+                },
+                "text": "resistance"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1837,2685 1837,2745 1989,2745 1989,2685"
+                },
+                "text": "(MXR)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "382,2877 1180,2907 1394,2854 2042,2875 2042,2799 1824,2776 382,2797"
+            },
+            "baseline": {
+              "points": "394,2845 476,2845 559,2845 642,2845 724,2845 807,2845 890,2842 972,2842 1055,2845 1138,2845 1221,2842 1303,2842 1386,2842 1469,2842 1551,2842 1634,2844 1717,2845 1799,2845 1882,2844 1965,2845 2048,2842"
+            },
+            "text": "mechanism and is one of two ways in which cells deal with toxicants. In the first",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "382,2805 382,2865 588,2865 588,2805"
+                },
+                "text": "mechanism"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "629,2805 629,2865 689,2865 689,2805"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "715,2805 715,2865 740,2865 740,2805"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "761,2805 761,2865 826,2865 826,2805"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "852,2802 852,2862 892,2862 892,2802"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "907,2802 907,2862 973,2862 973,2802"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "998,2804 998,2864 1094,2864 1094,2804"
+                },
+                "text": "ways"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1120,2805 1120,2865 1145,2865 1145,2805"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1170,2802 1170,2862 1282,2862 1282,2802"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1308,2802 1308,2862 1393,2862 1393,2802"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1414,2802 1414,2862 1494,2862 1494,2802"
+                },
+                "text": "deal"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1510,2802 1510,2862 1590,2862 1590,2802"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "1616,2804 1616,2864 1813,2864 1813,2804"
+                },
+                "text": "toxicants."
+              },
+              {
+                "id": "tr_1_tl_22_w14",
+                "coords": {
+                  "points": "1828,2804 1828,2864 1858,2864 1858,2804"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_22_w15",
+                "coords": {
+                  "points": "1884,2804 1884,2864 1934,2864 1934,2804"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w16",
+                "coords": {
+                  "points": "1960,2803 1960,2863 2040,2863 2040,2803"
+                },
+                "text": "first"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "382,2988 582,2974 803,3024 892,2967 1079,3024 1143,2974 1750,2985 1792,3027 1854,2985 2035,2995 2035,2919 1716,2898 1654,2930 1497,2893 382,2919"
+            },
+            "baseline": {
+              "points": "394,2964 476,2964 558,2964 641,2964 723,2964 806,2961 888,2961 970,2961 1053,2961 1135,2961 1218,2961 1300,2961 1382,2961 1465,2958 1547,2960 1630,2961 1712,2961 1794,2960 1877,2961 1959,2961 2042,2964"
+            },
+            "text": "mechanism the toxicant enters the cell and is broken down or converted to other",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "381,2924 381,2984 583,2984 583,2924"
+                },
+                "text": "mechanism"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "622,2924 622,2984 675,2984 675,2924"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "700,2921 700,2981 864,2981 864,2921"
+                },
+                "text": "toxicant"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "884,2921 884,2981 995,2981 995,2921"
+                },
+                "text": "enters"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "1019,2921 1019,2981 1072,2981 1072,2921"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1096,2921 1096,2981 1168,2981 1168,2921"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1183,2921 1183,2981 1241,2981 1241,2921"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1271,2921 1271,2981 1294,2981 1294,2921"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1314,2921 1314,2981 1444,2981 1444,2921"
+                },
+                "text": "broken"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1473,2919 1473,2979 1570,2979 1570,2919"
+                },
+                "text": "down"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1599,2920 1599,2980 1637,2980 1637,2920"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_23_w12",
+                "coords": {
+                  "points": "1657,2920 1657,2980 1845,2980 1845,2920"
+                },
+                "text": "converted"
+              },
+              {
+                "id": "tr_1_tl_23_w13",
+                "coords": {
+                  "points": "1875,2921 1875,2981 1899,2981 1899,2921"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_23_w14",
+                "coords": {
+                  "points": "1928,2921 1928,2981 2024,2981 2024,2921"
+                },
+                "text": "other"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
