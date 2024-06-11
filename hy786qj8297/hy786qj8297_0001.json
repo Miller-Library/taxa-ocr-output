@@ -1,0 +1,2374 @@
+{
+  "processId": 10314696,
+  "status": "FINISHED",
+  "content": {
+    "text": "ABSTRACT\nThe kelp rockfish (Sebastes atrovirens) hovers at a range of angles\nto horizontal using slow movements of its pectoral and caudal fins. It\nadjusts its buoyancy using a swimbladder, which increases the volume of\nthe fish without increasing its mass and thus reduces its net density. I\nfound that the center of buoyancy, the point at which the force due to the\nswimbladder acts, is anterior and ventral to the center of gravity. This\ncreates rotational instability. I formed a model to examine the effects of\nthe buoyant force, the force due to gravity, and the forces of the pectoral\nand caudal fins on the rotational and vertical translational equilibria of\nthe fish. 1 found that the net torque is much more sensitive to changes in\nthe angle of the fish than is the net vertical force.\nINTRODUCTION\nThe teleost swimbladder is a specialized organ forming a gas-filled\nspace within the body cavity of a fish. Although a fish can control the\nvolume of its swimbladder by secreting or resorbing gasses, this is a slow\nprocess which occurs over several hours. The swimbladder is inherently\ninstable due to the inverse relationship between pressure and the volume\nof \u00e0 gas in an enciosed space. If a fish in equilibrium moves down even\nslightly, the ambient pressure increases and its swimbladder is\ncompressed. As a result, the fish becomes denser and begins to sink\nfaster. Conversely, if the same fish is moved above its usual depth, the\nreduction in pressure causes the gasses in the swimbladder to expand.\nsending the fish towards the surface of the water. Fish caught at depth\nand brought rapidly to the surface have trouble swimming normally and\noften are seen with their swimbladder expanded into the mouth cavity,",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "390,135 390,2997 2142,2997 2142,135"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "393,249 419,245 459,210 544,238 585,207 625,234 659,231 659,124 642,120 614,138 535,96 491,105 450,131 393,122"
+            },
+            "baseline": {
+              "points": "405,188 431,188 457,188 483,188 509,187 535,185 561,186 587,188 613,188 639,188 665,188"
+            },
+            "text": "ABSTRACT",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "399,146 399,206 641,206 641,146"
+                },
+                "text": "ABSTRACT"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "539,360 924,400 987,363 1354,395 2112,369 2083,245 1666,317 1448,286 1299,317 1256,282 1118,314 946,271 539,299"
+            },
+            "baseline": {
+              "points": "552,346 630,349 708,349 786,349 865,349 943,349 1021,349 1100,349 1178,349 1256,349 1335,350 1413,352 1491,349 1569,349 1648,350 1726,352 1804,355 1883,352 1961,355 2039,355 2118,352"
+            },
+            "text": "The kelp rockfish (Sebastes atrovirens) hovers at a range of angles",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "541,307 541,367 618,367 618,307"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "644,309 644,369 734,369 734,309"
+                },
+                "text": "kelp"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "760,309 760,369 934,369 934,309"
+                },
+                "text": "rockfish"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "973,309 973,369 1179,369 1179,309"
+                },
+                "text": "(Sebastes"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1206,309 1206,369 1462,369 1462,309"
+                },
+                "text": "atrovirens)"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1482,309 1482,369 1630,369 1630,309"
+                },
+                "text": "hovers"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1657,310 1657,370 1695,370 1695,310"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1721,312 1721,372 1733,372 1733,312"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1760,314 1760,374 1875,374 1875,314"
+                },
+                "text": "range"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1908,313 1908,373 1946,373 1946,313"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1966,315 1966,375 2107,375 2107,315"
+                },
+                "text": "angles"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "393,470 1210,494 1332,461 1690,515 2024,463 2024,406 1823,391 618,415 546,358 459,397 393,369"
+            },
+            "baseline": {
+              "points": "405,447 486,447 567,448 648,448 729,448 811,450 892,447 973,448 1054,448 1135,450 1217,450 1298,453 1379,453 1460,453 1541,450 1623,453 1704,453 1785,453 1866,453 1947,453 2029,453"
+            },
+            "text": "to horizontal using slow movements of its pectoral and caudal fins. It",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "394,407 394,467 423,467 423,407"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "448,408 448,468 686,468 686,408"
+                },
+                "text": "horizontal"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "704,408 704,468 810,468 810,408"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "841,407 841,467 924,467 924,407"
+                },
+                "text": "slow"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "966,409 966,469 1228,469 1228,409"
+                },
+                "text": "movements"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1258,412 1258,472 1293,472 1293,412"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1312,413 1312,473 1365,473 1365,413"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1390,412 1390,472 1574,472 1574,412"
+                },
+                "text": "pectoral"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1598,413 1598,473 1669,473 1669,413"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1699,413 1699,473 1848,473 1848,413"
+                },
+                "text": "caudal"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1866,413 1866,473 1967,473 1967,413"
+                },
+                "text": "fins."
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1979,413 1979,473 2014,473 2014,413"
+                },
+                "text": "It"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "393,559 904,616 1035,566 1461,561 1653,603 2112,570 2112,513 1808,483 1688,518 393,507"
+            },
+            "baseline": {
+              "points": "405,549 490,549 576,549 661,548 747,549 833,549 918,549 1004,552 1090,551 1175,550 1261,552 1347,552 1432,552 1518,552 1604,552 1689,552 1775,552 1861,552 1946,552 2032,552 2118,555"
+            },
+            "text": "adjusts its buoyancy using a swimbladder, which increases the volume of",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "400,509 400,569 555,569 555,509"
+                },
+                "text": "adjusts"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "579,508 579,568 625,568 625,508"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "648,509 648,569 862,569 862,509"
+                },
+                "text": "buoyancy"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "892,510 892,570 1008,570 1008,510"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "1037,511 1037,571 1048,571 1048,511"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1078,511 1078,571 1390,571 1390,511"
+                },
+                "text": "swimbladder,"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1408,512 1408,572 1529,572 1529,512"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1565,512 1565,572 1772,572 1772,512"
+                },
+                "text": "increases"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1796,512 1796,572 1860,572 1860,512"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1884,512 1884,572 2045,572 2045,512"
+                },
+                "text": "volume"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "2075,514 2075,574 2114,574 2114,514"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "393,694 1426,662 1550,714 1671,670 1826,701 2044,662 2044,605 1721,620 1609,583 393,607"
+            },
+            "baseline": {
+              "points": "405,647 487,647 569,647 651,647 734,648 816,650 898,650 980,653 1063,652 1145,653 1227,653 1309,653 1392,653 1474,653 1556,653 1638,653 1721,653 1803,653 1885,653 1967,653 2050,650"
+            },
+            "text": "the fish without increasing its mass and thus reduces its net density. I",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "400,607 400,667 459,667 459,607"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "489,607 489,667 559,667 559,607"
+                },
+                "text": "fish"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "589,607 589,667 767,667 767,607"
+                },
+                "text": "without"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "785,610 785,670 1009,670 1009,610"
+                },
+                "text": "increasing"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "1040,612 1040,672 1087,672 1087,612"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1117,613 1117,673 1223,673 1223,613"
+                },
+                "text": "mass"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1247,613 1247,673 1317,673 1317,613"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1348,613 1348,673 1442,673 1442,613"
+                },
+                "text": "thus"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1467,613 1467,673 1637,673 1637,613"
+                },
+                "text": "reduces"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1662,613 1662,673 1708,673 1708,613"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1733,613 1733,673 1804,673 1804,613"
+                },
+                "text": "net"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1828,613 1828,673 2011,673 2011,613"
+                },
+                "text": "density."
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "2029,610 2029,670 2046,670 2046,610"
+                },
+                "text": "I"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "391,762 1282,799 1443,756 1616,793 1970,764 2125,799 2125,716 2055,688 1885,723 1699,688 1312,723 391,692"
+            },
+            "baseline": {
+              "points": "402,746 488,749 574,749 661,749 747,749 834,752 920,749 1006,749 1093,750 1179,752 1266,755 1352,753 1438,755 1525,752 1611,752 1698,752 1784,755 1870,753 1957,755 2043,755 2130,752"
+            },
+            "text": "found that the center of buoyancy, the point at which the force due to the",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "398,707 398,767 516,767 516,707"
+                },
+                "text": "found"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "546,709 546,769 634,769 634,709"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "658,709 658,769 716,769 716,709"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "747,711 747,771 888,771 888,711"
+                },
+                "text": "center"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "912,709 912,769 947,769 947,709"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "971,709 971,769 1212,769 1212,709"
+                },
+                "text": "buoyancy,"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1225,714 1225,774 1283,774 1283,714"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1314,713 1314,773 1431,773 1431,713"
+                },
+                "text": "point"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1455,713 1455,773 1490,773 1490,713"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1508,712 1508,772 1638,772 1638,712"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1668,712 1668,772 1726,772 1726,712"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1757,714 1757,774 1862,774 1862,714"
+                },
+                "text": "force"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1892,714 1892,774 1962,774 1962,714"
+                },
+                "text": "due"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1993,715 1993,775 2022,775 2022,715"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_6_w15",
+                "coords": {
+                  "points": "2052,713 2052,773 2116,773 2116,713"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "393,869 974,895 1029,860 1160,893 1441,858 1533,913 1721,863 1791,906 2061,874 2059,801 1974,782 1904,821 985,788 723,825 664,777 581,812 391,782"
+            },
+            "baseline": {
+              "points": "405,841 488,847 571,847 654,847 737,850 820,850 903,850 986,850 1069,850 1152,851 1235,852 1318,853 1401,851 1484,850 1567,853 1650,853 1733,853 1816,853 1899,849 1982,853 2065,853"
+            },
+            "text": "swimbladder acts, is anterior and ventral to the center of gravity. This",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "393,807 393,867 690,867 690,807"
+                },
+                "text": "swimbladder"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "722,810 722,870 820,870 820,810"
+                },
+                "text": "acts,"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "833,810 833,870 864,870 864,810"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "889,810 889,870 1069,870 1069,810"
+                },
+                "text": "anterior"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1101,810 1101,870 1168,870 1168,810"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1200,812 1200,872 1367,872 1367,812"
+                },
+                "text": "ventral"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1386,810 1386,870 1417,870 1417,810"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1448,810 1448,870 1511,870 1511,810"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1536,813 1536,873 1678,873 1678,813"
+                },
+                "text": "center"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1704,813 1704,873 1740,873 1740,813"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1759,811 1759,871 1945,871 1945,811"
+                },
+                "text": "gravity."
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1964,813 1964,873 2050,873 2050,813"
+                },
+                "text": "This"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "391,978 1253,994 1317,961 1684,1009 1987,963 2092,994 2092,908 1830,922 1725,882 1570,924 1153,887 620,913 504,874 391,906"
+            },
+            "baseline": {
+              "points": "402,946 486,949 571,949 655,949 740,951 825,952 909,952 994,949 1079,949 1163,952 1248,952 1333,954 1417,952 1502,952 1587,952 1671,952 1756,954 1841,952 1925,952 2010,952 2095,955"
+            },
+            "text": "creates rotational instability. I formed a model to examine the effects of",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "393,908 393,968 544,968 544,908"
+                },
+                "text": "creates"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "569,909 569,969 799,969 799,909"
+                },
+                "text": "rotational"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "812,910 812,970 1067,970 1067,910"
+                },
+                "text": "instability."
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "1086,909 1086,969 1097,969 1097,909"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1116,912 1116,972 1273,972 1273,912"
+                },
+                "text": "formed"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1304,913 1304,973 1322,973 1322,913"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1353,912 1353,972 1492,972 1492,912"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1511,912 1511,972 1541,972 1541,912"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1572,912 1572,972 1754,972 1754,912"
+                },
+                "text": "examine"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1785,912 1785,972 1845,972 1845,912"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1876,912 1876,972 2021,972 2021,912"
+                },
+                "text": "effects"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "2046,913 2046,973 2082,973 2082,913"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "393,1061 1605,1105 1681,1061 1810,1101 2110,1070 2110,1013 1972,1000 760,1018 638,970 393,1018"
+            },
+            "baseline": {
+              "points": "405,1047 490,1047 576,1047 661,1049 747,1050 832,1050 918,1050 1003,1051 1089,1051 1174,1053 1260,1053 1345,1053 1431,1053 1516,1053 1602,1053 1687,1053 1773,1052 1858,1053 1944,1054 2029,1055 2115,1056"
+            },
+            "text": "the buoyant force, the force due to gravity, and the forces of the pectoral",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "395,1007 395,1067 454,1067 454,1007"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "479,1007 479,1067 666,1067 666,1007"
+                },
+                "text": "buoyant"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "691,1010 691,1070 818,1070 818,1010"
+                },
+                "text": "force,"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "836,1010 836,1070 896,1070 896,1010"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "921,1010 921,1070 1029,1070 1029,1010"
+                },
+                "text": "force"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1060,1011 1060,1071 1132,1071 1132,1011"
+                },
+                "text": "due"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1163,1013 1163,1073 1193,1073 1193,1013"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1224,1013 1224,1073 1405,1073 1405,1013"
+                },
+                "text": "gravity,"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1423,1013 1423,1073 1489,1073 1489,1013"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1520,1013 1520,1073 1580,1073 1580,1013"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1611,1013 1611,1073 1744,1073 1744,1013"
+                },
+                "text": "forces"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1768,1012 1768,1072 1804,1072 1804,1012"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1829,1013 1829,1073 1889,1073 1889,1013"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1920,1014 1920,1074 2107,1074 2107,1014"
+                },
+                "text": "pectoral"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "391,1188 496,1151 699,1201 1256,1164 1354,1219 1570,1162 1821,1208 2072,1164 2072,1107 1841,1083 391,1096"
+            },
+            "baseline": {
+              "points": "402,1149 485,1149 569,1151 653,1151 737,1151 820,1151 904,1151 988,1154 1072,1154 1155,1154 1239,1154 1323,1154 1407,1154 1490,1154 1574,1154 1658,1154 1742,1154 1825,1152 1909,1154 1993,1154 2077,1151"
+            },
+            "text": "and caudal fins on the rotational and vertical translational equilibria of",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "398,1109 398,1169 467,1169 467,1109"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "497,1111 497,1171 648,1171 648,1111"
+                },
+                "text": "caudal"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "660,1111 660,1171 741,1171 741,1111"
+                },
+                "text": "fins"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "765,1111 765,1171 804,1171 804,1111"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "840,1111 840,1171 898,1171 898,1111"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "928,1114 928,1174 1154,1174 1154,1114"
+                },
+                "text": "rotational"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1178,1114 1178,1174 1247,1174 1247,1114"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1277,1114 1277,1174 1451,1174 1451,1114"
+                },
+                "text": "vertical"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1469,1114 1469,1174 1766,1174 1766,1114"
+                },
+                "text": "translational"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1784,1113 1784,1173 1999,1173 1999,1113"
+                },
+                "text": "equilibria"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "2029,1112 2029,1172 2063,1172 2063,1112"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "391,1271 1409,1295 1806,1256 2114,1299 2112,1203 1930,1188 1668,1225 1424,1190 994,1227 847,1181 391,1212"
+            },
+            "baseline": {
+              "points": "402,1247 487,1250 573,1250 659,1250 745,1251 831,1253 916,1250 1002,1250 1088,1253 1174,1251 1260,1253 1345,1253 1431,1253 1517,1253 1603,1253 1689,1253 1774,1253 1860,1256 1946,1257 2032,1257 2118,1259"
+            },
+            "text": "the fish. 1 found that the net torque is much more sensitive to changes in",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "393,1207 393,1267 457,1267 457,1207"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "483,1210 483,1270 585,1270 585,1210"
+                },
+                "text": "fish."
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "599,1210 599,1270 617,1270 617,1210"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "631,1210 631,1270 759,1270 759,1210"
+                },
+                "text": "found"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "792,1212 792,1272 875,1272 875,1212"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "901,1210 901,1270 958,1270 958,1210"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "991,1210 991,1270 1061,1270 1061,1210"
+                },
+                "text": "net"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1082,1211 1082,1271 1222,1271 1222,1211"
+                },
+                "text": "torque"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1248,1213 1248,1273 1280,1273 1280,1213"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1306,1213 1306,1273 1414,1273 1414,1213"
+                },
+                "text": "much"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1448,1213 1448,1273 1556,1273 1556,1213"
+                },
+                "text": "more"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1583,1213 1583,1273 1782,1273 1782,1213"
+                },
+                "text": "sensitive"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1808,1214 1808,1274 1840,1274 1840,1214"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "1872,1217 1872,1277 2045,1277 2045,1217"
+                },
+                "text": "changes"
+              },
+              {
+                "id": "tr_1_tl_11_w15",
+                "coords": {
+                  "points": "2071,1218 2071,1278 2103,1278 2103,1218"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "387,1378 542,1409 620,1358 928,1402 998,1363 1243,1360 1310,1404 1358,1363 1564,1371 1502,1299 387,1284"
+            },
+            "baseline": {
+              "points": "399,1351 457,1349 515,1351 574,1351 632,1351 690,1351 749,1351 807,1354 865,1352 924,1354 982,1354 1040,1352 1099,1354 1157,1354 1215,1354 1274,1354 1332,1354 1390,1354 1449,1354 1507,1356 1566,1354"
+            },
+            "text": "the angle of the fish than is the net vertical force.",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "388,1310 388,1370 453,1370 453,1310"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "484,1311 484,1371 590,1371 590,1311"
+                },
+                "text": "angle"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "621,1311 621,1371 661,1371 661,1311"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "680,1311 680,1371 745,1371 745,1311"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "775,1313 775,1373 846,1373 846,1313"
+                },
+                "text": "fish"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "876,1313 876,1373 965,1373 965,1313"
+                },
+                "text": "than"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1001,1312 1001,1372 1030,1372 1030,1312"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1055,1313 1055,1373 1114,1373 1114,1313"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1144,1314 1144,1374 1215,1374 1215,1314"
+                },
+                "text": "net"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1234,1314 1234,1374 1411,1374 1411,1314"
+                },
+                "text": "vertical"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1430,1315 1430,1375 1560,1375 1560,1315"
+                },
+                "text": "force."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "378,1657 439,1655 472,1629 509,1651 625,1633 692,1666 758,1640 758,1553 716,1529 607,1566 574,1553 500,1570 439,1544 378,1566"
+            },
+            "baseline": {
+              "points": "390,1617 416,1616 443,1614 470,1613 496,1611 523,1613 550,1614 577,1614 603,1614 630,1614 657,1612 683,1611 710,1611 737,1612 764,1614"
+            },
+            "text": "INTRODUCTION",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "384,1574 384,1634 732,1634 732,1574"
+                },
+                "text": "INTRODUCTION"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "537,1808 869,1784 1109,1839 1181,1788 1443,1830 1537,1788 1895,1782 2131,1821 2131,1714 2031,1684 1952,1736 1719,1740 1299,1710 972,1743 895,1708 819,1745 537,1699"
+            },
+            "baseline": {
+              "points": "549,1772 628,1772 707,1773 787,1774 866,1772 945,1775 1025,1775 1104,1775 1183,1775 1263,1775 1342,1775 1421,1776 1501,1775 1580,1775 1659,1778 1739,1778 1818,1778 1897,1781 1977,1781 2056,1778 2136,1781"
+            },
+            "text": "The teleost swimbladder is a specialized organ forming a gas-filled",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "539,1732 539,1792 607,1792 607,1732"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "638,1733 638,1793 787,1793 787,1733"
+                },
+                "text": "teleost"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "813,1735 813,1795 1111,1795 1111,1735"
+                },
+                "text": "swimbladder"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "1137,1735 1137,1795 1167,1795 1167,1735"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "1193,1735 1193,1795 1205,1795 1205,1735"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1230,1735 1230,1795 1473,1795 1473,1735"
+                },
+                "text": "specialized"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1504,1735 1504,1795 1622,1795 1622,1735"
+                },
+                "text": "organ"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1654,1738 1654,1798 1827,1798 1827,1738"
+                },
+                "text": "forming"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1853,1739 1853,1799 1872,1799 1872,1739"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1910,1739 1910,1799 2120,1799 2120,1739"
+                },
+                "text": "gas-filled"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "387,1885 843,1937 1096,1887 1393,1935 1509,1891 1843,1930 2044,1891 2044,1832 1858,1817 1457,1845 1310,1810 1184,1850 961,1793 865,1832 729,1799 387,1841"
+            },
+            "baseline": {
+              "points": "399,1871 481,1871 564,1871 646,1873 729,1873 811,1873 894,1874 976,1874 1059,1873 1141,1874 1224,1877 1307,1877 1389,1877 1472,1877 1554,1879 1637,1877 1719,1877 1802,1878 1884,1880 1967,1880 2050,1880"
+            },
+            "text": "space within the body cavity of a fish. Although a fish can control the",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "389,1831 389,1891 500,1891 500,1831"
+                },
+                "text": "space"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "525,1831 525,1891 661,1891 661,1831"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "693,1833 693,1893 754,1893 754,1833"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "786,1833 786,1893 885,1893 885,1833"
+                },
+                "text": "body"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "917,1833 917,1893 1046,1893 1046,1833"
+                },
+                "text": "cavity"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1078,1833 1078,1893 1121,1893 1121,1833"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1140,1834 1140,1894 1158,1894 1158,1834"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1177,1837 1177,1897 1282,1897 1282,1837"
+                },
+                "text": "fish."
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1314,1837 1314,1897 1512,1897 1512,1837"
+                },
+                "text": "Although"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1544,1838 1544,1898 1561,1898 1561,1838"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1587,1837 1587,1897 1661,1897 1661,1837"
+                },
+                "text": "fish"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1693,1837 1693,1897 1754,1897 1754,1837"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1786,1839 1786,1899 1946,1899 1946,1839"
+                },
+                "text": "control"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "1966,1840 1966,1900 2027,1900 2027,1840"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "393,2007 1345,1983 1402,2018 1494,1987 2116,2018 2116,1937 1902,1909 1675,1946 1328,1898 1212,1946 1013,1911 526,1939 393,1889"
+            },
+            "baseline": {
+              "points": "405,1963 490,1969 576,1969 662,1971 748,1972 834,1974 919,1975 1005,1975 1091,1972 1177,1975 1263,1975 1348,1975 1434,1975 1520,1975 1606,1978 1692,1980 1777,1976 1863,1978 1949,1978 2035,1978 2121,1975"
+            },
+            "text": "volume of its swimbladder by secreting or resorbing gasses, this is a slow",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "395,1928 395,1988 558,1988 558,1928"
+                },
+                "text": "volume"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "584,1929 584,1989 621,1989 621,1929"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "640,1931 640,1991 690,1991 690,1931"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "716,1934 716,1994 1011,1994 1011,1934"
+                },
+                "text": "swimbladder"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "1037,1933 1037,1993 1080,1993 1080,1933"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1112,1935 1112,1995 1313,1995 1313,1935"
+                },
+                "text": "secreting"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1338,1935 1338,1995 1382,1995 1382,1935"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1401,1935 1401,1995 1615,1995 1615,1935"
+                },
+                "text": "resorbing"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1641,1938 1641,1998 1803,1998 1803,1938"
+                },
+                "text": "gasses,"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1817,1937 1817,1997 1898,1997 1898,1937"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1917,1938 1917,1998 1948,1998 1948,1938"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1974,1938 1974,1998 1986,1998 1986,1938"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "2018,1937 2018,1997 2093,1997 2093,1937"
+                },
+                "text": "slow"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "393,2123 1081,2079 1334,2127 1550,2088 1730,2142 1793,2090 1909,2088 2083,2134 2083,2033 1928,2013 393,2029"
+            },
+            "baseline": {
+              "points": "405,2074 489,2074 573,2071 657,2073 741,2074 826,2074 910,2071 994,2071 1078,2074 1162,2074 1247,2076 1331,2075 1415,2076 1499,2076 1583,2078 1668,2079 1752,2077 1836,2077 1920,2077 2004,2076 2089,2083"
+            },
+            "text": "process which occurs over several hours. The swimbladder is inherently",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "394,2034 394,2094 561,2094 561,2034"
+                },
+                "text": "process"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "585,2032 585,2092 706,2092 706,2032"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "735,2034 735,2094 874,2094 874,2034"
+                },
+                "text": "occurs"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "904,2031 904,2091 996,2091 996,2031"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "1026,2034 1026,2094 1193,2094 1193,2034"
+                },
+                "text": "several"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1211,2035 1211,2095 1355,2095 1355,2035"
+                },
+                "text": "hours."
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1368,2035 1368,2095 1442,2095 1442,2035"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1472,2038 1472,2098 1767,2098 1767,2038"
+                },
+                "text": "swimbladder"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1791,2037 1791,2097 1825,2097 1825,2037"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1843,2036 1843,2096 2074,2096 2074,2036"
+                },
+                "text": "inherently"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "384,2182 518,2223 583,2190 1039,2227 1177,2186 1297,2230 1489,2188 1786,2221 1865,2182 2077,2243 2136,2221 2136,2140 1891,2112 1483,2149 1380,2116 1068,2147 786,2103 384,2118"
+            },
+            "baseline": {
+              "points": "396,2172 483,2172 570,2172 657,2172 745,2175 832,2175 919,2175 1007,2174 1094,2175 1181,2177 1269,2177 1356,2175 1443,2175 1530,2175 1618,2175 1705,2176 1792,2178 1880,2178 1967,2178 2054,2178 2142,2178"
+            },
+            "text": "instable due to the inverse relationship between pressure and the volume",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "379,2132 379,2192 554,2192 554,2132"
+                },
+                "text": "instable"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "584,2132 584,2192 653,2192 653,2132"
+                },
+                "text": "due"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "683,2133 683,2193 717,2193 717,2133"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "747,2135 747,2195 805,2195 805,2135"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "835,2135 835,2195 998,2195 998,2135"
+                },
+                "text": "inverse"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1028,2136 1028,2196 1297,2196 1297,2136"
+                },
+                "text": "relationship"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1327,2135 1327,2195 1513,2195 1513,2135"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1549,2135 1549,2195 1735,2195 1735,2135"
+                },
+                "text": "pressure"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1771,2138 1771,2198 1840,2198 1840,2138"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1870,2138 1870,2198 1934,2198 1934,2138"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1964,2138 1964,2198 2121,2198 2121,2138"
+                },
+                "text": "volume"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "384,2273 911,2324 1013,2280 1699,2321 1756,2286 2011,2332 2075,2306 2072,2238 1461,2199 1083,2247 937,2210 382,2230"
+            },
+            "baseline": {
+              "points": "396,2262 480,2265 564,2265 648,2265 732,2265 816,2264 900,2263 984,2268 1068,2268 1152,2271 1236,2271 1320,2274 1404,2272 1488,2271 1572,2271 1656,2271 1740,2271 1824,2271 1908,2271 1992,2268 2077,2274"
+            },
+            "text": "of \u00e0 gas in an enciosed space. If a fish in equilibrium moves down even",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "389,2222 389,2282 424,2282 424,2222"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "449,2224 449,2284 466,2284 466,2224"
+                },
+                "text": "\u00e0"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "490,2225 490,2285 561,2285 561,2225"
+                },
+                "text": "gas"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "586,2225 586,2285 615,2285 615,2225"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "645,2225 645,2285 686,2285 686,2225"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "716,2224 716,2284 900,2284 900,2224"
+                },
+                "text": "enciosed"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "937,2228 937,2288 1073,2288 1073,2228"
+                },
+                "text": "space."
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1091,2229 1091,2289 1126,2289 1126,2229"
+                },
+                "text": "If"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1145,2231 1145,2291 1162,2291 1162,2231"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1186,2231 1186,2291 1257,2291 1257,2231"
+                },
+                "text": "fish"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1293,2233 1293,2293 1322,2293 1322,2233"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1353,2231 1353,2291 1602,2291 1602,2231"
+                },
+                "text": "equilibrium"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1650,2231 1650,2291 1786,2291 1786,2231"
+                },
+                "text": "moves"
+              },
+              {
+                "id": "tr_1_tl_19_w14",
+                "coords": {
+                  "points": "1817,2231 1817,2291 1929,2291 1929,2231"
+                },
+                "text": "down"
+              },
+              {
+                "id": "tr_1_tl_19_w15",
+                "coords": {
+                  "points": "1960,2229 1960,2289 2054,2289 2054,2229"
+                },
+                "text": "even"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "384,2402 1889,2393 1889,2308 1839,2293 1345,2345 738,2324 675,2282 577,2334 384,2310"
+            },
+            "baseline": {
+              "points": "396,2363 474,2366 553,2366 632,2369 711,2369 790,2369 869,2371 948,2369 1027,2372 1106,2369 1184,2372 1263,2372 1342,2372 1421,2372 1500,2372 1579,2372 1658,2372 1737,2372 1816,2370 1895,2375"
+            },
+            "text": "slightly, the ambient pressure increases and its swimbladder is",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "386,2326 386,2386 572,2386 572,2326"
+                },
+                "text": "slightly,"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "592,2328 592,2388 654,2388 654,2328"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "680,2329 680,2389 872,2389 872,2329"
+                },
+                "text": "ambient"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "898,2330 898,2390 1085,2390 1085,2330"
+                },
+                "text": "pressure"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "1117,2332 1117,2392 1328,2392 1328,2332"
+                },
+                "text": "increases"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1354,2332 1354,2392 1423,2392 1423,2332"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1455,2332 1455,2392 1504,2392 1504,2332"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1529,2332 1529,2392 1828,2392 1828,2332"
+                },
+                "text": "swimbladder"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1854,2333 1854,2393 1884,2393 1884,2333"
+                },
+                "text": "is"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "391,2483 710,2516 815,2485 989,2540 1131,2485 1712,2520 1828,2483 1922,2524 1996,2494 1996,2406 1939,2400 1871,2444 1773,2402 1555,2446 391,2422"
+            },
+            "baseline": {
+              "points": "402,2465 482,2468 562,2468 642,2468 722,2468 802,2471 882,2470 962,2471 1042,2471 1122,2471 1202,2471 1282,2471 1362,2473 1442,2472 1522,2474 1602,2474 1682,2474 1762,2474 1842,2474 1922,2474 2002,2477"
+            },
+            "text": "compressed. As a result, the fish becomes denser and begins to sink",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "393,2428 393,2488 677,2488 677,2428"
+                },
+                "text": "compressed."
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "696,2428 696,2488 745,2488 745,2428"
+                },
+                "text": "As"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "771,2430 771,2490 782,2490 782,2430"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "808,2430 808,2490 956,2490 956,2430"
+                },
+                "text": "result,"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "976,2431 976,2491 1037,2491 1037,2431"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1063,2431 1063,2491 1136,2491 1136,2431"
+                },
+                "text": "fish"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1168,2431 1168,2491 1359,2491 1359,2431"
+                },
+                "text": "becomes"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1385,2432 1385,2492 1533,2492 1533,2432"
+                },
+                "text": "denser"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1559,2434 1559,2494 1632,2494 1632,2434"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1664,2434 1664,2494 1806,2494 1806,2434"
+                },
+                "text": "begins"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1831,2434 1831,2494 1862,2494 1862,2434"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1893,2434 1893,2494 1973,2494 1973,2434"
+                },
+                "text": "sink"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "387,2592 738,2616 895,2583 1011,2618 1439,2579 1496,2616 1843,2592 1917,2627 2055,2592 2055,2542 1823,2507 1280,2542 1103,2489 946,2538 823,2487 387,2529"
+            },
+            "baseline": {
+              "points": "399,2566 482,2566 565,2566 648,2566 731,2567 814,2566 897,2569 980,2569 1063,2570 1146,2570 1229,2570 1312,2572 1395,2572 1478,2572 1561,2572 1644,2572 1727,2575 1810,2575 1893,2573 1976,2575 2059,2575"
+            },
+            "text": "faster. Conversely, if the same fish is moved above its usual depth, the",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "389,2526 389,2586 537,2586 537,2526"
+                },
+                "text": "faster."
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "550,2526 550,2586 822,2586 822,2526"
+                },
+                "text": "Conversely,"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "835,2527 835,2587 865,2587 865,2527"
+                },
+                "text": "if"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "885,2529 885,2589 947,2589 947,2529"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "978,2529 978,2589 1083,2589 1083,2529"
+                },
+                "text": "same"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1115,2530 1115,2590 1188,2590 1188,2530"
+                },
+                "text": "fish"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1220,2530 1220,2590 1250,2590 1250,2530"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1276,2532 1276,2592 1418,2592 1418,2532"
+                },
+                "text": "moved"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1449,2532 1449,2592 1573,2592 1573,2532"
+                },
+                "text": "above"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1605,2532 1605,2592 1654,2592 1654,2532"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1679,2535 1679,2595 1803,2595 1803,2535"
+                },
+                "text": "usual"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1816,2533 1816,2593 1964,2593 1964,2533"
+                },
+                "text": "depth,"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "1983,2535 1983,2595 2044,2595 2044,2535"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "378,2669 797,2712 2046,2712 2046,2627 1983,2610 1371,2642 1227,2599 1173,2640 915,2642 378,2603"
+            },
+            "baseline": {
+              "points": "390,2665 473,2665 556,2668 639,2671 722,2669 805,2670 888,2671 971,2671 1054,2669 1137,2671 1220,2671 1303,2671 1386,2674 1469,2674 1552,2674 1635,2674 1718,2674 1801,2674 1884,2677 1967,2677 2050,2680"
+            },
+            "text": "reduction in pressure causes the gasses in the swimbladder to expand.",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "380,2625 380,2685 589,2685 589,2625"
+                },
+                "text": "reduction"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "621,2630 621,2690 646,2690 646,2630"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "678,2629 678,2689 868,2689 868,2629"
+                },
+                "text": "pressure"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "900,2630 900,2690 1045,2690 1045,2630"
+                },
+                "text": "causes"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "1072,2630 1072,2690 1128,2690 1128,2630"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1160,2631 1160,2691 1299,2691 1299,2631"
+                },
+                "text": "gasses"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1325,2632 1325,2692 1356,2692 1356,2632"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1382,2634 1382,2694 1445,2694 1445,2634"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1478,2634 1478,2694 1775,2694 1775,2634"
+                },
+                "text": "swimbladder"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1801,2634 1801,2694 1832,2694 1832,2634"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1864,2637 1864,2697 2048,2697 2048,2637"
+                },
+                "text": "expand."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "391,2789 677,2784 753,2826 932,2778 1192,2817 1256,2778 1577,2819 1706,2786 1856,2841 1926,2795 2059,2802 2059,2719 1843,2697 1732,2743 1433,2693 1275,2738 1210,2706 391,2719"
+            },
+            "baseline": {
+              "points": "402,2763 485,2769 568,2767 651,2769 734,2769 817,2769 900,2769 984,2769 1067,2769 1150,2772 1233,2772 1316,2772 1399,2772 1482,2772 1566,2775 1649,2775 1732,2775 1815,2775 1898,2775 1981,2775 2065,2778"
+            },
+            "text": "sending the fish towards the surface of the water. Fish caught at depth",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "394,2728 394,2788 557,2788 557,2728"
+                },
+                "text": "sending"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "590,2728 590,2788 648,2788 648,2728"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "675,2729 675,2789 754,2789 754,2729"
+                },
+                "text": "fish"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "781,2729 781,2789 964,2789 964,2729"
+                },
+                "text": "towards"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "991,2729 991,2789 1049,2789 1049,2729"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "1083,2732 1083,2792 1233,2792 1233,2732"
+                },
+                "text": "surface"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1267,2732 1267,2792 1305,2792 1305,2732"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1326,2732 1326,2792 1390,2792 1390,2732"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1418,2732 1418,2792 1562,2792 1562,2732"
+                },
+                "text": "water."
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1582,2735 1582,2795 1660,2795 1660,2735"
+                },
+                "text": "Fish"
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "1693,2735 1693,2795 1844,2795 1844,2735"
+                },
+                "text": "caught"
+              },
+              {
+                "id": "tr_1_tl_24_w12",
+                "coords": {
+                  "points": "1865,2735 1865,2795 1903,2795 1903,2735"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_24_w13",
+                "coords": {
+                  "points": "1924,2735 1924,2795 2041,2795 2041,2735"
+                },
+                "text": "depth"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "387,2920 478,2880 1118,2933 1262,2887 1406,2928 1596,2891 1725,2939 1784,2893 2105,2893 2105,2819 387,2837"
+            },
+            "baseline": {
+              "points": "399,2868 484,2868 570,2870 655,2870 741,2871 826,2869 912,2869 997,2871 1083,2874 1168,2874 1254,2871 1340,2871 1425,2874 1511,2872 1596,2871 1682,2874 1767,2874 1853,2874 1938,2874 2024,2875 2110,2877"
+            },
+            "text": "and brought rapidly to the surface have trouble swimming normally and",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "383,2828 383,2888 455,2888 455,2828"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "480,2830 480,2890 662,2890 662,2830"
+                },
+                "text": "brought"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "687,2830 687,2890 839,2890 839,2830"
+                },
+                "text": "rapidly"
+              },
+              {
+                "id": "tr_1_tl_25_w4",
+                "coords": {
+                  "points": "877,2829 877,2889 906,2889 906,2829"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_25_w5",
+                "coords": {
+                  "points": "937,2830 937,2890 997,2890 997,2830"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_25_w6",
+                "coords": {
+                  "points": "1029,2834 1029,2894 1181,2894 1181,2834"
+                },
+                "text": "surface"
+              },
+              {
+                "id": "tr_1_tl_25_w7",
+                "coords": {
+                  "points": "1212,2831 1212,2891 1314,2891 1314,2831"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_25_w8",
+                "coords": {
+                  "points": "1339,2833 1339,2893 1497,2893 1497,2833"
+                },
+                "text": "trouble"
+              },
+              {
+                "id": "tr_1_tl_25_w9",
+                "coords": {
+                  "points": "1529,2832 1529,2892 1760,2892 1760,2832"
+                },
+                "text": "swimming"
+              },
+              {
+                "id": "tr_1_tl_25_w10",
+                "coords": {
+                  "points": "1791,2834 1791,2894 1991,2894 1991,2834"
+                },
+                "text": "normally"
+              },
+              {
+                "id": "tr_1_tl_25_w11",
+                "coords": {
+                  "points": "2023,2835 2023,2895 2089,2895 2089,2835"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_26",
+            "coords": {
+              "points": "387,3018 563,2979 721,3024 932,2979 1251,3018 1297,2981 2077,3003 2077,2904 1850,2939 387,2922"
+            },
+            "baseline": {
+              "points": "399,2963 483,2966 567,2967 651,2968 735,2969 819,2969 903,2969 987,2969 1071,2969 1155,2969 1239,2969 1323,2972 1407,2972 1491,2972 1575,2971 1659,2972 1743,2972 1827,2972 1911,2972 1995,2974 2080,2972"
+            },
+            "text": "often are seen with their swimbladder expanded into the mouth cavity,",
+            "words": [
+              {
+                "id": "tr_1_tl_26_w1",
+                "coords": {
+                  "points": "389,2924 389,2984 497,2984 497,2924"
+                },
+                "text": "often"
+              },
+              {
+                "id": "tr_1_tl_26_w2",
+                "coords": {
+                  "points": "528,2926 528,2986 588,2986 588,2926"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_26_w3",
+                "coords": {
+                  "points": "619,2928 619,2988 709,2988 709,2928"
+                },
+                "text": "seen"
+              },
+              {
+                "id": "tr_1_tl_26_w4",
+                "coords": {
+                  "points": "740,2929 740,2989 830,2989 830,2929"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_26_w5",
+                "coords": {
+                  "points": "861,2929 861,2989 963,2989 963,2929"
+                },
+                "text": "their"
+              },
+              {
+                "id": "tr_1_tl_26_w6",
+                "coords": {
+                  "points": "994,2929 994,2989 1291,2989 1291,2929"
+                },
+                "text": "swimbladder"
+              },
+              {
+                "id": "tr_1_tl_26_w7",
+                "coords": {
+                  "points": "1316,2932 1316,2992 1528,2992 1528,2932"
+                },
+                "text": "expanded"
+              },
+              {
+                "id": "tr_1_tl_26_w8",
+                "coords": {
+                  "points": "1559,2931 1559,2991 1637,2991 1637,2931"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_26_w9",
+                "coords": {
+                  "points": "1661,2932 1661,2992 1727,2992 1727,2932"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_26_w10",
+                "coords": {
+                  "points": "1759,2932 1759,2992 1891,2992 1891,2932"
+                },
+                "text": "mouth"
+              },
+              {
+                "id": "tr_1_tl_26_w11",
+                "coords": {
+                  "points": "1922,2933 1922,2993 2079,2993 2079,2933"
+                },
+                "text": "cavity,"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

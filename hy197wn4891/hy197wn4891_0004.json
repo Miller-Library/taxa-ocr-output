@@ -1,0 +1,2764 @@
+{
+  "processId": 10312951,
+  "status": "FINISHED",
+  "content": {
+    "text": "minutes prior to imaging. Images were recorded at 4-second intervals as cell-laden glass cover\nslips were perfused with various solutions via a vacuum injection pump apparatus. Each imaging\ntrial lasted four minutes. All Fluo-3/AM imaging was done on an Olympus Fluoview 300 laser\nscanning microscope using a UPLFL 20X objective. Fluoview Physiology FV30O (Olympus\nOptical) software was used in data acquisition.\nFura-2/AM (Molecular Probes) dye was used to calibrate AF/Fo values with cellular\ncalcium concentrations using the ratiometric calibration equation developed by Grynkie wicz\n(1985). Freshly prepared 2uM ionomycin was used to release all stored Ca and thus obtain a\nmaximal fluorescence reading (Fma). 2mM MnC, quenches fura-2 fluorescence and was used to\nobtain a minimum reading (Fp). Fura-2 experiments were conducted on an Axiovert S100\nmicroscope (Zeiss); MetaFluor 4.1 (Universal Imaging) was used for data acquisition and analysis.\nDye loading procedures were identical to Fluo-3 experiments, but perfusion was done by hand\nwith a micropipette.\nData Analysis: At the completion of each experiment, ten representative cells were selected as\nregions of interest. The fluorescence intensity of these cells as a function of time over the course\nof several trials was determined in Fluoview. Data were then exported to Excel (Microsoft) for\norganization and subsequently to IGOR Pro (Wave Metrics) or Imagel (NIH) for further analysis.\nData from the ten individual cells were averaged and corrected for initial fluorescence intensity to\nobtain values of AF/Fo. Statistical analysis was carried out using Systat 8.0 (SPSS). Where\napplicable, statistics are presented as mean + one standard deviation.\nResults:\nDye Fade: The fluorescent intensity of Fluo-3/AM fades with time during continued exposure\nto light. To quantify the effects of dye fade, a four-minute dye fade control was run as the first\ntrial on each chip. Some trials showed a slight increase in fluorescence; others a slight decrease.\nThe patter of increases and decreases was random, and all trials approximated linearity. The\nmean best-fit line slope (N=43) was 9.957E-O5 + 2.756E-4, not significantly different from zero.\nThus dye fade was not considered a significant confounding factor in interpreting the results.",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "322,258 322,2693 2225,2693 2225,258"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "308,346 574,308 2157,318 2157,259 1874,206 1620,266 1082,211 1001,266 885,221 603,266 308,237"
+            },
+            "baseline": {
+              "points": "322,298 414,301 506,298 598,300 690,299 782,301 874,300 966,298 1058,298 1150,298 1242,301 1334,299 1426,301 1518,301 1610,301 1702,301 1794,301 1886,304 1978,304 2070,301 2163,301"
+            },
+            "text": "minutes prior to imaging. Images were recorded at 4-second intervals as cell-laden glass cover",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "313,260 313,320 458,320 458,260"
+                },
+                "text": "minutes"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "479,258 479,318 572,318 572,258"
+                },
+                "text": "prior"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "588,259 588,319 614,319 614,259"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "645,259 645,319 806,319 806,259"
+                },
+                "text": "imaging."
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "832,259 832,319 961,319 961,259"
+                },
+                "text": "Images"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "988,258 988,318 1065,318 1065,258"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1092,258 1092,318 1252,318 1252,258"
+                },
+                "text": "recorded"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1279,259 1279,319 1309,319 1309,259"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1325,260 1325,320 1486,320 1486,260"
+                },
+                "text": "4-second"
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1512,261 1512,321 1673,321 1673,261"
+                },
+                "text": "intervals"
+              },
+              {
+                "id": "tr_1_tl_1_w11",
+                "coords": {
+                  "points": "1694,261 1694,321 1725,321 1725,261"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_1_w12",
+                "coords": {
+                  "points": "1746,262 1746,322 1917,322 1917,262"
+                },
+                "text": "cell-laden"
+              },
+              {
+                "id": "tr_1_tl_1_w13",
+                "coords": {
+                  "points": "1943,263 1943,323 2026,323 2026,263"
+                },
+                "text": "glass"
+              },
+              {
+                "id": "tr_1_tl_1_w14",
+                "coords": {
+                  "points": "2047,261 2047,321 2150,321 2150,261"
+                },
+                "text": "cover"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "318,418 2214,413 2214,335 318,344"
+            },
+            "baseline": {
+              "points": "331,384 425,381 519,383 614,384 708,382 803,382 897,384 991,384 1086,384 1180,384 1275,384 1369,386 1463,387 1558,387 1652,387 1747,389 1841,387 1935,387 2030,387 2124,390 2219,393"
+            },
+            "text": "slips were perfused with various solutions via a vacuum injection pump apparatus. Each imaging",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "319,343 319,403 397,403 397,343"
+                },
+                "text": "slips"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "421,341 421,401 499,401 499,341"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "523,343 523,403 675,403 675,343"
+                },
+                "text": "perfused"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "704,342 704,402 777,402 777,342"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "800,343 800,403 936,403 936,343"
+                },
+                "text": "various"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "953,344 953,404 1123,404 1123,344"
+                },
+                "text": "solutions"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1146,344 1146,404 1191,404 1191,344"
+                },
+                "text": "via"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1214,344 1214,404 1225,404 1225,344"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1248,344 1248,404 1372,404 1372,344"
+                },
+                "text": "vacuum"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1412,347 1412,407 1570,407 1570,347"
+                },
+                "text": "injection"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1599,347 1599,407 1695,407 1695,347"
+                },
+                "text": "pump"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1724,347 1724,407 1922,407 1922,347"
+                },
+                "text": "apparatus."
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "1945,347 1945,407 2035,407 2035,347"
+                },
+                "text": "Each"
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "2064,350 2064,410 2205,410 2205,350"
+                },
+                "text": "imaging"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "318,479 783,517 878,484 2178,498 2178,434 2066,420 318,418"
+            },
+            "baseline": {
+              "points": "331,471 423,471 516,468 608,468 701,468 794,471 886,468 979,468 1072,470 1164,471 1257,473 1350,471 1442,471 1535,471 1628,471 1720,471 1813,471 1906,471 1998,472 2091,474 2184,474"
+            },
+            "text": "trial lasted four minutes. All Fluo-3/AM imaging was done on an Olympus Fluoview 300 laser",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "324,431 324,491 395,491 395,431"
+                },
+                "text": "trial"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "413,429 413,489 506,489 506,429"
+                },
+                "text": "lasted"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "535,428 535,488 611,488 611,428"
+                },
+                "text": "four"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "629,428 629,488 794,488 794,428"
+                },
+                "text": "minutes."
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "817,429 817,489 877,489 877,429"
+                },
+                "text": "All"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "889,428 889,488 1089,488 1089,428"
+                },
+                "text": "Fluo-3/AM"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1134,431 1134,491 1277,491 1277,431"
+                },
+                "text": "imaging"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1305,431 1305,491 1366,491 1366,431"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1383,431 1383,491 1471,491 1471,431"
+                },
+                "text": "done"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1494,431 1494,491 1532,491 1532,431"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1561,431 1561,491 1593,491 1593,431"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1622,431 1622,491 1793,491 1793,431"
+                },
+                "text": "Olympus"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1816,431 1816,491 1970,491 1970,431"
+                },
+                "text": "Fluoview"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "2004,432 2004,492 2064,492 2064,432"
+                },
+                "text": "300"
+              },
+              {
+                "id": "tr_1_tl_3_w15",
+                "coords": {
+                  "points": "2087,434 2087,494 2169,494 2169,434"
+                },
+                "text": "laser"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "313,572 1416,603 1578,567 1663,614 1827,567 2131,586 2128,529 1948,489 311,515"
+            },
+            "baseline": {
+              "points": "325,554 415,551 505,551 596,554 686,551 777,554 867,554 957,554 1048,554 1138,554 1229,554 1319,554 1409,552 1500,554 1590,554 1681,557 1771,553 1861,555 1952,557 2042,557 2133,554"
+            },
+            "text": "scanning microscope using a UPLFL 20X objective. Fluoview Physiology FV30O (Olympus",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "312,511 312,571 475,571 475,511"
+                },
+                "text": "scanning"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "499,513 499,573 715,573 715,513"
+                },
+                "text": "microscope"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "739,514 739,574 833,574 833,514"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "857,514 857,574 868,574 868,514"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "892,514 892,574 1026,574 1026,514"
+                },
+                "text": "UPLFL"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1056,514 1056,574 1120,574 1120,514"
+                },
+                "text": "20X"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1150,514 1150,574 1337,574 1337,514"
+                },
+                "text": "objective."
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1361,512 1361,572 1524,572 1524,512"
+                },
+                "text": "Fluoview"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1560,516 1560,576 1765,576 1765,516"
+                },
+                "text": "Physiology"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1789,514 1789,574 1911,574 1911,514"
+                },
+                "text": "FV30O"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1941,517 1941,577 2121,577 2121,517"
+                },
+                "text": "(Olympus"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "320,660 1238,674 1238,614 1129,586 757,612 320,586"
+            },
+            "baseline": {
+              "points": "334,638 379,638 425,638 470,638 516,638 561,638 607,638 652,638 698,638 743,638 789,641 834,640 880,639 925,641 971,641 1016,641 1062,641 1107,641 1153,641 1198,641 1244,641"
+            },
+            "text": "Optical) software was used in data acquisition.",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "326,598 326,658 484,658 484,598"
+                },
+                "text": "Optical)"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "501,598 501,658 660,658 660,598"
+                },
+                "text": "software"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "682,598 682,658 747,658 747,598"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "770,600 770,660 846,660 846,600"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "874,599 874,659 895,659 895,599"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "923,601 923,661 994,661 994,601"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1017,601 1017,661 1241,661 1241,601"
+                },
+                "text": "acquisition."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "465,735 1651,773 2123,745 2083,674 1862,690 1822,657 1749,698 1518,662 465,671"
+            },
+            "baseline": {
+              "points": "477,722 559,722 642,723 724,724 807,725 890,725 972,725 1055,725 1138,725 1220,725 1303,725 1386,725 1468,725 1551,728 1634,725 1716,725 1799,726 1882,726 1964,728 2047,728 2130,728"
+            },
+            "text": "Fura-2/AM (Molecular Probes) dye was used to calibrate AF/Fo values with cellular",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "466,682 466,742 671,742 671,682"
+                },
+                "text": "Fura-2/AM"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "710,685 710,745 915,745 915,685"
+                },
+                "text": "(Molecular"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "938,685 938,745 1082,745 1082,685"
+                },
+                "text": "Probes)"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "1099,685 1099,745 1154,745 1154,685"
+                },
+                "text": "dye"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1177,685 1177,745 1243,745 1243,685"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1266,685 1266,745 1337,745 1337,685"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1366,685 1366,745 1393,745 1393,685"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1416,685 1416,745 1571,745 1571,685"
+                },
+                "text": "calibrate"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1594,685 1594,745 1721,745 1721,685"
+                },
+                "text": "AF/Fo"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1749,686 1749,746 1860,746 1860,686"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1882,686 1882,746 1954,746 1954,686"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1982,688 1982,748 2115,748 2115,688"
+                },
+                "text": "cellular"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "316,814 1991,849 2123,830 2121,778 641,747 313,778"
+            },
+            "baseline": {
+              "points": "328,808 418,808 508,808 598,808 688,811 778,808 868,811 958,811 1048,811 1138,811 1229,811 1319,811 1409,811 1499,811 1589,811 1679,809 1769,811 1859,811 1949,810 2039,811 2130,814"
+            },
+            "text": "calcium concentrations using the ratiometric calibration equation developed by Grynkie wicz",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "313,768 313,828 435,828 435,768"
+                },
+                "text": "calcium"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "478,768 478,828 759,828 759,768"
+                },
+                "text": "concentrations"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "781,769 781,829 871,829 871,769"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "898,771 898,831 946,831 946,771"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "973,771 973,831 1174,831 1174,771"
+                },
+                "text": "ratiometric"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1196,771 1196,831 1387,831 1387,771"
+                },
+                "text": "calibration"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1414,771 1414,831 1568,831 1568,771"
+                },
+                "text": "equation"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1601,769 1601,829 1786,829 1786,769"
+                },
+                "text": "developed"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1819,771 1819,831 1850,831 1850,771"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1877,770 1877,830 2020,830 2020,770"
+                },
+                "text": "Grynkie"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "2037,772 2037,832 2111,832 2111,772"
+                },
+                "text": "wicz"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "327,925 2164,913 2164,856 2100,847 327,840"
+            },
+            "baseline": {
+              "points": "340,892 431,892 522,889 614,895 705,895 797,895 888,895 980,895 1071,895 1163,895 1254,895 1345,895 1437,895 1528,895 1620,895 1711,895 1803,896 1894,898 1986,898 2077,897 2169,895"
+            },
+            "text": "(1985). Freshly prepared 2uM ionomycin was used to release all stored Ca and thus obtain a",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "328,852 328,912 459,912 459,852"
+                },
+                "text": "(1985)."
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "488,851 488,911 619,911 619,851"
+                },
+                "text": "Freshly"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "642,855 642,915 802,915 802,855"
+                },
+                "text": "prepared"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "830,855 830,915 890,915 890,855"
+                },
+                "text": "2uM"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "930,855 930,915 1122,915 1122,855"
+                },
+                "text": "ionomycin"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1150,855 1150,915 1216,915 1216,855"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1239,855 1239,915 1311,915 1311,855"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1339,855 1339,915 1360,915 1360,855"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1388,855 1388,915 1509,915 1509,855"
+                },
+                "text": "release"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1532,855 1532,915 1575,915 1575,855"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1587,855 1587,915 1697,915 1697,855"
+                },
+                "text": "stored"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1726,855 1726,915 1769,915 1769,855"
+                },
+                "text": "Ca"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1831,857 1831,917 1885,917 1885,857"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1913,858 1913,918 1990,918 1990,858"
+                },
+                "text": "thus"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "2007,857 2007,917 2117,917 2117,857"
+                },
+                "text": "obtain"
+              },
+              {
+                "id": "tr_1_tl_8_w16",
+                "coords": {
+                  "points": "2145,855 2145,915 2156,915 2156,855"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "316,989 1051,1027 1148,989 1279,1027 1402,989 2199,992 2154,925 316,935"
+            },
+            "baseline": {
+              "points": "328,975 421,975 515,978 609,975 703,976 797,978 890,981 984,987 1078,979 1172,978 1266,978 1359,981 1453,978 1547,979 1641,980 1735,979 1828,981 1922,981 2016,980 2110,978 2204,978"
+            },
+            "text": "maximal fluorescence reading (Fma). 2mM MnC, quenches fura-2 fluorescence and was used to",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "322,935 322,995 483,995 483,935"
+                },
+                "text": "maximal"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "500,935 500,995 733,995 733,935"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "755,938 755,998 885,998 885,938"
+                },
+                "text": "reading"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "913,946 913,1006 1026,1006 1026,946"
+                },
+                "text": "(Fma)."
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "1048,938 1048,998 1128,998 1128,938"
+                },
+                "text": "2mM"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1172,938 1172,998 1292,998 1292,938"
+                },
+                "text": "MnC,"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1308,939 1308,999 1481,999 1481,939"
+                },
+                "text": "quenches"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1503,939 1503,999 1611,999 1611,939"
+                },
+                "text": "fura-2"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1633,939 1633,999 1866,999 1866,939"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1894,940 1894,1000 1953,1000 1953,940"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1975,940 1975,1000 2039,1000 2039,940"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "2062,938 2062,998 2137,998 2137,938"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "2165,938 2165,998 2185,998 2185,938"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "316,1082 2112,1082 2095,1015 316,1027"
+            },
+            "baseline": {
+              "points": "328,1062 417,1062 507,1062 596,1062 686,1062 775,1062 865,1068 954,1068 1044,1065 1133,1065 1223,1065 1312,1065 1402,1065 1491,1065 1581,1065 1670,1065 1760,1065 1849,1065 1939,1065 2028,1065 2118,1065"
+            },
+            "text": "obtain a minimum reading (Fp). Fura-2 experiments were conducted on an Axiovert S100",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "321,1022 321,1082 432,1082 432,1022"
+                },
+                "text": "obtain"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "459,1022 459,1082 469,1082 469,1022"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "491,1022 491,1082 654,1082 654,1022"
+                },
+                "text": "minimum"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "697,1022 697,1082 824,1082 824,1022"
+                },
+                "text": "reading"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "856,1028 856,1088 961,1088 961,1028"
+                },
+                "text": "(Fp)."
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "988,1025 988,1085 1104,1085 1104,1025"
+                },
+                "text": "Fura-2"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1131,1025 1131,1085 1358,1085 1358,1025"
+                },
+                "text": "experiments"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1380,1025 1380,1085 1464,1085 1464,1025"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1486,1025 1486,1085 1676,1085 1676,1025"
+                },
+                "text": "conducted"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1703,1025 1703,1085 1740,1085 1740,1025"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1767,1025 1767,1085 1803,1085 1803,1025"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1830,1025 1830,1085 1993,1085 1993,1025"
+                },
+                "text": "Axiovert"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "2010,1025 2010,1085 2094,1085 2094,1025"
+                },
+                "text": "S100"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "318,1155 645,1189 942,1155 1336,1193 1416,1158 2216,1170 2216,1098 2145,1094 318,1115"
+            },
+            "baseline": {
+              "points": "331,1145 425,1145 520,1148 614,1148 709,1147 803,1145 898,1145 992,1148 1087,1145 1181,1148 1276,1148 1371,1148 1465,1146 1560,1148 1654,1148 1749,1148 1843,1148 1938,1148 2032,1148 2127,1148 2222,1148"
+            },
+            "text": "microscope (Zeiss); MetaFluor 4.1 (Universal Imaging) was used for data acquisition and analysis.",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "324,1105 324,1165 534,1165 534,1105"
+                },
+                "text": "microscope"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "562,1107 562,1167 700,1167 700,1107"
+                },
+                "text": "(Zeiss);"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "717,1105 717,1165 916,1165 916,1105"
+                },
+                "text": "MetaFluor"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "934,1106 934,1166 983,1166 983,1106"
+                },
+                "text": "4.1"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1006,1105 1006,1165 1199,1165 1199,1105"
+                },
+                "text": "(Universal"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1216,1108 1216,1168 1388,1168 1388,1108"
+                },
+                "text": "Imaging)"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1405,1106 1405,1166 1465,1166 1465,1106"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1488,1107 1488,1167 1565,1167 1565,1107"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1593,1108 1593,1168 1642,1168 1642,1108"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1660,1108 1660,1168 1731,1168 1731,1108"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1760,1108 1760,1168 1953,1168 1953,1108"
+                },
+                "text": "acquisition"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1981,1108 1981,1168 2036,1168 2036,1108"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "2064,1108 2064,1168 2219,1168 2219,1108"
+                },
+                "text": "analysis."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "318,1260 1184,1274 1279,1241 1903,1286 2173,1250 2173,1184 1936,1170 1601,1203 318,1184"
+            },
+            "baseline": {
+              "points": "331,1232 423,1226 515,1232 608,1231 700,1229 792,1227 885,1229 977,1229 1069,1232 1162,1232 1254,1232 1346,1234 1439,1232 1531,1232 1623,1232 1716,1232 1808,1232 1900,1232 1993,1235 2085,1234 2178,1235"
+            },
+            "text": "Dye loading procedures were identical to Fluo-3 experiments, but perfusion was done by hand",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "324,1190 324,1250 393,1250 393,1190"
+                },
+                "text": "Dye"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "416,1189 416,1249 545,1249 545,1189"
+                },
+                "text": "loading"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "573,1189 573,1249 778,1249 778,1189"
+                },
+                "text": "procedures"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "801,1188 801,1248 881,1248 881,1188"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "903,1189 903,1249 1065,1249 1065,1189"
+                },
+                "text": "identical"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1082,1192 1082,1252 1103,1252 1103,1192"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1131,1192 1131,1252 1250,1252 1250,1192"
+                },
+                "text": "Fluo-3"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1272,1192 1272,1252 1520,1252 1520,1192"
+                },
+                "text": "experiments,"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1537,1192 1537,1252 1596,1252 1596,1192"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1613,1192 1613,1252 1786,1252 1786,1192"
+                },
+                "text": "perfusion"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1814,1192 1814,1252 1878,1252 1878,1192"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1900,1193 1900,1253 1986,1253 1986,1193"
+                },
+                "text": "done"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "2014,1194 2014,1254 2046,1254 2046,1194"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "2074,1194 2074,1254 2154,1254 2154,1194"
+                },
+                "text": "hand"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "318,1336 375,1350 410,1338 425,1352 470,1338 510,1352 529,1338 610,1364 726,1336 726,1274 636,1288 610,1267 586,1286 560,1267 543,1279 501,1267 429,1288 399,1265 349,1281 318,1272"
+            },
+            "baseline": {
+              "points": "331,1309 356,1312 381,1315 406,1315 431,1316 456,1317 481,1318 506,1318 531,1318 556,1318 581,1318 606,1318 631,1318 656,1317 681,1316 706,1315 731,1315"
+            },
+            "text": "with a micropipette.",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "319,1271 319,1331 390,1331 390,1271"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "418,1275 418,1335 429,1335 429,1275"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "457,1278 457,1338 717,1338 717,1278"
+                },
+                "text": "micropipette."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "311,1509 2190,1511 2190,1433 1953,1447 1867,1402 1651,1450 1442,1414 1355,1452 1015,1450 954,1397 816,1452 726,1405 683,1442 311,1421"
+            },
+            "baseline": {
+              "points": "325,1485 418,1485 512,1485 605,1486 699,1485 792,1485 886,1487 979,1485 1073,1485 1166,1486 1260,1488 1354,1488 1447,1488 1541,1487 1634,1488 1728,1487 1821,1485 1915,1487 2008,1488 2102,1488 2196,1488"
+            },
+            "text": "Data Analysis: At the completion of each experiment, ten representative cells were selected as",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "316,1445 316,1505 401,1505 401,1445"
+                },
+                "text": "Data"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "427,1445 427,1505 619,1505 619,1445"
+                },
+                "text": "Analysis:"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "645,1445 645,1505 690,1505 690,1445"
+                },
+                "text": "At"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "711,1445 711,1505 761,1505 761,1445"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "783,1446 783,1506 995,1506 995,1446"
+                },
+                "text": "completion"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1021,1445 1021,1505 1056,1505 1056,1445"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1072,1445 1072,1505 1147,1505 1147,1445"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1178,1448 1178,1508 1407,1508 1407,1448"
+                },
+                "text": "experiment,"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1422,1448 1422,1508 1467,1508 1467,1448"
+                },
+                "text": "ten"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1498,1447 1498,1507 1762,1507 1762,1447"
+                },
+                "text": "representative"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1783,1445 1783,1505 1858,1505 1858,1445"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1884,1447 1884,1507 1965,1507 1965,1447"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1986,1448 1986,1508 2127,1508 2127,1448"
+                },
+                "text": "selected"
+              },
+              {
+                "id": "tr_1_tl_14_w14",
+                "coords": {
+                  "points": "2153,1448 2153,1508 2183,1508 2183,1448"
+                },
+                "text": "as"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "325,1604 1236,1587 1291,1620 1395,1582 2010,1578 2211,1611 2192,1509 325,1540"
+            },
+            "baseline": {
+              "points": "337,1569 435,1569 534,1569 633,1569 732,1569 831,1572 930,1569 1029,1569 1128,1569 1227,1569 1325,1569 1424,1571 1523,1572 1622,1570 1721,1572 1820,1569 1919,1571 2018,1572 2117,1570 2216,1572"
+            },
+            "text": "regions of interest. The fluorescence intensity of these cells as a function of time over the course",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "330,1529 330,1589 459,1589 459,1529"
+                },
+                "text": "regions"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "480,1529 480,1589 515,1589 515,1529"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "535,1529 535,1589 686,1589 686,1529"
+                },
+                "text": "interest."
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "717,1529 717,1589 781,1589 781,1529"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "802,1529 802,1589 1038,1589 1038,1529"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1063,1529 1063,1589 1219,1589 1219,1529"
+                },
+                "text": "intensity"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1240,1529 1240,1589 1274,1589 1274,1529"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1290,1529 1290,1589 1379,1589 1379,1529"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1406,1531 1406,1591 1480,1591 1480,1531"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1501,1531 1501,1591 1531,1591 1531,1531"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1551,1531 1551,1591 1566,1591 1566,1531"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1586,1530 1586,1590 1737,1590 1737,1530"
+                },
+                "text": "function"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1768,1530 1768,1590 1802,1590 1802,1530"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "1818,1529 1818,1589 1892,1589 1892,1529"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_15_w15",
+                "coords": {
+                  "points": "1918,1531 1918,1591 2003,1591 2003,1531"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_15_w16",
+                "coords": {
+                  "points": "2019,1531 2019,1591 2069,1591 2069,1531"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w17",
+                "coords": {
+                  "points": "2094,1530 2094,1590 2209,1590 2209,1530"
+                },
+                "text": "course"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "320,1663 588,1699 740,1665 2185,1680 2185,1611 2078,1599 320,1604"
+            },
+            "baseline": {
+              "points": "334,1652 426,1649 519,1652 612,1652 705,1652 798,1653 890,1655 983,1652 1076,1652 1169,1652 1262,1654 1354,1653 1447,1655 1540,1655 1633,1655 1726,1652 1818,1655 1911,1655 2004,1655 2097,1655 2190,1655"
+            },
+            "text": "of several trials was determined in Fluoview. Data were then exported to Excel (Microsoft) for",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "325,1611 325,1671 362,1671 362,1611"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "378,1609 378,1669 509,1669 509,1609"
+                },
+                "text": "several"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "526,1612 526,1672 609,1672 609,1612"
+                },
+                "text": "trials"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "631,1612 631,1672 694,1672 694,1612"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "716,1613 716,1673 921,1673 921,1613"
+                },
+                "text": "determined"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "948,1612 948,1672 974,1672 974,1612"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1001,1612 1001,1672 1190,1672 1190,1612"
+                },
+                "text": "Fluoview."
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1212,1613 1212,1673 1296,1673 1296,1613"
+                },
+                "text": "Data"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1323,1613 1323,1673 1401,1673 1401,1613"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1423,1615 1423,1675 1496,1675 1496,1615"
+                },
+                "text": "then"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1523,1615 1523,1675 1687,1675 1687,1615"
+                },
+                "text": "exported"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1714,1612 1714,1672 1740,1672 1740,1612"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1767,1615 1767,1675 1877,1675 1877,1615"
+                },
+                "text": "Excel"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "1888,1615 1888,1675 2104,1675 2104,1615"
+                },
+                "text": "(Microsoft)"
+              },
+              {
+                "id": "tr_1_tl_16_w15",
+                "coords": {
+                  "points": "2120,1615 2120,1675 2172,1675 2172,1615"
+                },
+                "text": "for"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "316,1772 2218,1758 2218,1703 2149,1682 1186,1711 1001,1668 935,1711 728,1677 316,1713"
+            },
+            "baseline": {
+              "points": "328,1739 422,1739 517,1739 612,1739 707,1739 802,1739 897,1739 991,1739 1086,1739 1181,1739 1276,1739 1371,1739 1466,1739 1561,1739 1655,1742 1750,1742 1845,1742 1940,1742 2035,1742 2130,1742 2225,1745"
+            },
+            "text": "organization and subsequently to IGOR Pro (Wave Metrics) or Imagel (NIH) for further analysis.",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "317,1699 317,1759 548,1759 548,1699"
+                },
+                "text": "organization"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "578,1699 578,1759 630,1759 630,1699"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "660,1699 660,1759 902,1759 902,1699"
+                },
+                "text": "subsequently"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "926,1699 926,1759 949,1759 949,1699"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "979,1699 979,1759 1083,1759 1083,1699"
+                },
+                "text": "IGOR"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1118,1699 1118,1759 1175,1759 1175,1699"
+                },
+                "text": "Pro"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1199,1699 1199,1759 1315,1759 1315,1699"
+                },
+                "text": "(Wave"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1327,1699 1327,1759 1483,1759 1483,1699"
+                },
+                "text": "Metrics)"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1495,1699 1495,1759 1535,1759 1535,1699"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1553,1700 1553,1760 1687,1760 1687,1700"
+                },
+                "text": "Imagel"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1705,1702 1705,1762 1826,1762 1826,1702"
+                },
+                "text": "(NIH)"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1844,1702 1844,1762 1895,1762 1895,1702"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1914,1702 1914,1762 2046,1762 2046,1702"
+                },
+                "text": "further"
+              },
+              {
+                "id": "tr_1_tl_17_w14",
+                "coords": {
+                  "points": "2065,1702 2065,1762 2220,1762 2220,1702"
+                },
+                "text": "analysis."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "318,1851 2218,1858 2218,1789 1912,1763 1867,1794 318,1775"
+            },
+            "baseline": {
+              "points": "331,1826 425,1826 520,1826 615,1823 709,1825 804,1826 899,1826 993,1825 1088,1826 1183,1826 1278,1826 1372,1826 1467,1826 1562,1826 1656,1826 1751,1826 1846,1826 1940,1826 2035,1826 2130,1826 2225,1826"
+            },
+            "text": "Data from the ten individual cells were averaged and corrected for initial fluorescence intensity to",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "323,1786 323,1846 405,1846 405,1786"
+                },
+                "text": "Data"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "426,1786 426,1846 498,1846 498,1786"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "540,1784 540,1844 586,1844 586,1784"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "612,1783 612,1843 658,1843 658,1783"
+                },
+                "text": "ten"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "684,1785 684,1845 875,1845 875,1785"
+                },
+                "text": "individual"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "891,1785 891,1845 968,1845 968,1785"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "989,1785 989,1845 1066,1845 1066,1785"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1092,1786 1092,1846 1246,1846 1246,1786"
+                },
+                "text": "averaged"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1278,1786 1278,1846 1334,1846 1334,1786"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1360,1786 1360,1846 1525,1846 1525,1786"
+                },
+                "text": "corrected"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1557,1786 1557,1846 1608,1846 1608,1786"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1624,1786 1624,1846 1731,1846 1731,1786"
+                },
+                "text": "initial"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1748,1786 1748,1846 1979,1846 1979,1786"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "2006,1786 2006,1846 2160,1846 2160,1786"
+                },
+                "text": "intensity"
+              },
+              {
+                "id": "tr_1_tl_18_w15",
+                "coords": {
+                  "points": "2181,1786 2181,1846 2206,1846 2206,1786"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "316,1931 2095,1950 2095,1870 2014,1860 316,1870"
+            },
+            "baseline": {
+              "points": "328,1909 416,1907 505,1908 593,1908 682,1907 771,1909 859,1909 948,1909 1036,1909 1125,1906 1214,1909 1302,1909 1391,1909 1479,1909 1568,1909 1657,1909 1745,1909 1834,1908 1922,1907 2011,1909 2100,1909"
+            },
+            "text": "obtain values of AF/Fo. Statistical analysis was carried out using Systat 8.0 (SPSS). Where",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "322,1867 322,1927 427,1927 427,1867"
+                },
+                "text": "obtain"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "455,1868 455,1928 565,1928 565,1868"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "588,1867 588,1927 626,1927 626,1867"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "644,1867 644,1927 793,1927 793,1867"
+                },
+                "text": "AF/Fo."
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "816,1869 816,1929 1004,1929 1004,1869"
+                },
+                "text": "Statistical"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1016,1867 1016,1927 1154,1927 1154,1867"
+                },
+                "text": "analysis"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1177,1868 1177,1928 1238,1928 1238,1868"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1260,1869 1260,1929 1382,1929 1382,1869"
+                },
+                "text": "carried"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1410,1869 1410,1929 1465,1929 1465,1869"
+                },
+                "text": "out"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1482,1869 1482,1929 1576,1929 1576,1869"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1599,1869 1599,1929 1709,1929 1709,1869"
+                },
+                "text": "Systat"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1727,1868 1727,1928 1776,1928 1776,1868"
+                },
+                "text": "8.0"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1799,1867 1799,1927 1942,1927 1942,1867"
+                },
+                "text": "(SPSS)."
+              },
+              {
+                "id": "tr_1_tl_19_w14",
+                "coords": {
+                  "points": "1965,1869 1965,1929 2086,1929 2086,1869"
+                },
+                "text": "Where"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "318,2017 463,2052 1668,2031 1668,1941 318,1941"
+            },
+            "baseline": {
+              "points": "331,1996 398,1996 465,1996 532,1996 599,1993 666,1993 733,1993 800,1994 867,1993 934,1993 1002,1996 1069,1996 1136,1993 1203,1993 1270,1993 1337,1995 1404,1993 1471,1993 1538,1993 1605,1993 1673,1993"
+            },
+            "text": "applicable, statistics are presented as mean + one standard deviation.",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "323,1956 323,2016 524,2016 524,1956"
+                },
+                "text": "applicable,"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "540,1953 540,2013 696,2013 696,1953"
+                },
+                "text": "statistics"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "717,1953 717,2013 767,2013 767,1953"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "788,1953 788,2013 963,2013 963,1953"
+                },
+                "text": "presented"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "989,1956 989,2016 1025,2016 1025,1956"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1045,1955 1045,2015 1136,2015 1136,1955"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1167,1953 1167,2013 1181,2013 1181,1953"
+                },
+                "text": "+"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1207,1953 1207,2013 1272,2013 1272,1953"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1293,1953 1293,2013 1449,2013 1449,1953"
+                },
+                "text": "standard"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1475,1953 1475,2013 1666,2013 1666,1953"
+                },
+                "text": "deviation."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "318,2187 354,2195 372,2190 399,2209 422,2192 437,2197 460,2180 489,2187 489,2109 453,2104 439,2114 429,2107 391,2123 370,2104 342,2112 330,2097 318,2097"
+            },
+            "baseline": {
+              "points": "331,2166 358,2161 385,2158 413,2158 440,2159 467,2160 495,2160"
+            },
+            "text": "Results:",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "321,2118 321,2178 478,2178 478,2118"
+                },
+                "text": "Results:"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "318,2268 2190,2266 2173,2204 1718,2199 1682,2166 1431,2206 318,2202"
+            },
+            "baseline": {
+              "points": "331,2243 424,2243 517,2246 610,2246 703,2246 796,2246 889,2246 982,2246 1075,2244 1168,2243 1262,2244 1355,2246 1448,2243 1541,2243 1634,2246 1727,2247 1820,2246 1913,2246 2006,2246 2099,2246 2193,2246"
+            },
+            "text": "Dye Fade: The fluorescent intensity of Fluo-3/AM fades with time during continued exposure",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "319,2203 319,2263 395,2263 395,2203"
+                },
+                "text": "Dye"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "418,2204 418,2264 534,2264 534,2204"
+                },
+                "text": "Fade:"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "551,2206 551,2266 617,2266 617,2206"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "640,2206 640,2266 855,2266 855,2206"
+                },
+                "text": "fluorescent"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "873,2206 873,2266 1028,2266 1028,2206"
+                },
+                "text": "intensity"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1051,2204 1051,2264 1083,2264 1083,2204"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1101,2203 1101,2263 1305,2263 1305,2203"
+                },
+                "text": "Fluo-3/AM"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1345,2204 1345,2264 1438,2264 1438,2204"
+                },
+                "text": "fades"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1461,2203 1461,2263 1532,2263 1532,2203"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1561,2204 1561,2264 1633,2264 1633,2204"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1661,2206 1661,2266 1771,2266 1771,2206"
+                },
+                "text": "during"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1800,2206 1800,2266 1982,2266 1982,2206"
+                },
+                "text": "continued"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "2010,2206 2010,2266 2170,2266 2170,2206"
+                },
+                "text": "exposure"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "318,2344 2178,2342 2178,2289 2104,2278 318,2289"
+            },
+            "baseline": {
+              "points": "331,2333 423,2333 516,2330 608,2332 701,2330 793,2330 886,2330 978,2330 1071,2330 1163,2333 1256,2330 1348,2330 1441,2330 1533,2330 1626,2330 1718,2330 1811,2330 1903,2330 1996,2330 2088,2330 2181,2333"
+            },
+            "text": "to light. To quantify the effects of dye fade, a four-minute dye fade control was run as the first",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "324,2293 324,2353 345,2353 345,2293"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "373,2293 373,2353 469,2353 469,2293"
+                },
+                "text": "light."
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "497,2290 497,2350 540,2350 540,2290"
+                },
+                "text": "To"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "568,2291 568,2351 713,2351 713,2291"
+                },
+                "text": "quantify"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "741,2290 741,2350 789,2350 789,2290"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "811,2290 811,2350 930,2350 930,2290"
+                },
+                "text": "effects"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "952,2290 952,2350 989,2350 989,2290"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1006,2290 1006,2350 1065,2350 1065,2290"
+                },
+                "text": "dye"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1088,2292 1088,2352 1179,2352 1179,2292"
+                },
+                "text": "fade,"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1196,2291 1196,2351 1206,2351 1206,2291"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1229,2290 1229,2350 1450,2350 1450,2290"
+                },
+                "text": "four-minute"
+              },
+              {
+                "id": "tr_1_tl_23_w12",
+                "coords": {
+                  "points": "1478,2290 1478,2350 1531,2350 1531,2290"
+                },
+                "text": "dye"
+              },
+              {
+                "id": "tr_1_tl_23_w13",
+                "coords": {
+                  "points": "1554,2290 1554,2350 1629,2350 1629,2290"
+                },
+                "text": "fade"
+              },
+              {
+                "id": "tr_1_tl_23_w14",
+                "coords": {
+                  "points": "1651,2290 1651,2350 1791,2350 1791,2290"
+                },
+                "text": "control"
+              },
+              {
+                "id": "tr_1_tl_23_w15",
+                "coords": {
+                  "points": "1808,2290 1808,2350 1873,2350 1873,2290"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_23_w16",
+                "coords": {
+                  "points": "1890,2290 1890,2350 1943,2350 1943,2290"
+                },
+                "text": "run"
+              },
+              {
+                "id": "tr_1_tl_23_w17",
+                "coords": {
+                  "points": "1971,2290 1971,2350 2003,2350 2003,2290"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_23_w18",
+                "coords": {
+                  "points": "2025,2290 2025,2350 2073,2350 2073,2290"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_23_w19",
+                "coords": {
+                  "points": "2095,2291 2095,2351 2171,2351 2171,2291"
+                },
+                "text": "first"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "311,2453 2185,2458 2185,2375 1976,2351 1117,2391 311,2351"
+            },
+            "baseline": {
+              "points": "325,2416 418,2416 511,2416 604,2416 698,2415 791,2415 884,2416 977,2414 1071,2415 1164,2416 1257,2416 1350,2416 1444,2416 1537,2416 1630,2416 1723,2416 1817,2416 1910,2416 2003,2416 2096,2416 2190,2419"
+            },
+            "text": "trial on each chip. Some trials showed a slight increase in fluorescence; others a slight decrease.",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "316,2376 316,2436 390,2436 390,2376"
+                },
+                "text": "trial"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "407,2376 407,2436 438,2436 438,2376"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "465,2376 465,2436 544,2436 544,2376"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "571,2375 571,2435 666,2435 666,2375"
+                },
+                "text": "chip."
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "688,2375 688,2435 788,2435 788,2375"
+                },
+                "text": "Some"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "810,2375 810,2435 899,2435 899,2375"
+                },
+                "text": "trials"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "916,2374 916,2434 1053,2434 1053,2374"
+                },
+                "text": "showed"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1080,2375 1080,2435 1090,2435 1090,2375"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1112,2375 1112,2435 1212,2435 1212,2375"
+                },
+                "text": "slight"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1229,2376 1229,2436 1377,2436 1377,2376"
+                },
+                "text": "increase"
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "1399,2376 1399,2436 1425,2436 1425,2376"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_24_w12",
+                "coords": {
+                  "points": "1452,2376 1452,2436 1706,2436 1706,2376"
+                },
+                "text": "fluorescence;"
+              },
+              {
+                "id": "tr_1_tl_24_w13",
+                "coords": {
+                  "points": "1722,2376 1722,2436 1833,2436 1833,2376"
+                },
+                "text": "others"
+              },
+              {
+                "id": "tr_1_tl_24_w14",
+                "coords": {
+                  "points": "1855,2376 1855,2436 1865,2436 1865,2376"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_24_w15",
+                "coords": {
+                  "points": "1887,2376 1887,2436 1992,2436 1992,2376"
+                },
+                "text": "slight"
+              },
+              {
+                "id": "tr_1_tl_24_w16",
+                "coords": {
+                  "points": "2009,2376 2009,2436 2183,2436 2183,2376"
+                },
+                "text": "decrease."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "325,2517 2149,2531 2114,2448 1488,2467 1414,2434 1338,2482 325,2456"
+            },
+            "baseline": {
+              "points": "337,2500 427,2503 518,2500 609,2500 700,2500 791,2500 882,2500 972,2502 1063,2500 1154,2500 1245,2500 1336,2500 1427,2500 1518,2501 1608,2503 1699,2500 1790,2500 1881,2500 1972,2500 2063,2501 2154,2503"
+            },
+            "text": "The patter of increases and decreases was random, and all trials approximated linearity. The",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "330,2460 330,2520 391,2520 391,2460"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "418,2461 418,2521 525,2521 525,2461"
+                },
+                "text": "patter"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "567,2460 567,2520 603,2520 603,2460"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_25_w4",
+                "coords": {
+                  "points": "624,2460 624,2520 789,2520 789,2460"
+                },
+                "text": "increases"
+              },
+              {
+                "id": "tr_1_tl_25_w5",
+                "coords": {
+                  "points": "810,2460 810,2520 866,2520 866,2460"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_25_w6",
+                "coords": {
+                  "points": "893,2461 893,2521 1067,2521 1067,2461"
+                },
+                "text": "decreases"
+              },
+              {
+                "id": "tr_1_tl_25_w7",
+                "coords": {
+                  "points": "1089,2460 1089,2520 1155,2520 1155,2460"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_25_w8",
+                "coords": {
+                  "points": "1176,2460 1176,2520 1337,2520 1337,2460"
+                },
+                "text": "random,"
+              },
+              {
+                "id": "tr_1_tl_25_w9",
+                "coords": {
+                  "points": "1353,2460 1353,2520 1409,2520 1409,2460"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_25_w10",
+                "coords": {
+                  "points": "1435,2460 1435,2520 1476,2520 1476,2460"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_25_w11",
+                "coords": {
+                  "points": "1492,2461 1492,2521 1574,2521 1574,2461"
+                },
+                "text": "trials"
+              },
+              {
+                "id": "tr_1_tl_25_w12",
+                "coords": {
+                  "points": "1600,2460 1600,2520 1853,2520 1853,2460"
+                },
+                "text": "approximated"
+              },
+              {
+                "id": "tr_1_tl_25_w13",
+                "coords": {
+                  "points": "1884,2460 1884,2520 2049,2520 2049,2460"
+                },
+                "text": "linearity."
+              },
+              {
+                "id": "tr_1_tl_25_w14",
+                "coords": {
+                  "points": "2075,2461 2075,2521 2137,2521 2137,2461"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_26",
+            "coords": {
+              "points": "316,2593 641,2633 1136,2593 1732,2633 2204,2603 2204,2546 1874,2527 316,2539"
+            },
+            "baseline": {
+              "points": "328,2583 422,2583 516,2583 610,2583 704,2583 798,2583 892,2582 986,2580 1080,2583 1174,2580 1269,2583 1363,2583 1457,2583 1551,2583 1645,2583 1739,2583 1833,2583 1927,2585 2021,2583 2115,2586 2210,2586"
+            },
+            "text": "mean best-fit line slope (N=43) was 9.957E-O5 + 2.756E-4, not significantly different from zero.",
+            "words": [
+              {
+                "id": "tr_1_tl_26_w1",
+                "coords": {
+                  "points": "322,2543 322,2603 412,2603 412,2543"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_26_w2",
+                "coords": {
+                  "points": "441,2543 441,2603 571,2603 571,2543"
+                },
+                "text": "best-fit"
+              },
+              {
+                "id": "tr_1_tl_26_w3",
+                "coords": {
+                  "points": "589,2543 589,2603 651,2603 651,2543"
+                },
+                "text": "line"
+              },
+              {
+                "id": "tr_1_tl_26_w4",
+                "coords": {
+                  "points": "674,2543 674,2603 764,2603 764,2543"
+                },
+                "text": "slope"
+              },
+              {
+                "id": "tr_1_tl_26_w5",
+                "coords": {
+                  "points": "788,2542 788,2602 935,2602 935,2542"
+                },
+                "text": "(N=43)"
+              },
+              {
+                "id": "tr_1_tl_26_w6",
+                "coords": {
+                  "points": "953,2540 953,2600 1014,2600 1014,2540"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_26_w7",
+                "coords": {
+                  "points": "1032,2541 1032,2601 1224,2601 1224,2541"
+                },
+                "text": "9.957E-O5"
+              },
+              {
+                "id": "tr_1_tl_26_w8",
+                "coords": {
+                  "points": "1253,2542 1253,2602 1270,2602 1270,2542"
+                },
+                "text": "+"
+              },
+              {
+                "id": "tr_1_tl_26_w9",
+                "coords": {
+                  "points": "1293,2543 1293,2603 1486,2603 1486,2543"
+                },
+                "text": "2.756E-4,"
+              },
+              {
+                "id": "tr_1_tl_26_w10",
+                "coords": {
+                  "points": "1503,2543 1503,2603 1559,2603 1559,2543"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_26_w11",
+                "coords": {
+                  "points": "1577,2543 1577,2603 1804,2603 1804,2543"
+                },
+                "text": "significantly"
+              },
+              {
+                "id": "tr_1_tl_26_w12",
+                "coords": {
+                  "points": "1827,2544 1827,2604 1991,2604 1991,2544"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_26_w13",
+                "coords": {
+                  "points": "2003,2543 2003,2603 2076,2603 2076,2543"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_26_w14",
+                "coords": {
+                  "points": "2117,2546 2117,2606 2206,2606 2206,2546"
+                },
+                "text": "zero."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_27",
+            "coords": {
+              "points": "316,2695 406,2733 553,2690 1018,2726 1098,2690 1208,2738 1305,2683 1369,2724 1658,2686 1725,2733 2142,2683 2095,2610 316,2622"
+            },
+            "baseline": {
+              "points": "328,2667 419,2670 510,2670 601,2670 692,2670 783,2670 874,2670 965,2670 1056,2670 1147,2670 1238,2670 1329,2670 1420,2670 1511,2670 1602,2670 1693,2670 1784,2670 1875,2672 1966,2670 2057,2670 2148,2673"
+            },
+            "text": "Thus dye fade was not considered a significant confounding factor in interpreting the results.",
+            "words": [
+              {
+                "id": "tr_1_tl_27_w1",
+                "coords": {
+                  "points": "316,2628 316,2688 406,2688 406,2628"
+                },
+                "text": "Thus"
+              },
+              {
+                "id": "tr_1_tl_27_w2",
+                "coords": {
+                  "points": "428,2630 428,2690 481,2690 481,2630"
+                },
+                "text": "dye"
+              },
+              {
+                "id": "tr_1_tl_27_w3",
+                "coords": {
+                  "points": "508,2630 508,2690 577,2690 577,2630"
+                },
+                "text": "fade"
+              },
+              {
+                "id": "tr_1_tl_27_w4",
+                "coords": {
+                  "points": "604,2630 604,2690 667,2690 667,2630"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_27_w5",
+                "coords": {
+                  "points": "689,2630 689,2690 753,2690 753,2630"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_27_w6",
+                "coords": {
+                  "points": "769,2630 769,2690 966,2690 966,2630"
+                },
+                "text": "considered"
+              },
+              {
+                "id": "tr_1_tl_27_w7",
+                "coords": {
+                  "points": "993,2630 993,2690 1003,2690 1003,2630"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_27_w8",
+                "coords": {
+                  "points": "1025,2630 1025,2690 1228,2690 1228,2630"
+                },
+                "text": "significant"
+              },
+              {
+                "id": "tr_1_tl_27_w9",
+                "coords": {
+                  "points": "1244,2630 1244,2690 1484,2690 1484,2630"
+                },
+                "text": "confounding"
+              },
+              {
+                "id": "tr_1_tl_27_w10",
+                "coords": {
+                  "points": "1506,2630 1506,2690 1617,2690 1617,2630"
+                },
+                "text": "factor"
+              },
+              {
+                "id": "tr_1_tl_27_w11",
+                "coords": {
+                  "points": "1634,2630 1634,2690 1660,2690 1660,2630"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_27_w12",
+                "coords": {
+                  "points": "1687,2630 1687,2690 1905,2690 1905,2630"
+                },
+                "text": "interpreting"
+              },
+              {
+                "id": "tr_1_tl_27_w13",
+                "coords": {
+                  "points": "1932,2630 1932,2690 1980,2690 1980,2630"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_27_w14",
+                "coords": {
+                  "points": "2007,2630 2007,2690 2140,2690 2140,2630"
+                },
+                "text": "results."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

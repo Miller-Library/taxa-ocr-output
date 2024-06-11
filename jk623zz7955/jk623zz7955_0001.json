@@ -1,0 +1,1641 @@
+{
+  "processId": 10331704,
+  "status": "FINISHED",
+  "content": {
+    "text": "ABSTRACT\nThe gastropod mollusc gastropod Strombus luhuanus, prey to some Conus snails,\nexhibits a morphologically unique extendable foot utilized for fast escape response. The\npedal ganglion of specimens was identified using in situ stimulation of radiating axon\nbundles and observing pedal response. Once the two lobes were removed, neurons were\ndissociated using glass teasing needles and studied under whole-cell patch clamp.\nOutward potassium currents were observed to have complex activation kinetics and\nbiphasic inactivation. These kinetics were characterized and used to develop a pre-pulse\nprotocol for current separation. Two distinct voltage-gated potassium currents were\nidentified and isolated using this pre-pulse procedure. The fast activating and\ninactivating current resembled a classic A-current and could reach peak current within 2\nmilliseconds after pulse initiation for large depolarizations, and inactivated completely in\nabout 30 ms. The second component of potassium current resembled a delayed rectifier\nand exhibited slow and incomplete inactivation, with peak current occurring within 5 or 6\nmilliseconds for large depolarizations and partial inactivation over the much longer\nperiod of about 150 milliseconds. The kinetic properties of each individual current were\nanalyzed and described and a model based on Hodgkin-Huxley was used to compute\nconductance time course as a function of voltage.",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "355,391 355,2440 2169,2440 2169,391"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "1126,478 1146,482 1214,458 1255,458 1275,471 1311,464 1325,476 1413,476 1413,403 1395,396 1364,390 1280,403 1259,394 1223,408 1198,385 1169,399 1126,394"
+            },
+            "baseline": {
+              "points": "1139,447 1164,449 1190,450 1215,450 1241,450 1266,450 1292,450 1317,450 1343,450 1368,450 1394,448 1420,450"
+            },
+            "text": "ABSTRACT",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "1128,410 1128,470 1402,470 1402,410"
+                },
+                "text": "ABSTRACT"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "501,564 843,609 2163,593 2163,523 1993,507 501,516"
+            },
+            "baseline": {
+              "points": "513,557 595,560 678,562 761,562 844,563 927,563 1009,563 1092,563 1175,563 1258,564 1341,566 1423,566 1506,566 1589,566 1672,566 1755,566 1837,566 1920,568 2003,567 2086,569 2169,572"
+            },
+            "text": "The gastropod mollusc gastropod Strombus luhuanus, prey to some Conus snails,",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "502,517 502,577 566,577 566,517"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "590,522 590,582 782,582 782,522"
+                },
+                "text": "gastropod"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "812,523 812,583 957,583 957,523"
+                },
+                "text": "mollusc"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "981,523 981,583 1173,583 1173,523"
+                },
+                "text": "gastropod"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1197,524 1197,584 1383,584 1383,524"
+                },
+                "text": "Strombus"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1401,526 1401,586 1599,586 1599,526"
+                },
+                "text": "luhuanus,"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1617,526 1617,586 1692,586 1692,526"
+                },
+                "text": "prey"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1722,526 1722,586 1745,586 1745,526"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1775,526 1775,586 1873,586 1873,526"
+                },
+                "text": "some"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1897,527 1897,587 2019,587 2019,527"
+                },
+                "text": "Conus"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "2043,529 2043,589 2159,589 2159,529"
+                },
+                "text": "snails,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "347,693 675,725 1060,689 1126,732 1891,698 2027,741 2140,693 2140,634 344,625"
+            },
+            "baseline": {
+              "points": "358,674 447,677 536,677 626,674 715,677 804,677 894,677 983,680 1072,680 1162,680 1251,680 1340,680 1430,680 1519,683 1608,683 1698,683 1787,683 1876,683 1966,683 2055,683 2145,683"
+            },
+            "text": "exhibits a morphologically unique extendable foot utilized for fast escape response. The",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "350,636 350,696 495,696 495,636"
+                },
+                "text": "exhibits"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "518,637 518,697 528,697 528,637"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "557,636 557,696 869,696 869,636"
+                },
+                "text": "morphologically"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "897,639 897,699 1019,699 1019,639"
+                },
+                "text": "unique"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "1048,640 1048,700 1249,700 1249,640"
+                },
+                "text": "extendable"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1277,640 1277,700 1355,700 1355,640"
+                },
+                "text": "foot"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1372,640 1372,700 1506,700 1506,640"
+                },
+                "text": "utilized"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1535,643 1535,703 1590,703 1590,643"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1607,643 1607,703 1679,703 1679,643"
+                },
+                "text": "fast"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1696,643 1696,703 1819,703 1819,643"
+                },
+                "text": "escape"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1842,643 1842,703 2031,703 2031,643"
+                },
+                "text": "response."
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "2060,643 2060,703 2131,703 2131,643"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "351,829 2070,838 2043,750 1194,727 625,763 523,713 351,752"
+            },
+            "baseline": {
+              "points": "364,790 449,793 534,793 620,793 705,793 791,793 876,793 962,793 1047,796 1133,796 1218,796 1303,796 1389,796 1474,796 1560,796 1645,796 1731,796 1816,796 1902,796 1987,796 2073,796"
+            },
+            "text": "pedal ganglion of specimens was identified using in situ stimulation of radiating axon",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "357,751 357,811 464,811 464,751"
+                },
+                "text": "pedal"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "476,753 476,813 639,813 639,753"
+                },
+                "text": "ganglion"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "666,753 666,813 704,813 704,753"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "721,753 721,813 921,813 921,753"
+                },
+                "text": "specimens"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "938,753 938,813 1008,813 1008,753"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1030,756 1030,816 1204,816 1204,756"
+                },
+                "text": "identified"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1231,756 1231,816 1323,816 1323,756"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1357,756 1357,816 1378,816 1378,756"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1405,756 1405,816 1464,816 1464,756"
+                },
+                "text": "situ"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1492,756 1492,816 1704,816 1704,756"
+                },
+                "text": "stimulation"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1731,756 1731,816 1769,816 1769,756"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1785,756 1785,816 1948,816 1948,756"
+                },
+                "text": "radiating"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1976,756 1976,816 2062,816 2062,756"
+                },
+                "text": "axon"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "349,931 641,931 725,972 802,931 1597,965 1740,922 2000,981 2152,922 2152,863 2014,852 349,861"
+            },
+            "baseline": {
+              "points": "361,907 450,907 540,907 630,907 720,907 810,910 899,910 989,910 1079,910 1169,910 1259,910 1348,910 1438,910 1528,910 1618,910 1708,913 1797,913 1887,913 1977,913 2067,910 2157,910"
+            },
+            "text": "bundles and observing pedal response. Once the two lobes were removed, neurons were",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "353,867 353,927 500,927 500,867"
+                },
+                "text": "bundles"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "520,867 520,927 579,927 579,867"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "609,867 609,927 791,927 791,867"
+                },
+                "text": "observing"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "821,870 821,930 924,930 924,870"
+                },
+                "text": "pedal"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "939,870 939,930 1126,930 1126,870"
+                },
+                "text": "response."
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1156,870 1156,930 1249,930 1249,870"
+                },
+                "text": "Once"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1274,870 1274,930 1323,930 1323,870"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1348,870 1348,930 1417,930 1417,870"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1442,870 1442,930 1540,930 1540,870"
+                },
+                "text": "lobes"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1560,870 1560,930 1648,930 1648,870"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1674,873 1674,933 1860,933 1860,873"
+                },
+                "text": "removed,"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1875,873 1875,933 2028,933 2028,873"
+                },
+                "text": "neurons"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "2053,870 2053,930 2136,930 2136,870"
+                },
+                "text": "were"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "349,1051 1368,1040 1445,1074 1515,1042 1696,1089 1993,1060 1993,994 1819,954 872,990 426,954 349,990"
+            },
+            "baseline": {
+              "points": "361,1017 442,1020 524,1022 606,1023 688,1023 770,1023 852,1023 934,1023 1016,1023 1098,1024 1180,1026 1261,1026 1343,1026 1425,1026 1507,1026 1589,1026 1671,1026 1753,1026 1835,1029 1917,1027 1999,1032"
+            },
+            "text": "dissociated using glass teasing needles and studied under whole-cell patch clamp.",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "356,980 356,1040 563,1040 563,980"
+                },
+                "text": "dissociated"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "593,983 593,1043 688,1043 688,983"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "713,983 713,1043 807,1043 807,983"
+                },
+                "text": "glass"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "825,983 825,1043 956,1043 956,983"
+                },
+                "text": "teasing"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "980,983 980,1043 1122,1043 1122,983"
+                },
+                "text": "needles"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1140,985 1140,1045 1199,1045 1199,985"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1230,986 1230,1046 1359,1046 1359,986"
+                },
+                "text": "studied"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1390,986 1390,1046 1496,1046 1496,986"
+                },
+                "text": "under"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1515,986 1515,1046 1722,1046 1722,986"
+                },
+                "text": "whole-cell"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1741,987 1741,1047 1835,1047 1835,987"
+                },
+                "text": "patch"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1860,987 1860,1047 1995,1047 1995,987"
+                },
+                "text": "clamp."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "353,1178 1180,1155 1450,1196 1672,1157 2054,1194 2054,1096 1871,1083 353,1089"
+            },
+            "baseline": {
+              "points": "366,1136 450,1136 535,1136 620,1136 705,1139 789,1139 874,1139 959,1139 1044,1139 1128,1139 1213,1139 1298,1141 1383,1142 1467,1142 1552,1142 1637,1142 1722,1142 1806,1142 1891,1142 1976,1142 2061,1142"
+            },
+            "text": "Outward potassium currents were observed to have complex activation kinetics and",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "358,1096 358,1156 528,1156 528,1096"
+                },
+                "text": "Outward"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "554,1096 554,1156 730,1156 730,1096"
+                },
+                "text": "potassium"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "772,1099 772,1159 927,1159 927,1099"
+                },
+                "text": "currents"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "949,1099 949,1159 1036,1159 1036,1099"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1062,1099 1062,1159 1228,1159 1228,1099"
+                },
+                "text": "observed"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1254,1100 1254,1160 1280,1160 1280,1100"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1311,1101 1311,1161 1394,1161 1394,1101"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1420,1102 1420,1162 1576,1162 1576,1102"
+                },
+                "text": "complex"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1602,1102 1602,1162 1788,1162 1788,1102"
+                },
+                "text": "activation"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1814,1102 1814,1162 1959,1162 1959,1102"
+                },
+                "text": "kinetics"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1985,1102 1985,1162 2042,1162 2042,1102"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "347,1289 1681,1268 1950,1318 2140,1280 2138,1203 344,1203"
+            },
+            "baseline": {
+              "points": "358,1250 447,1253 536,1253 626,1253 715,1253 804,1256 894,1256 983,1256 1072,1256 1162,1256 1251,1256 1340,1259 1430,1259 1519,1259 1608,1256 1698,1259 1787,1259 1876,1262 1966,1259 2055,1259 2145,1259"
+            },
+            "text": "biphasic inactivation. These kinetics were characterized and used to develop a pre-pulse",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "350,1212 350,1272 505,1272 505,1212"
+                },
+                "text": "biphasic"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "528,1213 528,1273 772,1273 772,1213"
+                },
+                "text": "inactivation."
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "801,1216 801,1276 912,1276 912,1216"
+                },
+                "text": "These"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "935,1216 935,1276 1079,1276 1079,1216"
+                },
+                "text": "kinetics"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1102,1216 1102,1276 1190,1276 1190,1216"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1219,1219 1219,1279 1469,1279 1469,1219"
+                },
+                "text": "characterized"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1497,1218 1497,1278 1558,1278 1558,1218"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1581,1216 1581,1276 1664,1276 1664,1216"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1693,1219 1693,1279 1720,1279 1720,1219"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1748,1220 1748,1280 1893,1280 1893,1220"
+                },
+                "text": "develop"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1921,1220 1921,1280 1931,1280 1931,1220"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1954,1219 1954,1279 2131,1279 2131,1219"
+                },
+                "text": "pre-pulse"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "353,1409 2072,1398 2072,1339 1882,1314 353,1311"
+            },
+            "baseline": {
+              "points": "366,1369 451,1366 537,1366 622,1368 708,1368 794,1367 879,1369 965,1369 1051,1369 1136,1370 1222,1372 1308,1372 1393,1372 1479,1372 1565,1372 1650,1372 1736,1372 1822,1373 1907,1372 1993,1372 2079,1369"
+            },
+            "text": "protocol for current separation. Two distinct voltage-gated potassium currents were",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "357,1326 357,1386 528,1386 528,1326"
+                },
+                "text": "protocol"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "544,1326 544,1386 592,1386 592,1326"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "617,1328 617,1388 754,1388 754,1328"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "774,1329 774,1389 990,1389 990,1329"
+                },
+                "text": "separation."
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "1020,1329 1020,1389 1098,1389 1098,1329"
+                },
+                "text": "Two"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1128,1331 1128,1391 1270,1391 1270,1331"
+                },
+                "text": "distinct"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1286,1332 1286,1392 1550,1392 1550,1332"
+                },
+                "text": "voltage-gated"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1575,1332 1575,1392 1751,1392 1751,1332"
+                },
+                "text": "potassium"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1791,1332 1791,1392 1948,1392 1948,1332"
+                },
+                "text": "currents"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1973,1331 1973,1391 2056,1391 2056,1331"
+                },
+                "text": "were"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "342,1499 1923,1533 1921,1445 1803,1429 342,1434"
+            },
+            "baseline": {
+              "points": "355,1479 433,1482 512,1479 590,1482 669,1482 748,1482 826,1482 905,1482 983,1485 1062,1484 1141,1485 1219,1485 1298,1485 1376,1485 1455,1485 1534,1485 1612,1485 1691,1485 1769,1485 1848,1486 1927,1485"
+            },
+            "text": "identified and isolated using this pre-pulse procedure. The fast activating and",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "342,1441 342,1501 521,1501 521,1441"
+                },
+                "text": "identified"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "549,1441 549,1501 609,1501 609,1441"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "632,1442 632,1502 778,1502 778,1442"
+                },
+                "text": "isolated"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "807,1442 807,1502 899,1502 899,1442"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "927,1444 927,1504 991,1504 991,1444"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1014,1444 1014,1504 1188,1504 1188,1444"
+                },
+                "text": "pre-pulse"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1211,1445 1211,1505 1429,1505 1429,1445"
+                },
+                "text": "procedure."
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1456,1445 1456,1505 1527,1505 1527,1445"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1550,1445 1550,1505 1620,1505 1620,1445"
+                },
+                "text": "fast"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1637,1445 1637,1505 1822,1505 1822,1445"
+                },
+                "text": "activating"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1850,1445 1850,1505 1909,1505 1909,1445"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "353,1610 521,1649 625,1608 1019,1651 2131,1626 2131,1549 353,1547"
+            },
+            "baseline": {
+              "points": "366,1593 454,1596 543,1599 631,1596 720,1599 808,1599 897,1599 985,1599 1074,1602 1162,1602 1251,1602 1339,1602 1428,1602 1516,1602 1605,1602 1693,1602 1782,1602 1870,1602 1959,1602 2047,1602 2136,1602"
+            },
+            "text": "inactivating current resembled a classic A-current and could reach peak current within 2",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "358,1556 358,1616 580,1616 580,1556"
+                },
+                "text": "inactivating"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "607,1557 607,1617 744,1617 744,1557"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "766,1559 766,1619 955,1619 955,1559"
+                },
+                "text": "resembled"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "982,1559 982,1619 992,1619 992,1559"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1014,1562 1014,1622 1135,1622 1135,1562"
+                },
+                "text": "classic"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1157,1562 1157,1622 1352,1622 1352,1562"
+                },
+                "text": "A-current"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1368,1562 1368,1622 1426,1622 1426,1562"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1453,1562 1453,1622 1553,1622 1553,1562"
+                },
+                "text": "could"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1580,1562 1580,1622 1674,1622 1674,1562"
+                },
+                "text": "reach"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1702,1562 1702,1622 1780,1622 1780,1562"
+                },
+                "text": "peak"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1807,1562 1807,1622 1949,1622 1949,1562"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1966,1562 1966,1622 2082,1622 2082,1562"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "2109,1562 2109,1622 2119,1622 2119,1562"
+                },
+                "text": "2"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "351,1737 1089,1769 1862,1726 1959,1778 2143,1744 2118,1672 1681,1649 1565,1687 1438,1653 351,1665"
+            },
+            "baseline": {
+              "points": "364,1709 453,1712 542,1712 631,1712 720,1715 810,1715 899,1715 988,1715 1077,1715 1166,1718 1256,1718 1345,1718 1434,1718 1523,1718 1612,1718 1702,1718 1791,1718 1880,1718 1969,1718 2058,1718 2148,1721"
+            },
+            "text": "milliseconds after pulse initiation for large depolarizations, and inactivated completely in",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "352,1672 352,1732 595,1732 595,1672"
+                },
+                "text": "milliseconds"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "620,1672 620,1732 701,1732 701,1672"
+                },
+                "text": "after"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "725,1675 725,1735 817,1735 817,1675"
+                },
+                "text": "pulse"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "841,1675 841,1735 1009,1735 1009,1675"
+                },
+                "text": "initiation"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1033,1675 1033,1735 1085,1735 1085,1675"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1103,1677 1103,1737 1196,1737 1196,1677"
+                },
+                "text": "large"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1220,1678 1220,1738 1534,1738 1534,1678"
+                },
+                "text": "depolarizations,"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1552,1678 1552,1738 1609,1738 1609,1678"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1640,1678 1640,1738 1842,1738 1842,1678"
+                },
+                "text": "inactivated"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1872,1678 1872,1738 2081,1738 2081,1678"
+                },
+                "text": "completely"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "2111,1680 2111,1740 2128,1740 2128,1680"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "347,1832 494,1884 636,1832 1409,1900 2118,1864 2118,1787 1984,1771 347,1787"
+            },
+            "baseline": {
+              "points": "358,1826 446,1826 534,1826 622,1829 711,1829 799,1829 887,1830 976,1832 1064,1832 1152,1832 1241,1832 1329,1832 1417,1832 1505,1832 1594,1832 1682,1833 1770,1832 1859,1833 1947,1832 2035,1832 2124,1832"
+            },
+            "text": "about 30 ms. The second component of potassium current resembled a delayed rectifier",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "347,1786 347,1846 450,1846 450,1786"
+                },
+                "text": "about"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "467,1786 467,1846 507,1846 507,1786"
+                },
+                "text": "30"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "534,1787 534,1847 601,1847 601,1787"
+                },
+                "text": "ms."
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "617,1789 617,1849 684,1849 684,1789"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "711,1789 711,1849 840,1849 840,1789"
+                },
+                "text": "second"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "867,1792 867,1852 1085,1852 1085,1792"
+                },
+                "text": "component"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1107,1792 1107,1852 1143,1852 1143,1792"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1164,1792 1164,1852 1340,1852 1340,1792"
+                },
+                "text": "potassium"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1377,1792 1377,1852 1517,1852 1517,1792"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1539,1792 1539,1852 1731,1852 1731,1792"
+                },
+                "text": "resembled"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1758,1792 1758,1852 1767,1852 1767,1792"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1794,1792 1794,1852 1934,1852 1934,1792"
+                },
+                "text": "delayed"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1960,1792 1960,1852 2111,1852 2111,1792"
+                },
+                "text": "rectifier"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "347,1986 1547,1961 1995,2005 2163,1971 2163,1875 1866,1921 1375,1884 1275,1916 1214,1880 347,1914"
+            },
+            "baseline": {
+              "points": "358,1942 448,1942 539,1942 629,1942 720,1942 810,1945 901,1945 991,1945 1082,1946 1172,1948 1263,1948 1354,1946 1444,1948 1535,1948 1625,1948 1716,1948 1806,1948 1897,1947 1987,1948 2078,1948 2169,1948"
+            },
+            "text": "and exhibited slow and incomplete inactivation, with peak current occurring within 5 or 6",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "352,1902 352,1962 410,1962 410,1902"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "437,1902 437,1962 607,1962 607,1902"
+                },
+                "text": "exhibited"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "634,1902 634,1962 703,1962 703,1902"
+                },
+                "text": "slow"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "746,1903 746,1963 804,1963 804,1903"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "826,1905 826,1965 1038,1965 1038,1905"
+                },
+                "text": "incomplete"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1065,1908 1065,1968 1310,1968 1310,1908"
+                },
+                "text": "inactivation,"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1326,1906 1326,1966 1400,1966 1400,1906"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1427,1908 1427,1968 1506,1968 1506,1908"
+                },
+                "text": "peak"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1533,1908 1533,1968 1676,1968 1676,1908"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1693,1908 1693,1968 1874,1968 1874,1908"
+                },
+                "text": "occurring"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1906,1907 1906,1967 2017,1967 2017,1907"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "2044,1908 2044,1968 2054,1968 2054,1908"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "2081,1908 2081,1968 2118,1968 2118,1908"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_14_w14",
+                "coords": {
+                  "points": "2140,1908 2140,1968 2150,1968 2150,1908"
+                },
+                "text": "6"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "349,2088 836,2125 992,2075 1225,2116 1323,2077 2023,2084 2023,2016 1715,1993 1644,2029 1049,1991 874,2032 682,1995 349,2020"
+            },
+            "baseline": {
+              "points": "361,2055 444,2058 527,2058 611,2060 694,2061 777,2059 861,2061 944,2061 1027,2061 1111,2061 1194,2063 1277,2061 1361,2061 1444,2064 1527,2064 1611,2061 1694,2061 1777,2064 1861,2064 1944,2064 2028,2061"
+            },
+            "text": "milliseconds for large depolarizations and partial inactivation over the much longer",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "355,2018 355,2078 592,2078 592,2018"
+                },
+                "text": "milliseconds"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "615,2020 615,2080 668,2080 668,2020"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "686,2020 686,2080 777,2080 777,2020"
+                },
+                "text": "large"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "800,2021 800,2081 1098,2081 1098,2021"
+                },
+                "text": "depolarizations"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1120,2021 1120,2081 1179,2081 1179,2021"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1207,2021 1207,2081 1331,2081 1331,2021"
+                },
+                "text": "partial"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1342,2024 1342,2084 1564,2084 1564,2024"
+                },
+                "text": "inactivation"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1592,2021 1592,2081 1678,2081 1678,2021"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1696,2022 1696,2082 1749,2082 1749,2022"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1772,2024 1772,2084 1869,2084 1869,2024"
+                },
+                "text": "much"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1896,2023 1896,2083 2015,2083 2015,2023"
+                },
+                "text": "longer"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "356,2204 734,2188 788,2229 942,2188 1067,2233 1248,2188 1658,2242 2134,2197 2134,2147 1764,2106 1393,2147 356,2131"
+            },
+            "baseline": {
+              "points": "369,2178 457,2175 546,2175 634,2175 723,2175 811,2178 900,2178 988,2178 1077,2178 1165,2178 1254,2178 1342,2178 1431,2178 1519,2178 1608,2179 1696,2178 1785,2178 1873,2179 1962,2180 2050,2179 2139,2178"
+            },
+            "text": "period of about 150 milliseconds. The kinetic properties of each individual current were",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "361,2136 361,2196 479,2196 479,2136"
+                },
+                "text": "period"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "505,2135 505,2195 540,2195 540,2135"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "561,2135 561,2195 669,2195 669,2135"
+                },
+                "text": "about"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "690,2135 690,2195 752,2195 752,2135"
+                },
+                "text": "150"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "773,2138 773,2198 1029,2198 1029,2138"
+                },
+                "text": "milliseconds."
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1061,2138 1061,2198 1128,2198 1128,2138"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1149,2138 1149,2198 1272,2198 1272,2138"
+                },
+                "text": "kinetic"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1298,2138 1298,2198 1494,2198 1494,2138"
+                },
+                "text": "properties"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1515,2138 1515,2198 1550,2198 1550,2138"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1566,2138 1566,2198 1648,2198 1648,2138"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1674,2138 1674,2198 1865,2198 1865,2138"
+                },
+                "text": "individual"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1881,2139 1881,2199 2024,2199 2024,2139"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "2040,2138 2040,2198 2127,2198 2127,2138"
+                },
+                "text": "were"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "342,2317 2061,2335 2061,2245 1982,2238 342,2245"
+            },
+            "baseline": {
+              "points": "355,2291 440,2291 526,2291 611,2291 697,2291 783,2291 868,2291 954,2293 1039,2292 1125,2291 1211,2294 1296,2294 1382,2294 1467,2294 1553,2294 1639,2294 1724,2294 1810,2294 1895,2294 1981,2294 2067,2294"
+            },
+            "text": "analyzed and described and a model based on Hodgkin-Huxley was used to compute",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "347,2251 347,2311 507,2311 507,2251"
+                },
+                "text": "analyzed"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "539,2251 539,2311 595,2311 595,2251"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "622,2251 622,2311 803,2311 803,2251"
+                },
+                "text": "described"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "830,2251 830,2311 886,2311 886,2251"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "913,2252 913,2312 922,2312 922,2252"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "949,2252 949,2312 1073,2312 1073,2252"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1084,2251 1084,2311 1187,2311 1187,2251"
+                },
+                "text": "based"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1214,2254 1214,2314 1249,2314 1249,2254"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1276,2254 1276,2314 1602,2314 1602,2254"
+                },
+                "text": "Hodgkin-Huxley"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1629,2254 1629,2314 1701,2314 1701,2254"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1722,2254 1722,2314 1799,2314 1799,2254"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1826,2254 1826,2314 1856,2314 1856,2254"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1883,2254 1883,2314 2048,2314 2048,2254"
+                },
+                "text": "compute"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "347,2442 428,2458 507,2419 614,2476 915,2421 1044,2482 1357,2437 1357,2381 1271,2347 1137,2381 732,2381 641,2326 580,2376 347,2360"
+            },
+            "baseline": {
+              "points": "358,2401 408,2404 458,2405 508,2407 559,2407 609,2407 659,2407 709,2407 760,2407 810,2407 860,2407 910,2407 961,2407 1011,2407 1061,2407 1111,2407 1162,2407 1212,2407 1262,2408 1312,2410 1363,2413"
+            },
+            "text": "conductance time course as a function of voltage.",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "352,2365 352,2425 597,2425 597,2365"
+                },
+                "text": "conductance"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "619,2367 619,2427 698,2427 698,2367"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "726,2367 726,2427 848,2427 848,2367"
+                },
+                "text": "course"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "870,2367 870,2427 907,2427 907,2367"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "929,2367 929,2427 939,2427 939,2367"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "961,2367 961,2427 1115,2427 1115,2367"
+                },
+                "text": "function"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1142,2367 1142,2427 1179,2427 1179,2367"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1201,2368 1201,2428 1355,2428 1355,2368"
+                },
+                "text": "voltage."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

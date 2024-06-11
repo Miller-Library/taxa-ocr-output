@@ -1,0 +1,1729 @@
+{
+  "processId": 10311312,
+  "status": "FINISHED",
+  "content": {
+    "text": "Recycled nitrogen (NH4)- the final term used in calculating biomass - is\nsimply set equal to the difference between total production and new production.\nBecause the model adds only 25% of weekly production to weekly biomass, only\n25% of the recycled nitrogen is subtracted each week.\nThe final equation for phytoplankton population is:\nphyto (wk+1) - phyto(wk) +25(prodn(wk)-recy(wk))-detritus(wk)\nwhere\ndetritus(wk) = new production(wk-4)\nand\nrecyc (wk) - production(wk)- new production(wk)\nBefore discussing the results of the simulation, there are several\nunderlying assumptions that require justification. First, the model ignores the\naccepted equations relating photosynthesis to changes in temperature. This\nprobably does not introduce significant error, given the relative constancy of the\nwater temperature in Monterey Bay. The model also disregards the relationship\nbetween phytoplankton density and euphotic zone depth. Although the\nextinction coefficient for chlorophyll a is actually quite high, Platt\u2019s equation for\nproduction as a function of PAR already factors in this consideration. Adjusting\nthe model's PAR values for phytoplankton density would therefore be redundant.\nThe final, and most questionable assumption is that light and nitrogen level are\nthe most important variables influencing primary production in the bay. This\nassumption is not obvious, but the relative accuracy of the model\u2019s predictions\nsupports its validity.",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "495,343 495,2817 2242,2817 2242,343"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "640,409 749,442 860,403 1315,436 2230,409 2230,348 640,331"
+            },
+            "baseline": {
+              "points": "653,394 732,391 811,393 890,391 969,391 1048,393 1127,394 1207,394 1286,397 1365,394 1444,394 1523,396 1602,397 1681,394 1761,397 1840,397 1919,397 1998,397 2077,397 2156,395 2236,400"
+            },
+            "text": "Recycled nitrogen (NH4)- the final term used in calculating biomass - is",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "641,351 641,411 829,411 829,351"
+                },
+                "text": "Recycled"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "852,351 852,411 1018,411 1018,351"
+                },
+                "text": "nitrogen"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "1048,354 1048,414 1213,414 1213,354"
+                },
+                "text": "(NH4)-"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "1253,356 1253,416 1305,416 1305,356"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "1334,354 1334,414 1425,414 1425,354"
+                },
+                "text": "final"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "1443,354 1443,414 1516,414 1516,354"
+                },
+                "text": "term"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1557,356 1557,416 1643,416 1643,356"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1672,354 1672,414 1694,414 1694,354"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1724,357 1724,417 1941,417 1941,357"
+                },
+                "text": "calculating"
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1970,357 1970,417 2135,417 2135,357"
+                },
+                "text": "biomass"
+              },
+              {
+                "id": "tr_1_tl_1_w11",
+                "coords": {
+                  "points": "2153,355 2153,415 2164,415 2164,355"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_1_w12",
+                "coords": {
+                  "points": "2199,358 2199,418 2227,418 2227,358"
+                },
+                "text": "is"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "490,496 706,533 817,501 2212,514 2212,459 1999,433 1927,466 490,446"
+            },
+            "baseline": {
+              "points": "501,486 586,489 672,488 758,489 844,489 930,489 1016,490 1101,490 1187,492 1273,492 1359,492 1445,492 1531,495 1617,495 1702,495 1788,493 1874,494 1960,492 2046,495 2132,495 2218,498"
+            },
+            "text": "simply set equal to the difference between total production and new production.",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "496,448 496,508 623,508 623,448"
+                },
+                "text": "simply"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "646,448 646,508 701,508 701,448"
+                },
+                "text": "set"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "724,449 724,509 834,509 834,449"
+                },
+                "text": "equal"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "851,449 851,509 878,509 878,449"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "907,449 907,509 961,509 961,449"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "990,450 990,510 1189,510 1189,450"
+                },
+                "text": "difference"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1217,452 1217,512 1383,512 1383,452"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1411,452 1411,512 1505,512 1505,452"
+                },
+                "text": "total"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1522,455 1522,515 1743,515 1743,455"
+                },
+                "text": "production"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1772,453 1772,513 1837,513 1837,453"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1860,453 1860,513 1926,513 1926,453"
+                },
+                "text": "new"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1966,455 1966,515 2209,515 2209,455"
+                },
+                "text": "production."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "490,627 2204,616 2188,544 490,547"
+            },
+            "baseline": {
+              "points": "501,588 586,588 671,588 757,590 842,591 928,589 1013,591 1098,591 1184,591 1269,591 1355,591 1440,588 1525,594 1611,593 1696,591 1782,591 1867,591 1952,592 2038,594 2123,597 2209,594"
+            },
+            "text": "Because the model adds only 25% of weekly production to weekly biomass, only",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "496,548 496,608 657,608 657,548"
+                },
+                "text": "Because"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "685,548 685,608 740,608 740,548"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "768,550 768,610 901,610 901,550"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "918,549 918,609 1007,609 1007,549"
+                },
+                "text": "adds"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "1024,551 1024,611 1107,611 1107,551"
+                },
+                "text": "only"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1129,551 1129,611 1195,611 1195,551"
+                },
+                "text": "25%"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1241,551 1241,611 1279,611 1279,551"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1296,550 1296,610 1429,610 1429,550"
+                },
+                "text": "weekly"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1457,553 1457,613 1679,613 1679,553"
+                },
+                "text": "production"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1702,551 1702,611 1729,611 1729,551"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1757,551 1757,611 1895,611 1895,551"
+                },
+                "text": "weekly"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1918,553 1918,613 2101,613 2101,553"
+                },
+                "text": "biomass,"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "2118,555 2118,615 2195,615 2195,555"
+                },
+                "text": "only"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "483,727 901,697 1304,734 1437,699 1659,740 1644,636 483,642"
+            },
+            "baseline": {
+              "points": "495,689 553,689 612,689 670,689 729,689 787,691 846,689 904,692 963,690 1021,692 1080,692 1138,692 1197,692 1255,692 1314,692 1372,692 1431,692 1489,692 1548,692 1606,694 1665,695"
+            },
+            "text": "25% of the recycled nitrogen is subtracted each week.",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "484,649 484,709 550,709 550,649"
+                },
+                "text": "25%"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "602,649 602,709 635,709 635,649"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "653,649 653,709 708,709 708,649"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "737,649 737,709 900,709 900,649"
+                },
+                "text": "recycled"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "929,651 929,711 1098,711 1098,651"
+                },
+                "text": "nitrogen"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1126,652 1126,712 1148,712 1148,652"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1172,652 1172,712 1385,712 1385,652"
+                },
+                "text": "subtracted"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1414,652 1414,712 1499,712 1499,652"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1527,653 1527,713 1650,713 1650,653"
+                },
+                "text": "week."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "640,915 1304,939 1762,904 1762,854 1472,854 1296,806 1134,856 847,821 640,847"
+            },
+            "baseline": {
+              "points": "653,886 708,887 764,889 820,889 875,889 931,889 987,889 1042,889 1098,892 1154,892 1210,892 1265,892 1321,892 1377,892 1432,892 1488,892 1544,892 1599,892 1655,892 1711,892 1767,892"
+            },
+            "text": "The final equation for phytoplankton population is:",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "641,846 641,906 715,906 715,846"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "744,849 744,909 835,909 835,849"
+                },
+                "text": "final"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "853,849 853,909 1024,909 1024,849"
+                },
+                "text": "equation"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "1054,851 1054,911 1111,911 1111,851"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "1129,852 1129,912 1432,912 1432,852"
+                },
+                "text": "phytoplankton"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1461,852 1461,912 1679,912 1679,852"
+                },
+                "text": "population"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1708,852 1708,912 1753,912 1753,852"
+                },
+                "text": "is:"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "586,1028 1171,1034 1254,997 1494,1056 1594,1004 2147,1032 2145,952 1810,960 1694,921 1585,969 1341,921 584,947"
+            },
+            "baseline": {
+              "points": "597,994 674,991 752,994 830,1000 908,995 985,992 1063,994 1141,999 1219,995 1296,991 1374,994 1452,994 1530,1000 1607,997 1685,997 1763,999 1841,997 1918,991 1996,994 2074,1003 2152,1006"
+            },
+            "text": "phyto (wk+1) - phyto(wk) +25(prodn(wk)-recy(wk))-detritus(wk)",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "587,952 587,1012 698,1012 698,952"
+                },
+                "text": "phyto"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "719,957 719,1017 872,1017 872,957"
+                },
+                "text": "(wk+1)"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "894,955 894,1015 907,1015 907,955"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "950,953 950,1013 1165,1013 1165,953"
+                },
+                "text": "phyto(wk)"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1187,957 1187,1017 2148,1017 2148,957"
+                },
+                "text": "+25(prodn(wk)-recy(wk))-detritus(wk)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "494,1111 518,1108 544,1126 568,1113 577,1113 590,1126 614,1113 627,1124 647,1121 645,1047 623,1050 590,1036 577,1043 544,1023 516,1030 505,1019 494,1019"
+            },
+            "baseline": {
+              "points": "507,1086 535,1086 564,1087 592,1089 621,1087 650,1086"
+            },
+            "text": "where",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "494,1047 494,1107 634,1107 634,1047"
+                },
+                "text": "where"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "958,1200 1015,1224 1108,1202 1215,1250 1293,1195 1400,1228 1531,1202 1690,1246 1783,1226 1768,1119 1609,1156 1328,1124 1202,1158 1150,1117 958,1154"
+            },
+            "baseline": {
+              "points": "970,1191 1010,1191 1051,1191 1092,1191 1133,1195 1174,1199 1215,1199 1256,1196 1297,1194 1338,1194 1379,1194 1419,1194 1460,1191 1501,1191 1542,1193 1583,1194 1624,1198 1665,1202 1706,1203 1747,1203 1788,1206"
+            },
+            "text": "detritus(wk) = new production(wk-4)",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "961,1151 961,1211 1228,1211 1228,1151"
+                },
+                "text": "detritus(wk)"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "1243,1156 1243,1216 1256,1216 1256,1156"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "1299,1154 1299,1214 1362,1214 1362,1154"
+                },
+                "text": "new"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "1398,1154 1398,1214 1777,1214 1777,1154"
+                },
+                "text": "production(wk-4)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "483,1322 501,1326 547,1317 562,1330 573,1330 584,1320 597,1317 594,1246 571,1248 566,1243 560,1248 523,1219 503,1230 481,1226"
+            },
+            "baseline": {
+              "points": "495,1289 522,1289 549,1289 576,1289 603,1292"
+            },
+            "text": "and",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "489,1249 489,1309 569,1309 569,1249"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "808,1426 1916,1437 1916,1357 1670,1311 1446,1370 1252,1322 808,1348"
+            },
+            "baseline": {
+              "points": "820,1391 875,1389 930,1392 985,1398 1040,1397 1095,1397 1150,1394 1205,1392 1260,1393 1315,1394 1371,1397 1426,1395 1481,1394 1536,1394 1591,1394 1646,1394 1701,1394 1756,1394 1811,1398 1866,1404 1922,1400"
+            },
+            "text": "recyc (wk) - production(wk)- new production(wk)",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "810,1349 810,1409 917,1409 917,1349"
+                },
+                "text": "recyc"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "931,1356 931,1416 1020,1416 1020,1356"
+                },
+                "text": "(wk)"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "1039,1357 1039,1417 1051,1417 1051,1357"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "1090,1353 1090,1413 1453,1413 1453,1353"
+                },
+                "text": "production(wk)-"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1479,1354 1479,1414 1535,1414 1535,1354"
+                },
+                "text": "new"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1575,1354 1575,1414 1905,1414 1905,1354"
+                },
+                "text": "production(wk)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "631,1620 1984,1624 2023,1609 2021,1520 1744,1553 1248,1505 1169,1548 629,1533"
+            },
+            "baseline": {
+              "points": "644,1585 713,1585 782,1585 851,1587 920,1585 989,1588 1058,1588 1128,1588 1197,1588 1266,1588 1335,1588 1404,1588 1473,1588 1542,1588 1612,1590 1681,1588 1750,1590 1819,1589 1888,1591 1957,1590 2027,1591"
+            },
+            "text": "Before discussing the results of the simulation, there are several",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "635,1545 635,1605 768,1605 768,1545"
+                },
+                "text": "Before"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "795,1545 795,1605 998,1605 998,1545"
+                },
+                "text": "discussing"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "1026,1548 1026,1608 1078,1608 1078,1548"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "1106,1548 1106,1608 1239,1608 1239,1548"
+                },
+                "text": "results"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1261,1548 1261,1608 1298,1608 1298,1548"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1315,1548 1315,1608 1373,1608 1373,1548"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1395,1548 1395,1608 1635,1608 1635,1548"
+                },
+                "text": "simulation,"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1652,1548 1652,1608 1748,1608 1748,1548"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1775,1549 1775,1609 1834,1609 1834,1549"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1861,1550 1861,1610 2010,1610 2010,1550"
+                },
+                "text": "several"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "490,1729 577,1694 712,1733 799,1701 1039,1735 2164,1712 2164,1648 2110,1631 2056,1664 1805,1627 490,1642"
+            },
+            "baseline": {
+              "points": "501,1686 584,1686 667,1686 750,1686 834,1686 917,1689 1000,1686 1084,1689 1167,1689 1250,1689 1334,1688 1417,1689 1500,1689 1583,1689 1667,1689 1750,1689 1833,1689 1917,1689 2000,1689 2083,1689 2167,1692"
+            },
+            "text": "underlying assumptions that require justification. First, the model ignores the",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "496,1646 496,1706 712,1706 712,1646"
+                },
+                "text": "underlying"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "735,1647 735,1707 990,1707 990,1647"
+                },
+                "text": "assumptions"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "1013,1647 1013,1707 1095,1707 1095,1647"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "1113,1649 1113,1709 1251,1709 1251,1649"
+                },
+                "text": "require"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1279,1648 1279,1708 1540,1708 1540,1648"
+                },
+                "text": "justification."
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1568,1649 1568,1709 1678,1709 1678,1649"
+                },
+                "text": "First,"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1696,1649 1696,1709 1745,1709 1745,1649"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1774,1649 1774,1709 1906,1709 1906,1649"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1918,1649 1918,1709 2067,1709 2067,1649"
+                },
+                "text": "ignores"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "2090,1650 2090,1710 2145,1710 2145,1650"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "486,1803 2123,1840 2123,1749 2056,1729 1955,1762 1899,1729 486,1735"
+            },
+            "baseline": {
+              "points": "498,1785 579,1786 661,1785 742,1786 824,1788 905,1788 987,1788 1068,1788 1150,1790 1231,1788 1313,1788 1394,1788 1476,1788 1557,1791 1639,1789 1720,1791 1802,1791 1883,1791 1965,1791 2046,1791 2128,1788"
+            },
+            "text": "accepted equations relating photosynthesis to changes in temperature. This",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "491,1745 491,1805 666,1805 666,1745"
+                },
+                "text": "accepted"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "699,1747 699,1807 901,1807 901,1747"
+                },
+                "text": "equations"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "923,1748 923,1808 1071,1808 1071,1748"
+                },
+                "text": "relating"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "1099,1748 1099,1808 1407,1808 1407,1748"
+                },
+                "text": "photosynthesis"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "1429,1748 1429,1808 1455,1808 1455,1748"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1488,1750 1488,1810 1646,1810 1646,1750"
+                },
+                "text": "changes"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1668,1750 1668,1810 1694,1810 1694,1750"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1722,1751 1722,1811 2004,1811 2004,1751"
+                },
+                "text": "temperature."
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "2031,1750 2031,1810 2115,1810 2115,1750"
+                },
+                "text": "This"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "494,1923 2204,1923 2201,1844 2154,1836 847,1853 753,1816 492,1857"
+            },
+            "baseline": {
+              "points": "504,1883 589,1886 674,1886 759,1884 845,1886 930,1888 1015,1887 1100,1889 1186,1889 1271,1889 1356,1889 1441,1889 1527,1889 1612,1889 1697,1889 1782,1889 1868,1889 1953,1889 2038,1889 2123,1889 2209,1889"
+            },
+            "text": "probably does not introduce significant error, given the relative constancy of the",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "497,1845 497,1905 677,1905 677,1845"
+                },
+                "text": "probably"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "704,1844 704,1904 788,1904 788,1844"
+                },
+                "text": "does"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "815,1846 815,1906 878,1906 878,1846"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "894,1847 894,1907 1084,1907 1084,1847"
+                },
+                "text": "introduce"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "1111,1849 1111,1909 1328,1909 1328,1849"
+                },
+                "text": "significant"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1344,1849 1344,1909 1461,1909 1461,1849"
+                },
+                "text": "error,"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1477,1849 1477,1909 1577,1909 1577,1849"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1604,1849 1604,1909 1656,1909 1656,1849"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1684,1849 1684,1909 1831,1909 1831,1849"
+                },
+                "text": "relative"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1858,1849 1858,1909 2059,1909 2059,1849"
+                },
+                "text": "constancy"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "2086,1849 2086,1909 2122,1909 2122,1849"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "2139,1849 2139,1909 2191,1909 2191,1849"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "492,1986 738,2027 969,1997 2215,2029 2215,1940 2167,1925 1783,1960 1642,1921 1561,1958 492,1934"
+            },
+            "baseline": {
+              "points": "504,1985 589,1988 675,1988 761,1989 847,1988 933,1990 1019,1988 1104,1989 1190,1988 1276,1988 1362,1991 1448,1991 1534,1991 1620,1991 1705,1991 1791,1991 1877,1991 1963,1991 2049,1991 2135,1991 2221,1991"
+            },
+            "text": "water temperature in Monterey Bay. The model also disregards the relationship",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "492,1946 492,2006 605,2006 605,1946"
+                },
+                "text": "water"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "628,1948 628,2008 881,2008 881,1948"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "909,1949 909,2009 936,2009 936,1949"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "963,1948 963,2008 1163,2008 1163,1948"
+                },
+                "text": "Monterey"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1185,1948 1185,2008 1277,2008 1277,1948"
+                },
+                "text": "Bay."
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1304,1950 1304,2010 1374,2010 1374,1950"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1402,1951 1402,2011 1536,2011 1536,1951"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1553,1951 1553,2011 1618,2011 1618,1951"
+                },
+                "text": "also"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1645,1951 1645,2011 1856,2011 1856,1951"
+                },
+                "text": "disregards"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1878,1951 1878,2011 1932,2011 1932,1951"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1959,1951 1959,2011 2197,2011 2197,1951"
+                },
+                "text": "relationship"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "490,2099 2034,2123 2034,2032 490,2051"
+            },
+            "baseline": {
+              "points": "501,2086 577,2086 654,2089 731,2086 808,2089 884,2089 961,2089 1038,2089 1115,2089 1191,2089 1268,2089 1345,2092 1422,2089 1498,2089 1575,2089 1652,2089 1729,2092 1805,2089 1882,2089 1959,2091 2036,2089"
+            },
+            "text": "between phytoplankton density and euphotic zone depth. Although the",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "495,2046 495,2106 659,2106 659,2046"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "691,2049 691,2109 987,2109 987,2049"
+                },
+                "text": "phytoplankton"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "1015,2049 1015,2109 1157,2109 1157,2049"
+                },
+                "text": "density"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "1179,2049 1179,2109 1242,2109 1242,2049"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "1275,2051 1275,2111 1449,2111 1449,2051"
+                },
+                "text": "euphotic"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1471,2049 1471,2109 1560,2109 1560,2049"
+                },
+                "text": "zone"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1587,2049 1587,2109 1724,2109 1724,2049"
+                },
+                "text": "depth."
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1746,2049 1746,2109 1936,2109 1936,2049"
+                },
+                "text": "Although"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1963,2050 1963,2110 2016,2110 2016,2050"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "492,2199 808,2236 2199,2210 2199,2136 492,2145"
+            },
+            "baseline": {
+              "points": "504,2188 593,2188 682,2188 772,2188 861,2191 951,2188 1040,2191 1129,2191 1219,2191 1308,2191 1398,2191 1487,2191 1577,2191 1666,2191 1755,2191 1845,2191 1934,2191 2024,2191 2113,2191 2203,2188"
+            },
+            "text": "extinction coefficient for chlorophyll a is actually quite high, Platt\u2019s equation for",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "492,2148 492,2208 688,2208 688,2148"
+                },
+                "text": "extinction"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "721,2149 721,2209 938,2209 938,2149"
+                },
+                "text": "coefficient"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "955,2149 955,2209 1009,2209 1009,2149"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "1032,2151 1032,2211 1270,2211 1270,2151"
+                },
+                "text": "chlorophyll"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "1287,2151 1287,2211 1297,2211 1297,2151"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1325,2151 1325,2211 1347,2211 1347,2151"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1369,2151 1369,2211 1527,2211 1527,2151"
+                },
+                "text": "actually"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1549,2151 1549,2211 1646,2211 1646,2151"
+                },
+                "text": "quite"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1669,2151 1669,2211 1771,2211 1771,2151"
+                },
+                "text": "high,"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1789,2151 1789,2211 1913,2211 1913,2151"
+                },
+                "text": "Platt\u2019s"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1936,2151 1936,2211 2109,2211 2109,2151"
+                },
+                "text": "equation"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "2137,2149 2137,2209 2191,2209 2191,2149"
+                },
+                "text": "for"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "486,2326 1934,2297 2206,2345 2184,2243 486,2225"
+            },
+            "baseline": {
+              "points": "498,2286 583,2289 669,2288 755,2289 840,2289 926,2289 1012,2289 1097,2289 1183,2289 1269,2289 1355,2289 1440,2289 1526,2289 1612,2289 1697,2289 1783,2292 1869,2292 1954,2292 2040,2292 2126,2292 2212,2295"
+            },
+            "text": "production as a function of PAR already factors in this consideration. Adjusting",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "493,2248 493,2308 713,2308 713,2248"
+                },
+                "text": "production"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "742,2249 742,2309 776,2309 776,2249"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "799,2249 799,2309 810,2309 810,2249"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "833,2249 833,2309 997,2309 997,2249"
+                },
+                "text": "function"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1026,2249 1026,2309 1066,2309 1066,2249"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1084,2249 1084,2309 1163,2309 1163,2249"
+                },
+                "text": "PAR"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1203,2249 1203,2309 1350,2309 1350,2249"
+                },
+                "text": "already"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1374,2249 1374,2309 1509,2309 1509,2249"
+                },
+                "text": "factors"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1533,2249 1533,2309 1555,2309 1555,2249"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1584,2249 1584,2309 1652,2309 1652,2249"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1670,2252 1670,2312 1976,2312 1976,2252"
+                },
+                "text": "consideration."
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1999,2252 1999,2312 2197,2312 2197,2252"
+                },
+                "text": "Adjusting"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "490,2408 671,2441 708,2408 1367,2400 1465,2443 2236,2402 2236,2347 2106,2339 490,2356"
+            },
+            "baseline": {
+              "points": "501,2388 588,2391 675,2391 762,2391 849,2391 936,2391 1023,2391 1110,2391 1197,2391 1284,2391 1371,2391 1458,2391 1545,2390 1632,2391 1719,2391 1806,2391 1893,2391 1980,2391 2067,2391 2154,2394 2242,2394"
+            },
+            "text": "the model's PAR values for phytoplankton density would therefore be redundant.",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "496,2348 496,2408 549,2408 549,2348"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "577,2351 577,2411 733,2411 733,2351"
+                },
+                "text": "model's"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "756,2351 756,2411 836,2411 836,2351"
+                },
+                "text": "PAR"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "875,2351 875,2411 998,2411 998,2351"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1021,2351 1021,2411 1074,2411 1074,2351"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1097,2351 1097,2411 1394,2411 1394,2351"
+                },
+                "text": "phytoplankton"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1422,2350 1422,2410 1562,2410 1562,2350"
+                },
+                "text": "density"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1584,2351 1584,2411 1697,2411 1697,2351"
+                },
+                "text": "would"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1725,2351 1725,2411 1914,2411 1914,2351"
+                },
+                "text": "therefore"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1942,2351 1942,2411 1979,2411 1979,2351"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "2007,2352 2007,2412 2239,2412 2239,2352"
+                },
+                "text": "redundant."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "490,2515 2186,2506 2186,2456 2084,2437 490,2434"
+            },
+            "baseline": {
+              "points": "501,2483 585,2489 670,2492 754,2492 839,2492 923,2492 1008,2492 1092,2492 1177,2492 1261,2492 1346,2492 1430,2492 1515,2492 1599,2492 1684,2492 1768,2492 1853,2492 1937,2492 2022,2492 2106,2492 2191,2495"
+            },
+            "text": "The final, and most questionable assumption is that light and nitrogen level are",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "497,2445 497,2505 564,2505 564,2445"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "593,2451 593,2511 695,2511 695,2451"
+                },
+                "text": "final,"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "713,2452 713,2512 781,2512 781,2452"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "810,2452 810,2512 906,2512 906,2452"
+                },
+                "text": "most"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "924,2452 924,2512 1185,2512 1185,2452"
+                },
+                "text": "questionable"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1215,2452 1215,2512 1442,2512 1442,2452"
+                },
+                "text": "assumption"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1471,2452 1471,2512 1493,2512 1493,2452"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1517,2452 1517,2512 1596,2512 1596,2452"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1614,2452 1614,2512 1705,2512 1705,2452"
+                },
+                "text": "light"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1722,2452 1722,2512 1784,2512 1784,2452"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1813,2452 1813,2512 1978,2512 1978,2452"
+                },
+                "text": "nitrogen"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "2007,2452 2007,2512 2109,2512 2109,2452"
+                },
+                "text": "level"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "2121,2453 2121,2513 2177,2513 2177,2453"
+                },
+                "text": "are"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "492,2628 1420,2606 1681,2650 1768,2602 2149,2615 2149,2548 2103,2539 492,2543"
+            },
+            "baseline": {
+              "points": "504,2588 586,2591 669,2591 751,2591 834,2591 916,2591 999,2591 1081,2591 1164,2593 1246,2593 1329,2593 1412,2594 1494,2594 1577,2591 1659,2592 1742,2594 1824,2594 1907,2594 1989,2591 2072,2594 2155,2594"
+            },
+            "text": "the most important variables influencing primary production in the bay. This",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "492,2548 492,2608 546,2608 546,2548"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "574,2551 574,2611 677,2611 677,2551"
+                },
+                "text": "most"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "694,2551 694,2611 905,2611 905,2551"
+                },
+                "text": "important"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "922,2551 922,2611 1107,2611 1107,2551"
+                },
+                "text": "variables"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1129,2553 1129,2613 1352,2613 1352,2553"
+                },
+                "text": "influencing"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1379,2554 1379,2614 1537,2614 1537,2554"
+                },
+                "text": "primary"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1564,2552 1564,2612 1782,2612 1782,2552"
+                },
+                "text": "production"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1810,2554 1810,2614 1836,2614 1836,2554"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1864,2554 1864,2614 1918,2614 1918,2554"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1946,2551 1946,2611 2032,2611 2032,2551"
+                },
+                "text": "bay."
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "2054,2554 2054,2614 2141,2614 2141,2554"
+                },
+                "text": "This"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "483,2713 1121,2698 1420,2750 1566,2711 2164,2713 2164,2657 2088,2641 483,2648"
+            },
+            "baseline": {
+              "points": "495,2689 578,2692 662,2692 746,2692 830,2692 913,2689 997,2690 1081,2692 1165,2692 1248,2692 1332,2692 1416,2692 1500,2692 1583,2692 1667,2692 1751,2695 1835,2692 1918,2692 2002,2692 2086,2695 2170,2695"
+            },
+            "text": "assumption is not obvious, but the relative accuracy of the model\u2019s predictions",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "483,2652 483,2712 712,2712 712,2652"
+                },
+                "text": "assumption"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "744,2652 744,2712 764,2712 764,2652"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "786,2652 786,2712 853,2712 853,2652"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "874,2649 874,2709 1046,2709 1046,2649"
+                },
+                "text": "obvious,"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1062,2652 1062,2712 1129,2712 1129,2652"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1146,2652 1146,2712 1202,2712 1202,2652"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1229,2652 1229,2712 1375,2712 1375,2652"
+                },
+                "text": "relative"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1406,2652 1406,2712 1583,2712 1583,2652"
+                },
+                "text": "accuracy"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1605,2652 1605,2712 1646,2712 1646,2652"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1662,2652 1662,2712 1714,2712 1714,2652"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1746,2652 1746,2712 1902,2712 1902,2652"
+                },
+                "text": "model\u2019s"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1923,2653 1923,2713 2157,2713 2157,2653"
+                },
+                "text": "predictions"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "483,2839 610,2829 662,2802 721,2813 769,2796 808,2822 838,2800 886,2820 928,2809 928,2755 849,2741 727,2755 706,2737 629,2757 594,2739 483,2763"
+            },
+            "baseline": {
+              "points": "495,2791 520,2791 546,2791 572,2791 598,2791 624,2791 649,2791 675,2791 701,2791 727,2791 753,2791 779,2791 804,2791 830,2791 856,2791 882,2793 908,2793 934,2791"
+            },
+            "text": "supports its validity.",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "489,2751 489,2811 673,2811 673,2751"
+                },
+                "text": "supports"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "690,2751 690,2811 735,2811 735,2751"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "758,2751 758,2811 925,2811 925,2751"
+                },
+                "text": "validity."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

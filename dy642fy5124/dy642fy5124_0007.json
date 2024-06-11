@@ -1,0 +1,2147 @@
+{
+  "processId": 10311248,
+  "status": "FINISHED",
+  "content": {
+    "text": "The phytoplankton biomass is incremented weekly. The original model\nadded 95% of the calculated weekly production to the previous week's biomass.\n5% of the production was assumed to be lost from the system as dissolved organic\nmatter (D\u00d6M). Running the model with these figures, however, resulted in\nunreasonably high phytoplankton populations. The final model still subtracts 5%\nof each week's production, but adds only 25% of the remaining production to the\nweek's biomass. The portion of production not taken up by phytoplankton\nprobably goes to support grazer populations, for which this model does not yet\naccount.\nThe biomass calculation has two loss terms: detrital fallout - nutrients\ntotally lost from the system - and recycled matter - nutrients remaining in the\neuphotic zone but no longer incorporated in living phytoplankton. Both terms\ninclude many natural processes, but this model does not distinguish these\nprocesses.\nFor steady state to be maintained, the nitrogen lost from the system must\nequal the upwelled nitrogen. Little is known, however, about the time span over\nwhich equilibrium is reached. The model was run several times with different\ninput values to determine a reasonable value for this time lag. Exporting NO3\none week after it was upwelled resulted in a constant phytoplankton population,\nbecause all production was immediately lost as fallout. On the other hand, if the\nlag time for NO3 loss was too long, the simulated population grew well above\nobserved limits. The best estimate for the lag time appears to be one month.\nThe model therefore equates detrital fallout to N\u00d63-supported phytoplankton\ngrowth from four weeks previous.",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "477,337 477,2922 2233,2922 2233,337"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "619,396 812,429 939,396 2160,418 2160,346 2016,322 619,339"
+            },
+            "baseline": {
+              "points": "632,385 708,387 785,386 861,385 938,387 1015,386 1091,385 1168,388 1244,385 1321,385 1398,385 1474,386 1551,386 1627,386 1704,388 1781,388 1857,388 1934,388 2010,386 2087,388 2164,385"
+            },
+            "text": "The phytoplankton biomass is incremented weekly. The original model",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "624,345 624,405 693,405 693,345"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "720,345 720,405 1018,405 1018,345"
+                },
+                "text": "phytoplankton"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "1045,346 1045,406 1215,406 1215,346"
+                },
+                "text": "biomass"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "1237,345 1237,405 1257,405 1257,345"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "1280,345 1280,405 1535,405 1535,345"
+                },
+                "text": "incremented"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "1562,346 1562,406 1721,406 1721,346"
+                },
+                "text": "weekly."
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1749,348 1749,408 1822,408 1822,348"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1849,348 1849,408 2009,408 2009,348"
+                },
+                "text": "original"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "2025,347 2025,407 2158,407 2158,347"
+                },
+                "text": "model"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "468,519 2184,508 2184,453 2044,429 468,451"
+            },
+            "baseline": {
+              "points": "480,486 565,486 650,484 736,486 821,486 907,486 992,486 1077,486 1163,486 1248,483 1334,486 1419,486 1504,486 1590,486 1675,486 1761,484 1846,483 1931,484 2017,486 2102,486 2188,486"
+            },
+            "text": "added 95% of the calculated weekly production to the previous week's biomass.",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "473,446 473,506 591,506 591,446"
+                },
+                "text": "added"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "623,444 623,504 684,504 684,444"
+                },
+                "text": "95%"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "731,446 731,506 772,506 772,446"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "788,446 788,506 839,506 839,446"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "866,446 866,506 1071,506 1071,446"
+                },
+                "text": "calculated"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1098,445 1098,505 1232,505 1232,445"
+                },
+                "text": "weekly"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1258,446 1258,506 1479,506 1479,446"
+                },
+                "text": "production"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1506,446 1506,506 1531,506 1531,446"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1563,446 1563,506 1614,506 1614,446"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1640,444 1640,504 1815,504 1815,444"
+                },
+                "text": "previous"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1836,443 1836,503 1975,503 1975,443"
+                },
+                "text": "week's"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1997,446 1997,506 2177,506 2177,446"
+                },
+                "text": "biomass."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "471,628 2230,602 2230,549 2167,525 471,534"
+            },
+            "baseline": {
+              "points": "483,582 570,585 658,585 745,585 833,586 920,585 1008,587 1095,587 1183,588 1270,585 1358,585 1445,588 1533,588 1620,587 1708,585 1795,587 1883,585 1970,585 2058,585 2145,588 2233,588"
+            },
+            "text": "5% of the production was assumed to be lost from the system as dissolved organic",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "476,542 476,602 512,602 512,542"
+                },
+                "text": "5%"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "559,545 559,605 600,605 600,545"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "616,545 616,605 667,605 667,545"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "699,545 699,605 921,605 921,545"
+                },
+                "text": "production"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "948,546 948,606 1014,606 1014,546"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1041,547 1041,607 1212,607 1212,547"
+                },
+                "text": "assumed"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1238,545 1238,605 1264,605 1264,545"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1295,545 1295,605 1331,605 1331,545"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1357,546 1357,606 1429,606 1429,546"
+                },
+                "text": "lost"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1445,548 1445,608 1522,608 1522,548"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1565,547 1565,607 1616,607 1616,547"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1643,545 1643,605 1761,605 1761,545"
+                },
+                "text": "system"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1803,546 1803,606 1839,606 1839,546"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "1860,545 1860,605 2041,605 2041,545"
+                },
+                "text": "dissolved"
+              },
+              {
+                "id": "tr_1_tl_3_w15",
+                "coords": {
+                  "points": "2068,547 2068,607 2217,607 2217,547"
+                },
+                "text": "organic"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "468,703 788,738 830,703 1239,727 1370,689 1547,724 2099,707 2099,646 1981,624 1808,657 468,633"
+            },
+            "baseline": {
+              "points": "480,689 561,686 642,685 723,683 804,686 886,686 967,686 1048,686 1129,686 1210,686 1292,686 1373,686 1454,686 1535,686 1616,686 1698,686 1779,683 1860,686 1941,684 2022,686 2104,683"
+            },
+            "text": "matter (D\u00d6M). Running the model with these figures, however, resulted in",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "469,646 469,706 607,706 607,646"
+                },
+                "text": "matter"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "630,643 630,703 807,703 807,643"
+                },
+                "text": "(D\u00d6M)."
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "830,646 830,706 1007,706 1007,646"
+                },
+                "text": "Running"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "1035,646 1035,706 1084,706 1084,646"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "1113,646 1113,706 1246,706 1246,646"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1263,646 1263,706 1335,706 1335,646"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1364,646 1364,706 1463,706 1463,646"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1491,646 1491,706 1646,706 1646,646"
+                },
+                "text": "figures,"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1663,643 1663,703 1852,703 1852,643"
+                },
+                "text": "however,"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1869,644 1869,704 2029,704 2029,644"
+                },
+                "text": "resulted"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "2058,644 2058,704 2079,704 2079,644"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "471,803 2213,827 2213,742 1979,720 471,749"
+            },
+            "baseline": {
+              "points": "483,785 569,785 656,785 743,785 830,787 916,785 1003,785 1090,785 1177,785 1263,785 1350,785 1437,785 1524,785 1610,785 1697,785 1784,782 1871,782 1957,782 2044,782 2131,785 2218,785"
+            },
+            "text": "unreasonably high phytoplankton populations. The final model still subtracts 5%",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "477,745 477,805 752,805 752,745"
+                },
+                "text": "unreasonably"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "775,746 775,806 850,806 850,746"
+                },
+                "text": "high"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "883,745 883,805 1180,805 1180,745"
+                },
+                "text": "phytoplankton"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "1208,745 1208,805 1468,805 1468,745"
+                },
+                "text": "populations."
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "1496,745 1496,805 1566,805 1566,745"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1593,745 1593,805 1685,805 1685,745"
+                },
+                "text": "final"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1702,742 1702,802 1837,802 1837,742"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1848,742 1848,802 1923,802 1923,742"
+                },
+                "text": "still"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1935,742 1935,802 2124,802 2124,742"
+                },
+                "text": "subtracts"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "2146,745 2146,805 2183,805 2183,745"
+                },
+                "text": "5%"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "464,917 2208,915 2187,834 2014,823 464,849"
+            },
+            "baseline": {
+              "points": "477,883 563,883 650,883 737,885 824,883 911,886 998,885 1085,884 1172,884 1259,883 1346,883 1432,885 1519,883 1606,883 1693,886 1780,883 1867,883 1954,883 2041,883 2128,883 2215,886"
+            },
+            "text": "of each week's production, but adds only 25% of the remaining production to the",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "469,843 469,903 506,903 506,843"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "528,843 528,903 612,903 612,843"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "639,844 639,904 777,904 777,844"
+                },
+                "text": "week's"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "793,845 793,905 1042,905 1042,845"
+                },
+                "text": "production,"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1059,844 1059,904 1122,904 1122,844"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1144,843 1144,903 1233,903 1233,843"
+                },
+                "text": "adds"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1250,843 1250,903 1329,903 1329,843"
+                },
+                "text": "only"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1357,843 1357,903 1420,903 1420,843"
+                },
+                "text": "25%"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1468,843 1468,903 1505,903 1505,843"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1521,843 1521,903 1574,903 1574,843"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1601,845 1601,905 1807,905 1807,845"
+                },
+                "text": "remaining"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1835,843 1835,903 2057,903 2057,843"
+                },
+                "text": "production"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "2084,843 2084,903 2115,903 2115,843"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "2143,844 2143,904 2195,904 2195,844"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "464,1013 2084,1000 2084,941 1928,930 464,941"
+            },
+            "baseline": {
+              "points": "477,982 557,985 638,985 718,985 799,985 880,985 960,985 1041,985 1121,985 1202,985 1283,985 1363,985 1444,985 1524,985 1605,985 1686,985 1766,984 1847,985 1927,985 2008,985 2089,985"
+            },
+            "text": "week's biomass. The portion of production not taken up by phytoplankton",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "464,944 464,1004 605,1004 605,944"
+                },
+                "text": "week's"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "627,945 627,1005 812,1005 812,945"
+                },
+                "text": "biomass."
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "835,945 835,1005 910,1005 910,945"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "938,945 938,1005 1079,1005 1079,945"
+                },
+                "text": "portion"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1107,945 1107,1005 1150,1005 1150,945"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1167,945 1167,1005 1389,1005 1389,945"
+                },
+                "text": "production"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1417,945 1417,1005 1482,1005 1482,945"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1499,945 1499,1005 1602,1005 1602,945"
+                },
+                "text": "taken"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1630,945 1630,1005 1667,1005 1667,945"
+                },
+                "text": "up"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1701,944 1701,1004 1738,1004 1738,944"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1760,945 1760,1005 2065,1005 2065,945"
+                },
+                "text": "phytoplankton"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "477,1108 1655,1125 1742,1090 1996,1132 2165,1092 2165,1029 1731,1048 1659,1009 1517,1051 477,1037"
+            },
+            "baseline": {
+              "points": "489,1086 573,1086 657,1085 741,1081 825,1083 909,1083 993,1083 1077,1083 1161,1086 1245,1083 1329,1083 1413,1083 1497,1083 1581,1083 1665,1083 1749,1083 1833,1083 1917,1083 2001,1083 2085,1083 2170,1083"
+            },
+            "text": "probably goes to support grazer populations, for which this model does not yet",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "477,1046 477,1106 661,1106 661,1046"
+                },
+                "text": "probably"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "683,1041 683,1101 769,1101 769,1041"
+                },
+                "text": "goes"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "792,1042 792,1102 818,1102 818,1042"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "851,1043 851,1103 1008,1103 1008,1043"
+                },
+                "text": "support"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1025,1043 1025,1103 1154,1103 1154,1043"
+                },
+                "text": "grazer"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1176,1043 1176,1103 1436,1103 1436,1043"
+                },
+                "text": "populations,"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1453,1043 1453,1103 1507,1103 1507,1043"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1529,1043 1529,1103 1637,1103 1637,1043"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1665,1043 1665,1103 1734,1103 1734,1043"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1757,1043 1757,1103 1886,1103 1886,1043"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1903,1043 1903,1103 1994,1103 1994,1043"
+                },
+                "text": "does"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "2017,1043 2017,1103 2081,1103 2081,1043"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "2098,1043 2098,1103 2157,1103 2157,1043"
+                },
+                "text": "yet"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "464,1224 512,1230 543,1213 571,1234 589,1228 611,1234 639,1217 672,1224 672,1143 641,1125 611,1127 602,1118 591,1129 530,1123 503,1145 464,1143"
+            },
+            "baseline": {
+              "points": "477,1185 502,1185 527,1185 552,1185 577,1185 602,1185 627,1186 652,1188 677,1185"
+            },
+            "text": "account.",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "469,1145 469,1205 665,1205 665,1145"
+                },
+                "text": "account."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "617,1407 2136,1410 2136,1342 1928,1353 1834,1313 1628,1350 1541,1309 1449,1346 1064,1346 1016,1304 954,1342 617,1337"
+            },
+            "baseline": {
+              "points": "629,1382 704,1385 780,1385 855,1382 931,1382 1006,1384 1082,1385 1157,1385 1233,1382 1308,1382 1384,1382 1460,1384 1535,1384 1611,1382 1686,1385 1762,1382 1837,1382 1913,1379 1988,1382 2064,1382 2140,1379"
+            },
+            "text": "The biomass calculation has two loss terms: detrital fallout - nutrients",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "622,1343 622,1403 694,1403 694,1343"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "721,1344 721,1404 886,1404 886,1344"
+                },
+                "text": "biomass"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "913,1344 913,1404 1131,1404 1131,1344"
+                },
+                "text": "calculation"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "1157,1343 1157,1403 1219,1403 1219,1343"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1240,1342 1240,1402 1307,1402 1307,1342"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1334,1342 1334,1402 1401,1402 1401,1342"
+                },
+                "text": "loss"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1423,1344 1423,1404 1557,1404 1557,1344"
+                },
+                "text": "terms:"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1573,1343 1573,1403 1728,1403 1728,1343"
+                },
+                "text": "detrital"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1745,1342 1745,1402 1879,1402 1879,1342"
+                },
+                "text": "fallout"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1896,1339 1896,1399 1905,1399 1905,1339"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1942,1342 1942,1402 2129,1402 2129,1342"
+                },
+                "text": "nutrients"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "468,1530 720,1493 1335,1491 1510,1530 1582,1488 1891,1491 1963,1541 2152,1506 2152,1440 2073,1425 468,1440"
+            },
+            "baseline": {
+              "points": "480,1483 563,1486 647,1483 731,1483 815,1483 899,1482 983,1483 1067,1483 1151,1483 1235,1483 1319,1483 1402,1483 1486,1483 1570,1479 1654,1483 1738,1483 1822,1483 1906,1483 1990,1483 2074,1483 2158,1483"
+            },
+            "text": "totally lost from the system - and recycled matter - nutrients remaining in the",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "473,1444 473,1504 593,1504 593,1444"
+                },
+                "text": "totally"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "619,1443 619,1503 689,1503 689,1443"
+                },
+                "text": "lost"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "710,1443 710,1503 785,1503 785,1443"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "826,1442 826,1502 881,1502 881,1442"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "907,1442 907,1502 1023,1502 1023,1442"
+                },
+                "text": "system"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1064,1443 1064,1503 1073,1503 1073,1443"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1109,1443 1109,1503 1174,1503 1174,1443"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1200,1443 1200,1503 1362,1503 1362,1443"
+                },
+                "text": "recycled"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1393,1443 1393,1503 1529,1503 1529,1443"
+                },
+                "text": "matter"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1544,1439 1544,1499 1559,1499 1559,1439"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1590,1443 1590,1503 1776,1503 1776,1443"
+                },
+                "text": "nutrients"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1797,1443 1797,1503 2004,1503 2004,1443"
+                },
+                "text": "remaining"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "2030,1443 2030,1503 2054,1503 2054,1443"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "2080,1443 2080,1503 2135,1503 2135,1443"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "468,1609 2162,1607 2162,1545 2051,1528 468,1530"
+            },
+            "baseline": {
+              "points": "480,1579 564,1582 648,1582 733,1583 817,1582 901,1582 986,1582 1070,1580 1154,1582 1239,1582 1323,1582 1407,1582 1492,1582 1576,1582 1660,1582 1745,1582 1829,1582 1913,1582 1998,1582 2082,1582 2167,1579"
+            },
+            "text": "euphotic zone but no longer incorporated in living phytoplankton. Both terms",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "473,1541 473,1601 648,1601 648,1541"
+                },
+                "text": "euphotic"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "675,1542 675,1602 765,1602 765,1542"
+                },
+                "text": "zone"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "792,1542 792,1602 855,1602 855,1542"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "872,1542 872,1602 915,1602 915,1542"
+                },
+                "text": "no"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "942,1541 942,1601 1069,1601 1069,1541"
+                },
+                "text": "longer"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1091,1542 1091,1602 1356,1602 1356,1542"
+                },
+                "text": "incorporated"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1384,1542 1384,1602 1410,1602 1410,1542"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1437,1542 1437,1602 1537,1602 1537,1542"
+                },
+                "text": "living"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1564,1542 1564,1602 1894,1602 1894,1542"
+                },
+                "text": "phytoplankton."
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1916,1542 1916,1602 2011,1602 2011,1542"
+                },
+                "text": "Both"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "2038,1541 2038,1601 2149,1601 2149,1541"
+                },
+                "text": "terms"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "464,1694 731,1731 1215,1692 1329,1733 1420,1696 2049,1712 2049,1635 1885,1620 464,1646"
+            },
+            "baseline": {
+              "points": "477,1683 555,1683 634,1683 713,1683 792,1683 871,1683 949,1683 1028,1680 1107,1683 1186,1683 1265,1683 1343,1683 1422,1683 1501,1683 1580,1681 1659,1683 1737,1683 1816,1683 1895,1683 1974,1680 2053,1680"
+            },
+            "text": "include many natural processes, but this model does not distinguish these",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "470,1643 470,1703 614,1703 614,1643"
+                },
+                "text": "include"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "643,1643 643,1703 748,1703 748,1643"
+                },
+                "text": "many"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "771,1643 771,1703 921,1703 921,1643"
+                },
+                "text": "natural"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "938,1640 938,1700 1155,1700 1155,1640"
+                },
+                "text": "processes,"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "1172,1643 1172,1703 1233,1703 1233,1643"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1256,1643 1256,1703 1322,1703 1322,1643"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1345,1643 1345,1703 1472,1703 1472,1643"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1490,1642 1490,1702 1578,1702 1578,1642"
+                },
+                "text": "does"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1601,1642 1601,1702 1667,1702 1667,1642"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1685,1643 1685,1703 1901,1703 1901,1643"
+                },
+                "text": "distinguish"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1930,1640 1930,1700 2029,1700 2029,1640"
+                },
+                "text": "these"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "471,1806 497,1814 517,1797 536,1808 571,1804 613,1834 707,1834 711,1749 619,1736 576,1749 556,1729 473,1738"
+            },
+            "baseline": {
+              "points": "483,1794 508,1788 534,1785 559,1785 585,1785 610,1783 636,1783 661,1785 687,1784 713,1782"
+            },
+            "text": "processes.",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "472,1744 472,1804 703,1804 703,1744"
+                },
+                "text": "processes."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "615,2011 1856,1992 1965,2027 2195,1992 2195,1946 2044,1922 615,1930"
+            },
+            "baseline": {
+              "points": "626,1985 704,1985 783,1983 862,1985 940,1985 1019,1982 1098,1985 1176,1985 1255,1985 1334,1983 1413,1983 1491,1982 1570,1982 1649,1983 1727,1984 1806,1982 1885,1982 1963,1982 2042,1982 2121,1982 2200,1979"
+            },
+            "text": "For steady state to be maintained, the nitrogen lost from the system must",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "615,1945 615,2005 689,2005 689,1945"
+                },
+                "text": "For"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "706,1943 706,2003 834,2003 834,1943"
+                },
+                "text": "steady"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "861,1945 861,2005 946,2005 946,1945"
+                },
+                "text": "state"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "973,1943 973,2003 999,2003 999,1943"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1032,1943 1032,2003 1069,2003 1069,1943"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1097,1945 1097,2005 1353,2005 1353,1945"
+                },
+                "text": "maintained,"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1369,1943 1369,2003 1422,2003 1422,1943"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1450,1942 1450,2002 1615,2002 1615,1942"
+                },
+                "text": "nitrogen"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1642,1943 1642,2003 1716,2003 1716,1943"
+                },
+                "text": "lost"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1733,1942 1733,2002 1808,2002 1808,1942"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1851,1942 1851,2002 1909,2002 1909,1942"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1931,1942 1931,2002 2048,2002 2048,1942"
+                },
+                "text": "system"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "2092,1941 2092,2001 2192,2001 2192,1941"
+                },
+                "text": "must"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "475,2095 705,2134 880,2097 978,2141 1129,2099 1239,2134 1600,2092 2195,2127 2195,2033 2152,2025 475,2046"
+            },
+            "baseline": {
+              "points": "486,2080 571,2086 657,2084 743,2083 828,2083 914,2084 1000,2086 1085,2086 1171,2085 1257,2084 1343,2083 1428,2083 1514,2083 1600,2083 1685,2083 1771,2083 1857,2083 1942,2083 2028,2083 2114,2082 2200,2080"
+            },
+            "text": "equal the upwelled nitrogen. Little is known, however, about the time span over",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "480,2043 480,2103 596,2103 596,2043"
+                },
+                "text": "equal"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "612,2044 612,2104 665,2104 665,2044"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "697,2043 697,2103 870,2103 870,2043"
+                },
+                "text": "upwelled"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "898,2045 898,2105 1093,2105 1093,2045"
+                },
+                "text": "nitrogen."
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "1120,2045 1120,2105 1220,2105 1220,2045"
+                },
+                "text": "Little"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1247,2043 1247,2103 1272,2103 1272,2043"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1289,2043 1289,2103 1442,2103 1442,2043"
+                },
+                "text": "known,"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1459,2043 1459,2103 1648,2103 1648,2043"
+                },
+                "text": "however,"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1665,2043 1665,2103 1786,2103 1786,2043"
+                },
+                "text": "about"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1803,2043 1803,2103 1855,2103 1855,2043"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1882,2043 1882,2103 1966,2103 1966,2043"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1993,2042 1993,2102 2076,2102 2076,2042"
+                },
+                "text": "span"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "2104,2041 2104,2101 2193,2101 2193,2041"
+                },
+                "text": "over"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "479,2206 652,2200 735,2243 825,2195 952,2243 2143,2200 2143,2145 1968,2127 479,2138"
+            },
+            "baseline": {
+              "points": "492,2185 574,2185 657,2185 740,2185 823,2185 906,2185 989,2185 1071,2185 1154,2185 1237,2185 1320,2185 1403,2183 1486,2185 1569,2185 1651,2185 1734,2182 1817,2182 1900,2182 1983,2182 2066,2182 2149,2182"
+            },
+            "text": "which equilibrium is reached. The model was run several times with different",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "485,2145 485,2205 597,2205 597,2145"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "625,2145 625,2205 840,2205 840,2145"
+                },
+                "text": "equilibrium"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "884,2145 884,2205 905,2205 905,2145"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "927,2145 927,2205 1110,2205 1110,2145"
+                },
+                "text": "reached."
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "1137,2145 1137,2205 1207,2205 1207,2145"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1234,2145 1234,2205 1369,2205 1369,2145"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1381,2143 1381,2203 1450,2203 1450,2143"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1472,2145 1472,2205 1531,2205 1531,2145"
+                },
+                "text": "run"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1559,2145 1559,2205 1704,2205 1704,2145"
+                },
+                "text": "several"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1720,2142 1720,2202 1828,2202 1828,2142"
+                },
+                "text": "times"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1850,2142 1850,2202 1925,2202 1925,2142"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1952,2142 1952,2202 2135,2202 2135,2142"
+                },
+                "text": "different"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "468,2324 2162,2320 2162,2246 2007,2215 1801,2252 468,2235"
+            },
+            "baseline": {
+              "points": "480,2286 564,2286 648,2286 733,2285 817,2285 901,2286 986,2286 1070,2286 1154,2286 1239,2286 1323,2283 1407,2284 1492,2283 1576,2283 1660,2283 1745,2283 1829,2283 1913,2283 1998,2283 2082,2281 2167,2289"
+            },
+            "text": "input values to determine a reasonable value for this time lag. Exporting NO3",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "468,2246 468,2306 582,2306 582,2246"
+                },
+                "text": "input"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "599,2245 599,2305 724,2305 724,2245"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "747,2245 747,2305 773,2305 773,2245"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "801,2246 801,2306 1013,2306 1013,2246"
+                },
+                "text": "determine"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1041,2246 1041,2306 1052,2306 1052,2246"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1074,2246 1074,2306 1297,2306 1297,2246"
+                },
+                "text": "reasonable"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1325,2243 1325,2303 1428,2303 1428,2243"
+                },
+                "text": "value"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1456,2243 1456,2303 1510,2303 1510,2243"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1527,2243 1527,2303 1597,2303 1597,2243"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1614,2243 1614,2303 1701,2303 1701,2243"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1724,2243 1724,2303 1805,2303 1805,2243"
+                },
+                "text": "lag."
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1827,2243 1827,2303 2034,2303 2034,2243"
+                },
+                "text": "Exporting"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "2057,2242 2057,2302 2148,2302 2148,2242"
+                },
+                "text": "NO3"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "471,2410 1208,2434 1596,2394 1751,2430 1889,2397 2198,2436 2198,2355 2090,2322 471,2353"
+            },
+            "baseline": {
+              "points": "483,2385 568,2385 654,2385 740,2385 826,2385 912,2385 998,2385 1083,2385 1169,2385 1255,2385 1341,2385 1427,2385 1513,2385 1599,2385 1684,2382 1770,2385 1856,2383 1942,2382 2028,2384 2114,2385 2200,2385"
+            },
+            "text": "one week after it was upwelled resulted in a constant phytoplankton population,",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "476,2345 476,2405 545,2405 545,2345"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "572,2345 572,2405 666,2405 666,2345"
+                },
+                "text": "week"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "693,2345 693,2405 788,2405 788,2345"
+                },
+                "text": "after"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "810,2345 810,2405 836,2405 836,2345"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "852,2345 852,2405 920,2405 920,2345"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "942,2345 942,2405 1121,2405 1121,2345"
+                },
+                "text": "upwelled"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1154,2345 1154,2405 1307,2405 1307,2345"
+                },
+                "text": "resulted"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1339,2345 1339,2405 1359,2405 1359,2345"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1387,2345 1387,2405 1402,2405 1402,2345"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1429,2345 1429,2405 1603,2405 1603,2345"
+                },
+                "text": "constant"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1619,2344 1619,2404 1920,2404 1920,2344"
+                },
+                "text": "phytoplankton"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1948,2344 1948,2404 2190,2404 2190,2344"
+                },
+                "text": "population,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "471,2502 1333,2528 1666,2486 1863,2526 2198,2493 2198,2447 2092,2427 471,2438"
+            },
+            "baseline": {
+              "points": "483,2486 569,2486 655,2486 741,2486 827,2486 913,2486 999,2486 1085,2486 1171,2486 1257,2486 1343,2484 1429,2486 1515,2486 1601,2486 1687,2483 1773,2483 1859,2483 1945,2483 2031,2483 2117,2485 2203,2486"
+            },
+            "text": "because all production was immediately lost as fallout. On the other hand, if the",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "476,2446 476,2506 635,2506 635,2446"
+                },
+                "text": "because"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "662,2446 662,2506 714,2506 714,2446"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "725,2446 725,2506 948,2506 948,2446"
+                },
+                "text": "production"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "975,2446 975,2506 1049,2506 1049,2446"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "1066,2446 1066,2506 1325,2506 1325,2446"
+                },
+                "text": "immediately"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1347,2444 1347,2504 1421,2504 1421,2444"
+                },
+                "text": "lost"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1432,2446 1432,2506 1468,2506 1468,2446"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1490,2446 1490,2506 1644,2506 1644,2446"
+                },
+                "text": "fallout."
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1666,2443 1666,2503 1723,2503 1723,2443"
+                },
+                "text": "On"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1751,2443 1751,2503 1803,2503 1803,2443"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1830,2443 1830,2503 1941,2503 1941,2443"
+                },
+                "text": "other"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1958,2443 1958,2503 2079,2503 2079,2443"
+                },
+                "text": "hand,"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "2096,2444 2096,2504 2116,2504 2116,2444"
+                },
+                "text": "if"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "2138,2445 2138,2505 2190,2505 2190,2445"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "475,2616 2136,2620 2136,2541 2009,2521 1865,2554 475,2541"
+            },
+            "baseline": {
+              "points": "486,2585 568,2588 651,2588 734,2588 816,2585 899,2588 982,2588 1064,2588 1147,2588 1230,2588 1313,2588 1395,2586 1478,2585 1561,2585 1643,2585 1726,2585 1809,2583 1891,2582 1974,2585 2057,2585 2140,2582"
+            },
+            "text": "lag time for NO3 loss was too long, the simulated population grew well above",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "475,2545 475,2605 529,2605 529,2545"
+                },
+                "text": "lag"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "557,2548 557,2608 637,2608 637,2548"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "665,2548 665,2608 718,2608 718,2548"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "741,2546 741,2606 832,2606 832,2546"
+                },
+                "text": "NO3"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "860,2547 860,2607 924,2607 924,2547"
+                },
+                "text": "loss"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "947,2548 947,2608 1016,2608 1016,2548"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1039,2548 1039,2608 1092,2608 1092,2548"
+                },
+                "text": "too"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1120,2548 1120,2608 1228,2608 1228,2548"
+                },
+                "text": "long,"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1239,2548 1239,2608 1293,2608 1293,2548"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1321,2545 1321,2605 1516,2605 1516,2545"
+                },
+                "text": "simulated"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1543,2545 1543,2605 1759,2605 1759,2545"
+                },
+                "text": "population"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1787,2542 1787,2602 1868,2602 1868,2542"
+                },
+                "text": "grew"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "1906,2544 1906,2604 1987,2604 1987,2544"
+                },
+                "text": "well"
+              },
+              {
+                "id": "tr_1_tl_21_w14",
+                "coords": {
+                  "points": "2004,2544 2004,2604 2122,2604 2122,2544"
+                },
+                "text": "above"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "471,2699 878,2738 1315,2692 1477,2732 1806,2690 2125,2716 2092,2633 1456,2657 1254,2618 921,2655 646,2620 471,2657"
+            },
+            "baseline": {
+              "points": "483,2686 565,2689 647,2686 730,2688 812,2687 895,2686 977,2686 1059,2686 1142,2689 1224,2686 1307,2686 1389,2686 1471,2686 1554,2686 1636,2683 1719,2686 1801,2685 1883,2686 1966,2686 2048,2686 2131,2683"
+            },
+            "text": "observed limits. The best estimate for the lag time appears to be one month.",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "476,2648 476,2708 656,2708 656,2648"
+                },
+                "text": "observed"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "683,2647 683,2707 815,2707 815,2647"
+                },
+                "text": "limits."
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "837,2646 837,2706 910,2706 910,2646"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "937,2646 937,2706 1021,2706 1021,2646"
+                },
+                "text": "best"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1038,2648 1038,2708 1207,2708 1207,2648"
+                },
+                "text": "estimate"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1234,2646 1234,2706 1292,2706 1292,2646"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1308,2646 1308,2706 1366,2706 1366,2646"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1393,2646 1393,2706 1440,2706 1440,2646"
+                },
+                "text": "lag"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1467,2646 1467,2706 1546,2706 1546,2646"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1573,2643 1573,2703 1737,2703 1737,2643"
+                },
+                "text": "appears"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1758,2645 1758,2705 1784,2705 1784,2645"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1817,2645 1817,2705 1853,2705 1853,2645"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "1880,2646 1880,2706 1948,2706 1948,2646"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_22_w14",
+                "coords": {
+                  "points": "1976,2645 1976,2705 2123,2705 2123,2645"
+                },
+                "text": "month."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "471,2802 746,2837 1506,2795 1622,2852 1692,2817 1836,2863 2165,2815 2136,2736 1922,2723 1801,2756 471,2745"
+            },
+            "baseline": {
+              "points": "483,2785 567,2788 651,2788 735,2788 819,2788 904,2788 988,2788 1072,2788 1156,2788 1240,2788 1325,2788 1409,2785 1493,2785 1577,2785 1661,2785 1746,2785 1830,2785 1914,2785 1998,2785 2082,2785 2167,2785"
+            },
+            "text": "The model therefore equates detrital fallout to N\u00d63-supported phytoplankton",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "471,2745 471,2805 542,2805 542,2745"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "569,2748 569,2808 705,2808 705,2748"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "717,2748 717,2808 907,2808 907,2748"
+                },
+                "text": "therefore"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "935,2748 935,2808 1092,2808 1092,2748"
+                },
+                "text": "equates"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "1115,2748 1115,2808 1273,2808 1273,2748"
+                },
+                "text": "detrital"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1284,2747 1284,2807 1420,2807 1420,2747"
+                },
+                "text": "fallout"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1437,2745 1437,2805 1464,2805 1464,2745"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1492,2745 1492,2805 1818,2805 1818,2745"
+                },
+                "text": "N\u00d63-supported"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1847,2745 1847,2805 2151,2805 2151,2745"
+                },
+                "text": "phytoplankton"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "468,2918 591,2926 694,2896 886,2939 1105,2931 1210,2911 1213,2837 468,2854"
+            },
+            "baseline": {
+              "points": "480,2898 516,2894 553,2891 590,2889 627,2889 663,2889 700,2889 737,2889 774,2889 810,2889 847,2889 884,2889 921,2889 957,2889 994,2889 1031,2889 1068,2889 1104,2887 1141,2886 1178,2886 1215,2886"
+            },
+            "text": "growth from four weeks previous.",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "474,2851 474,2911 610,2911 610,2851"
+                },
+                "text": "growth"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "639,2849 639,2909 717,2909 717,2849"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "764,2849 764,2909 842,2909 842,2849"
+                },
+                "text": "four"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "865,2849 865,2909 989,2909 989,2849"
+                },
+                "text": "weeks"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "1012,2846 1012,2906 1210,2906 1210,2846"
+                },
+                "text": "previous."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

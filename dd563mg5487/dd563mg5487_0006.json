@@ -1,0 +1,2132 @@
+{
+  "processId": 10306741,
+  "status": "FINISHED",
+  "content": {
+    "text": "total RNA were mixed with 5 ug of oligo-dT primer in a volume of 14 ul water, denatured at 70\u00b0\nC for 5 mins, and annealed on ice for 10 mins. Then 2 ul of O.1M dithiothreitol, 1 ul of\ndeoxyribonucleoside triphosphate (dNTP's) [10 mM dATP, dCTP, dGTP, 5 mM dTTP. 5 mM\namino-allyl dUTP), 2ul of lOx reverse transcriptase reaction buffer, and 1 ul of Stratascript\nreverse transcriptase (Stratagene, Austin) were added. The reaction was terminated by addition\nof 5 ul 0.8 MNaOH and heating to 65\u00b0 C for 15 mins. 5 ul of 0.8 MHCl were added to\nneutralize the reaction.\nResulting cDNA was purified using MinElute purification columns [Qiagen, Valencia,\nCAJ. Purified CDNA was brought to 10 ul in 0.1 M NaHCOz. The cDNA was coupled to Cy\u00ac\ndyes (Amersham Biosciences, Piscataway, NJ) using standard protocols [www.microarrays.orgl.\nTreatment samples were coupled to Cy-5 and reference to Cy-3. Treatment and reference\nsamples were competitively hybridized onto a 4,224 cDNA Mytilus microarray in 20 ul of 3x\nsodium chloride/sodium citrate solution (SSC), 20 mM HEPES pH 7, 0.2% SDS, 10 ug of\nsynthetic poly-A RNA at 65\u00b0 C for 18 hours. Slides were washed and scanned according to\nstandard procedures www.microarrays.org). Spot intensities were assayed using an Axon\nscanner (Axon, Foster City, CA) and GenePix software (Axon, Foster City, CA).\nSequencing\nNinety-six genes that showed induction with temperature were selected for sequencing.\nProducts were sequenced from the 5\u2019 direction using Big Dye terminator mix (Applied\nBiosystems, Foster City, CA). A putative homology was assigned to genes based on BlastX\nsearches against the NCBI database [http://www.ncbi.nlm.nih.gov/1.",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "286,269 286,2676 2250,2676 2250,269"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "288,347 1382,342 1475,379 1544,342 1646,379 2035,344 2245,381 2245,252 2088,274 2032,232 1732,298 1470,254 1326,298 1172,247 994,293 835,247 288,271"
+            },
+            "baseline": {
+              "points": "301,325 398,325 495,325 593,325 690,325 788,325 885,328 983,328 1080,326 1178,328 1275,328 1372,328 1470,328 1567,331 1665,331 1762,333 1860,334 1957,334 2055,337 2152,337 2250,334"
+            },
+            "text": "total RNA were mixed with 5 ug of oligo-dT primer in a volume of 14 ul water, denatured at 70\u00b0",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "289,285 289,345 377,345 377,285"
+                },
+                "text": "total"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "396,285 396,345 478,345 478,285"
+                },
+                "text": "RNA"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "514,285 514,345 602,345 602,285"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "626,285 626,345 738,345 738,285"
+                },
+                "text": "mixed"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "762,285 762,345 838,345 838,285"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "869,287 869,347 880,347 880,287"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "904,288 904,348 946,348 946,288"
+                },
+                "text": "ug"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "970,287 970,347 1005,347 1005,287"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1023,286 1023,346 1188,346 1188,286"
+                },
+                "text": "oligo-dT"
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1212,288 1212,348 1342,348 1342,288"
+                },
+                "text": "primer"
+              },
+              {
+                "id": "tr_1_tl_1_w11",
+                "coords": {
+                  "points": "1360,288 1360,348 1383,348 1383,288"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_1_w12",
+                "coords": {
+                  "points": "1413,288 1413,348 1425,348 1425,288"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_1_w13",
+                "coords": {
+                  "points": "1443,289 1443,349 1584,349 1584,289"
+                },
+                "text": "volume"
+              },
+              {
+                "id": "tr_1_tl_1_w14",
+                "coords": {
+                  "points": "1609,291 1609,351 1650,351 1650,291"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_1_w15",
+                "coords": {
+                  "points": "1668,291 1668,351 1703,351 1703,291"
+                },
+                "text": "14"
+              },
+              {
+                "id": "tr_1_tl_1_w16",
+                "coords": {
+                  "points": "1728,292 1728,352 1768,352 1768,292"
+                },
+                "text": "ul"
+              },
+              {
+                "id": "tr_1_tl_1_w17",
+                "coords": {
+                  "points": "1781,293 1781,353 1904,353 1904,293"
+                },
+                "text": "water,"
+              },
+              {
+                "id": "tr_1_tl_1_w18",
+                "coords": {
+                  "points": "1923,295 1923,355 2105,355 2105,295"
+                },
+                "text": "denatured"
+              },
+              {
+                "id": "tr_1_tl_1_w19",
+                "coords": {
+                  "points": "2130,297 2130,357 2164,357 2164,297"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_1_w20",
+                "coords": {
+                  "points": "2183,295 2183,355 2241,355 2241,295"
+                },
+                "text": "70\u00b0"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "288,462 2069,479 2069,401 1778,371 1468,415 288,383"
+            },
+            "baseline": {
+              "points": "301,441 389,441 478,441 566,441 655,444 744,441 832,441 921,444 1010,442 1098,444 1187,444 1276,444 1364,447 1453,447 1542,447 1630,447 1719,447 1808,447 1896,450 1985,450 2074,453"
+            },
+            "text": "C for 5 mins, and annealed on ice for 10 mins. Then 2 ul of O.1M dithiothreitol, 1 ul of",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "290,401 290,461 308,461 308,401"
+                },
+                "text": "C"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "339,401 339,461 394,461 394,401"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "413,401 413,461 425,461 425,401"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "450,401 450,461 560,461 560,401"
+                },
+                "text": "mins,"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "573,402 573,462 634,462 634,402"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "660,401 660,461 825,461 825,401"
+                },
+                "text": "annealed"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "851,402 851,462 887,462 887,402"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "913,403 913,463 961,463 961,403"
+                },
+                "text": "ice"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "986,402 986,462 1041,462 1041,402"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1060,403 1060,463 1097,463 1097,403"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1116,404 1116,464 1226,464 1226,404"
+                },
+                "text": "mins."
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1252,404 1252,464 1343,464 1343,404"
+                },
+                "text": "Then"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "1369,407 1369,467 1386,467 1386,407"
+                },
+                "text": "2"
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "1412,407 1412,467 1448,467 1448,407"
+                },
+                "text": "ul"
+              },
+              {
+                "id": "tr_1_tl_2_w15",
+                "coords": {
+                  "points": "1461,407 1461,467 1504,467 1504,407"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w16",
+                "coords": {
+                  "points": "1517,407 1517,467 1590,467 1590,407"
+                },
+                "text": "O.1M"
+              },
+              {
+                "id": "tr_1_tl_2_w17",
+                "coords": {
+                  "points": "1640,407 1640,467 1910,467 1910,407"
+                },
+                "text": "dithiothreitol,"
+              },
+              {
+                "id": "tr_1_tl_2_w18",
+                "coords": {
+                  "points": "1930,410 1930,470 1947,470 1947,410"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_2_w19",
+                "coords": {
+                  "points": "1967,410 1967,470 2003,470 2003,410"
+                },
+                "text": "ul"
+              },
+              {
+                "id": "tr_1_tl_2_w20",
+                "coords": {
+                  "points": "2022,411 2022,471 2058,471 2058,411"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "288,574 547,616 772,576 1143,613 1414,576 1676,620 1795,581 2203,596 2179,515 1829,488 1495,525 1299,486 1180,525 789,518 711,474 633,520 491,488 288,528"
+            },
+            "baseline": {
+              "points": "301,558 396,558 491,558 587,558 682,561 778,561 873,561 968,561 1064,561 1159,561 1255,564 1350,561 1445,564 1541,563 1636,564 1732,564 1827,567 1922,565 2018,567 2113,567 2209,570"
+            },
+            "text": "deoxyribonucleoside triphosphate (dNTP's) [10 mM dATP, dCTP, dGTP, 5 mM dTTP. 5 mM",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "296,518 296,578 705,578 705,518"
+                },
+                "text": "deoxyribonucleoside"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "731,521 731,581 969,581 969,521"
+                },
+                "text": "triphosphate"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "989,521 989,581 1178,581 1178,521"
+                },
+                "text": "(dNTP's)"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "1197,522 1197,582 1247,582 1247,522"
+                },
+                "text": "[10"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "1273,522 1273,582 1322,582 1322,522"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1367,523 1367,583 1499,583 1499,523"
+                },
+                "text": "dATP,"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1519,523 1519,583 1644,583 1644,523"
+                },
+                "text": "dCTP,"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1664,524 1664,584 1789,584 1789,524"
+                },
+                "text": "dGTP,"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1808,526 1808,586 1820,586 1820,526"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1847,526 1847,586 1896,586 1896,526"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1941,526 1941,586 2066,586 2066,526"
+                },
+                "text": "dTTP."
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "2080,527 2080,587 2098,587 2098,527"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "2124,528 2124,588 2173,588 2173,528"
+                },
+                "text": "mM"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "278,696 537,725 786,679 1317,723 1402,689 1583,730 2140,696 2108,625 2020,652 1900,616 1321,647 1028,594 940,640 711,603 278,637"
+            },
+            "baseline": {
+              "points": "292,671 384,674 477,674 570,672 662,675 755,677 848,676 940,677 1033,677 1126,677 1219,679 1311,679 1404,680 1497,680 1589,680 1682,680 1775,683 1867,683 1960,683 2053,683 2146,683"
+            },
+            "text": "amino-allyl dUTP), 2ul of lOx reverse transcriptase reaction buffer, and 1 ul of Stratascript",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "280,634 280,694 508,694 508,634"
+                },
+                "text": "amino-allyl"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "528,632 528,692 673,692 673,632"
+                },
+                "text": "dUTP),"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "693,636 693,696 756,696 756,636"
+                },
+                "text": "2ul"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "769,636 769,696 806,696 806,636"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "833,636 833,696 889,696 889,636"
+                },
+                "text": "lOx"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "916,637 916,697 1049,697 1049,637"
+                },
+                "text": "reverse"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1075,638 1075,698 1322,698 1322,638"
+                },
+                "text": "transcriptase"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1341,640 1341,700 1493,700 1493,640"
+                },
+                "text": "reaction"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1519,640 1519,700 1653,700 1653,640"
+                },
+                "text": "buffer,"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1672,640 1672,700 1729,700 1729,640"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1761,642 1761,702 1773,702 1773,642"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1793,643 1793,703 1837,703 1837,643"
+                },
+                "text": "ul"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1850,643 1850,703 1888,703 1888,643"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "1907,643 1907,703 2135,703 2135,643"
+                },
+                "text": "Stratascript"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "286,818 1331,804 1517,838 1688,804 1815,848 2220,816 2220,760 2142,728 1805,765 1512,762 1444,711 1163,760 1045,723 857,760 664,716 574,755 510,716 286,733"
+            },
+            "baseline": {
+              "points": "298,785 394,785 490,791 587,789 683,791 780,791 876,794 973,794 1069,792 1166,792 1262,794 1358,794 1455,794 1551,794 1648,794 1744,797 1841,797 1937,797 2034,797 2130,797 2227,797"
+            },
+            "text": "reverse transcriptase (Stratagene, Austin) were added. The reaction was terminated by addition",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "287,745 287,805 428,805 428,745"
+                },
+                "text": "reverse"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "451,749 451,809 694,809 694,749"
+                },
+                "text": "transcriptase"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "717,752 717,812 960,812 960,752"
+                },
+                "text": "(Stratagene,"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "977,752 977,812 1118,812 1118,752"
+                },
+                "text": "Austin)"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "1136,752 1136,812 1220,812 1220,752"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1249,754 1249,814 1379,814 1379,754"
+                },
+                "text": "added."
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1402,754 1402,814 1470,814 1470,754"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1493,754 1493,814 1645,814 1645,754"
+                },
+                "text": "reaction"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1668,755 1668,815 1741,815 1741,755"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1759,757 1759,817 1968,817 1968,757"
+                },
+                "text": "terminated"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1991,757 1991,817 2030,817 2030,757"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "2053,757 2053,817 2205,817 2205,757"
+                },
+                "text": "addition"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "286,931 1803,957 1878,926 2071,960 2071,843 2015,835 1199,872 650,835 598,867 430,818 286,857"
+            },
+            "baseline": {
+              "points": "298,901 391,904 485,904 578,903 672,904 766,904 859,907 953,907 1047,907 1140,907 1234,910 1327,910 1421,910 1515,910 1608,910 1702,910 1796,910 1889,910 1983,910 2077,913"
+            },
+            "text": "of 5 ul 0.8 MNaOH and heating to 65\u00b0 C for 15 mins. 5 ul of 0.8 MHCl were added to",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "294,861 294,921 331,921 331,861"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "351,862 351,922 363,922 363,862"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "389,864 389,924 425,924 425,864"
+                },
+                "text": "ul"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "439,864 439,924 488,924 488,864"
+                },
+                "text": "0.8"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "514,863 514,923 683,923 683,863"
+                },
+                "text": "MNaOH"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "715,864 715,924 778,924 778,864"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "804,867 804,927 941,927 941,867"
+                },
+                "text": "heating"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "967,867 967,927 991,927 991,867"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1017,867 1017,927 1073,927 1073,867"
+                },
+                "text": "65\u00b0"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1099,867 1099,927 1111,927 1111,867"
+                },
+                "text": "C"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1143,867 1143,927 1193,927 1193,867"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1213,869 1213,929 1249,929 1249,869"
+                },
+                "text": "15"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1275,870 1275,930 1381,930 1381,870"
+                },
+                "text": "mins."
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1407,870 1407,930 1425,930 1425,870"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_6_w15",
+                "coords": {
+                  "points": "1451,870 1451,930 1488,930 1488,870"
+                },
+                "text": "ul"
+              },
+              {
+                "id": "tr_1_tl_6_w16",
+                "coords": {
+                  "points": "1501,870 1501,930 1538,930 1538,870"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w17",
+                "coords": {
+                  "points": "1558,870 1558,930 1607,930 1607,870"
+                },
+                "text": "0.8"
+              },
+              {
+                "id": "tr_1_tl_6_w18",
+                "coords": {
+                  "points": "1634,870 1634,930 1771,930 1771,870"
+                },
+                "text": "MHCl"
+              },
+              {
+                "id": "tr_1_tl_6_w19",
+                "coords": {
+                  "points": "1785,870 1785,930 1872,930 1872,870"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_6_w20",
+                "coords": {
+                  "points": "1898,870 1898,930 2004,930 2004,870"
+                },
+                "text": "added"
+              },
+              {
+                "id": "tr_1_tl_6_w21",
+                "coords": {
+                  "points": "2029,871 2029,931 2054,931 2054,871"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "278,1080 332,1053 366,1082 418,1053 552,1077 640,1045 696,1065 767,1031 767,979 652,960 471,957 369,982 278,957"
+            },
+            "baseline": {
+              "points": "292,1018 317,1018 342,1018 367,1018 393,1018 418,1018 443,1018 469,1018 494,1018 519,1018 545,1020 570,1021 595,1021 621,1021 646,1021 671,1021 697,1021 722,1021 747,1021 773,1023"
+            },
+            "text": "neutralize the reaction.",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "283,978 283,1038 479,1038 479,978"
+                },
+                "text": "neutralize"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "506,979 506,1039 558,1039 558,979"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "584,981 584,1041 765,1041 765,981"
+                },
+                "text": "reaction."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "427,1163 1654,1153 1956,1207 2196,1170 2196,1094 2157,1082 1761,1097 1685,1058 1534,1106 1431,1060 427,1089"
+            },
+            "baseline": {
+              "points": "441,1134 533,1137 626,1137 718,1136 811,1134 903,1137 996,1137 1089,1137 1181,1138 1274,1139 1366,1140 1459,1140 1551,1140 1644,1140 1737,1143 1829,1140 1922,1143 2014,1140 2107,1143 2200,1149"
+            },
+            "text": "Resulting cDNA was purified using MinElute purification columns [Qiagen, Valencia,",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "429,1096 429,1156 610,1156 610,1096"
+                },
+                "text": "Resulting"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "637,1096 637,1156 746,1156 746,1096"
+                },
+                "text": "cDNA"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "779,1094 779,1154 850,1154 850,1094"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "876,1097 876,1157 1024,1157 1024,1097"
+                },
+                "text": "purified"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1051,1097 1051,1157 1141,1157 1141,1097"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1174,1098 1174,1158 1349,1158 1349,1098"
+                },
+                "text": "MinElute"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1376,1100 1376,1160 1602,1160 1602,1100"
+                },
+                "text": "purification"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1622,1101 1622,1161 1789,1161 1789,1101"
+                },
+                "text": "columns"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1816,1102 1816,1162 1984,1162 1984,1102"
+                },
+                "text": "[Qiagen,"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "2004,1102 2004,1162 2191,1162 2191,1102"
+                },
+                "text": "Valencia,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "286,1268 713,1263 852,1312 1028,1277 1153,1317 1404,1270 2188,1292 2188,1214 1859,1185 1666,1221 1297,1172 1180,1214 283,1192"
+            },
+            "baseline": {
+              "points": "298,1247 392,1250 487,1250 581,1250 676,1250 771,1250 865,1253 960,1253 1055,1253 1149,1253 1244,1253 1339,1253 1433,1254 1528,1254 1623,1256 1717,1256 1812,1256 1907,1256 2001,1259 2096,1259 2191,1256"
+            },
+            "text": "CAJ. Purified CDNA was brought to 10 ul in 0.1 M NaHCOz. The cDNA was coupled to Cy\u00ac",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "291,1208 291,1268 389,1268 389,1208"
+                },
+                "text": "CAJ."
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "414,1210 414,1270 567,1270 567,1210"
+                },
+                "text": "Purified"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "593,1210 593,1270 697,1270 697,1210"
+                },
+                "text": "CDNA"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "735,1210 735,1270 802,1270 802,1210"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "828,1213 828,1273 981,1273 981,1213"
+                },
+                "text": "brought"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "994,1213 994,1273 1018,1273 1018,1213"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1049,1213 1049,1273 1086,1273 1086,1213"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1111,1213 1111,1273 1147,1273 1147,1213"
+                },
+                "text": "ul"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1166,1213 1166,1273 1190,1273 1190,1213"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1216,1213 1216,1273 1271,1273 1271,1213"
+                },
+                "text": "0.1"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1290,1213 1290,1273 1302,1273 1302,1213"
+                },
+                "text": "M"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1346,1214 1346,1274 1542,1274 1542,1214"
+                },
+                "text": "NaHCOz."
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1568,1215 1568,1275 1635,1275 1635,1215"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1660,1216 1660,1276 1771,1276 1771,1216"
+                },
+                "text": "cDNA"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "1802,1216 1802,1276 1876,1276 1876,1216"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_9_w16",
+                "coords": {
+                  "points": "1895,1217 1895,1277 2042,1277 2042,1217"
+                },
+                "text": "coupled"
+              },
+              {
+                "id": "tr_1_tl_9_w17",
+                "coords": {
+                  "points": "2067,1219 2067,1279 2097,1279 2097,1219"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_9_w18",
+                "coords": {
+                  "points": "2123,1217 2123,1277 2190,1277 2190,1217"
+                },
+                "text": "Cy\u00ac"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "281,1380 691,1419 955,1380 1043,1412 1644,1382 1768,1429 1827,1390 2245,1402 2245,1324 1851,1292 1751,1334 1334,1299 811,1331 721,1292 281,1324"
+            },
+            "baseline": {
+              "points": "295,1361 392,1367 490,1367 587,1367 685,1367 783,1367 880,1367 978,1367 1076,1368 1173,1370 1271,1369 1369,1370 1466,1370 1564,1370 1662,1370 1759,1370 1857,1370 1955,1373 2052,1373 2150,1374 2248,1382"
+            },
+            "text": "dyes (Amersham Biosciences, Piscataway, NJ) using standard protocols [www.microarrays.orgl.",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "284,1323 284,1383 372,1383 372,1323"
+                },
+                "text": "dyes"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "393,1327 393,1387 602,1387 602,1327"
+                },
+                "text": "(Amersham"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "644,1327 644,1387 894,1387 894,1327"
+                },
+                "text": "Biosciences,"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "909,1327 909,1387 1146,1387 1146,1327"
+                },
+                "text": "Piscataway,"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1160,1329 1160,1389 1227,1389 1227,1329"
+                },
+                "text": "NJ)"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1248,1329 1248,1389 1343,1389 1343,1329"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1371,1330 1371,1390 1526,1390 1526,1330"
+                },
+                "text": "standard"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1547,1330 1547,1390 1730,1390 1730,1330"
+                },
+                "text": "protocols"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1751,1333 1751,1393 2239,1393 2239,1333"
+                },
+                "text": "[www.microarrays.orgl."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "278,1492 769,1534 1011,1492 1490,1505 1544,1539 1839,1500 2013,1541 2108,1500 2108,1439 2010,1414 1864,1451 278,1434"
+            },
+            "baseline": {
+              "points": "292,1480 383,1480 474,1480 565,1480 656,1483 747,1480 838,1483 929,1483 1020,1483 1111,1483 1202,1484 1293,1484 1384,1486 1475,1486 1566,1486 1657,1486 1748,1488 1839,1487 1930,1489 2021,1489 2113,1489"
+            },
+            "text": "Treatment samples were coupled to Cy-5 and reference to Cy-3. Treatment and reference",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "279,1440 279,1500 485,1500 485,1440"
+                },
+                "text": "Treatment"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "502,1440 502,1500 658,1500 658,1440"
+                },
+                "text": "samples"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "675,1440 675,1500 764,1500 764,1440"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "787,1443 787,1503 937,1503 937,1443"
+                },
+                "text": "coupled"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "966,1443 966,1503 988,1503 988,1443"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1016,1443 1016,1503 1105,1503 1105,1443"
+                },
+                "text": "Cy-5"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1134,1443 1134,1503 1189,1503 1189,1443"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1217,1444 1217,1504 1390,1504 1390,1444"
+                },
+                "text": "reference"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1418,1446 1418,1506 1440,1506 1440,1446"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1468,1446 1468,1506 1580,1506 1580,1446"
+                },
+                "text": "Cy-3."
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1609,1447 1609,1507 1815,1507 1815,1447"
+                },
+                "text": "Treatment"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1832,1447 1832,1507 1893,1507 1893,1447"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1921,1449 1921,1509 2094,1509 2094,1449"
+                },
+                "text": "reference"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "278,1624 2181,1629 2181,1573 2027,1534 278,1556"
+            },
+            "baseline": {
+              "points": "292,1594 386,1597 481,1597 575,1597 670,1600 765,1600 859,1600 954,1600 1049,1600 1143,1600 1238,1603 1333,1602 1427,1603 1522,1603 1617,1603 1711,1603 1806,1603 1901,1603 1995,1606 2090,1606 2185,1609"
+            },
+            "text": "samples were competitively hybridized onto a 4,224 cDNA Mytilus microarray in 20 ul of 3x",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "280,1556 280,1616 434,1616 434,1556"
+                },
+                "text": "samples"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "454,1557 454,1617 540,1617 540,1557"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "566,1560 566,1620 833,1620 833,1560"
+                },
+                "text": "competitively"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "858,1560 858,1620 1063,1620 1063,1560"
+                },
+                "text": "hybridized"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1089,1560 1089,1620 1169,1620 1169,1560"
+                },
+                "text": "onto"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1194,1561 1194,1621 1206,1621 1206,1561"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1232,1562 1232,1622 1330,1622 1330,1562"
+                },
+                "text": "4,224"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1356,1562 1356,1622 1468,1622 1468,1562"
+                },
+                "text": "cDNA"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1500,1563 1500,1623 1648,1623 1648,1563"
+                },
+                "text": "Mytilus"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1667,1563 1667,1623 1878,1623 1878,1563"
+                },
+                "text": "microarray"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1904,1563 1904,1623 1928,1623 1928,1563"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1954,1565 1954,1625 1996,1625 1996,1565"
+                },
+                "text": "20"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "2022,1566 2022,1626 2059,1626 2059,1566"
+                },
+                "text": "ul"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "2078,1566 2078,1626 2114,1626 2114,1566"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w15",
+                "coords": {
+                  "points": "2134,1567 2134,1627 2164,1627 2164,1567"
+                },
+                "text": "3x"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "281,1734 659,1727 904,1778 982,1739 1722,1773 1890,1734 2115,1790 2115,1668 1978,1641 1568,1678 281,1663"
+            },
+            "baseline": {
+              "points": "295,1713 386,1713 477,1713 569,1713 660,1713 751,1716 843,1714 934,1716 1025,1716 1117,1716 1208,1716 1299,1716 1391,1716 1482,1718 1573,1719 1665,1719 1756,1719 1847,1719 1939,1721 2030,1722 2122,1719"
+            },
+            "text": "sodium chloride/sodium citrate solution (SSC), 20 mM HEPES pH 7, 0.2% SDS, 10 ug of",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "282,1673 282,1733 400,1733 400,1673"
+                },
+                "text": "sodium"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "443,1673 443,1733 745,1733 745,1673"
+                },
+                "text": "chloride/sodium"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "787,1674 787,1734 899,1734 899,1674"
+                },
+                "text": "citrate"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "924,1676 924,1736 1071,1736 1071,1676"
+                },
+                "text": "solution"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "1102,1676 1102,1736 1238,1736 1238,1676"
+                },
+                "text": "(SSC),"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1251,1676 1251,1736 1286,1736 1286,1676"
+                },
+                "text": "20"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1316,1676 1316,1736 1363,1736 1363,1676"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1411,1677 1411,1737 1547,1737 1547,1677"
+                },
+                "text": "HEPES"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1577,1679 1577,1739 1612,1739 1612,1679"
+                },
+                "text": "pH"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1648,1679 1648,1739 1690,1739 1690,1679"
+                },
+                "text": "7,"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1703,1679 1703,1739 1779,1739 1779,1679"
+                },
+                "text": "0.2%"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1827,1679 1827,1739 1927,1739 1927,1679"
+                },
+                "text": "SDS,"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1946,1681 1946,1741 1981,1741 1981,1681"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "2005,1681 2005,1741 2046,1741 2046,1681"
+                },
+                "text": "ug"
+              },
+              {
+                "id": "tr_1_tl_13_w15",
+                "coords": {
+                  "points": "2070,1680 2070,1740 2105,1740 2105,1680"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "278,1842 528,1883 584,1842 1053,1847 1224,1903 1392,1849 1549,1883 1619,1839 2137,1866 2137,1800 1998,1771 278,1788"
+            },
+            "baseline": {
+              "points": "292,1824 384,1827 477,1830 569,1827 662,1830 754,1830 847,1830 939,1830 1032,1830 1124,1830 1217,1831 1310,1830 1402,1832 1495,1833 1587,1833 1680,1833 1772,1833 1865,1833 1957,1833 2050,1836 2143,1836"
+            },
+            "text": "synthetic poly-A RNA at 65\u00b0 C for 18 hours. Slides were washed and scanned according to",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "280,1786 280,1846 449,1846 449,1786"
+                },
+                "text": "synthetic"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "474,1788 474,1848 594,1848 594,1788"
+                },
+                "text": "poly-A"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "626,1790 626,1850 717,1850 717,1790"
+                },
+                "text": "RNA"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "754,1790 754,1850 783,1850 783,1790"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "802,1790 802,1850 862,1850 862,1790"
+                },
+                "text": "65\u00b0"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "881,1790 881,1850 899,1850 899,1790"
+                },
+                "text": "C"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "930,1790 930,1850 978,1850 978,1790"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1003,1790 1003,1850 1039,1850 1039,1790"
+                },
+                "text": "18"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1064,1790 1064,1850 1185,1850 1185,1790"
+                },
+                "text": "hours."
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1210,1790 1210,1850 1324,1850 1324,1790"
+                },
+                "text": "Slides"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1349,1791 1349,1851 1434,1851 1434,1791"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1459,1793 1459,1853 1598,1853 1598,1793"
+                },
+                "text": "washed"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1623,1793 1623,1853 1683,1853 1683,1793"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_14_w14",
+                "coords": {
+                  "points": "1708,1793 1708,1853 1860,1853 1860,1793"
+                },
+                "text": "scanned"
+              },
+              {
+                "id": "tr_1_tl_14_w15",
+                "coords": {
+                  "points": "1891,1793 1891,1853 2078,1853 2078,1793"
+                },
+                "text": "according"
+              },
+              {
+                "id": "tr_1_tl_14_w16",
+                "coords": {
+                  "points": "2103,1796 2103,1856 2127,1856 2127,1796"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "286,1974 2123,1964 2123,1903 1883,1890 286,1903"
+            },
+            "baseline": {
+              "points": "298,1937 389,1943 481,1943 572,1943 664,1943 755,1941 847,1944 938,1946 1030,1946 1121,1947 1213,1948 1304,1946 1396,1946 1487,1946 1579,1946 1670,1949 1762,1949 1853,1949 1945,1950 2036,1949 2128,1949"
+            },
+            "text": "standard procedures www.microarrays.org). Spot intensities were assayed using an Axon",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "287,1901 287,1961 445,1961 445,1901"
+                },
+                "text": "standard"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "469,1903 469,1963 684,1963 684,1903"
+                },
+                "text": "procedures"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "707,1906 707,1966 1195,1966 1195,1906"
+                },
+                "text": "www.microarrays.org)."
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "1218,1906 1218,1966 1308,1966 1308,1906"
+                },
+                "text": "Spot"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1326,1906 1326,1966 1518,1966 1518,1906"
+                },
+                "text": "intensities"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1542,1906 1542,1966 1626,1966 1626,1906"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1655,1909 1655,1969 1797,1969 1797,1909"
+                },
+                "text": "assayed"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1826,1909 1826,1969 1922,1969 1922,1909"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1951,1909 1951,1969 1978,1969 1978,1909"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "2008,1909 2008,1969 2109,1969 2109,1909"
+                },
+                "text": "Axon"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "278,2088 1026,2118 1253,2071 1331,2113 1412,2076 1925,2115 1925,2015 1829,1993 278,2018"
+            },
+            "baseline": {
+              "points": "292,2056 378,2059 464,2059 550,2059 637,2059 723,2059 809,2061 895,2062 982,2062 1068,2062 1154,2062 1240,2062 1327,2062 1413,2062 1499,2062 1585,2062 1672,2062 1758,2064 1844,2065 1931,2068"
+            },
+            "text": "scanner (Axon, Foster City, CA) and GenePix software (Axon, Foster City, CA).",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "279,2018 279,2078 428,2078 428,2018"
+                },
+                "text": "scanner"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "446,2019 446,2079 589,2079 589,2019"
+                },
+                "text": "(Axon,"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "602,2019 602,2079 726,2079 726,2019"
+                },
+                "text": "Foster"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "745,2020 745,2080 840,2080 840,2020"
+                },
+                "text": "City,"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "859,2022 859,2082 942,2082 942,2022"
+                },
+                "text": "CA)"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "960,2022 960,2082 1019,2082 1019,2022"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1044,2022 1044,2082 1205,2082 1205,2022"
+                },
+                "text": "GenePix"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1229,2022 1229,2082 1396,2082 1396,2022"
+                },
+                "text": "software"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1421,2022 1421,2082 1557,2082 1557,2022"
+                },
+                "text": "(Axon,"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1575,2022 1575,2082 1695,2082 1695,2022"
+                },
+                "text": "Foster"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1719,2024 1719,2084 1814,2084 1814,2024"
+                },
+                "text": "City,"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1826,2026 1826,2086 1927,2086 1927,2026"
+                },
+                "text": "CA)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "274,2188 300,2184 369,2218 396,2201 449,2198 469,2215 498,2208 528,2230 542,2228 540,2137 503,2142 476,2123 457,2135 420,2120 391,2123 354,2101 274,2123"
+            },
+            "baseline": {
+              "points": "286,2173 311,2173 337,2173 363,2175 388,2176 414,2176 440,2176 465,2176 491,2176 517,2177 543,2182"
+            },
+            "text": "Sequencing",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "276,2136 276,2196 520,2196 520,2136"
+                },
+                "text": "Sequencing"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "423,2298 647,2342 2196,2320 2196,2225 2157,2203 2049,2257 423,2237"
+            },
+            "baseline": {
+              "points": "435,2289 523,2289 611,2289 700,2292 788,2289 877,2292 965,2289 1053,2290 1142,2292 1230,2292 1319,2292 1407,2292 1495,2292 1584,2292 1672,2294 1761,2294 1849,2295 1937,2295 2026,2295 2114,2295 2203,2298"
+            },
+            "text": "Ninety-six genes that showed induction with temperature were selected for sequencing.",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "423,2249 423,2309 619,2309 619,2249"
+                },
+                "text": "Ninety-six"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "647,2251 647,2311 756,2311 756,2251"
+                },
+                "text": "genes"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "779,2249 779,2309 849,2309 849,2249"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "866,2249 866,2309 1007,2309 1007,2249"
+                },
+                "text": "showed"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1035,2251 1035,2311 1210,2311 1210,2251"
+                },
+                "text": "induction"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1238,2252 1238,2312 1313,2312 1313,2252"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1341,2252 1341,2312 1570,2312 1570,2252"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1598,2253 1598,2313 1685,2313 1685,2253"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1708,2254 1708,2314 1860,2314 1860,2254"
+                },
+                "text": "selected"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1888,2255 1888,2315 1942,2315 1942,2255"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1959,2255 1959,2315 2199,2315 2199,2255"
+                },
+                "text": "sequencing."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "276,2425 371,2464 589,2411 1275,2425 1378,2469 1610,2423 2047,2428 2047,2355 1431,2372 1114,2325 997,2369 884,2335 765,2377 557,2333 276,2362"
+            },
+            "baseline": {
+              "points": "289,2406 377,2403 465,2403 553,2406 641,2406 730,2406 818,2406 906,2406 994,2408 1082,2406 1171,2408 1259,2409 1347,2409 1435,2409 1523,2409 1612,2409 1700,2409 1788,2409 1876,2409 1964,2410 2053,2412"
+            },
+            "text": "Products were sequenced from the 5\u2019 direction using Big Dye terminator mix (Applied",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "282,2363 282,2423 448,2423 448,2363"
+                },
+                "text": "Products"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "471,2364 471,2424 554,2424 554,2364"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "582,2366 582,2426 776,2426 776,2366"
+                },
+                "text": "sequenced"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "804,2366 804,2426 877,2426 877,2366"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "916,2366 916,2426 966,2426 966,2366"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "988,2367 988,2427 1027,2427 1027,2367"
+                },
+                "text": "5\u2019"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1050,2367 1050,2427 1210,2427 1210,2367"
+                },
+                "text": "direction"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1238,2369 1238,2429 1332,2429 1332,2369"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1361,2369 1361,2429 1421,2429 1421,2369"
+                },
+                "text": "Big"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1444,2369 1444,2429 1516,2429 1516,2369"
+                },
+                "text": "Dye"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1545,2369 1545,2429 1750,2429 1750,2369"
+                },
+                "text": "terminator"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1767,2369 1767,2429 1833,2429 1833,2369"
+                },
+                "text": "mix"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1856,2369 1856,2429 2027,2429 2027,2369"
+                },
+                "text": "(Applied"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "281,2545 2149,2560 2149,2474 2113,2464 281,2464"
+            },
+            "baseline": {
+              "points": "295,2519 388,2519 481,2519 574,2519 667,2519 760,2522 853,2522 946,2522 1039,2522 1132,2522 1225,2522 1318,2522 1411,2522 1504,2525 1597,2525 1690,2525 1783,2525 1876,2525 1969,2526 2062,2528 2155,2528"
+            },
+            "text": "Biosystems, Foster City, CA). A putative homology was assigned to genes based on BlastX",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "282,2479 282,2539 525,2539 525,2479"
+                },
+                "text": "Biosystems,"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "542,2479 542,2539 661,2539 661,2479"
+                },
+                "text": "Foster"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "684,2481 684,2541 779,2541 779,2481"
+                },
+                "text": "City,"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "797,2482 797,2542 893,2542 893,2482"
+                },
+                "text": "CA)."
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "917,2482 917,2542 933,2542 933,2482"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "968,2482 968,2542 1120,2542 1120,2482"
+                },
+                "text": "putative"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1143,2482 1143,2542 1335,2542 1335,2482"
+                },
+                "text": "homology"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1359,2482 1359,2542 1426,2542 1426,2482"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1449,2485 1449,2545 1613,2545 1613,2485"
+                },
+                "text": "assigned"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1637,2485 1637,2545 1664,2545 1664,2485"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1688,2485 1688,2545 1795,2545 1795,2485"
+                },
+                "text": "genes"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1818,2485 1818,2545 1919,2545 1919,2485"
+                },
+                "text": "based"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1948,2485 1948,2545 1982,2545 1982,2485"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "2011,2488 2011,2548 2129,2548 2129,2488"
+                },
+                "text": "BlastX"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "274,2670 535,2650 667,2704 1099,2660 1280,2714 1549,2660 1663,2684 1663,2582 274,2584"
+            },
+            "baseline": {
+              "points": "286,2636 355,2636 424,2636 493,2638 562,2636 631,2636 700,2638 769,2638 838,2639 907,2639 977,2639 1046,2639 1115,2639 1184,2639 1253,2638 1322,2642 1391,2642 1460,2642 1529,2642 1598,2642 1668,2648"
+            },
+            "text": "searches against the NCBI database [http://www.ncbi.nlm.nih.gov/1.",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "275,2596 275,2656 433,2656 433,2596"
+                },
+                "text": "searches"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "457,2597 457,2657 597,2657 597,2597"
+                },
+                "text": "against"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "616,2596 616,2656 668,2656 668,2596"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "692,2598 692,2658 808,2658 808,2598"
+                },
+                "text": "NCBI"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "827,2599 827,2659 990,2659 990,2599"
+                },
+                "text": "database"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1014,2602 1014,2662 1665,2662 1665,2602"
+                },
+                "text": "[http://www.ncbi.nlm.nih.gov/1."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

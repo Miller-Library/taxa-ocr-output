@@ -1,0 +1,3403 @@
+{
+  "processId": 10304735,
+  "status": "FINISHED",
+  "content": {
+    "text": "MATERIALS AND METHODS\nThis study was divided into three parts: Imeasurement of the texture among and within three rock\ntypes Z)calculation of the sessile biomass on these three rock types 3) testing for a correlation between the\nfractal dimension of and the amount of sessile biomass,\nlo measure the texture of different substrata, shape was analyzed by determining the fractal\ndimensions of sandstone, granite and basalt. To measure the variation of dimension within one rock type,\nthree sites with an visually distinct texture were selected for that rock type. A 1O cm latex mold was taken\nat each of these sites. I m of copper wire was molded to the surface at the same spot. An ink print from a\ncross section of each latex mold was taken, and the resulting profile was digitized and analyzed with a\ncomputer program designed to determine the fractal dimension. Tracings of the wire mold were digitized\nand analyzed with the same program.\nThe fractal program determines dimension in the manner described above. It draws a box around\nthe outline and checks to see if there is data point in that box. The program then divides the box in half on\neach side and again, counts how many boxes have a data point inside. The process is repeated; each time\nanother division is made the number of boxes increases to a power of 2. The dimension is determined by\nplotting the natural logarithm of the number of boxes entered by the outine as a function of the natural\nlogarithm of the scale (length of each side) of the boxes. The fractal dimension is (-1) multiplied by the slope\nof the resulting regression line. The smallest scale size was 3 mm for the 10 cm measurements(now referred\nto as the 10 cm scale) and 5 cm for the 1 m measurements (now referred to as the 1 m scale).\nANOVA analysis was carried out to test for a significant difference of the means of fractal dimension\namong the rock types on the 10 cm and the 1 m measurements. Another ANOVA was conducted to test\nfor differences in the means of fractal dimension between the 10 cm scale and the 1 m scale.\nMeasurements of biomass were carried out at a site protected from wave exposure and at a site with\nmore exposure, both near Monterey, CA (39 37'N, 121 50'W). Sandstone and granite test areas selected\nin the protected site and basalt and granite test areas were chosen at the exposed site. Ten 100 cm transects\nof visually different textures were selected within a range of 1 to 1.5 feet below the Endocladia-barnacle",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "271,284 271,2971 2258,2971 2258,284"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "260,354 411,367 528,347 629,379 711,347 860,364 860,258 741,295 513,292 476,273 305,290 260,265"
+            },
+            "baseline": {
+              "points": "274,334 303,334 333,334 362,334 392,334 421,334 451,334 480,334 510,334 539,334 569,334 599,334 628,334 658,334 687,335 717,337 746,337 776,337 805,337 835,337 865,337"
+            },
+            "text": "MATERIALS AND METHODS",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "267,294 267,354 500,354 500,294"
+                },
+                "text": "MATERIALS"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "524,294 524,354 605,354 605,294"
+                },
+                "text": "AND"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "641,297 641,357 845,357 845,297"
+                },
+                "text": "METHODS"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "411,540 535,577 701,543 971,575 1444,548 1519,590 2230,567 2230,471 1779,510 1234,471 1095,503 880,446 805,496 738,463 411,481"
+            },
+            "baseline": {
+              "points": "426,537 516,537 606,534 697,537 787,534 878,534 968,537 1058,537 1149,540 1239,537 1330,540 1420,540 1510,540 1601,540 1691,543 1782,543 1872,543 1962,543 2053,543 2143,543 2234,543"
+            },
+            "text": "This study was divided into three parts: Imeasurement of the texture among and within three rock",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "421,497 421,557 481,557 481,497"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "502,496 502,556 587,556 587,496"
+                },
+                "text": "study"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "608,495 608,555 668,555 668,495"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "689,495 689,555 810,555 810,495"
+                },
+                "text": "divided"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "836,494 836,554 891,554 891,494"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "917,496 917,556 1003,556 1003,496"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1028,497 1028,557 1124,557 1124,497"
+                },
+                "text": "parts:"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1145,498 1145,558 1423,558 1423,498"
+                },
+                "text": "Imeasurement"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1439,500 1439,560 1474,560 1474,500"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1489,500 1489,560 1534,560 1534,500"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1560,500 1560,560 1676,560 1676,500"
+                },
+                "text": "texture"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1702,503 1702,563 1813,563 1813,503"
+                },
+                "text": "among"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "1839,503 1839,563 1889,563 1889,503"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "1915,503 1915,563 2016,563 2016,503"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_2_w15",
+                "coords": {
+                  "points": "2042,503 2042,563 2122,563 2122,503"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_2_w16",
+                "coords": {
+                  "points": "2148,503 2148,563 2213,563 2213,503"
+                },
+                "text": "rock"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "260,654 426,684 597,649 686,686 1192,652 1566,701 1705,657 1816,699 2185,666 2185,590 260,597"
+            },
+            "baseline": {
+              "points": "274,632 369,635 465,638 561,635 657,637 753,636 849,638 945,638 1041,638 1137,639 1233,640 1328,640 1424,641 1520,641 1616,641 1712,641 1808,642 1904,644 2000,644 2096,644 2192,644"
+            },
+            "text": "types Z)calculation of the sessile biomass on these three rock types 3) testing for a correlation between the",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "266,593 266,653 352,653 352,593"
+                },
+                "text": "types"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "374,597 374,657 596,657 596,597"
+                },
+                "text": "Z)calculation"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "619,596 619,656 656,656 656,596"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "673,596 673,656 716,656 716,596"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "738,596 738,656 835,656 835,596"
+                },
+                "text": "sessile"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "857,598 857,658 998,658 998,598"
+                },
+                "text": "biomass"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1015,598 1015,658 1047,658 1047,598"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1075,598 1075,658 1156,658 1156,598"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1178,599 1178,659 1264,659 1264,599"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1287,600 1287,660 1357,660 1357,600"
+                },
+                "text": "rock"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1379,600 1379,660 1465,660 1465,600"
+                },
+                "text": "types"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1488,601 1488,661 1525,661 1525,601"
+                },
+                "text": "3)"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1531,601 1531,661 1634,661 1634,601"
+                },
+                "text": "testing"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "1662,601 1662,661 1705,661 1705,601"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_3_w15",
+                "coords": {
+                  "points": "1727,601 1727,661 1737,661 1737,601"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_3_w16",
+                "coords": {
+                  "points": "1760,602 1760,662 1943,662 1943,602"
+                },
+                "text": "correlation"
+              },
+              {
+                "id": "tr_1_tl_3_w17",
+                "coords": {
+                  "points": "1966,604 1966,664 2106,664 2106,604"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_3_w18",
+                "coords": {
+                  "points": "2134,604 2134,664 2177,664 2177,604"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "260,746 562,795 778,753 1268,763 1268,699 1219,681 260,689"
+            },
+            "baseline": {
+              "points": "274,730 324,733 374,735 424,733 474,734 524,736 574,734 624,733 674,733 724,736 774,736 824,736 874,737 924,737 974,736 1024,736 1074,739 1124,739 1174,739 1224,739 1274,742"
+            },
+            "text": "fractal dimension of and the amount of sessile biomass,",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "266,692 266,752 372,752 372,692"
+                },
+                "text": "fractal"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "389,694 389,754 559,754 559,694"
+                },
+                "text": "dimension"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "587,693 587,753 618,753 618,693"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "640,693 640,753 693,753 693,693"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "715,696 715,756 763,756 763,696"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "790,696 790,756 923,756 923,696"
+                },
+                "text": "amount"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "946,696 946,756 977,756 977,696"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "994,697 994,757 1089,757 1089,697"
+                },
+                "text": "sessile"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1112,699 1112,759 1266,759 1266,699"
+                },
+                "text": "biomass,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "416,867 2051,875 2086,800 414,780"
+            },
+            "baseline": {
+              "points": "429,835 512,835 595,835 678,835 761,836 844,838 927,838 1010,838 1093,841 1176,841 1260,841 1343,841 1426,841 1509,841 1592,841 1675,841 1758,841 1841,841 1924,844 2007,841 2091,841"
+            },
+            "text": "lo measure the texture of different substrata, shape was analyzed by determining the fractal",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "418,795 418,855 452,855 452,795"
+                },
+                "text": "lo"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "478,795 478,855 615,855 615,795"
+                },
+                "text": "measure"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "640,795 640,855 685,855 685,795"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "710,796 710,856 828,856 828,796"
+                },
+                "text": "texture"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "853,798 853,858 887,858 887,798"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "908,798 908,858 1056,858 1056,798"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1071,801 1071,861 1238,861 1238,801"
+                },
+                "text": "substrata,"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1259,801 1259,861 1348,861 1348,801"
+                },
+                "text": "shape"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1368,801 1368,861 1432,861 1432,801"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1447,801 1447,861 1590,861 1590,801"
+                },
+                "text": "analyzed"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1615,801 1615,861 1649,861 1649,801"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1675,801 1675,861 1882,861 1882,801"
+                },
+                "text": "determining"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1907,803 1907,863 1951,863 1951,803"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "1976,801 1976,861 2084,861 2084,801"
+                },
+                "text": "fractal"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "260,969 2039,951 2180,984 2180,862 2084,912 260,899"
+            },
+            "baseline": {
+              "points": "274,933 369,933 465,936 560,934 656,936 752,938 847,938 943,939 1038,939 1134,939 1230,939 1325,939 1421,939 1516,942 1612,939 1708,942 1803,942 1899,942 1994,942 2090,942 2186,945"
+            },
+            "text": "dimensions of sandstone, granite and basalt. To measure the variation of dimension within one rock type,",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "266,893 266,953 460,953 460,893"
+                },
+                "text": "dimensions"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "477,895 477,955 509,955 509,895"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "527,895 527,955 716,955 716,895"
+                },
+                "text": "sandstone,"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "733,898 733,958 841,958 841,898"
+                },
+                "text": "granite"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "869,898 869,958 922,958 922,898"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "945,899 945,959 1058,959 1058,899"
+                },
+                "text": "basalt."
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1086,899 1086,959 1124,959 1124,899"
+                },
+                "text": "To"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1151,899 1151,959 1286,959 1286,899"
+                },
+                "text": "measure"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1314,899 1314,959 1357,959 1357,899"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1385,900 1385,960 1525,960 1525,900"
+                },
+                "text": "variation"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1553,900 1553,960 1585,960 1585,900"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1602,901 1602,961 1770,961 1770,901"
+                },
+                "text": "dimension"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1798,902 1798,962 1895,962 1895,902"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1923,902 1923,962 1982,962 1982,902"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_6_w15",
+                "coords": {
+                  "points": "2005,902 2005,962 2074,962 2074,902"
+                },
+                "text": "rock"
+              },
+              {
+                "id": "tr_1_tl_6_w16",
+                "coords": {
+                  "points": "2097,903 2097,963 2183,963 2183,903"
+                },
+                "text": "type,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "263,1048 1023,1090 1410,1050 1608,1098 1739,1050 2220,1060 2220,986 2022,974 1648,1023 263,989"
+            },
+            "baseline": {
+              "points": "277,1035 374,1032 471,1033 569,1035 666,1037 764,1038 861,1041 958,1036 1056,1038 1153,1041 1251,1041 1348,1041 1445,1044 1543,1043 1640,1044 1738,1044 1835,1044 1932,1044 2030,1044 2127,1044 2225,1044"
+            },
+            "text": "three sites with an visually distinct texture were selected for that rock type. A 1O cm latex mold was taken",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "263,994 263,1054 350,1054 350,994"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "387,992 387,1052 459,1052 459,992"
+                },
+                "text": "sites"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "475,993 475,1053 536,1053 536,993"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "563,995 563,1055 593,1055 593,995"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "619,997 619,1057 738,1057 738,997"
+                },
+                "text": "visually"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "765,999 765,1059 888,1059 888,999"
+                },
+                "text": "distinct"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "909,996 909,1056 1022,1056 1022,996"
+                },
+                "text": "texture"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1050,998 1050,1058 1121,1058 1121,998"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1148,1001 1148,1061 1276,1061 1276,1001"
+                },
+                "text": "selected"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1303,1001 1303,1061 1349,1061 1349,1001"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1370,1002 1370,1062 1436,1062 1436,1002"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1453,1003 1453,1063 1520,1063 1520,1003"
+                },
+                "text": "rock"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1546,1003 1546,1063 1633,1063 1633,1003"
+                },
+                "text": "type."
+              },
+              {
+                "id": "tr_1_tl_7_w14",
+                "coords": {
+                  "points": "1660,1004 1660,1064 1675,1064 1675,1004"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_7_w15",
+                "coords": {
+                  "points": "1712,1004 1712,1064 1747,1064 1747,1004"
+                },
+                "text": "1O"
+              },
+              {
+                "id": "tr_1_tl_7_w16",
+                "coords": {
+                  "points": "1774,1004 1774,1064 1804,1064 1804,1004"
+                },
+                "text": "cm"
+              },
+              {
+                "id": "tr_1_tl_7_w17",
+                "coords": {
+                  "points": "1847,1004 1847,1064 1918,1064 1918,1004"
+                },
+                "text": "latex"
+              },
+              {
+                "id": "tr_1_tl_7_w18",
+                "coords": {
+                  "points": "1945,1004 1945,1064 2022,1064 2022,1004"
+                },
+                "text": "mold"
+              },
+              {
+                "id": "tr_1_tl_7_w19",
+                "coords": {
+                  "points": "2048,1004 2048,1064 2109,1064 2109,1004"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_7_w20",
+                "coords": {
+                  "points": "2126,1004 2126,1064 2208,1064 2208,1004"
+                },
+                "text": "taken"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "260,1140 805,1152 850,1187 924,1150 1246,1189 2222,1164 2222,1102 2044,1080 1432,1115 1070,1075 260,1090"
+            },
+            "baseline": {
+              "points": "274,1133 371,1136 469,1136 567,1136 664,1138 762,1139 860,1139 957,1139 1055,1139 1153,1141 1251,1139 1348,1142 1446,1142 1544,1142 1641,1142 1739,1142 1837,1142 1934,1142 2032,1142 2130,1142 2228,1142"
+            },
+            "text": "at each of these sites. I m of copper wire was molded to the surface at the same spot. An ink print from a",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "260,1093 260,1153 289,1153 289,1093"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "305,1095 305,1155 376,1155 376,1095"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "401,1096 401,1156 431,1156 431,1096"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "447,1096 447,1156 533,1156 533,1096"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "553,1096 553,1156 639,1156 639,1096"
+                },
+                "text": "sites."
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "675,1098 675,1158 690,1158 690,1098"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "705,1098 705,1158 720,1158 720,1098"
+                },
+                "text": "m"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "761,1099 761,1159 796,1159 796,1099"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "812,1099 812,1159 928,1159 928,1099"
+                },
+                "text": "copper"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "949,1099 949,1159 1014,1159 1014,1099"
+                },
+                "text": "wire"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1040,1099 1040,1159 1095,1159 1095,1099"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1116,1100 1116,1160 1242,1160 1242,1100"
+                },
+                "text": "molded"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1268,1099 1268,1159 1293,1159 1293,1099"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1319,1101 1319,1161 1364,1161 1364,1101"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "1385,1102 1385,1162 1501,1162 1501,1102"
+                },
+                "text": "surface"
+              },
+              {
+                "id": "tr_1_tl_8_w16",
+                "coords": {
+                  "points": "1527,1102 1527,1162 1556,1162 1556,1102"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_8_w17",
+                "coords": {
+                  "points": "1572,1102 1572,1162 1622,1162 1622,1102"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w18",
+                "coords": {
+                  "points": "1643,1102 1643,1162 1724,1162 1724,1102"
+                },
+                "text": "same"
+              },
+              {
+                "id": "tr_1_tl_8_w19",
+                "coords": {
+                  "points": "1750,1102 1750,1162 1835,1162 1835,1102"
+                },
+                "text": "spot."
+              },
+              {
+                "id": "tr_1_tl_8_w20",
+                "coords": {
+                  "points": "1861,1102 1861,1162 1911,1162 1911,1102"
+                },
+                "text": "An"
+              },
+              {
+                "id": "tr_1_tl_8_w21",
+                "coords": {
+                  "points": "1937,1102 1937,1162 1977,1162 1977,1102"
+                },
+                "text": "ink"
+              },
+              {
+                "id": "tr_1_tl_8_w22",
+                "coords": {
+                  "points": "2003,1102 2003,1162 2083,1162 2083,1102"
+                },
+                "text": "print"
+              },
+              {
+                "id": "tr_1_tl_8_w23",
+                "coords": {
+                  "points": "2104,1102 2104,1162 2164,1162 2164,1102"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_8_w24",
+                "coords": {
+                  "points": "2206,1102 2206,1162 2215,1162 2215,1102"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "270,1261 2103,1273 2089,1199 270,1177"
+            },
+            "baseline": {
+              "points": "283,1235 374,1235 465,1235 556,1238 648,1238 739,1238 830,1238 922,1238 1013,1239 1104,1241 1196,1241 1287,1241 1378,1244 1469,1242 1561,1241 1652,1242 1743,1243 1835,1244 1926,1241 2017,1241 2109,1244"
+            },
+            "text": "cross section of each latex mold was taken, and the resulting profile was digitized and analyzed with a",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "270,1195 270,1255 352,1255 352,1195"
+                },
+                "text": "cross"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "368,1195 368,1255 481,1255 481,1195"
+                },
+                "text": "section"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "507,1196 507,1256 543,1256 543,1196"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "559,1198 559,1258 626,1258 626,1198"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "653,1198 653,1258 730,1258 730,1198"
+                },
+                "text": "latex"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "751,1198 751,1258 833,1258 833,1198"
+                },
+                "text": "mold"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "854,1198 854,1258 916,1258 916,1198"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "937,1198 937,1258 1040,1258 1040,1198"
+                },
+                "text": "taken,"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1056,1200 1056,1260 1112,1260 1112,1200"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1139,1201 1139,1261 1185,1261 1185,1201"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1207,1201 1207,1261 1351,1261 1351,1201"
+                },
+                "text": "resulting"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1372,1202 1372,1262 1480,1262 1480,1202"
+                },
+                "text": "profile"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1502,1201 1502,1261 1558,1261 1558,1201"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1579,1201 1579,1261 1713,1261 1713,1201"
+                },
+                "text": "digitized"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "1739,1203 1739,1263 1795,1263 1795,1203"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_9_w16",
+                "coords": {
+                  "points": "1823,1202 1823,1262 1961,1262 1961,1202"
+                },
+                "text": "analyzed"
+              },
+              {
+                "id": "tr_1_tl_9_w17",
+                "coords": {
+                  "points": "1988,1201 1988,1261 2049,1261 2049,1201"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_9_w18",
+                "coords": {
+                  "points": "2076,1203 2076,1263 2085,1263 2085,1203"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "263,1360 775,1355 1145,1405 1288,1358 1610,1390 2009,1355 2180,1397 2180,1308 2093,1288 263,1283"
+            },
+            "baseline": {
+              "points": "277,1336 372,1336 467,1336 563,1336 658,1339 753,1339 849,1339 944,1339 1039,1339 1135,1342 1230,1342 1325,1342 1421,1342 1516,1342 1611,1342 1707,1342 1802,1342 1897,1342 1993,1342 2088,1342 2184,1342"
+            },
+            "text": "computer program designed to determine the fractal dimension. Tracings of the wire mold were digitized",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "267,1296 267,1356 434,1356 434,1296"
+                },
+                "text": "computer"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "454,1296 454,1356 582,1356 582,1296"
+                },
+                "text": "program"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "622,1299 622,1359 769,1359 769,1299"
+                },
+                "text": "designed"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "794,1299 794,1359 818,1359 818,1299"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "844,1299 844,1359 1015,1359 1015,1299"
+                },
+                "text": "determine"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1041,1299 1041,1359 1085,1359 1085,1299"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1110,1302 1110,1362 1223,1362 1223,1302"
+                },
+                "text": "fractal"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1238,1302 1238,1362 1430,1362 1430,1302"
+                },
+                "text": "dimension."
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1455,1302 1455,1362 1602,1362 1602,1302"
+                },
+                "text": "Tracings"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1622,1302 1622,1362 1656,1362 1656,1302"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1672,1302 1672,1362 1715,1362 1715,1302"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1740,1302 1740,1362 1804,1362 1804,1302"
+                },
+                "text": "wire"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1830,1302 1830,1362 1913,1362 1913,1302"
+                },
+                "text": "mold"
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "1938,1302 1938,1362 2011,1362 2011,1302"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_10_w15",
+                "coords": {
+                  "points": "2036,1302 2036,1362 2174,1362 2174,1302"
+                },
+                "text": "digitized"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "260,1496 411,1462 520,1484 654,1464 880,1479 951,1457 951,1402 800,1387 716,1410 545,1377 471,1407 300,1380 258,1400"
+            },
+            "baseline": {
+              "points": "271,1435 305,1437 339,1438 373,1438 408,1438 442,1438 476,1438 511,1438 545,1438 579,1438 614,1438 648,1438 682,1438 716,1438 751,1440 785,1440 819,1438 854,1438 888,1440 922,1441 957,1441"
+            },
+            "text": "and analyzed with the same program.",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "262,1396 262,1456 316,1456 316,1396"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "341,1398 341,1458 483,1458 483,1398"
+                },
+                "text": "analyzed"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "508,1398 508,1458 576,1458 576,1398"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "601,1398 601,1458 650,1458 650,1398"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "675,1398 675,1458 758,1458 758,1398"
+                },
+                "text": "same"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "783,1398 783,1458 949,1458 949,1398"
+                },
+                "text": "program."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "419,1551 654,1588 1234,1561 1328,1605 1952,1553 2200,1593 2200,1499 2138,1489 419,1489"
+            },
+            "baseline": {
+              "points": "432,1536 520,1536 609,1539 697,1539 786,1539 875,1539 963,1539 1052,1542 1140,1542 1229,1542 1318,1542 1406,1542 1495,1542 1583,1542 1672,1542 1761,1544 1849,1542 1938,1544 2026,1544 2115,1545 2204,1542"
+            },
+            "text": "The fractal program determines dimension in the manner described above. It draws a box around",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "423,1496 423,1556 477,1556 477,1496"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "502,1497 502,1557 610,1557 610,1497"
+                },
+                "text": "fractal"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "625,1499 625,1559 752,1559 752,1499"
+                },
+                "text": "program"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "792,1499 792,1559 984,1559 984,1499"
+                },
+                "text": "determines"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1004,1502 1004,1562 1176,1562 1176,1502"
+                },
+                "text": "dimension"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1201,1502 1201,1562 1220,1562 1220,1502"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1245,1502 1245,1562 1294,1562 1294,1502"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1314,1502 1314,1562 1446,1562 1446,1502"
+                },
+                "text": "manner"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1466,1502 1466,1562 1623,1562 1623,1502"
+                },
+                "text": "described"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1649,1502 1649,1562 1766,1562 1766,1502"
+                },
+                "text": "above."
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1791,1502 1791,1562 1820,1562 1820,1502"
+                },
+                "text": "It"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1836,1502 1836,1562 1933,1562 1933,1502"
+                },
+                "text": "draws"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1954,1504 1954,1564 1963,1564 1963,1504"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "1983,1504 1983,1564 2042,1564 2042,1504"
+                },
+                "text": "box"
+              },
+              {
+                "id": "tr_1_tl_12_w15",
+                "coords": {
+                  "points": "2067,1504 2067,1564 2179,1564 2179,1504"
+                },
+                "text": "around"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "260,1665 1050,1655 1296,1695 1764,1652 2012,1707 2220,1667 2220,1593 2133,1566 1665,1618 1496,1581 716,1610 260,1568"
+            },
+            "baseline": {
+              "points": "274,1635 371,1638 469,1638 566,1638 664,1639 761,1640 859,1640 956,1640 1054,1640 1151,1642 1249,1642 1347,1640 1444,1643 1542,1643 1639,1643 1737,1643 1834,1643 1932,1640 2029,1643 2127,1643 2225,1643"
+            },
+            "text": "the outline and checks to see if there is data point in that box. The program then divides the box in half on",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "265,1595 265,1655 311,1655 311,1595"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "337,1598 337,1658 451,1658 451,1598"
+                },
+                "text": "outline"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "472,1598 472,1658 528,1658 528,1598"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "550,1598 550,1658 663,1658 663,1598"
+                },
+                "text": "checks"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "685,1599 685,1659 710,1659 710,1599"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "731,1599 731,1659 777,1659 777,1599"
+                },
+                "text": "see"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "804,1600 804,1660 824,1660 824,1600"
+                },
+                "text": "if"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "840,1600 840,1660 922,1660 922,1600"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "949,1600 949,1660 969,1660 969,1600"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "985,1600 985,1660 1052,1660 1052,1600"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1074,1601 1074,1661 1166,1661 1166,1601"
+                },
+                "text": "point"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1182,1602 1182,1662 1202,1662 1202,1602"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1229,1601 1229,1661 1295,1661 1295,1601"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "1312,1600 1312,1660 1389,1660 1389,1600"
+                },
+                "text": "box."
+              },
+              {
+                "id": "tr_1_tl_13_w15",
+                "coords": {
+                  "points": "1415,1603 1415,1663 1477,1663 1477,1603"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_13_w16",
+                "coords": {
+                  "points": "1504,1603 1504,1663 1632,1663 1632,1603"
+                },
+                "text": "program"
+              },
+              {
+                "id": "tr_1_tl_13_w17",
+                "coords": {
+                  "points": "1669,1603 1669,1663 1736,1663 1736,1603"
+                },
+                "text": "then"
+              },
+              {
+                "id": "tr_1_tl_13_w18",
+                "coords": {
+                  "points": "1762,1603 1762,1663 1881,1663 1881,1603"
+                },
+                "text": "divides"
+              },
+              {
+                "id": "tr_1_tl_13_w19",
+                "coords": {
+                  "points": "1903,1600 1903,1660 1949,1660 1949,1600"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w20",
+                "coords": {
+                  "points": "1970,1602 1970,1662 2026,1662 2026,1602"
+                },
+                "text": "box"
+              },
+              {
+                "id": "tr_1_tl_13_w21",
+                "coords": {
+                  "points": "2053,1603 2053,1663 2073,1663 2073,1603"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w22",
+                "coords": {
+                  "points": "2099,1603 2099,1663 2161,1663 2161,1603"
+                },
+                "text": "half"
+              },
+              {
+                "id": "tr_1_tl_13_w23",
+                "coords": {
+                  "points": "2177,1603 2177,1663 2208,1663 2208,1603"
+                },
+                "text": "on"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "260,1771 1293,1757 1417,1799 1551,1744 1643,1784 2180,1776 2180,1702 1960,1677 1898,1712 1596,1680 941,1712 260,1667"
+            },
+            "baseline": {
+              "points": "274,1730 369,1738 465,1737 560,1739 656,1739 752,1739 847,1739 943,1739 1038,1739 1134,1739 1230,1742 1325,1742 1421,1742 1516,1742 1612,1742 1708,1742 1803,1742 1899,1742 1994,1742 2090,1742 2186,1745"
+            },
+            "text": "each side and again, counts how many boxes have a data point inside. The process is repeated; each time",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "266,1692 266,1752 336,1752 336,1692"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "358,1697 358,1757 422,1757 422,1697"
+                },
+                "text": "side"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "445,1697 445,1757 498,1757 498,1697"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "521,1699 521,1759 623,1759 623,1699"
+                },
+                "text": "again,"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "641,1699 641,1759 754,1759 754,1699"
+                },
+                "text": "counts"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "771,1699 771,1759 830,1759 830,1699"
+                },
+                "text": "how"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "863,1699 863,1759 949,1759 949,1699"
+                },
+                "text": "many"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "972,1699 972,1759 1069,1759 1069,1699"
+                },
+                "text": "boxes"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1086,1699 1086,1759 1162,1759 1162,1699"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1184,1700 1184,1760 1194,1760 1194,1700"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1216,1702 1216,1762 1286,1762 1286,1702"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1309,1702 1309,1762 1400,1762 1400,1702"
+                },
+                "text": "point"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1412,1702 1412,1762 1526,1762 1526,1702"
+                },
+                "text": "inside."
+              },
+              {
+                "id": "tr_1_tl_14_w14",
+                "coords": {
+                  "points": "1553,1702 1553,1762 1618,1762 1618,1702"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_14_w15",
+                "coords": {
+                  "points": "1640,1702 1640,1762 1764,1762 1764,1702"
+                },
+                "text": "process"
+              },
+              {
+                "id": "tr_1_tl_14_w16",
+                "coords": {
+                  "points": "1781,1702 1781,1762 1808,1762 1808,1702"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_14_w17",
+                "coords": {
+                  "points": "1825,1702 1825,1762 1993,1762 1993,1702"
+                },
+                "text": "repeated;"
+              },
+              {
+                "id": "tr_1_tl_14_w18",
+                "coords": {
+                  "points": "2010,1702 2010,1762 2080,1762 2080,1702"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_14_w19",
+                "coords": {
+                  "points": "2102,1703 2102,1763 2172,1763 2172,1703"
+                },
+                "text": "time"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "258,1890 493,1851 600,1885 674,1853 2180,1875 2180,1796 1759,1771 1667,1814 1610,1776 1335,1814 258,1774"
+            },
+            "baseline": {
+              "points": "271,1837 366,1837 462,1837 558,1838 654,1840 749,1839 845,1840 941,1840 1037,1840 1132,1841 1228,1840 1324,1843 1420,1843 1515,1843 1611,1843 1707,1843 1803,1843 1898,1843 1994,1843 2090,1843 2186,1840"
+            },
+            "text": "another division is made the number of boxes increases to a power of 2. The dimension is determined by",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "257,1797 257,1857 387,1857 387,1797"
+                },
+                "text": "another"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "411,1797 411,1857 531,1857 531,1797"
+                },
+                "text": "division"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "556,1798 556,1858 579,1858 579,1798"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "594,1799 594,1859 685,1859 685,1799"
+                },
+                "text": "made"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "710,1799 710,1859 758,1859 758,1799"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "777,1800 777,1860 917,1860 917,1800"
+                },
+                "text": "number"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "936,1800 936,1860 970,1860 970,1800"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "985,1800 985,1860 1080,1860 1080,1800"
+                },
+                "text": "boxes"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1100,1800 1100,1860 1254,1860 1254,1800"
+                },
+                "text": "increases"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1274,1801 1274,1861 1297,1861 1297,1801"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1322,1803 1322,1863 1331,1863 1331,1803"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1355,1803 1355,1863 1461,1863 1461,1803"
+                },
+                "text": "power"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1481,1803 1481,1863 1514,1863 1514,1803"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "1534,1803 1534,1863 1567,1863 1567,1803"
+                },
+                "text": "2."
+              },
+              {
+                "id": "tr_1_tl_15_w15",
+                "coords": {
+                  "points": "1596,1803 1596,1863 1658,1863 1658,1803"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_15_w16",
+                "coords": {
+                  "points": "1683,1803 1683,1863 1856,1863 1856,1803"
+                },
+                "text": "dimension"
+              },
+              {
+                "id": "tr_1_tl_15_w17",
+                "coords": {
+                  "points": "1881,1803 1881,1863 1899,1863 1899,1803"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_15_w18",
+                "coords": {
+                  "points": "1919,1803 1919,1863 2116,1863 2116,1803"
+                },
+                "text": "determined"
+              },
+              {
+                "id": "tr_1_tl_15_w19",
+                "coords": {
+                  "points": "2141,1800 2141,1860 2174,1860 2174,1800"
+                },
+                "text": "by"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "265,1967 565,1992 743,1955 971,2007 1199,1957 1286,1994 1613,1955 1915,1994 2150,1980 2148,1898 263,1895"
+            },
+            "baseline": {
+              "points": "277,1942 370,1939 464,1939 558,1939 652,1941 746,1939 840,1940 933,1941 1027,1942 1121,1942 1215,1942 1309,1942 1403,1942 1497,1942 1590,1942 1684,1942 1778,1942 1872,1942 1966,1942 2060,1942 2154,1942"
+            },
+            "text": "plotting the natural logarithm of the number of boxes entered by the outine as a function of the natural",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "266,1900 266,1960 397,1960 397,1900"
+                },
+                "text": "plotting"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "420,1899 420,1959 467,1959 467,1899"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "490,1899 490,1959 616,1959 616,1899"
+                },
+                "text": "natural"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "631,1899 631,1959 775,1959 775,1899"
+                },
+                "text": "logarithm"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "818,1899 818,1959 850,1959 850,1899"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "869,1900 869,1960 911,1960 911,1900"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "939,1901 939,1961 1070,1961 1070,1901"
+                },
+                "text": "number"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1093,1902 1093,1962 1126,1962 1126,1902"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1140,1902 1140,1962 1238,1962 1238,1902"
+                },
+                "text": "boxes"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1257,1902 1257,1962 1378,1962 1378,1902"
+                },
+                "text": "entered"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1407,1902 1407,1962 1439,1962 1439,1902"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1463,1902 1463,1962 1509,1962 1509,1902"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1533,1902 1533,1962 1635,1962 1635,1902"
+                },
+                "text": "outine"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "1659,1902 1659,1962 1691,1962 1691,1902"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_16_w15",
+                "coords": {
+                  "points": "1710,1902 1710,1962 1719,1962 1719,1902"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_16_w16",
+                "coords": {
+                  "points": "1743,1902 1743,1962 1878,1962 1878,1902"
+                },
+                "text": "function"
+              },
+              {
+                "id": "tr_1_tl_16_w17",
+                "coords": {
+                  "points": "1907,1902 1907,1962 1939,1962 1939,1902"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w18",
+                "coords": {
+                  "points": "1958,1902 1958,1962 2000,1962 2000,1902"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w19",
+                "coords": {
+                  "points": "2024,1902 2024,1962 2149,1962 2149,1902"
+                },
+                "text": "natural"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "260,2061 867,2096 1469,2056 1841,2103 2079,2051 2240,2101 2240,1982 260,1994"
+            },
+            "baseline": {
+              "points": "274,2037 372,2038 471,2040 569,2040 668,2040 767,2040 865,2040 964,2042 1062,2040 1161,2040 1260,2040 1358,2043 1457,2043 1555,2043 1654,2043 1753,2043 1851,2043 1950,2043 2048,2040 2147,2043 2246,2043"
+            },
+            "text": "logarithm of the scale (length of each side) of the boxes. The fractal dimension is (-1) multiplied by the slope",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "265,1997 265,2057 410,2057 410,1997"
+                },
+                "text": "logarithm"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "451,1999 451,2059 481,2059 481,1999"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "502,2000 502,2060 546,2060 546,2000"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "567,2000 567,2060 642,2060 642,2000"
+                },
+                "text": "scale"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "668,2000 668,2060 784,2060 784,2000"
+                },
+                "text": "(length"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "810,2000 810,2060 845,2060 845,2000"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "860,2000 860,2060 930,2060 930,2000"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "956,2001 956,2061 1036,2061 1036,2001"
+                },
+                "text": "side)"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1057,2000 1057,2060 1087,2060 1087,2000"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1108,2000 1108,2060 1152,2060 1152,2000"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1173,2000 1173,2060 1289,2060 1289,2000"
+                },
+                "text": "boxes."
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1305,2002 1305,2062 1365,2062 1365,2002"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1386,2003 1386,2063 1496,2063 1496,2003"
+                },
+                "text": "fractal"
+              },
+              {
+                "id": "tr_1_tl_17_w14",
+                "coords": {
+                  "points": "1512,2003 1512,2063 1683,2063 1683,2003"
+                },
+                "text": "dimension"
+              },
+              {
+                "id": "tr_1_tl_17_w15",
+                "coords": {
+                  "points": "1709,2003 1709,2063 1728,2063 1728,2003"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_17_w16",
+                "coords": {
+                  "points": "1750,2003 1750,2063 1814,2063 1814,2003"
+                },
+                "text": "(-1)"
+              },
+              {
+                "id": "tr_1_tl_17_w17",
+                "coords": {
+                  "points": "1835,2003 1835,2063 2001,2063 2001,2003"
+                },
+                "text": "multiplied"
+              },
+              {
+                "id": "tr_1_tl_17_w18",
+                "coords": {
+                  "points": "2032,2000 2032,2060 2062,2060 2062,2000"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_17_w19",
+                "coords": {
+                  "points": "2087,2001 2087,2061 2132,2061 2132,2001"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w20",
+                "coords": {
+                  "points": "2158,2003 2158,2063 2238,2063 2238,2003"
+                },
+                "text": "slope"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "260,2183 585,2150 684,2188 783,2155 887,2190 2240,2170 2240,2101 2034,2081 260,2098"
+            },
+            "baseline": {
+              "points": "274,2136 372,2136 470,2137 569,2139 667,2138 766,2139 864,2140 963,2142 1061,2142 1160,2142 1258,2142 1356,2142 1455,2142 1553,2142 1652,2142 1750,2142 1849,2142 1947,2142 2046,2142 2144,2142 2243,2145"
+            },
+            "text": "of the resulting regression line. The smallest scale size was 3 mm for the 10 cm measurements(now referred",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "264,2096 264,2156 298,2156 298,2096"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "314,2096 314,2156 362,2156 362,2096"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "387,2096 387,2156 525,2156 525,2096"
+                },
+                "text": "resulting"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "550,2098 550,2158 717,2158 717,2098"
+                },
+                "text": "regression"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "742,2099 742,2159 815,2159 815,2099"
+                },
+                "text": "line."
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "845,2100 845,2160 904,2160 904,2100"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "929,2102 929,2162 1066,2162 1066,2102"
+                },
+                "text": "smallest"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1082,2102 1082,2162 1155,2162 1155,2102"
+                },
+                "text": "scale"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1180,2102 1180,2162 1229,2162 1229,2102"
+                },
+                "text": "size"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1254,2102 1254,2162 1313,2162 1313,2102"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1333,2102 1333,2162 1342,2162 1342,2102"
+                },
+                "text": "3"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1373,2102 1373,2162 1416,2162 1416,2102"
+                },
+                "text": "mm"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1456,2102 1456,2162 1500,2162 1500,2102"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "1520,2102 1520,2162 1564,2162 1564,2102"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w15",
+                "coords": {
+                  "points": "1594,2102 1594,2162 1628,2162 1628,2102"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_18_w16",
+                "coords": {
+                  "points": "1658,2102 1658,2162 1687,2162 1687,2102"
+                },
+                "text": "cm"
+              },
+              {
+                "id": "tr_1_tl_18_w17",
+                "coords": {
+                  "points": "1722,2102 1722,2162 2056,2162 2056,2102"
+                },
+                "text": "measurements(now"
+              },
+              {
+                "id": "tr_1_tl_18_w18",
+                "coords": {
+                  "points": "2091,2102 2091,2162 2219,2162 2219,2102"
+                },
+                "text": "referred"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "260,2247 560,2287 639,2255 2004,2267 1987,2193 260,2202"
+            },
+            "baseline": {
+              "points": "274,2237 360,2237 447,2237 534,2239 621,2240 708,2240 794,2240 881,2240 968,2240 1055,2240 1142,2240 1228,2240 1315,2240 1402,2240 1489,2240 1576,2240 1662,2240 1749,2240 1836,2240 1923,2243 2010,2246"
+            },
+            "text": "to as the 10 cm scale) and 5 cm for the 1 m measurements (now referred to as the 1 m scale).",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "264,2197 264,2257 288,2257 288,2197"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "314,2197 314,2257 343,2257 343,2197"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "363,2197 363,2257 407,2257 407,2197"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "437,2197 437,2257 471,2257 471,2197"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "501,2198 501,2258 530,2258 530,2198"
+                },
+                "text": "cm"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "566,2199 566,2259 664,2259 664,2199"
+                },
+                "text": "scale)"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "684,2200 684,2260 738,2260 738,2200"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "763,2200 763,2260 777,2260 777,2200"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "803,2200 803,2260 832,2260 832,2200"
+                },
+                "text": "cm"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "872,2200 872,2260 916,2260 916,2200"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "936,2200 936,2260 985,2260 985,2200"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1010,2200 1010,2260 1024,2260 1024,2200"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1040,2200 1040,2260 1059,2260 1059,2200"
+                },
+                "text": "m"
+              },
+              {
+                "id": "tr_1_tl_19_w14",
+                "coords": {
+                  "points": "1094,2200 1094,2260 1345,2260 1345,2200"
+                },
+                "text": "measurements"
+              },
+              {
+                "id": "tr_1_tl_19_w15",
+                "coords": {
+                  "points": "1371,2200 1371,2260 1439,2260 1439,2200"
+                },
+                "text": "(now"
+              },
+              {
+                "id": "tr_1_tl_19_w16",
+                "coords": {
+                  "points": "1474,2200 1474,2260 1607,2260 1607,2200"
+                },
+                "text": "referred"
+              },
+              {
+                "id": "tr_1_tl_19_w17",
+                "coords": {
+                  "points": "1633,2200 1633,2260 1657,2260 1657,2200"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_19_w18",
+                "coords": {
+                  "points": "1682,2200 1682,2260 1711,2260 1711,2200"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_19_w19",
+                "coords": {
+                  "points": "1726,2200 1726,2260 1775,2260 1775,2200"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w20",
+                "coords": {
+                  "points": "1805,2200 1805,2260 1820,2260 1820,2200"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_19_w21",
+                "coords": {
+                  "points": "1835,2200 1835,2260 1849,2260 1849,2200"
+                },
+                "text": "m"
+              },
+              {
+                "id": "tr_1_tl_19_w22",
+                "coords": {
+                  "points": "1889,2203 1889,2263 2002,2263 2002,2203"
+                },
+                "text": "scale)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "411,2359 832,2349 1083,2398 1224,2364 1380,2396 2255,2371 2230,2282 1229,2314 411,2272"
+            },
+            "baseline": {
+              "points": "426,2342 517,2339 609,2342 700,2342 792,2342 884,2342 975,2342 1067,2342 1158,2342 1250,2342 1342,2342 1433,2342 1525,2342 1616,2342 1708,2344 1800,2344 1891,2343 1983,2344 2074,2345 2166,2345 2258,2342"
+            },
+            "text": "ANOVA analysis was carried out to test for a significant difference of the means of fractal dimension",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "415,2299 415,2359 568,2359 568,2299"
+                },
+                "text": "ANOVA"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "602,2302 602,2362 726,2362 726,2302"
+                },
+                "text": "analysis"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "746,2302 746,2362 808,2362 808,2302"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "823,2302 823,2362 937,2362 937,2302"
+                },
+                "text": "carried"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "962,2302 962,2362 1019,2362 1019,2302"
+                },
+                "text": "out"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1035,2302 1035,2362 1063,2362 1063,2302"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1087,2302 1087,2362 1149,2362 1149,2302"
+                },
+                "text": "test"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1164,2302 1164,2362 1212,2362 1212,2302"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1231,2302 1231,2362 1240,2362 1240,2302"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1260,2302 1260,2362 1437,2362 1437,2302"
+                },
+                "text": "significant"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1457,2302 1457,2362 1620,2362 1620,2302"
+                },
+                "text": "difference"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1650,2303 1650,2363 1683,2363 1683,2303"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1698,2304 1698,2364 1745,2364 1745,2304"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "1765,2303 1765,2363 1875,2363 1875,2303"
+                },
+                "text": "means"
+              },
+              {
+                "id": "tr_1_tl_20_w15",
+                "coords": {
+                  "points": "1894,2303 1894,2363 1927,2363 1927,2303"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w16",
+                "coords": {
+                  "points": "1947,2304 1947,2364 2057,2364 2057,2304"
+                },
+                "text": "fractal"
+              },
+              {
+                "id": "tr_1_tl_20_w17",
+                "coords": {
+                  "points": "2072,2305 2072,2365 2239,2365 2239,2305"
+                },
+                "text": "dimension"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "263,2468 2235,2478 2235,2403 2136,2376 2076,2411 1231,2413 1147,2378 263,2406"
+            },
+            "baseline": {
+              "points": "277,2440 375,2440 473,2440 571,2440 669,2440 767,2440 865,2440 964,2443 1062,2441 1160,2443 1258,2443 1356,2440 1454,2443 1552,2443 1651,2443 1749,2440 1847,2443 1945,2443 2043,2443 2141,2443 2240,2443"
+            },
+            "text": "among the rock types on the 10 cm and the 1 m measurements. Another ANOVA was conducted to test",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "262,2400 262,2460 374,2460 374,2400"
+                },
+                "text": "among"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "398,2400 398,2460 444,2460 444,2400"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "468,2400 468,2460 533,2460 533,2400"
+                },
+                "text": "rock"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "557,2400 557,2460 645,2460 645,2400"
+                },
+                "text": "types"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "665,2400 665,2460 702,2460 702,2400"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "735,2400 735,2460 786,2460 786,2400"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "815,2400 815,2460 852,2460 852,2400"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "876,2400 876,2460 908,2460 908,2400"
+                },
+                "text": "cm"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "946,2402 946,2462 1001,2462 1001,2402"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1025,2401 1025,2461 1072,2461 1072,2401"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1100,2401 1100,2461 1114,2461 1114,2401"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1128,2402 1128,2462 1147,2462 1147,2402"
+                },
+                "text": "m"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "1185,2401 1185,2461 1452,2461 1452,2401"
+                },
+                "text": "measurements."
+              },
+              {
+                "id": "tr_1_tl_21_w14",
+                "coords": {
+                  "points": "1480,2403 1480,2463 1630,2463 1630,2403"
+                },
+                "text": "Another"
+              },
+              {
+                "id": "tr_1_tl_21_w15",
+                "coords": {
+                  "points": "1649,2400 1649,2460 1803,2460 1803,2400"
+                },
+                "text": "ANOVA"
+              },
+              {
+                "id": "tr_1_tl_21_w16",
+                "coords": {
+                  "points": "1832,2403 1832,2463 1892,2463 1892,2403"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_21_w17",
+                "coords": {
+                  "points": "1911,2403 1911,2463 2089,2463 2089,2403"
+                },
+                "text": "conducted"
+              },
+              {
+                "id": "tr_1_tl_21_w18",
+                "coords": {
+                  "points": "2117,2403 2117,2463 2140,2463 2140,2403"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_21_w19",
+                "coords": {
+                  "points": "2169,2403 2169,2463 2225,2463 2225,2403"
+                },
+                "text": "test"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "260,2579 1960,2569 1960,2470 1739,2515 1546,2485 1286,2517 1068,2470 976,2507 260,2492"
+            },
+            "baseline": {
+              "points": "274,2539 358,2539 443,2539 527,2539 612,2539 697,2540 781,2542 866,2542 950,2542 1035,2542 1120,2542 1204,2542 1289,2542 1373,2542 1458,2542 1543,2542 1627,2543 1712,2542 1796,2542 1881,2545 1966,2545"
+            },
+            "text": "for differences in the means of fractal dimension between the 10 cm scale and the 1 m scale.",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "264,2499 264,2559 311,2559 311,2499"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "331,2499 331,2559 518,2559 518,2499"
+                },
+                "text": "differences"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "538,2499 538,2559 557,2559 557,2499"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "581,2499 581,2559 629,2559 629,2499"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "654,2500 654,2560 764,2560 764,2500"
+                },
+                "text": "means"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "784,2502 784,2562 817,2562 817,2502"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "832,2502 832,2562 942,2562 942,2502"
+                },
+                "text": "fractal"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "957,2502 957,2562 1131,2562 1131,2502"
+                },
+                "text": "dimension"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1155,2502 1155,2562 1294,2562 1294,2502"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1319,2502 1319,2562 1366,2562 1366,2502"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1396,2502 1396,2562 1429,2562 1429,2502"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1454,2502 1454,2562 1487,2562 1487,2502"
+                },
+                "text": "cm"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "1521,2502 1521,2562 1598,2562 1598,2502"
+                },
+                "text": "scale"
+              },
+              {
+                "id": "tr_1_tl_22_w14",
+                "coords": {
+                  "points": "1622,2502 1622,2562 1675,2562 1675,2502"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_22_w15",
+                "coords": {
+                  "points": "1699,2502 1699,2562 1747,2562 1747,2502"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w16",
+                "coords": {
+                  "points": "1776,2502 1776,2562 1790,2562 1790,2502"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_22_w17",
+                "coords": {
+                  "points": "1810,2502 1810,2562 1824,2562 1824,2502"
+                },
+                "text": "m"
+              },
+              {
+                "id": "tr_1_tl_22_w18",
+                "coords": {
+                  "points": "1858,2505 1858,2565 1954,2565 1954,2505"
+                },
+                "text": "scale."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "411,2663 979,2693 1482,2658 1561,2693 2235,2658 2235,2589 411,2596"
+            },
+            "baseline": {
+              "points": "426,2637 516,2640 607,2640 698,2640 788,2640 879,2640 970,2640 1060,2643 1151,2641 1242,2643 1333,2643 1423,2643 1514,2643 1605,2641 1695,2643 1786,2643 1877,2643 1967,2643 2058,2643 2149,2643 2240,2643"
+            },
+            "text": "Measurements of biomass were carried out at a site protected from wave exposure and at a site with",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "415,2600 415,2660 667,2660 667,2600"
+                },
+                "text": "Measurements"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "691,2600 691,2660 723,2660 723,2600"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "738,2600 738,2660 874,2660 874,2600"
+                },
+                "text": "biomass"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "893,2600 893,2660 972,2660 972,2600"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "996,2602 996,2662 1108,2662 1108,2602"
+                },
+                "text": "carried"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1132,2601 1132,2661 1188,2661 1188,2601"
+                },
+                "text": "out"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1207,2602 1207,2662 1235,2662 1235,2602"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1254,2603 1254,2663 1263,2663 1263,2603"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1287,2603 1287,2663 1334,2663 1334,2603"
+                },
+                "text": "site"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1358,2603 1358,2663 1521,2663 1521,2603"
+                },
+                "text": "protected"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1550,2601 1550,2661 1610,2661 1610,2601"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_23_w12",
+                "coords": {
+                  "points": "1648,2602 1648,2662 1728,2662 1728,2602"
+                },
+                "text": "wave"
+              },
+              {
+                "id": "tr_1_tl_23_w13",
+                "coords": {
+                  "points": "1752,2603 1752,2663 1906,2663 1906,2603"
+                },
+                "text": "exposure"
+              },
+              {
+                "id": "tr_1_tl_23_w14",
+                "coords": {
+                  "points": "1930,2603 1930,2663 1981,2663 1981,2603"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_23_w15",
+                "coords": {
+                  "points": "2009,2603 2009,2663 2037,2663 2037,2603"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_23_w16",
+                "coords": {
+                  "points": "2056,2603 2056,2663 2065,2663 2065,2603"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_23_w17",
+                "coords": {
+                  "points": "2089,2603 2089,2663 2135,2663 2135,2603"
+                },
+                "text": "site"
+              },
+              {
+                "id": "tr_1_tl_23_w18",
+                "coords": {
+                  "points": "2160,2603 2160,2663 2225,2663 2225,2603"
+                },
+                "text": "with"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "260,2777 619,2755 1043,2802 1177,2750 2222,2785 2222,2698 1898,2683 1717,2715 671,2673 260,2715"
+            },
+            "baseline": {
+              "points": "274,2741 371,2741 469,2741 567,2741 664,2741 762,2741 860,2741 957,2742 1055,2743 1153,2743 1251,2741 1348,2741 1446,2741 1544,2744 1641,2744 1739,2744 1837,2744 1934,2744 2032,2744 2130,2744 2228,2744"
+            },
+            "text": "more exposure, both near Monterey, CA (39 37'N, 121 50'W). Sandstone and granite test areas selected",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "265,2701 265,2761 350,2761 350,2701"
+                },
+                "text": "more"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "371,2701 371,2761 542,2761 542,2701"
+                },
+                "text": "exposure,"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "558,2701 558,2761 633,2761 633,2701"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "659,2701 659,2761 729,2761 729,2701"
+                },
+                "text": "near"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "750,2701 750,2761 936,2761 936,2701"
+                },
+                "text": "Monterey,"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "957,2702 957,2762 997,2762 997,2702"
+                },
+                "text": "CA"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1033,2703 1033,2763 1088,2763 1088,2703"
+                },
+                "text": "(39"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1114,2702 1114,2762 1224,2762 1224,2702"
+                },
+                "text": "37'N,"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1246,2701 1246,2761 1311,2761 1311,2701"
+                },
+                "text": "121"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1331,2701 1331,2761 1467,2761 1467,2701"
+                },
+                "text": "50'W)."
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "1483,2704 1483,2764 1654,2764 1654,2704"
+                },
+                "text": "Sandstone"
+              },
+              {
+                "id": "tr_1_tl_24_w12",
+                "coords": {
+                  "points": "1680,2704 1680,2764 1735,2764 1735,2704"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_24_w13",
+                "coords": {
+                  "points": "1756,2704 1756,2764 1871,2764 1871,2704"
+                },
+                "text": "granite"
+              },
+              {
+                "id": "tr_1_tl_24_w14",
+                "coords": {
+                  "points": "1897,2704 1897,2764 1957,2764 1957,2704"
+                },
+                "text": "test"
+              },
+              {
+                "id": "tr_1_tl_24_w15",
+                "coords": {
+                  "points": "1973,2704 1973,2764 2058,2764 2058,2704"
+                },
+                "text": "areas"
+              },
+              {
+                "id": "tr_1_tl_24_w16",
+                "coords": {
+                  "points": "2074,2704 2074,2764 2205,2764 2205,2704"
+                },
+                "text": "selected"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "258,2862 659,2899 971,2864 1127,2904 1177,2864 1256,2899 1680,2866 1831,2909 1984,2862 2245,2879 2245,2809 2034,2780 1794,2817 258,2802"
+            },
+            "baseline": {
+              "points": "271,2843 370,2844 469,2846 568,2846 667,2846 766,2846 865,2846 964,2846 1063,2846 1162,2846 1261,2846 1360,2846 1459,2846 1558,2846 1657,2846 1756,2846 1855,2846 1954,2846 2053,2846 2152,2846 2252,2846"
+            },
+            "text": "in the protected site and basalt and granite test areas were chosen at the exposed site. Ten 100 cm transects",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "262,2803 262,2863 281,2863 281,2803"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "312,2803 312,2863 355,2863 355,2803"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "381,2805 381,2865 543,2865 543,2805"
+                },
+                "text": "protected"
+              },
+              {
+                "id": "tr_1_tl_25_w4",
+                "coords": {
+                  "points": "568,2806 568,2866 617,2866 617,2806"
+                },
+                "text": "site"
+              },
+              {
+                "id": "tr_1_tl_25_w5",
+                "coords": {
+                  "points": "642,2806 642,2866 696,2866 696,2806"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_25_w6",
+                "coords": {
+                  "points": "721,2806 721,2866 819,2866 819,2806"
+                },
+                "text": "basalt"
+              },
+              {
+                "id": "tr_1_tl_25_w7",
+                "coords": {
+                  "points": "834,2806 834,2866 888,2866 888,2806"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_25_w8",
+                "coords": {
+                  "points": "913,2806 913,2866 1026,2866 1026,2806"
+                },
+                "text": "granite"
+              },
+              {
+                "id": "tr_1_tl_25_w9",
+                "coords": {
+                  "points": "1051,2806 1051,2866 1110,2866 1110,2806"
+                },
+                "text": "test"
+              },
+              {
+                "id": "tr_1_tl_25_w10",
+                "coords": {
+                  "points": "1125,2806 1125,2866 1213,2866 1213,2806"
+                },
+                "text": "areas"
+              },
+              {
+                "id": "tr_1_tl_25_w11",
+                "coords": {
+                  "points": "1229,2806 1229,2866 1307,2866 1307,2806"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_25_w12",
+                "coords": {
+                  "points": "1327,2806 1327,2866 1440,2866 1440,2806"
+                },
+                "text": "chosen"
+              },
+              {
+                "id": "tr_1_tl_25_w13",
+                "coords": {
+                  "points": "1466,2806 1466,2866 1494,2866 1494,2806"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_25_w14",
+                "coords": {
+                  "points": "1515,2806 1515,2866 1559,2866 1559,2806"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_25_w15",
+                "coords": {
+                  "points": "1584,2806 1584,2866 1721,2866 1721,2806"
+                },
+                "text": "exposed"
+              },
+              {
+                "id": "tr_1_tl_25_w16",
+                "coords": {
+                  "points": "1742,2806 1742,2866 1815,2866 1815,2806"
+                },
+                "text": "site."
+              },
+              {
+                "id": "tr_1_tl_25_w17",
+                "coords": {
+                  "points": "1845,2806 1845,2866 1904,2866 1904,2806"
+                },
+                "text": "Ten"
+              },
+              {
+                "id": "tr_1_tl_25_w18",
+                "coords": {
+                  "points": "1934,2806 1934,2866 1993,2866 1993,2806"
+                },
+                "text": "100"
+              },
+              {
+                "id": "tr_1_tl_25_w19",
+                "coords": {
+                  "points": "2018,2806 2018,2866 2052,2866 2052,2806"
+                },
+                "text": "cm"
+              },
+              {
+                "id": "tr_1_tl_25_w20",
+                "coords": {
+                  "points": "2087,2806 2087,2866 2239,2866 2239,2806"
+                },
+                "text": "transects"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_26",
+            "coords": {
+              "points": "263,2973 1152,2971 1479,3023 1675,2973 2158,2995 2158,2899 1895,2886 1846,2921 946,2879 889,2918 528,2884 263,2914"
+            },
+            "baseline": {
+              "points": "277,2941 371,2944 465,2946 559,2944 654,2946 748,2944 842,2944 937,2947 1031,2947 1125,2947 1220,2947 1314,2947 1408,2947 1502,2947 1597,2947 1691,2947 1785,2947 1880,2947 1974,2947 2068,2947 2163,2944"
+            },
+            "text": "of visually different textures were selected within a range of 1 to 1.5 feet below the Endocladia-barnacle",
+            "words": [
+              {
+                "id": "tr_1_tl_26_w1",
+                "coords": {
+                  "points": "267,2901 267,2961 301,2961 301,2901"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_26_w2",
+                "coords": {
+                  "points": "321,2904 321,2964 434,2964 434,2904"
+                },
+                "text": "visually"
+              },
+              {
+                "id": "tr_1_tl_26_w3",
+                "coords": {
+                  "points": "459,2904 459,2964 611,2964 611,2904"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_26_w4",
+                "coords": {
+                  "points": "626,2905 626,2965 763,2965 763,2905"
+                },
+                "text": "textures"
+              },
+              {
+                "id": "tr_1_tl_26_w5",
+                "coords": {
+                  "points": "784,2904 784,2964 862,2964 862,2904"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_26_w6",
+                "coords": {
+                  "points": "882,2907 882,2967 1015,2967 1015,2907"
+                },
+                "text": "selected"
+              },
+              {
+                "id": "tr_1_tl_26_w7",
+                "coords": {
+                  "points": "1040,2907 1040,2967 1138,2967 1138,2907"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_26_w8",
+                "coords": {
+                  "points": "1163,2907 1163,2967 1172,2967 1172,2907"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_26_w9",
+                "coords": {
+                  "points": "1197,2907 1197,2967 1285,2967 1285,2907"
+                },
+                "text": "range"
+              },
+              {
+                "id": "tr_1_tl_26_w10",
+                "coords": {
+                  "points": "1311,2907 1311,2967 1339,2967 1339,2907"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_26_w11",
+                "coords": {
+                  "points": "1360,2907 1360,2967 1374,2967 1374,2907"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_26_w12",
+                "coords": {
+                  "points": "1394,2907 1394,2967 1423,2967 1423,2907"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_26_w13",
+                "coords": {
+                  "points": "1453,2907 1453,2967 1502,2967 1502,2907"
+                },
+                "text": "1.5"
+              },
+              {
+                "id": "tr_1_tl_26_w14",
+                "coords": {
+                  "points": "1527,2907 1527,2967 1591,2967 1591,2907"
+                },
+                "text": "feet"
+              },
+              {
+                "id": "tr_1_tl_26_w15",
+                "coords": {
+                  "points": "1611,2907 1611,2967 1694,2967 1694,2907"
+                },
+                "text": "below"
+              },
+              {
+                "id": "tr_1_tl_26_w16",
+                "coords": {
+                  "points": "1729,2907 1729,2967 1778,2967 1778,2907"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_26_w17",
+                "coords": {
+                  "points": "1803,2907 1803,2967 2147,2967 2147,2907"
+                },
+                "text": "Endocladia-barnacle"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

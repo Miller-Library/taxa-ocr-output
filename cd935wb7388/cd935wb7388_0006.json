@@ -1,0 +1,2306 @@
+{
+  "processId": 10307725,
+  "status": "FINISHED",
+  "content": {
+    "text": "Vin is the voltage provided by the stimulator measured on one channel of\nthe oscilloscope, Vout is the voltage after the 100 Kohm resistor measured on\nthe other channel of the oscilloscope. The resistance of the skin and the\nelectrodes act as two resistors in series, Relectrode and Rekin. To solve for\nEskin, 1 subtracted Reelectrode (no skin in the circuit) from R2(electrodet skin)\n(with skin in the circuit).\nIn measuring skin resistance there were several logistical problems\nthat needed to be considered in making the electrodes. First, I needed to\ncr\u00e9ate a system that would not poke holes in the skin, because even the\nsmallest hole would allow enough ion leakage to lower the skin resistance to\nnearly zero ohms. Second, it was very important that the charge travel\nthrough the skin and not around the skin through sea water. Thus I needed\na way block the path of current around the section of tissue being measured\nThird, resistance depends not only upon the properties of the material being\nmeasured (resistivity), but also upon the cross sectional area in contact with\nthe current source, and the distance through the material that current has te\ntravel.\nresistance - resistivity \u00bb (length/ cross sectional area)\nTherefore, I needed to be able to align my electrodes perfectly each time to\nkeep the cross sectional area constant and I needed to stretch the tissue to\nthe same thickness for every measurement to keep the distance through the\nmaterial constant.\nTo remedy these problems I used a chamber (figure 3) made from one\npetri dish and two petri dish lids with 6.0 mm holes drilled through them.\nThe electrodes were Ag/AgCl wires submerged in sea water as the",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "376,401 376,3072 2194,3072 2194,401"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "382,481 2130,461 2105,386 1380,413 969,402 766,346 382,370"
+            },
+            "baseline": {
+              "points": "394,450 481,450 568,447 655,447 742,452 829,453 916,450 1003,450 1090,451 1177,452 1264,450 1351,451 1438,453 1525,453 1612,453 1699,453 1786,453 1873,456 1960,456 2047,456 2134,456"
+            },
+            "text": "Vin is the voltage provided by the stimulator measured on one channel of",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "390,410 390,470 452,470 452,410"
+                },
+                "text": "Vin"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "484,409 484,469 515,469 515,409"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "541,407 541,467 603,467 603,407"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "628,409 628,469 784,469 784,409"
+                },
+                "text": "voltage"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "816,410 816,470 1010,470 1010,410"
+                },
+                "text": "provided"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "1042,410 1042,470 1085,470 1085,410"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1117,411 1117,471 1179,471 1179,411"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1205,410 1205,470 1436,470 1436,410"
+                },
+                "text": "stimulator"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1462,413 1462,473 1674,473 1674,413"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1706,413 1706,473 1749,473 1749,413"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_1_w11",
+                "coords": {
+                  "points": "1775,413 1775,473 1850,473 1850,413"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_1_w12",
+                "coords": {
+                  "points": "1876,416 1876,476 2056,476 2056,416"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_1_w13",
+                "coords": {
+                  "points": "2076,416 2076,476 2113,476 2113,416"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "377,578 551,553 655,594 748,558 867,603 964,558 1432,603 2186,567 2184,499 1976,520 1927,479 1739,520 1638,474 1215,522 955,470 838,513 680,459 535,510 463,472 375,495"
+            },
+            "baseline": {
+              "points": "388,543 478,543 568,546 658,546 748,549 838,552 928,552 1019,549 1109,552 1199,552 1289,552 1379,552 1469,552 1559,552 1650,552 1740,554 1830,555 1920,555 2010,555 2100,555 2191,558"
+            },
+            "text": "the oscilloscope, Vout is the voltage after the 100 Kohm resistor measured on",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "378,503 378,563 438,563 438,503"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "473,506 473,566 758,566 758,506"
+                },
+                "text": "oscilloscope,"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "772,511 772,571 867,571 867,511"
+                },
+                "text": "Vout"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "888,512 888,572 915,572 915,512"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "943,510 943,570 1003,570 1003,510"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1031,512 1031,572 1187,572 1187,512"
+                },
+                "text": "voltage"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1215,512 1215,572 1323,572 1323,512"
+                },
+                "text": "after"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1345,512 1345,572 1405,572 1405,512"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1446,512 1446,572 1514,572 1514,512"
+                },
+                "text": "100"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1542,512 1542,572 1643,572 1643,512"
+                },
+                "text": "Kohm"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1691,514 1691,574 1861,574 1861,514"
+                },
+                "text": "resistor"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1882,515 1882,575 2099,575 2099,515"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "2134,516 2134,576 2167,576 2167,516"
+                },
+                "text": "on"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "375,653 693,655 770,696 892,657 1048,689 1432,655 1536,702 1690,657 1875,693 2083,660 2083,614 2008,592 1789,612 1660,569 1579,614 1084,571 955,614 375,599"
+            },
+            "baseline": {
+              "points": "388,644 473,644 558,647 643,647 728,647 813,647 898,647 983,648 1068,650 1153,650 1238,653 1323,650 1408,651 1493,651 1578,653 1663,651 1748,653 1833,653 1918,653 2003,653 2089,659"
+            },
+            "text": "the other channel of the oscilloscope. The resistance of the skin and the",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "377,604 377,664 441,664 441,604"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "468,605 468,665 583,665 583,605"
+                },
+                "text": "other"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "609,607 609,667 789,667 789,607"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "809,607 809,667 847,667 847,607"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "867,607 867,667 930,667 930,607"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "958,610 958,670 1247,670 1247,610"
+                },
+                "text": "oscilloscope."
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1273,610 1273,670 1343,670 1343,610"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1376,611 1376,671 1595,671 1595,611"
+                },
+                "text": "resistance"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1628,611 1628,671 1666,671 1666,611"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1686,612 1686,672 1750,672 1750,612"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1776,613 1776,673 1859,673 1859,613"
+                },
+                "text": "skin"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1892,613 1892,673 1962,673 1962,613"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1995,614 1995,674 2059,674 2059,614"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "373,754 449,793 1102,754 1339,797 1642,759 1699,800 1812,759 2112,763 2110,709 1891,721 1757,666 1457,725 1269,675 969,702 863,657 373,714"
+            },
+            "baseline": {
+              "points": "385,743 471,746 558,746 644,746 731,746 817,746 904,749 990,749 1077,749 1163,749 1250,750 1337,756 1423,758 1510,755 1596,755 1683,755 1769,758 1856,758 1942,753 2029,752 2116,755"
+            },
+            "text": "electrodes act as two resistors in series, Relectrode and Rekin. To solve for",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "376,706 376,766 612,766 612,706"
+                },
+                "text": "electrodes"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "634,706 634,766 696,766 696,706"
+                },
+                "text": "act"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "718,706 718,766 759,766 759,706"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "788,706 788,766 857,766 857,706"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "886,709 886,769 1081,769 1081,709"
+                },
+                "text": "resistors"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1102,709 1102,769 1136,769 1136,709"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1165,709 1165,769 1317,769 1317,709"
+                },
+                "text": "series,"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1332,717 1332,777 1541,777 1541,717"
+                },
+                "text": "Relectrode"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1563,715 1563,775 1638,775 1638,715"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1667,716 1667,776 1806,776 1806,716"
+                },
+                "text": "Rekin."
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1828,718 1828,778 1876,778 1876,718"
+                },
+                "text": "To"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1905,712 1905,772 2015,772 2015,712"
+                },
+                "text": "solve"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "2044,713 2044,773 2099,773 2099,713"
+                },
+                "text": "for"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "370,881 734,852 840,901 1098,852 1231,922 1387,858 2159,879 2132,806 1317,806 1197,757 1071,818 705,804 617,763 490,811 370,754"
+            },
+            "baseline": {
+              "points": "382,844 471,850 560,847 649,847 738,844 827,847 916,856 1005,856 1094,853 1183,850 1273,850 1362,850 1451,853 1540,850 1629,850 1718,856 1807,859 1896,859 1985,862 2074,862 2164,865"
+            },
+            "text": "Eskin, 1 subtracted Reelectrode (no skin in the circuit) from R2(electrodet skin)",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "375,808 375,868 509,868 509,808"
+                },
+                "text": "Eskin,"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "526,807 526,867 541,867 541,807"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "566,805 566,865 795,865 795,805"
+                },
+                "text": "subtracted"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "827,816 827,876 1064,876 1064,816"
+                },
+                "text": "Reelectrode"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "1089,812 1089,872 1151,872 1151,812"
+                },
+                "text": "(no"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1176,810 1176,870 1255,870 1255,810"
+                },
+                "text": "skin"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1295,810 1295,870 1318,870 1318,810"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1351,810 1351,870 1413,870 1413,810"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1438,810 1438,870 1603,870 1603,810"
+                },
+                "text": "circuit)"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1628,812 1628,872 1707,872 1707,812"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1755,819 1755,879 2032,879 2032,819"
+                },
+                "text": "R2(electrodet"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "2049,822 2049,882 2151,882 2151,822"
+                },
+                "text": "skin)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "375,955 766,960 849,1001 976,992 976,885 944,872 876,904 806,885 779,910 632,870 520,892 375,881"
+            },
+            "baseline": {
+              "points": "388,949 417,947 447,947 477,949 506,949 536,949 566,949 595,949 625,949 655,949 685,949 714,949 744,949 774,949 803,949 833,949 863,949 892,949 922,949 952,951 982,952"
+            },
+            "text": "(with skin in the circuit).",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "389,907 389,967 499,967 499,907"
+                },
+                "text": "(with"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "531,909 531,969 610,969 610,909"
+                },
+                "text": "skin"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "641,909 641,969 671,969 671,909"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "703,909 703,969 763,969 763,909"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "789,909 789,969 972,969 972,909"
+                },
+                "text": "circuit)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "522,1050 730,1107 1362,1053 1477,1105 1631,1059 1719,1105 2135,1084 2132,992 1206,1012 1066,949 913,1007 628,1005 520,967"
+            },
+            "baseline": {
+              "points": "534,1050 614,1050 694,1050 774,1050 854,1053 934,1050 1014,1050 1095,1050 1175,1051 1255,1050 1335,1053 1415,1052 1495,1053 1575,1053 1656,1053 1736,1056 1816,1056 1896,1055 1976,1053 2056,1053 2137,1053"
+            },
+            "text": "In measuring skin resistance there were several logistical problems",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "540,1010 540,1070 577,1070 577,1010"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "608,1010 608,1070 835,1070 835,1010"
+                },
+                "text": "measuring"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "867,1011 867,1071 946,1071 946,1011"
+                },
+                "text": "skin"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "984,1010 984,1070 1199,1070 1199,1010"
+                },
+                "text": "resistance"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1231,1011 1231,1071 1342,1071 1342,1011"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1373,1012 1373,1072 1471,1072 1471,1012"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1503,1013 1503,1073 1674,1073 1674,1013"
+                },
+                "text": "several"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1688,1016 1688,1076 1890,1076 1890,1016"
+                },
+                "text": "logistical"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1909,1013 1909,1073 2118,1073 2118,1013"
+                },
+                "text": "problems"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "379,1159 585,1147 784,1195 919,1154 1613,1190 1771,1156 1827,1193 2105,1163 2064,1095 1717,1105 1649,1066 1527,1105 852,1068 630,1111 379,1066"
+            },
+            "baseline": {
+              "points": "391,1146 481,1146 571,1146 662,1146 752,1146 843,1149 933,1149 1024,1149 1114,1149 1205,1149 1295,1149 1386,1149 1476,1149 1567,1149 1657,1150 1748,1150 1838,1152 1929,1152 2019,1151 2110,1146"
+            },
+            "text": "that needed to be considered in making the electrodes. First, I needed to",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "386,1106 386,1166 472,1166 472,1106"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "496,1106 496,1166 646,1166 646,1106"
+                },
+                "text": "needed"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "676,1106 676,1166 710,1166 710,1106"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "740,1106 740,1166 779,1166 779,1106"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "809,1109 809,1169 1046,1169 1046,1109"
+                },
+                "text": "considered"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1082,1109 1082,1169 1104,1169 1104,1109"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1140,1109 1140,1169 1302,1169 1302,1109"
+                },
+                "text": "making"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1331,1109 1331,1169 1388,1169 1388,1109"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1418,1109 1418,1169 1673,1169 1673,1109"
+                },
+                "text": "electrodes."
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1696,1110 1696,1170 1817,1170 1817,1110"
+                },
+                "text": "First,"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1836,1112 1836,1172 1853,1172 1853,1112"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1871,1111 1871,1171 2026,1171 2026,1111"
+                },
+                "text": "needed"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "2056,1108 2056,1168 2090,1168 2090,1108"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "379,1260 594,1292 666,1251 815,1287 874,1249 1114,1256 1199,1301 1362,1256 1418,1292 2074,1263 2074,1211 2022,1199 1540,1211 1455,1175 1382,1217 1274,1179 379,1193"
+            },
+            "baseline": {
+              "points": "391,1247 475,1244 559,1244 644,1245 728,1247 813,1247 897,1247 982,1247 1066,1247 1151,1247 1235,1250 1319,1248 1404,1248 1488,1249 1573,1250 1657,1250 1742,1250 1826,1250 1911,1247 1995,1250 2080,1250"
+            },
+            "text": "cr\u00e9ate a system that would not poke holes in the skin, because even the",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "386,1204 386,1264 518,1264 518,1204"
+                },
+                "text": "cr\u00e9ate"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "547,1204 547,1264 558,1264 558,1204"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "588,1205 588,1265 719,1265 719,1205"
+                },
+                "text": "system"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "766,1207 766,1267 859,1267 859,1207"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "882,1207 882,1267 1003,1267 1003,1207"
+                },
+                "text": "would"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1038,1207 1038,1267 1106,1267 1106,1207"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1130,1208 1130,1268 1228,1268 1228,1208"
+                },
+                "text": "poke"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1252,1208 1252,1268 1367,1268 1367,1208"
+                },
+                "text": "holes"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1390,1208 1390,1268 1418,1268 1418,1208"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1448,1208 1448,1268 1511,1268 1511,1208"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1540,1210 1540,1270 1655,1270 1655,1210"
+                },
+                "text": "skin,"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1668,1210 1668,1270 1840,1270 1840,1210"
+                },
+                "text": "because"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1869,1207 1869,1267 1961,1267 1961,1207"
+                },
+                "text": "even"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1996,1210 1996,1270 2053,1270 2053,1210"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "373,1353 1005,1391 1095,1355 1283,1403 1378,1355 1762,1405 2177,1362 2162,1294 1936,1312 1873,1272 544,1312 373,1276"
+            },
+            "baseline": {
+              "points": "385,1346 474,1346 564,1346 654,1346 744,1346 834,1349 924,1349 1013,1349 1103,1352 1193,1352 1283,1349 1373,1349 1463,1349 1553,1349 1642,1349 1732,1349 1822,1352 1912,1349 2002,1352 2092,1352 2182,1352"
+            },
+            "text": "smallest hole would allow enough ion leakage to lower the skin resistance to",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "382,1306 382,1366 573,1366 573,1306"
+                },
+                "text": "smallest"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "599,1306 599,1366 681,1366 681,1306"
+                },
+                "text": "hole"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "707,1306 707,1366 835,1366 835,1306"
+                },
+                "text": "would"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "868,1309 868,1369 963,1369 963,1309"
+                },
+                "text": "allow"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1009,1311 1009,1371 1161,1371 1161,1311"
+                },
+                "text": "enough"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1187,1311 1187,1371 1244,1371 1244,1311"
+                },
+                "text": "ion"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1278,1309 1278,1369 1443,1369 1443,1309"
+                },
+                "text": "leakage"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1469,1309 1469,1369 1501,1369 1501,1309"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1533,1309 1533,1369 1654,1369 1654,1309"
+                },
+                "text": "lower"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1680,1309 1680,1369 1738,1369 1738,1309"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1770,1311 1770,1371 1853,1371 1853,1311"
+                },
+                "text": "skin"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1885,1311 1885,1371 2102,1371 2102,1311"
+                },
+                "text": "resistance"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "2128,1312 2128,1372 2159,1372 2159,1312"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "375,1457 590,1495 693,1455 813,1495 971,1461 1229,1498 1412,1459 1525,1502 1741,1452 2069,1491 2069,1403 1999,1378 1911,1416 1669,1382 1082,1409 967,1367 818,1414 763,1371 712,1407 375,1400"
+            },
+            "baseline": {
+              "points": "388,1447 472,1447 556,1447 640,1447 725,1447 809,1447 893,1447 978,1450 1062,1450 1146,1450 1231,1450 1315,1450 1399,1450 1483,1450 1568,1450 1652,1450 1736,1450 1821,1450 1905,1450 1989,1448 2074,1453"
+            },
+            "text": "nearly zero ohms. Second, it was very important that the charge travel",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "383,1407 383,1467 520,1467 520,1407"
+                },
+                "text": "nearly"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "552,1407 552,1467 639,1467 639,1407"
+                },
+                "text": "zero"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "666,1407 666,1467 803,1467 803,1407"
+                },
+                "text": "ohms."
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "835,1408 835,1468 1010,1468 1010,1408"
+                },
+                "text": "Second,"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1023,1410 1023,1470 1048,1470 1048,1410"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1074,1410 1074,1470 1148,1470 1148,1410"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1180,1410 1180,1470 1268,1470 1268,1410"
+                },
+                "text": "very"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1300,1410 1300,1470 1531,1470 1531,1410"
+                },
+                "text": "important"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1551,1410 1551,1470 1638,1470 1638,1410"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1664,1410 1664,1470 1719,1470 1719,1410"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1751,1410 1751,1470 1889,1470 1889,1410"
+                },
+                "text": "charge"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1921,1408 1921,1468 2058,1468 2058,1408"
+                },
+                "text": "travel"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "373,1559 2168,1590 2168,1491 1999,1470 1909,1511 1498,1518 1202,1477 1114,1513 373,1482"
+            },
+            "baseline": {
+              "points": "385,1549 474,1549 563,1549 653,1549 742,1549 832,1549 921,1549 1010,1549 1100,1549 1189,1549 1279,1549 1368,1549 1457,1549 1547,1549 1636,1552 1726,1549 1815,1552 1904,1552 1994,1549 2083,1549 2173,1549"
+            },
+            "text": "through the skin and not around the skin through sea water. Thus I needed",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "381,1509 381,1569 549,1569 549,1509"
+                },
+                "text": "through"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "580,1509 580,1569 640,1569 640,1509"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "665,1509 665,1569 749,1569 749,1509"
+                },
+                "text": "skin"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "786,1509 786,1569 852,1569 852,1509"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "889,1509 889,1569 954,1569 954,1509"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "973,1509 973,1569 1124,1569 1124,1509"
+                },
+                "text": "around"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1161,1509 1161,1569 1220,1569 1220,1509"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1245,1509 1245,1569 1329,1569 1329,1509"
+                },
+                "text": "skin"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1360,1509 1360,1569 1529,1569 1529,1509"
+                },
+                "text": "through"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1560,1510 1560,1570 1626,1570 1626,1510"
+                },
+                "text": "sea"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1657,1509 1657,1569 1801,1569 1801,1509"
+                },
+                "text": "water."
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1832,1512 1832,1572 1934,1572 1934,1512"
+                },
+                "text": "Thus"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1965,1509 1965,1569 1976,1569 1976,1509"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "1995,1509 1995,1569 2152,1569 2152,1509"
+                },
+                "text": "needed"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "370,1687 1055,1651 1330,1710 1455,1658 1559,1712 1735,1660 1902,1705 2182,1685 2182,1597 2015,1620 1879,1559 1723,1613 1398,1572 1145,1615 370,1592"
+            },
+            "baseline": {
+              "points": "382,1647 472,1647 562,1647 652,1650 743,1650 833,1650 923,1650 1014,1650 1104,1650 1194,1650 1285,1650 1375,1650 1465,1650 1555,1650 1646,1650 1736,1650 1826,1650 1917,1651 2007,1650 2097,1650 2188,1650"
+            },
+            "text": "a way block the path of current around the section of tissue being measured",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "378,1607 378,1667 390,1667 390,1607"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "421,1607 421,1667 501,1667 501,1607"
+                },
+                "text": "way"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "532,1607 532,1667 643,1667 643,1607"
+                },
+                "text": "block"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "675,1610 675,1670 736,1670 736,1610"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "762,1610 762,1670 853,1670 853,1610"
+                },
+                "text": "path"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "885,1610 885,1670 927,1670 927,1610"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "947,1610 947,1670 1113,1670 1113,1610"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1139,1610 1139,1670 1287,1670 1287,1610"
+                },
+                "text": "around"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1319,1610 1319,1670 1380,1670 1380,1610"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1411,1610 1411,1670 1559,1670 1559,1610"
+                },
+                "text": "section"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1591,1610 1591,1670 1627,1670 1627,1610"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1647,1610 1647,1670 1769,1670 1769,1610"
+                },
+                "text": "tissue"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1801,1610 1801,1670 1918,1670 1918,1610"
+                },
+                "text": "being"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "1944,1610 1944,1670 2159,1670 2159,1610"
+                },
+                "text": "measured"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "375,1793 660,1753 883,1789 953,1755 1023,1789 1276,1753 1443,1791 1649,1751 2180,1775 2180,1681 2137,1676 1879,1714 375,1683"
+            },
+            "baseline": {
+              "points": "388,1743 477,1746 567,1746 657,1746 746,1746 836,1746 926,1746 1015,1749 1105,1746 1195,1749 1285,1749 1374,1749 1464,1749 1554,1749 1643,1749 1733,1749 1823,1749 1912,1749 2002,1749 2092,1749 2182,1761"
+            },
+            "text": "Third, resistance depends not only upon the properties of the material being",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "379,1705 379,1765 519,1765 519,1705"
+                },
+                "text": "Third,"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "527,1706 527,1766 752,1766 752,1706"
+                },
+                "text": "resistance"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "781,1706 781,1766 964,1766 964,1706"
+                },
+                "text": "depends"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "994,1708 994,1768 1064,1768 1064,1708"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "1086,1706 1086,1766 1170,1766 1170,1706"
+                },
+                "text": "only"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1199,1709 1199,1769 1304,1769 1304,1709"
+                },
+                "text": "upon"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1333,1709 1333,1769 1396,1769 1396,1709"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1425,1709 1425,1769 1658,1769 1658,1709"
+                },
+                "text": "properties"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1687,1709 1687,1769 1722,1769 1722,1709"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1744,1709 1744,1769 1806,1769 1806,1709"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1835,1709 1835,1769 2032,1769 2032,1709"
+                },
+                "text": "material"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "2047,1710 2047,1770 2159,1770 2159,1710"
+                },
+                "text": "being"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "370,1845 680,1852 793,1900 1023,1852 1418,1900 1617,1852 1753,1893 1816,1857 2175,1879 2175,1805 1961,1764 1848,1814 1624,1775 1016,1807 944,1764 754,1812 370,1791"
+            },
+            "baseline": {
+              "points": "382,1844 471,1847 561,1847 651,1847 741,1847 831,1847 921,1847 1010,1847 1100,1847 1190,1850 1280,1847 1370,1847 1460,1847 1550,1850 1639,1847 1729,1847 1819,1850 1909,1847 1999,1847 2089,1847 2179,1847"
+            },
+            "text": "measured (resistivity), but also upon the cross sectional area in contact with",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "371,1807 371,1867 586,1867 586,1807"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "621,1807 621,1867 912,1867 912,1807"
+                },
+                "text": "(resistivity),"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "925,1807 925,1867 994,1867 994,1807"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "1018,1807 1018,1867 1093,1867 1093,1807"
+                },
+                "text": "also"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1123,1809 1123,1869 1227,1869 1227,1809"
+                },
+                "text": "upon"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1257,1807 1257,1867 1320,1867 1320,1807"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1350,1807 1350,1867 1455,1867 1455,1807"
+                },
+                "text": "cross"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1485,1808 1485,1868 1688,1868 1688,1808"
+                },
+                "text": "sectional"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1706,1807 1706,1867 1792,1867 1792,1807"
+                },
+                "text": "area"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1823,1809 1823,1869 1851,1869 1851,1809"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1881,1807 1881,1867 2043,1867 2043,1807"
+                },
+                "text": "contact"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "2067,1807 2067,1867 2154,1867 2154,1807"
+                },
+                "text": "with"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "379,1997 583,1952 741,2001 922,1954 2173,1961 2173,1902 1972,1909 1902,1870 1656,1909 1491,1879 1430,1915 1378,1875 1186,1913 899,1866 777,1913 379,1877"
+            },
+            "baseline": {
+              "points": "391,1946 480,1946 569,1949 659,1949 748,1949 838,1949 927,1949 1016,1952 1106,1949 1195,1952 1285,1949 1374,1952 1463,1949 1553,1949 1642,1949 1732,1949 1821,1949 1910,1952 2000,1952 2089,1949 2179,1949"
+            },
+            "text": "the current source, and the distance through the material that current has te",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "387,1906 387,1966 446,1966 446,1906"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "477,1908 477,1968 645,1968 645,1908"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "664,1909 664,1969 826,1969 826,1909"
+                },
+                "text": "source,"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "839,1909 839,1969 910,1969 910,1909"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "941,1910 941,1970 1001,1970 1001,1910"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1031,1909 1031,1969 1211,1969 1211,1909"
+                },
+                "text": "distance"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1242,1910 1242,1970 1410,1970 1410,1910"
+                },
+                "text": "through"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1441,1909 1441,1969 1501,1969 1501,1909"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1532,1909 1532,1969 1724,1969 1724,1909"
+                },
+                "text": "material"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1743,1909 1743,1969 1832,1969 1832,1909"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1851,1912 1851,1972 2019,1972 2019,1912"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "2044,1909 2044,1969 2109,1969 2109,1909"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "2134,1909 2134,1969 2164,1969 2164,1909"
+                },
+                "text": "te"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "373,2053 395,2049 411,2058 434,2051 459,2062 465,2053 483,2051 508,2064 551,2067 551,1990 529,1981 517,1983 497,2006 479,2008 465,1999 459,2006 445,2008 438,2001 431,2008 420,1997 373,1997"
+            },
+            "baseline": {
+              "points": "385,2044 413,2046 441,2047 470,2047 498,2047 526,2048 555,2050"
+            },
+            "text": "travel.",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "382,2007 382,2067 546,2067 546,2007"
+                },
+                "text": "travel."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "641,2266 791,2268 874,2317 1080,2256 1358,2317 1927,2304 1927,2189 1762,2171 1694,2200 1599,2157 1489,2211 1105,2175 933,2216 641,2180"
+            },
+            "baseline": {
+              "points": "653,2250 716,2249 780,2247 844,2247 908,2247 972,2247 1036,2250 1100,2250 1164,2251 1228,2253 1292,2250 1355,2250 1419,2250 1483,2250 1547,2250 1611,2249 1675,2249 1739,2250 1803,2250 1867,2247 1931,2250"
+            },
+            "text": "resistance - resistivity \u00bb (length/ cross sectional area)",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "650,2207 650,2267 872,2267 872,2207"
+                },
+                "text": "resistance"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "906,2207 906,2267 918,2267 918,2207"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "945,2210 945,2270 1167,2270 1167,2210"
+                },
+                "text": "resistivity"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "1201,2212 1201,2272 1220,2272 1220,2212"
+                },
+                "text": "\u00bb"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1247,2210 1247,2270 1423,2270 1423,2210"
+                },
+                "text": "(length/"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1450,2210 1450,2270 1561,2270 1561,2210"
+                },
+                "text": "cross"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1582,2209 1582,2269 1784,2269 1784,2209"
+                },
+                "text": "sectional"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1805,2207 1805,2267 1922,2267 1922,2207"
+                },
+                "text": "area)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "373,2482 935,2446 1053,2491 1127,2451 1256,2491 1583,2464 1653,2507 1737,2455 2177,2471 2177,2363 2107,2403 1904,2372 1678,2410 1382,2356 1278,2397 1005,2367 937,2412 705,2412 477,2342 373,2397"
+            },
+            "baseline": {
+              "points": "385,2444 474,2444 564,2444 654,2444 744,2444 834,2444 924,2447 1013,2447 1103,2447 1193,2450 1283,2450 1373,2450 1463,2447 1553,2447 1642,2450 1732,2447 1822,2448 1912,2450 2002,2452 2092,2450 2182,2444"
+            },
+            "text": "Therefore, I needed to be able to align my electrodes perfectly each time to",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "388,2404 388,2464 631,2464 631,2404"
+                },
+                "text": "Therefore,"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "657,2404 657,2464 675,2464 675,2404"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "695,2404 695,2464 850,2464 850,2404"
+                },
+                "text": "needed"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "883,2406 883,2466 913,2466 913,2406"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "945,2407 945,2467 982,2467 982,2407"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1014,2407 1014,2467 1095,2467 1095,2407"
+                },
+                "text": "able"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1127,2408 1127,2468 1157,2468 1157,2408"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1190,2410 1190,2470 1283,2470 1283,2410"
+                },
+                "text": "align"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1315,2410 1315,2470 1370,2470 1370,2410"
+                },
+                "text": "my"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1403,2407 1403,2467 1634,2467 1634,2407"
+                },
+                "text": "electrodes"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1659,2407 1659,2467 1853,2467 1853,2407"
+                },
+                "text": "perfectly"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1885,2410 1885,2470 1972,2470 1972,2410"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "2004,2410 2004,2470 2097,2470 2097,2410"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_19_w14",
+                "coords": {
+                  "points": "2123,2406 2123,2466 2160,2466 2160,2406"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "375,2573 951,2557 1028,2607 1089,2564 1251,2589 1373,2550 1502,2591 2137,2564 2116,2478 1317,2509 1129,2451 998,2507 375,2489"
+            },
+            "baseline": {
+              "points": "388,2540 475,2546 563,2546 651,2546 739,2546 826,2546 914,2546 1002,2546 1090,2546 1177,2546 1265,2546 1353,2547 1441,2546 1528,2546 1616,2546 1704,2546 1792,2546 1879,2547 1967,2547 2055,2548 2143,2552"
+            },
+            "text": "keep the cross sectional area constant and I needed to stretch the tissue to",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "384,2503 384,2563 485,2563 485,2503"
+                },
+                "text": "keep"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "518,2506 518,2566 581,2566 581,2506"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "607,2506 607,2566 715,2566 715,2506"
+                },
+                "text": "cross"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "741,2506 741,2566 938,2566 938,2506"
+                },
+                "text": "sectional"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "958,2506 958,2566 1047,2566 1047,2506"
+                },
+                "text": "area"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1073,2506 1073,2566 1264,2566 1264,2506"
+                },
+                "text": "constant"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1284,2506 1284,2566 1354,2566 1354,2506"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1386,2506 1386,2566 1405,2566 1405,2506"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1425,2506 1425,2566 1577,2566 1577,2506"
+                },
+                "text": "needed"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1610,2506 1610,2566 1641,2566 1641,2506"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1667,2506 1667,2566 1813,2566 1813,2506"
+                },
+                "text": "stretch"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1846,2506 1846,2566 1909,2566 1909,2506"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1935,2507 1935,2567 2056,2567 2056,2507"
+                },
+                "text": "tissue"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "2088,2510 2088,2570 2119,2570 2119,2510"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "373,2654 529,2701 614,2650 931,2697 987,2663 1156,2726 1276,2652 1398,2652 1486,2713 1714,2654 2042,2713 2182,2690 2180,2557 1994,2611 1931,2568 1843,2607 1755,2573 1685,2620 1461,2568 1272,2609 1086,2568 1028,2607 867,2570 477,2611 373,2573"
+            },
+            "baseline": {
+              "points": "385,2641 475,2644 565,2644 655,2644 745,2644 835,2644 925,2647 1015,2644 1105,2647 1195,2647 1285,2647 1375,2647 1465,2647 1555,2647 1645,2647 1735,2647 1825,2647 1915,2647 2005,2647 2095,2649 2185,2650"
+            },
+            "text": "the same thickness for every measurement to keep the distance through the",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "382,2601 382,2661 440,2661 440,2601"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "467,2604 467,2664 578,2664 578,2604"
+                },
+                "text": "same"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "605,2604 605,2664 814,2664 814,2604"
+                },
+                "text": "thickness"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "841,2605 841,2665 899,2665 899,2605"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "926,2605 926,2665 1043,2665 1043,2605"
+                },
+                "text": "every"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1077,2607 1077,2667 1391,2667 1391,2607"
+                },
+                "text": "measurement"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1411,2607 1411,2667 1443,2667 1443,2607"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1477,2607 1477,2667 1574,2667 1574,2607"
+                },
+                "text": "keep"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1602,2607 1602,2667 1666,2667 1666,2607"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1693,2607 1693,2667 1876,2667 1876,2607"
+                },
+                "text": "distance"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1903,2607 1903,2667 2073,2667 2073,2607"
+                },
+                "text": "through"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "2106,2609 2106,2669 2164,2669 2164,2609"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "364,2771 411,2781 449,2753 531,2781 594,2758 664,2812 759,2796 818,2808 818,2708 770,2681 698,2699 614,2650 529,2701 463,2690 443,2710 416,2692 364,2720"
+            },
+            "baseline": {
+              "points": "376,2749 402,2747 428,2746 454,2746 481,2746 507,2746 533,2746 560,2746 586,2746 612,2746 638,2746 665,2746 691,2746 717,2746 744,2747 770,2748 796,2749 823,2749"
+            },
+            "text": "material constant.",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "384,2706 384,2766 583,2766 583,2706"
+                },
+                "text": "material"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "603,2706 603,2766 814,2766 814,2706"
+                },
+                "text": "constant."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "513,2882 2189,2871 2168,2783 1839,2735 1446,2776 1385,2819 1263,2769 1023,2808 513,2785"
+            },
+            "baseline": {
+              "points": "525,2844 608,2844 691,2844 775,2847 858,2847 942,2847 1025,2847 1109,2847 1192,2847 1276,2847 1359,2847 1442,2847 1526,2847 1609,2850 1693,2850 1776,2850 1860,2850 1943,2850 2027,2850 2110,2850 2194,2853"
+            },
+            "text": "To remedy these problems I used a chamber (figure 3) made from one",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "536,2804 536,2864 583,2864 583,2804"
+                },
+                "text": "To"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "611,2804 611,2864 779,2864 779,2804"
+                },
+                "text": "remedy"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "806,2807 806,2867 914,2867 914,2807"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "948,2807 948,2867 1157,2867 1157,2807"
+                },
+                "text": "problems"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "1178,2807 1178,2867 1197,2867 1197,2807"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1218,2807 1218,2867 1305,2867 1305,2807"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1340,2807 1340,2867 1353,2867 1353,2807"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1380,2807 1380,2867 1575,2867 1575,2807"
+                },
+                "text": "chamber"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1603,2810 1603,2870 1744,2870 1744,2810"
+                },
+                "text": "(figure"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1779,2810 1779,2870 1819,2870 1819,2810"
+                },
+                "text": "3)"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1840,2810 1840,2870 1954,2870 1954,2810"
+                },
+                "text": "made"
+              },
+              {
+                "id": "tr_1_tl_23_w12",
+                "coords": {
+                  "points": "1982,2810 1982,2870 2062,2870 2062,2810"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_23_w13",
+                "coords": {
+                  "points": "2103,2811 2103,2871 2177,2871 2177,2811"
+                },
+                "text": "one"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "379,2975 958,2950 1114,2993 1301,2952 1703,2995 1809,2957 1976,3006 2128,2957 2128,2900 2040,2869 1667,2909 1125,2860 1014,2909 876,2878 569,2909 379,2862"
+            },
+            "baseline": {
+              "points": "391,2952 478,2946 565,2946 652,2946 739,2946 826,2948 913,2949 1001,2949 1088,2949 1175,2949 1262,2949 1349,2949 1436,2949 1523,2949 1611,2949 1698,2950 1785,2949 1872,2949 1959,2949 2046,2949 2134,2952"
+            },
+            "text": "petri dish and two petri dish lids with 6.0 mm holes drilled through them.",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "388,2908 388,2968 495,2968 495,2908"
+                },
+                "text": "petri"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "515,2906 515,2966 598,2966 598,2906"
+                },
+                "text": "dish"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "631,2906 631,2966 701,2966 701,2906"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "733,2906 733,2966 803,2966 803,2906"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "829,2908 829,2968 944,2968 944,2908"
+                },
+                "text": "petri"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "964,2909 964,2969 1040,2969 1040,2909"
+                },
+                "text": "dish"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1073,2909 1073,2969 1150,2969 1150,2909"
+                },
+                "text": "lids"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1176,2909 1176,2969 1258,2969 1258,2909"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1297,2909 1297,2969 1354,2969 1354,2909"
+                },
+                "text": "6.0"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1381,2909 1381,2969 1438,2969 1438,2909"
+                },
+                "text": "mm"
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "1483,2909 1483,2969 1598,2969 1598,2909"
+                },
+                "text": "holes"
+              },
+              {
+                "id": "tr_1_tl_24_w12",
+                "coords": {
+                  "points": "1624,2909 1624,2969 1758,2969 1758,2909"
+                },
+                "text": "drilled"
+              },
+              {
+                "id": "tr_1_tl_24_w13",
+                "coords": {
+                  "points": "1791,2909 1791,2969 1963,2969 1963,2909"
+                },
+                "text": "through"
+              },
+              {
+                "id": "tr_1_tl_24_w14",
+                "coords": {
+                  "points": "1990,2909 1990,2969 2123,2969 2123,2909"
+                },
+                "text": "them."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "382,3090 818,3054 964,3119 1233,3054 1949,3063 1949,2984 651,3013 382,2977"
+            },
+            "baseline": {
+              "points": "394,3044 471,3044 549,3044 627,3044 705,3044 783,3044 861,3045 939,3049 1017,3047 1095,3047 1173,3047 1250,3047 1328,3047 1406,3049 1484,3047 1562,3047 1640,3047 1718,3047 1796,3047 1874,3047 1952,3050"
+            },
+            "text": "The electrodes were Ag/AgCl wires submerged in sea water as the",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "389,3004 389,3064 459,3064 459,3004"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "490,3004 490,3064 720,3064 720,3004"
+                },
+                "text": "electrodes"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "744,3004 744,3064 844,3064 844,3004"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_25_w4",
+                "coords": {
+                  "points": "880,3008 880,3068 1069,3068 1069,3008"
+                },
+                "text": "Ag/AgCl"
+              },
+              {
+                "id": "tr_1_tl_25_w5",
+                "coords": {
+                  "points": "1087,3007 1087,3067 1206,3067 1206,3007"
+                },
+                "text": "wires"
+              },
+              {
+                "id": "tr_1_tl_25_w6",
+                "coords": {
+                  "points": "1230,3007 1230,3067 1478,3067 1478,3007"
+                },
+                "text": "submerged"
+              },
+              {
+                "id": "tr_1_tl_25_w7",
+                "coords": {
+                  "points": "1508,3007 1508,3067 1537,3067 1537,3007"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_25_w8",
+                "coords": {
+                  "points": "1567,3007 1567,3067 1632,3067 1632,3007"
+                },
+                "text": "sea"
+              },
+              {
+                "id": "tr_1_tl_25_w9",
+                "coords": {
+                  "points": "1662,3007 1662,3067 1786,3067 1786,3007"
+                },
+                "text": "water"
+              },
+              {
+                "id": "tr_1_tl_25_w10",
+                "coords": {
+                  "points": "1810,3007 1810,3067 1851,3067 1851,3007"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_25_w11",
+                "coords": {
+                  "points": "1875,3008 1875,3068 1933,3068 1933,3008"
+                },
+                "text": "the"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

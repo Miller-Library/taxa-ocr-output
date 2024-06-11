@@ -1,0 +1,2572 @@
+{
+  "processId": 10341490,
+  "status": "FINISHED",
+  "content": {
+    "text": "accepted that invertebrate photoreceptors depolarize in response to light. Studies have shown that\nthe rhodopsin and GTP-binding protein from the vertebrate and squid systems cross-react (Saibil\nand Michel-Villaz, 1984). However, details of the events between rhodopsin activation of GTP-\nbinding protein and depolarization of the invertebrate photoreceptor cell are not known. Cyclic\nGMP has been implicated as a second messenger in the squid phototransduction cascade by studies\ndemonstrating that exposure to a flash of light increases the cGMP concentrations in squid\nphotoreceptor homogenates (Saibil, 1984) and pieces of squid retina (Johnson et al., 1986). More\nrecently, this effect was called into question when the results could not be reproduced in replicate\nexperiments (Brown et al., 1992) and other research suggested that cGMP levels do not change in\noctopus retinal cells following a flash of light (Seidou et al., 1993).\nThe presence of cGMP-gated ion channels in the squid photoreceptor cell would support\nthe idea that cGMP is a second messenger in this system; by analogy with the vertebrate system,\nsuch a channel might serve as the downstream target responsible for the depolarization in response\nto light. This idea is supported by the discovery of a cGMP-activated channel in the light-sensitive\nlobe of Limulus ventral photoreceptors (Lisman et al., 1992; Bacigalupo et al.. 1992; Johnson and\nBacigalupo, 1992). Until now however, the search for such a channel in squid has been hampered\nby the difficulty of obtaining solitary photoreceptor cells, although one bilayer reconstitution\nexperiment has indicated that squid photoreceptors contain a cGMP-gated channel (Nasi and\nGomez, 1990). A recently developed protocol for dissociation of squid retina was used to obtain\nhealthy solitary photoreceptor cells (Nasi and Gomez, 1992) for patch clamp experiments. This\nreport describes the properties of cGMP-gated channels in inside-out patches.\nMATERIALS AND METHODS\nIsolation of photoreceptors\nPhotoreceptors were isolated according to a procedure adapted from Nasi and Gomez\n(1992). Reagents were obtained from Sigma unless otherwise specified. Squid (Loligo",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "268,269 268,2955 2253,2955 2253,269"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "255,337 329,369 401,334 2232,344 2205,260 2064,287 1968,243 1740,290 1403,252 1195,280 1138,238 1027,277 767,220 478,280 255,262"
+            },
+            "baseline": {
+              "points": "268,319 366,319 464,319 563,319 661,319 760,319 858,319 956,319 1055,317 1153,318 1252,319 1350,319 1448,322 1547,319 1645,322 1744,319 1842,319 1940,322 2039,322 2137,322 2236,322"
+            },
+            "text": "accepted that invertebrate photoreceptors depolarize in response to light. Studies have shown that",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "254,279 254,339 412,339 412,279"
+                },
+                "text": "accepted"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "438,279 438,339 511,339 511,279"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "527,279 527,339 754,339 754,279"
+                },
+                "text": "invertebrate"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "779,279 779,339 1066,339 1066,279"
+                },
+                "text": "photoreceptors"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "1087,278 1087,338 1284,338 1284,278"
+                },
+                "text": "depolarize"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "1310,279 1310,339 1334,339 1334,279"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1359,281 1359,341 1522,341 1522,281"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1547,279 1547,339 1571,339 1571,279"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1597,281 1597,341 1711,341 1711,281"
+                },
+                "text": "light."
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1736,279 1736,339 1879,339 1879,279"
+                },
+                "text": "Studies"
+              },
+              {
+                "id": "tr_1_tl_1_w11",
+                "coords": {
+                  "points": "1899,282 1899,342 1983,342 1983,282"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_1_w12",
+                "coords": {
+                  "points": "2008,282 2008,342 2126,342 2126,282"
+                },
+                "text": "shown"
+              },
+              {
+                "id": "tr_1_tl_1_w13",
+                "coords": {
+                  "points": "2152,282 2152,342 2225,342 2225,282"
+                },
+                "text": "that"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "267,463 1010,428 2203,455 2185,351 1834,398 735,354 267,379"
+            },
+            "baseline": {
+              "points": "280,417 376,417 472,419 569,420 665,418 762,417 858,417 955,417 1051,417 1148,420 1244,419 1340,420 1437,420 1533,420 1630,420 1726,418 1823,420 1919,418 2016,420 2112,420 2209,420"
+            },
+            "text": "the rhodopsin and GTP-binding protein from the vertebrate and squid systems cross-react (Saibil",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "272,377 272,437 318,437 318,377"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "344,378 344,438 534,438 534,378"
+                },
+                "text": "rhodopsin"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "561,379 561,439 617,439 617,379"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "643,377 643,437 896,437 896,377"
+                },
+                "text": "GTP-binding"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "922,377 922,437 1045,437 1045,377"
+                },
+                "text": "protein"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1071,378 1071,438 1143,438 1143,378"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1180,379 1180,439 1231,439 1231,379"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1257,380 1257,440 1443,440 1443,380"
+                },
+                "text": "vertebrate"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1469,380 1469,440 1525,440 1525,380"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1551,380 1551,440 1644,440 1644,380"
+                },
+                "text": "squid"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1671,378 1671,438 1819,438 1819,378"
+                },
+                "text": "systems"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1840,378 1840,438 2057,438 2057,378"
+                },
+                "text": "cross-react"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "2073,380 2073,440 2201,440 2201,380"
+                },
+                "text": "(Saibil"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "255,530 760,569 1388,562 1428,527 1886,579 2002,535 2195,549 2163,450 2037,493 1611,455 1168,493 1101,460 889,490 740,453 636,493 255,465"
+            },
+            "baseline": {
+              "points": "268,519 364,522 461,519 557,519 654,521 751,519 847,519 944,519 1040,519 1137,522 1234,522 1330,520 1427,522 1523,519 1620,522 1717,522 1813,522 1910,522 2006,522 2103,522 2200,516"
+            },
+            "text": "and Michel-Villaz, 1984). However, details of the events between rhodopsin activation of GTP-",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "260,479 260,539 318,539 318,479"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "345,479 345,539 637,539 637,479"
+                },
+                "text": "Michel-Villaz,"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "658,479 658,539 780,539 780,479"
+                },
+                "text": "1984)."
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "807,479 807,539 1003,539 1003,479"
+                },
+                "text": "However,"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "1020,480 1020,540 1136,540 1136,480"
+                },
+                "text": "details"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1163,482 1163,542 1194,542 1194,482"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1216,481 1216,541 1263,541 1263,481"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1285,480 1285,540 1407,540 1407,480"
+                },
+                "text": "events"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1428,479 1428,539 1577,539 1577,479"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1604,482 1604,542 1795,542 1795,482"
+                },
+                "text": "rhodopsin"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1822,482 1822,542 2002,542 2002,482"
+                },
+                "text": "activation"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "2029,482 2029,542 2065,542 2065,482"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "2087,479 2087,539 2193,539 2193,479"
+                },
+                "text": "GTP-"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "257,646 889,668 1027,634 1468,676 1619,626 1812,676 2166,636 2166,572 2064,564 2000,604 1851,562 257,572"
+            },
+            "baseline": {
+              "points": "271,620 366,620 461,620 556,623 651,623 746,623 841,623 936,623 1031,623 1126,623 1222,623 1317,623 1412,623 1507,623 1602,623 1697,623 1792,623 1887,623 1982,620 2077,622 2173,623"
+            },
+            "text": "binding protein and depolarization of the invertebrate photoreceptor cell are not known. Cyclic",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "262,580 262,640 403,640 403,580"
+                },
+                "text": "binding"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "429,580 429,640 555,640 555,580"
+                },
+                "text": "protein"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "581,583 581,643 641,643 641,583"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "667,583 667,643 936,643 936,583"
+                },
+                "text": "depolarization"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "967,583 967,643 1002,643 1002,583"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1018,583 1018,643 1068,643 1068,583"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1089,583 1089,643 1317,643 1317,583"
+                },
+                "text": "invertebrate"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1343,583 1343,643 1611,643 1611,583"
+                },
+                "text": "photoreceptor"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1627,583 1627,643 1698,643 1698,583"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1714,583 1714,643 1759,643 1759,583"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1785,583 1785,643 1845,643 1845,583"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1861,581 1861,641 2007,641 2007,581"
+                },
+                "text": "known."
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "2033,582 2033,642 2154,642 2154,582"
+                },
+                "text": "Cyclic"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "260,757 2240,755 2240,681 1886,691 1834,658 1708,691 260,683"
+            },
+            "baseline": {
+              "points": "274,719 372,722 471,722 569,722 668,722 766,722 865,722 963,722 1062,722 1160,722 1259,722 1358,724 1456,723 1555,724 1653,723 1752,722 1850,723 1949,725 2047,722 2146,724 2245,722"
+            },
+            "text": "GMP has been implicated as a second messenger in the squid phototransduction cascade by studies",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "265,680 265,740 360,740 360,680"
+                },
+                "text": "GMP"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "385,682 385,742 445,742 445,682"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "466,682 466,742 546,742 546,682"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "572,682 572,742 773,742 773,682"
+                },
+                "text": "implicated"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "798,682 798,742 833,742 833,682"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "854,682 854,742 863,742 863,682"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "889,682 889,742 1009,742 1009,682"
+                },
+                "text": "second"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1035,682 1035,742 1241,742 1241,682"
+                },
+                "text": "messenger"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1257,682 1257,742 1281,742 1281,682"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1307,683 1307,743 1357,743 1357,683"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1383,683 1383,743 1473,743 1473,683"
+                },
+                "text": "squid"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1504,682 1504,742 1845,742 1845,682"
+                },
+                "text": "phototransduction"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1871,684 1871,744 2017,744 2017,684"
+                },
+                "text": "cascade"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "2042,682 2042,742 2077,742 2077,682"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_5_w15",
+                "coords": {
+                  "points": "2103,683 2103,743 2233,743 2233,683"
+                },
+                "text": "studies"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "257,834 817,839 884,876 1052,834 1443,881 1564,837 1713,879 1775,842 2067,851 2067,777 1893,752 1797,792 1490,752 1339,794 1141,757 257,799"
+            },
+            "baseline": {
+              "points": "271,820 361,823 451,823 541,820 631,823 721,823 811,823 902,823 992,823 1082,823 1172,823 1262,823 1352,823 1442,823 1533,823 1623,823 1713,823 1803,823 1893,823 1983,823 2074,820"
+            },
+            "text": "demonstrating that exposure to a flash of light increases the cGMP concentrations in squid",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "257,783 257,843 530,843 530,783"
+                },
+                "text": "demonstrating"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "556,781 556,841 627,841 627,781"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "642,783 642,843 810,843 810,783"
+                },
+                "text": "exposure"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "836,783 836,843 861,843 861,783"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "887,783 887,843 901,843 901,783"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "922,783 922,843 1003,843 1003,783"
+                },
+                "text": "flash"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1034,783 1034,843 1069,843 1069,783"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1085,783 1085,843 1176,843 1176,783"
+                },
+                "text": "light"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1187,783 1187,843 1364,843 1364,783"
+                },
+                "text": "increases"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1385,783 1385,843 1430,843 1430,783"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1456,783 1456,843 1572,843 1572,783"
+                },
+                "text": "cGMP"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1598,783 1598,843 1887,843 1887,783"
+                },
+                "text": "concentrations"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1908,783 1908,843 1933,843 1933,783"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1959,782 1959,842 2055,842 2055,782"
+                },
+                "text": "squid"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "260,953 2237,953 2237,891 2114,866 260,884"
+            },
+            "baseline": {
+              "points": "274,925 372,925 470,924 569,922 667,925 766,925 864,924 962,922 1061,922 1159,922 1258,925 1356,923 1454,925 1553,923 1651,924 1750,925 1848,925 1946,925 2045,923 2143,923 2242,922"
+            },
+            "text": "photoreceptor homogenates (Saibil, 1984) and pieces of squid retina (Johnson et al., 1986). More",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "260,884 260,944 540,944 540,884"
+                },
+                "text": "photoreceptor"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "557,885 557,945 816,945 816,885"
+                },
+                "text": "homogenates"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "837,883 837,943 980,943 980,883"
+                },
+                "text": "(Saibil,"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "1002,882 1002,942 1112,942 1112,882"
+                },
+                "text": "1984)"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1129,882 1129,942 1186,942 1186,882"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1208,884 1208,944 1329,944 1329,884"
+                },
+                "text": "pieces"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1346,883 1346,943 1382,943 1382,883"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1404,884 1404,944 1499,944 1499,884"
+                },
+                "text": "squid"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1526,883 1526,943 1626,943 1626,883"
+                },
+                "text": "retina"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1653,884 1653,944 1817,944 1817,884"
+                },
+                "text": "(Johnson"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1844,885 1844,945 1880,945 1880,885"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1897,885 1897,945 1954,945 1954,885"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1971,883 1971,943 2098,943 2098,883"
+                },
+                "text": "1986)."
+              },
+              {
+                "id": "tr_1_tl_7_w14",
+                "coords": {
+                  "points": "2125,882 2125,942 2225,942 2225,882"
+                },
+                "text": "More"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "255,1030 361,1072 1151,1032 1235,1069 1510,1035 1891,1084 2203,1042 2166,973 1740,997 1604,953 1349,992 1062,950 973,997 673,948 255,1002"
+            },
+            "baseline": {
+              "points": "268,1020 365,1023 462,1023 559,1022 656,1023 753,1023 850,1023 947,1023 1044,1023 1141,1023 1238,1023 1335,1023 1432,1023 1529,1023 1626,1023 1723,1023 1820,1023 1917,1023 2014,1023 2111,1023 2209,1023"
+            },
+            "text": "recently, this effect was called into question when the results could not be reproduced in replicate",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "249,982 249,1042 422,1042 422,982"
+                },
+                "text": "recently,"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "438,982 438,1042 501,1042 501,982"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "522,982 522,1042 635,1042 635,982"
+                },
+                "text": "effect"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "651,983 651,1043 720,1043 720,983"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "740,983 740,1043 843,1043 843,983"
+                },
+                "text": "called"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "874,983 874,1043 937,1043 937,983"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "963,983 963,1043 1116,1043 1116,983"
+                },
+                "text": "question"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1147,983 1147,1043 1240,1043 1240,983"
+                },
+                "text": "when"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1265,983 1265,1043 1314,1043 1314,983"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1335,983 1335,1043 1458,1043 1458,983"
+                },
+                "text": "results"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1479,983 1479,1043 1577,1043 1577,983"
+                },
+                "text": "could"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1602,983 1602,1043 1666,1043 1666,983"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1682,983 1682,1043 1716,1043 1716,983"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1736,983 1736,1043 1954,1043 1954,983"
+                },
+                "text": "reproduced"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "1979,983 1979,1043 2003,1043 2003,983"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_8_w16",
+                "coords": {
+                  "points": "2029,983 2029,1043 2191,1043 2191,983"
+                },
+                "text": "replicate"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "262,1161 2230,1151 2215,1057 2022,1091 1797,1059 1334,1096 1190,1052 1124,1094 1020,1047 968,1094 262,1074"
+            },
+            "baseline": {
+              "points": "277,1122 380,1125 483,1123 586,1125 689,1125 792,1125 895,1125 998,1125 1101,1125 1204,1124 1308,1125 1411,1124 1514,1125 1617,1125 1720,1125 1823,1125 1926,1125 2029,1125 2132,1125 2236,1125"
+            },
+            "text": "experiments (Brown et al., 1992) and other research suggested that cGMP levels do not change in",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "257,1084 257,1144 495,1144 495,1084"
+                },
+                "text": "experiments"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "521,1085 521,1145 657,1145 657,1085"
+                },
+                "text": "(Brown"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "683,1085 683,1145 718,1145 718,1085"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "734,1085 734,1145 795,1145 795,1085"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "811,1085 811,1145 922,1145 922,1085"
+                },
+                "text": "1992)"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "943,1085 943,1145 998,1145 998,1085"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1024,1085 1024,1145 1120,1145 1120,1085"
+                },
+                "text": "other"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1141,1084 1141,1144 1293,1144 1293,1084"
+                },
+                "text": "research"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1319,1084 1319,1144 1501,1144 1501,1084"
+                },
+                "text": "suggested"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1532,1085 1532,1145 1603,1145 1603,1085"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1619,1085 1619,1145 1735,1145 1735,1085"
+                },
+                "text": "cGMP"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1762,1085 1762,1145 1873,1145 1873,1085"
+                },
+                "text": "levels"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1894,1085 1894,1145 1928,1145 1928,1085"
+                },
+                "text": "do"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1960,1085 1960,1145 2020,1145 2020,1085"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "2031,1085 2031,1145 2167,1145 2167,1085"
+                },
+                "text": "change"
+              },
+              {
+                "id": "tr_1_tl_9_w16",
+                "coords": {
+                  "points": "2193,1085 2193,1145 2218,1145 2218,1085"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "260,1235 735,1235 824,1280 893,1240 1364,1235 1440,1270 1611,1250 1614,1176 262,1163"
+            },
+            "baseline": {
+              "points": "277,1224 344,1226 411,1226 478,1226 545,1226 612,1226 679,1226 746,1225 813,1224 880,1226 947,1226 1014,1225 1081,1226 1148,1226 1215,1226 1282,1225 1349,1226 1416,1225 1483,1226 1550,1222 1618,1226"
+            },
+            "text": "octopus retinal cells following a flash of light (Seidou et al., 1993).",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "266,1185 266,1245 412,1245 412,1185"
+                },
+                "text": "octopus"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "435,1186 435,1246 564,1246 564,1186"
+                },
+                "text": "retinal"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "576,1186 576,1246 663,1246 663,1186"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "686,1184 686,1244 870,1244 870,1184"
+                },
+                "text": "following"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "898,1186 898,1246 902,1246 902,1186"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "930,1185 930,1245 1012,1245 1012,1185"
+                },
+                "text": "flash"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1040,1185 1040,1245 1077,1245 1077,1185"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1094,1186 1094,1246 1181,1246 1181,1186"
+                },
+                "text": "light"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1198,1185 1198,1245 1339,1245 1339,1185"
+                },
+                "text": "(Seidou"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1367,1185 1367,1245 1399,1245 1399,1185"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1416,1185 1416,1245 1475,1245 1475,1185"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1492,1182 1492,1242 1617,1242 1617,1182"
+                },
+                "text": "1993)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "408,1386 587,1334 760,1388 1062,1334 1903,1374 2183,1341 2183,1282 1720,1297 1497,1250 408,1272"
+            },
+            "baseline": {
+              "points": "423,1325 511,1325 599,1325 687,1325 776,1325 864,1325 952,1325 1040,1325 1129,1325 1217,1325 1305,1325 1393,1325 1482,1325 1570,1325 1658,1325 1746,1325 1835,1325 1923,1325 2011,1325 2099,1325 2188,1325"
+            },
+            "text": "The presence of cGMP-gated ion channels in the squid photoreceptor cell would support",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "408,1285 408,1345 468,1345 468,1285"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "494,1285 494,1345 661,1345 661,1285"
+                },
+                "text": "presence"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "687,1285 687,1345 722,1345 722,1285"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "738,1285 738,1345 981,1345 981,1285"
+                },
+                "text": "cGMP-gated"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1007,1285 1007,1345 1057,1345 1057,1285"
+                },
+                "text": "ion"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1083,1285 1083,1345 1251,1345 1251,1285"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1271,1285 1271,1345 1297,1345 1297,1285"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1323,1285 1323,1345 1373,1345 1373,1285"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1399,1285 1399,1345 1490,1345 1490,1285"
+                },
+                "text": "squid"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1516,1285 1516,1345 1790,1345 1790,1285"
+                },
+                "text": "photoreceptor"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1811,1285 1811,1345 1876,1345 1876,1285"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1897,1285 1897,1345 2008,1345 2008,1285"
+                },
+                "text": "would"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "2034,1285 2034,1345 2181,1345 2181,1285"
+                },
+                "text": "support"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "255,1463 2185,1445 2185,1376 1804,1356 1349,1391 827,1361 787,1396 329,1356 255,1396"
+            },
+            "baseline": {
+              "points": "268,1424 364,1427 460,1425 556,1427 652,1426 748,1426 844,1427 941,1427 1037,1427 1133,1427 1229,1427 1325,1426 1421,1427 1517,1427 1614,1424 1710,1427 1806,1426 1902,1424 1998,1427 2094,1427 2191,1429"
+            },
+            "text": "the idea that cGMP is a second messenger in this system; by analogy with the vertebrate system,",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "260,1384 260,1444 310,1444 310,1384"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "330,1386 330,1446 406,1446 406,1386"
+                },
+                "text": "idea"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "432,1385 432,1445 502,1445 502,1385"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "517,1386 517,1446 634,1446 634,1386"
+                },
+                "text": "cGMP"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "660,1386 660,1446 684,1446 684,1386"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "710,1386 710,1446 720,1446 720,1386"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "746,1386 746,1446 866,1446 866,1386"
+                },
+                "text": "second"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "892,1387 892,1447 1099,1447 1099,1387"
+                },
+                "text": "messenger"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1120,1387 1120,1447 1140,1447 1140,1387"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1166,1387 1166,1447 1232,1447 1232,1387"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1252,1386 1252,1446 1398,1446 1398,1386"
+                },
+                "text": "system;"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1419,1387 1419,1447 1454,1447 1454,1387"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1480,1385 1480,1445 1626,1445 1626,1385"
+                },
+                "text": "analogy"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "1652,1386 1652,1446 1722,1446 1722,1386"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_12_w15",
+                "coords": {
+                  "points": "1748,1386 1748,1446 1798,1446 1798,1386"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w16",
+                "coords": {
+                  "points": "1824,1384 1824,1444 2011,1444 2011,1384"
+                },
+                "text": "vertebrate"
+              },
+              {
+                "id": "tr_1_tl_12_w17",
+                "coords": {
+                  "points": "2037,1387 2037,1447 2188,1447 2188,1387"
+                },
+                "text": "system,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "257,1542 453,1539 544,1584 730,1534 1188,1544 1257,1584 1366,1542 1629,1584 1891,1534 2235,1554 2235,1460 257,1500"
+            },
+            "baseline": {
+              "points": "271,1522 369,1525 467,1526 566,1525 664,1525 763,1525 861,1525 959,1525 1058,1525 1156,1525 1255,1525 1353,1525 1451,1523 1550,1525 1648,1525 1747,1525 1845,1525 1943,1525 2042,1525 2140,1525 2239,1525"
+            },
+            "text": "such a channel might serve as the downstream target responsible for the depolarization in response",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "256,1482 256,1542 330,1542 330,1482"
+                },
+                "text": "such"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "355,1484 355,1544 370,1544 370,1484"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "390,1485 390,1545 548,1545 548,1485"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "564,1485 564,1545 677,1545 677,1485"
+                },
+                "text": "might"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "692,1485 692,1545 786,1545 786,1485"
+                },
+                "text": "serve"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "811,1485 811,1545 845,1545 845,1485"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "866,1485 866,1545 915,1545 915,1485"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "941,1485 941,1545 1158,1545 1158,1485"
+                },
+                "text": "downstream"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1193,1485 1193,1545 1306,1545 1306,1485"
+                },
+                "text": "target"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1322,1483 1322,1543 1534,1543 1534,1483"
+                },
+                "text": "responsible"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1560,1485 1560,1545 1614,1545 1614,1485"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1635,1485 1635,1545 1679,1545 1679,1485"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1704,1485 1704,1545 1981,1545 1981,1485"
+                },
+                "text": "depolarization"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "2006,1485 2006,1545 2030,1545 2030,1485"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w15",
+                "coords": {
+                  "points": "2056,1485 2056,1545 2223,1545 2223,1485"
+                },
+                "text": "response"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "260,1668 1067,1673 1163,1638 1346,1676 1547,1634 2025,1676 2228,1636 2156,1562 1423,1562 1319,1601 468,1554 260,1589"
+            },
+            "baseline": {
+              "points": "274,1624 377,1627 480,1627 583,1627 686,1627 789,1627 892,1627 995,1627 1098,1627 1201,1627 1305,1627 1408,1626 1511,1627 1614,1627 1717,1627 1820,1627 1923,1626 2026,1627 2129,1627 2233,1624"
+            },
+            "text": "to light. This idea is supported by the discovery of a cGMP-activated channel in the light-sensitive",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "260,1584 260,1644 281,1644 281,1584"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "308,1586 308,1646 408,1646 408,1586"
+                },
+                "text": "light."
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "436,1587 436,1647 515,1647 515,1587"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "537,1587 537,1647 611,1647 611,1587"
+                },
+                "text": "idea"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "633,1587 633,1647 659,1647 659,1587"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "681,1587 681,1647 867,1647 867,1587"
+                },
+                "text": "supported"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "894,1587 894,1647 925,1647 925,1587"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "953,1587 953,1647 1000,1647 1000,1587"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1027,1587 1027,1647 1208,1647 1208,1587"
+                },
+                "text": "discovery"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1235,1587 1235,1647 1266,1647 1266,1587"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1288,1587 1288,1647 1298,1647 1298,1587"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1320,1586 1320,1646 1634,1646 1634,1586"
+                },
+                "text": "cGMP-activated"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1661,1587 1661,1647 1815,1647 1815,1587"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_14_w14",
+                "coords": {
+                  "points": "1832,1586 1832,1646 1853,1646 1853,1586"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_14_w15",
+                "coords": {
+                  "points": "1880,1586 1880,1646 1927,1646 1927,1586"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w16",
+                "coords": {
+                  "points": "1955,1587 1955,1647 2226,1647 2226,1587"
+                },
+                "text": "light-sensitive"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "262,1765 369,1732 884,1782 1418,1735 1478,1772 1745,1732 1933,1775 2007,1737 2240,1752 2215,1661 2101,1695 1903,1656 1732,1698 1443,1663 1250,1698 797,1661 262,1683"
+            },
+            "baseline": {
+              "points": "277,1728 375,1728 474,1728 572,1726 671,1727 769,1728 868,1728 966,1728 1065,1728 1163,1728 1262,1728 1360,1728 1459,1728 1557,1728 1656,1728 1754,1728 1853,1725 1951,1725 2050,1725 2148,1725 2247,1722"
+            },
+            "text": "lobe of Limulus ventral photoreceptors (Lisman et al., 1992; Bacigalupo et al.. 1992; Johnson and",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "267,1688 267,1748 341,1748 341,1688"
+                },
+                "text": "lobe"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "368,1688 368,1748 404,1748 404,1688"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "421,1687 421,1747 573,1747 573,1687"
+                },
+                "text": "Limulus"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "607,1687 607,1747 749,1747 749,1687"
+                },
+                "text": "ventral"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "765,1688 765,1748 1051,1748 1051,1688"
+                },
+                "text": "photoreceptors"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1078,1688 1078,1748 1225,1748 1225,1688"
+                },
+                "text": "(Lisman"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1253,1688 1253,1748 1284,1748 1284,1688"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1301,1688 1301,1748 1358,1748 1358,1688"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1380,1688 1380,1748 1485,1748 1485,1688"
+                },
+                "text": "1992;"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1502,1688 1502,1748 1719,1748 1719,1688"
+                },
+                "text": "Bacigalupo"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1746,1687 1746,1747 1777,1747 1777,1687"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1793,1685 1793,1745 1851,1745 1851,1685"
+                },
+                "text": "al.."
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1867,1685 1867,1745 1978,1745 1978,1685"
+                },
+                "text": "1992;"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "1995,1685 1995,1745 2148,1745 2148,1685"
+                },
+                "text": "Johnson"
+              },
+              {
+                "id": "tr_1_tl_15_w15",
+                "coords": {
+                  "points": "2175,1683 2175,1743 2232,1743 2232,1683"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "260,1861 564,1849 614,1883 671,1834 837,1836 965,1888 1134,1834 1190,1879 1272,1834 1460,1876 2250,1851 2235,1775 260,1765"
+            },
+            "baseline": {
+              "points": "274,1827 378,1830 482,1828 586,1827 690,1828 794,1830 898,1827 1003,1827 1107,1828 1211,1827 1315,1827 1419,1827 1523,1827 1628,1827 1732,1827 1836,1827 1940,1827 2044,1827 2148,1827 2253,1827"
+            },
+            "text": "Bacigalupo, 1992). Until now however, the search for such a channel in squid has been hampered",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "265,1789 265,1849 502,1849 502,1789"
+                },
+                "text": "Bacigalupo,"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "523,1787 523,1847 648,1847 648,1787"
+                },
+                "text": "1992)."
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "674,1788 674,1848 775,1848 775,1788"
+                },
+                "text": "Until"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "791,1789 791,1849 856,1849 856,1789"
+                },
+                "text": "now"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "892,1787 892,1847 1074,1847 1074,1787"
+                },
+                "text": "however,"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1090,1787 1090,1847 1139,1847 1139,1787"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1165,1787 1165,1847 1277,1847 1277,1787"
+                },
+                "text": "search"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1308,1787 1308,1847 1358,1847 1358,1787"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1378,1787 1378,1847 1454,1847 1454,1787"
+                },
+                "text": "such"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1480,1787 1480,1847 1494,1847 1494,1787"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1515,1787 1515,1847 1666,1847 1666,1787"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1687,1787 1687,1847 1711,1847 1711,1787"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1737,1787 1737,1847 1833,1847 1833,1787"
+                },
+                "text": "squid"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "1859,1787 1859,1847 1919,1847 1919,1787"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_16_w15",
+                "coords": {
+                  "points": "1940,1787 1940,1847 2021,1847 2021,1787"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_16_w16",
+                "coords": {
+                  "points": "2046,1787 2046,1847 2233,1847 2233,1787"
+                },
+                "text": "hampered"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "260,1948 495,1938 639,1987 802,1943 881,1995 1166,1943 1398,1980 1683,1930 1893,1982 2114,1938 2114,1881 1963,1866 1411,1898 1354,1859 1238,1893 260,1861"
+            },
+            "baseline": {
+              "points": "274,1925 366,1925 458,1928 550,1928 643,1926 735,1928 827,1927 919,1928 1012,1926 1104,1928 1196,1928 1288,1928 1381,1928 1473,1926 1565,1928 1657,1925 1750,1928 1842,1925 1934,1925 2026,1925 2119,1925"
+            },
+            "text": "by the difficulty of obtaining solitary photoreceptor cells, although one bilayer reconstitution",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "265,1885 265,1945 301,1945 301,1885"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "327,1885 327,1945 373,1945 373,1885"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "400,1888 400,1948 570,1948 570,1888"
+                },
+                "text": "difficulty"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "602,1886 602,1946 632,1946 632,1886"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "654,1887 654,1947 830,1947 830,1887"
+                },
+                "text": "obtaining"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "857,1887 857,1947 991,1947 991,1887"
+                },
+                "text": "solitary"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1017,1888 1017,1948 1287,1948 1287,1888"
+                },
+                "text": "photoreceptor"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1303,1888 1303,1948 1401,1948 1401,1888"
+                },
+                "text": "cells,"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1417,1886 1417,1946 1577,1946 1577,1886"
+                },
+                "text": "although"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1604,1885 1604,1945 1661,1945 1661,1885"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1687,1887 1687,1947 1822,1947 1822,1887"
+                },
+                "text": "bilayer"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1838,1885 1838,1945 2101,1945 2101,1885"
+                },
+                "text": "reconstitution"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "262,2067 611,2037 691,2074 742,2037 903,2077 1158,2034 1492,2081 1616,2042 1676,2086 1777,2039 2116,2047 2116,1978 1926,1970 262,1985"
+            },
+            "baseline": {
+              "points": "277,2027 369,2027 461,2027 553,2027 646,2027 738,2027 830,2027 922,2027 1015,2029 1107,2027 1199,2027 1291,2027 1384,2027 1476,2027 1568,2025 1660,2027 1753,2027 1845,2024 1937,2027 2029,2027 2122,2027"
+            },
+            "text": "experiment has indicated that squid photoreceptors contain a cGMP-gated channel (Nasi and",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "262,1987 262,2047 479,2047 479,1987"
+                },
+                "text": "experiment"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "495,1987 495,2047 556,2047 556,1987"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "577,1987 577,2047 744,2047 744,1987"
+                },
+                "text": "indicated"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "775,1987 775,2047 847,2047 847,1987"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "862,1987 862,2047 953,2047 953,1987"
+                },
+                "text": "squid"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "979,1987 979,2047 1269,2047 1269,1987"
+                },
+                "text": "photoreceptors"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1290,1987 1290,2047 1422,2047 1422,1987"
+                },
+                "text": "contain"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1448,1987 1448,2047 1457,2047 1457,1987"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1483,1985 1483,2045 1722,2045 1722,1985"
+                },
+                "text": "cGMP-gated"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1748,1984 1748,2044 1906,2044 1906,1984"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1922,1987 1922,2047 2028,2047 2028,1987"
+                },
+                "text": "(Nasi"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "2044,1987 2044,2047 2099,2047 2099,1987"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "260,2146 505,2178 644,2138 884,2188 1022,2138 2208,2171 2176,2074 260,2074"
+            },
+            "baseline": {
+              "points": "274,2125 371,2128 468,2128 565,2126 662,2128 759,2128 856,2128 953,2128 1050,2128 1147,2128 1244,2126 1341,2127 1438,2128 1535,2128 1632,2125 1729,2125 1826,2125 1923,2125 2020,2125 2117,2128 2215,2125"
+            },
+            "text": "Gomez, 1990). A recently developed protocol for dissociation of squid retina was used to obtain",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "260,2086 260,2146 411,2146 411,2086"
+                },
+                "text": "Gomez,"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "432,2087 432,2147 558,2147 558,2087"
+                },
+                "text": "1990)."
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "584,2086 584,2146 598,2146 598,2086"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "634,2088 634,2148 781,2148 781,2088"
+                },
+                "text": "recently"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "812,2088 812,2148 1004,2148 1004,2088"
+                },
+                "text": "developed"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1030,2088 1030,2148 1192,2148 1192,2088"
+                },
+                "text": "protocol"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1208,2086 1208,2146 1258,2146 1258,2086"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1279,2087 1279,2147 1501,2147 1501,2087"
+                },
+                "text": "dissociation"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1532,2087 1532,2147 1567,2147 1567,2087"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1583,2085 1583,2145 1679,2145 1679,2085"
+                },
+                "text": "squid"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1705,2085 1705,2145 1811,2145 1811,2085"
+                },
+                "text": "retina"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1832,2085 1832,2145 1902,2145 1902,2085"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1923,2085 1923,2145 2003,2145 2003,2085"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_19_w14",
+                "coords": {
+                  "points": "2029,2085 2029,2145 2054,2145 2054,2085"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_19_w15",
+                "coords": {
+                  "points": "2085,2087 2085,2147 2196,2147 2196,2087"
+                },
+                "text": "obtain"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "255,2287 908,2237 1010,2275 1747,2240 1856,2279 1913,2237 2198,2242 2173,2161 255,2183"
+            },
+            "baseline": {
+              "points": "268,2227 364,2230 461,2227 558,2229 655,2230 751,2230 848,2227 945,2230 1042,2230 1138,2230 1235,2227 1332,2228 1429,2228 1525,2227 1622,2230 1719,2229 1816,2228 1912,2227 2009,2227 2106,2227 2203,2224"
+            },
+            "text": "healthy solitary photoreceptor cells (Nasi and Gomez, 1992) for patch clamp experiments. This",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "261,2188 261,2248 396,2248 396,2188"
+                },
+                "text": "healthy"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "419,2187 419,2247 560,2247 560,2187"
+                },
+                "text": "solitary"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "582,2190 582,2250 860,2250 860,2190"
+                },
+                "text": "photoreceptor"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "877,2189 877,2249 958,2249 958,2189"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "980,2190 980,2250 1083,2250 1083,2190"
+                },
+                "text": "(Nasi"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1100,2190 1100,2250 1159,2250 1159,2190"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1187,2187 1187,2247 1340,2247 1340,2187"
+                },
+                "text": "Gomez,"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1357,2188 1357,2248 1465,2248 1465,2188"
+                },
+                "text": "1992)"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1488,2187 1488,2247 1536,2247 1536,2187"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1553,2189 1553,2249 1650,2249 1650,2189"
+                },
+                "text": "patch"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1673,2188 1673,2248 1787,2248 1787,2188"
+                },
+                "text": "clamp"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1814,2187 1814,2247 2070,2247 2070,2187"
+                },
+                "text": "experiments."
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "2109,2185 2109,2245 2190,2245 2190,2185"
+                },
+                "text": "This"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "252,2369 611,2408 782,2351 970,2388 1297,2344 1418,2391 1547,2339 1705,2386 1814,2361 1817,2287 1562,2255 1280,2299 995,2262 255,2284"
+            },
+            "baseline": {
+              "points": "268,2331 345,2331 423,2331 501,2331 579,2331 657,2331 734,2331 812,2331 890,2331 968,2329 1046,2328 1123,2328 1201,2329 1279,2328 1357,2328 1435,2328 1512,2328 1590,2328 1668,2328 1746,2328 1824,2331"
+            },
+            "text": "report describes the properties of cGMP-gated channels in inside-out patches.",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "252,2291 252,2351 364,2351 364,2291"
+                },
+                "text": "report"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "379,2291 379,2351 563,2351 563,2291"
+                },
+                "text": "describes"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "584,2291 584,2351 634,2351 634,2291"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "661,2291 661,2351 854,2351 854,2291"
+                },
+                "text": "properties"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "875,2290 875,2350 910,2350 910,2290"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "926,2288 926,2348 1171,2348 1171,2288"
+                },
+                "text": "cGMP-gated"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1197,2288 1197,2348 1365,2348 1365,2288"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1391,2288 1391,2348 1411,2348 1411,2288"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1437,2288 1437,2348 1636,2348 1636,2288"
+                },
+                "text": "inside-out"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1652,2288 1652,2348 1815,2348 1815,2288"
+                },
+                "text": "patches."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "255,2559 535,2581 579,2554 708,2572 893,2539 953,2567 1020,2547 1022,2443 913,2482 804,2450 767,2480 569,2455 530,2485 455,2435 255,2485"
+            },
+            "baseline": {
+              "points": "268,2531 305,2528 343,2530 381,2529 419,2528 457,2528 495,2528 533,2528 571,2528 609,2528 647,2528 684,2528 722,2528 760,2528 798,2525 836,2527 874,2526 912,2525 950,2525 988,2525 1026,2522"
+            },
+            "text": "MATERIALS AND METHODS",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "258,2488 258,2548 570,2548 570,2488"
+                },
+                "text": "MATERIALS"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "604,2488 604,2548 704,2548 704,2488"
+                },
+                "text": "AND"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "744,2486 744,2546 1003,2546 1003,2486"
+                },
+                "text": "METHODS"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "255,2740 322,2765 418,2740 520,2774 609,2747 827,2747 829,2628 705,2690 641,2658 527,2693 386,2641 354,2668 257,2651"
+            },
+            "baseline": {
+              "points": "268,2731 296,2731 324,2731 352,2731 380,2731 409,2731 437,2731 465,2731 493,2731 521,2731 550,2731 578,2731 606,2731 634,2729 662,2729 691,2731 719,2731 747,2731 775,2729 803,2727 832,2725"
+            },
+            "text": "Isolation of photoreceptors",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "260,2691 260,2751 429,2751 429,2691"
+                },
+                "text": "Isolation"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "456,2691 456,2751 497,2751 497,2691"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "513,2689 513,2749 817,2749 817,2689"
+                },
+                "text": "photoreceptors"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "416,2854 1069,2844 1129,2881 2128,2836 2128,2770 1896,2747 1384,2792 1245,2757 656,2799 416,2770"
+            },
+            "baseline": {
+              "points": "429,2827 514,2830 599,2830 684,2830 770,2830 855,2828 940,2829 1025,2829 1111,2827 1196,2827 1281,2827 1366,2827 1452,2827 1537,2827 1622,2827 1707,2827 1793,2827 1878,2827 1963,2827 2048,2827 2134,2827"
+            },
+            "text": "Photoreceptors were isolated according to a procedure adapted from Nasi and Gomez",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "420,2790 420,2850 711,2850 711,2790"
+                },
+                "text": "Photoreceptors"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "736,2789 736,2849 819,2849 819,2789"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "844,2788 844,2848 982,2848 982,2788"
+                },
+                "text": "isolated"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "1012,2787 1012,2847 1194,2847 1194,2787"
+                },
+                "text": "according"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "1219,2787 1219,2847 1243,2847 1243,2787"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "1268,2787 1268,2847 1283,2847 1283,2787"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1304,2787 1304,2847 1490,2847 1490,2787"
+                },
+                "text": "procedure"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1516,2787 1516,2847 1658,2847 1658,2787"
+                },
+                "text": "adapted"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1683,2787 1683,2847 1752,2847 1752,2787"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1792,2787 1792,2847 1880,2847 1880,2787"
+                },
+                "text": "Nasi"
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "1895,2787 1895,2847 1954,2847 1954,2787"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_24_w12",
+                "coords": {
+                  "points": "1979,2787 1979,2847 2117,2847 2117,2787"
+                },
+                "text": "Gomez"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "260,2963 554,2990 653,2938 874,2938 1017,3002 1225,2940 1705,3002 1797,2953 2044,2948 2044,2891 1824,2854 1582,2896 1171,2898 1077,2856 923,2896 416,2864 260,2896"
+            },
+            "baseline": {
+              "points": "274,2931 362,2929 451,2931 540,2931 629,2928 718,2928 806,2928 895,2928 984,2928 1073,2928 1162,2928 1250,2928 1339,2928 1428,2925 1517,2925 1606,2928 1694,2928 1783,2928 1872,2928 1961,2928 2050,2925"
+            },
+            "text": "(1992). Reagents were obtained from Sigma unless otherwise specified. Squid (Loligo",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "266,2889 266,2949 417,2949 417,2889"
+                },
+                "text": "(1992)."
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "445,2891 445,2951 630,2951 630,2891"
+                },
+                "text": "Reagents"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "647,2888 647,2948 734,2948 734,2888"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_25_w4",
+                "coords": {
+                  "points": "762,2888 762,2948 919,2948 919,2888"
+                },
+                "text": "obtained"
+              },
+              {
+                "id": "tr_1_tl_25_w5",
+                "coords": {
+                  "points": "946,2888 946,2948 1017,2948 1017,2888"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_25_w6",
+                "coords": {
+                  "points": "1061,2888 1061,2948 1175,2948 1175,2888"
+                },
+                "text": "Sigma"
+              },
+              {
+                "id": "tr_1_tl_25_w7",
+                "coords": {
+                  "points": "1203,2888 1203,2948 1316,2948 1316,2888"
+                },
+                "text": "unless"
+              },
+              {
+                "id": "tr_1_tl_25_w8",
+                "coords": {
+                  "points": "1340,2885 1340,2945 1524,2945 1524,2885"
+                },
+                "text": "otherwise"
+              },
+              {
+                "id": "tr_1_tl_25_w9",
+                "coords": {
+                  "points": "1546,2888 1546,2948 1742,2948 1742,2888"
+                },
+                "text": "specified."
+              },
+              {
+                "id": "tr_1_tl_25_w10",
+                "coords": {
+                  "points": "1765,2888 1765,2948 1873,2948 1873,2888"
+                },
+                "text": "Squid"
+              },
+              {
+                "id": "tr_1_tl_25_w11",
+                "coords": {
+                  "points": "1901,2887 1901,2947 2036,2947 2036,2887"
+                },
+                "text": "(Loligo"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

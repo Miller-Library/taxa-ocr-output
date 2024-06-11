@@ -1,0 +1,2157 @@
+{
+  "processId": 10305441,
+  "status": "FINISHED",
+  "content": {
+    "text": "Introduction:\nMandelbrot (1967, 1982) pioneered the use of fractals as an\nalternative to euclidian geometry in describing the world. For a\nfractal object, in contrast to a euclidian object, the perceived\nlength or area of that object increases as the unit of measurement\ndecreases. The rate of increase is determined by the fractal\ndimension according to the equation L(s)-Ks (1-D) where L is the\nlength measured at a scale s, K is a constant, and D is the fractal\ndimension. Fractal dimensions have been determined for habitat\nspace such as lichens (Shorrocks et al, 1991), vegetation (Morse et\nal, 1985) and algae (Gee and Warwick, 1994). Fractals describe the\ncomplexity of the substrate, and therefore how much habitat is\navailable at a given scale. The higher the fractal dimension\nmeasured at a given scale, the higher the expected density of\nanimals of that body size that could be supported.\nGee and Warwick (1994) found a relationship between the\nfractal dimensions of macroalgae and the diversity and structure of\ntheir epifaunal populations. They measured the fractal dimensions\nof 4 intertidal algae found on the Isles of Scilly, off of the\ncoast of Britain. They found a higher density of animals on plants\nwith higher fractal dimensions. However, as they noted, they only\nused one frond to measure the fractal dimension of a species of\nalga, and took that frond to be representative of all individuals.\nThey then used that dimension for their inter-species comparison.\nThe fractal dimension measured may have been non-representative of\nthe population of individuals sampled, and therefore could have",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "229,290 229,2848 2213,2848 2213,290"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "218,355 325,380 385,357 434,372 496,350 526,370 591,350 620,360 620,265 516,265 469,293 419,256 404,268 357,258 288,295 218,295"
+            },
+            "baseline": {
+              "points": "232,337 258,337 284,337 310,337 337,337 363,337 389,337 415,337 442,337 468,337 494,337 520,337 547,337 573,337 599,337 626,337"
+            },
+            "text": "Introduction:",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "218,297 218,357 623,357 623,297"
+                },
+                "text": "Introduction:"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "367,454 2203,486 2203,382 2169,375 1836,397 1476,352 1330,399 1089,367 615,395 576,362 367,395"
+            },
+            "baseline": {
+              "points": "381,438 472,435 563,435 655,435 746,435 838,435 929,437 1021,435 1112,435 1204,437 1295,435 1386,433 1478,434 1569,435 1661,433 1752,435 1844,435 1935,435 2027,435 2118,437 2210,438"
+            },
+            "text": "Mandelbrot (1967, 1982) pioneered the use of fractals as an",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "366,395 366,455 659,455 659,395"
+                },
+                "text": "Mandelbrot"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "708,395 708,455 876,455 876,395"
+                },
+                "text": "(1967,"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "925,395 925,455 1069,455 1069,395"
+                },
+                "text": "1982)"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "1109,396 1109,456 1368,456 1368,396"
+                },
+                "text": "pioneered"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1417,393 1417,453 1494,453 1494,393"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1542,394 1542,454 1624,454 1624,394"
+                },
+                "text": "use"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1667,393 1667,453 1720,453 1720,393"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1764,395 1764,455 1995,455 1995,395"
+                },
+                "text": "fractals"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "2043,395 2043,455 2091,455 2091,395"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "2140,397 2140,457 2182,457 2182,397"
+                },
+                "text": "an"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "216,558 685,586 767,553 841,588 970,556 1176,598 1404,548 1576,596 1692,553 1868,581 1990,538 2059,586 2198,551 2198,496 2000,519 1849,464 1682,504 337,474 216,506"
+            },
+            "baseline": {
+              "points": "229,537 327,534 426,534 524,534 623,534 722,537 820,536 919,534 1017,536 1116,535 1215,531 1313,534 1412,534 1510,534 1609,534 1708,534 1806,534 1905,534 2003,537 2102,534 2201,537"
+            },
+            "text": "alternative to euclidian geometry in describing the world. For a",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "215,494 215,554 536,554 536,494"
+                },
+                "text": "alternative"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "585,494 585,554 628,554 628,494"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "672,496 672,556 931,556 931,496"
+                },
+                "text": "euclidian"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "980,495 980,555 1206,555 1206,495"
+                },
+                "text": "geometry"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "1254,492 1254,552 1297,552 1297,492"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1341,494 1341,554 1634,554 1634,494"
+                },
+                "text": "describing"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1683,494 1683,554 1754,554 1754,494"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1798,494 1798,554 1976,554 1976,494"
+                },
+                "text": "world."
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "2044,494 2044,554 2125,554 2125,494"
+                },
+                "text": "For"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "2168,496 2168,556 2187,556 2187,496"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "216,687 471,645 680,690 1069,640 1144,690 1196,658 1419,685 1541,635 1779,687 2206,655 2206,593 2079,578 216,588"
+            },
+            "baseline": {
+              "points": "229,635 328,635 427,634 526,635 625,635 725,635 824,635 923,635 1022,635 1121,632 1221,632 1320,635 1419,634 1518,635 1617,635 1717,635 1816,635 1915,635 2014,635 2113,635 2213,635"
+            },
+            "text": "fractal object, in contrast to a euclidian object, the perceived",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "215,595 215,655 408,655 408,595"
+                },
+                "text": "fractal"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "452,595 452,655 660,655 660,595"
+                },
+                "text": "object,"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "704,595 704,655 752,655 752,595"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "801,595 801,655 1038,655 1038,595"
+                },
+                "text": "contrast"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "1082,592 1082,652 1125,652 1125,592"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1174,592 1174,652 1193,652 1193,592"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1242,594 1242,654 1502,654 1502,594"
+                },
+                "text": "euclidian"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1552,595 1552,655 1755,655 1755,595"
+                },
+                "text": "object,"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1804,595 1804,655 1876,655 1876,595"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1929,595 1929,655 2190,655 2190,595"
+                },
+                "text": "perceived"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "218,742 598,789 816,747 1002,796 1407,742 1816,796 1918,744 2002,789 2201,747 2169,677 1762,712 1702,667 1598,705 608,665 218,695"
+            },
+            "baseline": {
+              "points": "232,733 330,733 429,733 527,734 626,733 725,736 823,736 922,734 1020,736 1119,734 1218,733 1316,733 1415,733 1513,733 1612,733 1711,733 1809,733 1908,733 2006,734 2105,733 2204,736"
+            },
+            "text": "length or area of that object increases as the unit of measurement",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "217,693 217,753 380,753 380,693"
+                },
+                "text": "length"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "422,693 422,753 472,753 472,693"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "513,693 513,753 618,753 618,693"
+                },
+                "text": "area"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "660,694 660,754 714,754 714,694"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "751,696 751,756 860,756 860,696"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "903,695 903,755 1075,755 1075,695"
+                },
+                "text": "object"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1113,693 1113,753 1368,753 1368,693"
+                },
+                "text": "increases"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1414,693 1414,753 1460,753 1460,693"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1506,693 1506,753 1579,753 1579,693"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1625,693 1625,753 1734,753 1734,693"
+                },
+                "text": "unit"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1776,693 1776,753 1825,753 1825,693"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1862,693 1862,753 2187,753 2187,693"
+                },
+                "text": "measurement"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "221,898 437,849 816,893 908,844 1295,891 2186,844 2186,794 2112,784 767,806 221,754"
+            },
+            "baseline": {
+              "points": "235,832 332,835 430,832 528,835 626,833 724,835 822,835 919,835 1017,835 1115,835 1213,832 1311,835 1409,835 1507,835 1604,833 1702,832 1800,835 1898,835 1996,835 2094,832 2192,832"
+            },
+            "text": "decreases. The rate of increase is determined by the fractal",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "220,794 220,854 506,854 506,794"
+                },
+                "text": "decreases."
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "603,793 603,853 680,853 680,793"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "739,795 739,855 844,855 844,795"
+                },
+                "text": "rate"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "900,795 900,855 954,855 954,795"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1009,794 1009,854 1236,854 1236,794"
+                },
+                "text": "increase"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1296,795 1296,855 1341,855 1341,795"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1396,794 1396,854 1688,854 1688,794"
+                },
+                "text": "determined"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1748,794 1748,854 1793,854 1793,794"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1848,795 1848,855 1925,855 1925,795"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1985,792 1985,852 2185,852 2185,792"
+                },
+                "text": "fractal"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "223,975 494,988 591,950 868,988 980,943 1280,993 1479,940 2201,973 2201,901 2077,873 223,891"
+            },
+            "baseline": {
+              "points": "238,930 336,932 434,931 533,933 631,933 730,933 828,933 927,933 1025,933 1124,933 1222,933 1320,933 1419,933 1517,933 1616,933 1714,930 1813,933 1911,930 2010,930 2108,931 2207,933"
+            },
+            "text": "dimension according to the equation L(s)-Ks (1-D) where L is the",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "222,891 222,951 478,951 478,891"
+                },
+                "text": "dimension"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "530,893 530,953 786,953 786,893"
+                },
+                "text": "according"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "838,893 838,953 879,953 879,893"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "931,893 931,953 1006,953 1006,893"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1053,893 1053,953 1281,953 1281,893"
+                },
+                "text": "equation"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1333,893 1333,953 1528,953 1528,893"
+                },
+                "text": "L(s)-Ks"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1576,892 1576,952 1720,952 1720,892"
+                },
+                "text": "(1-D)"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1758,892 1758,952 1897,952 1897,892"
+                },
+                "text": "where"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1944,890 1944,950 1963,950 1963,890"
+                },
+                "text": "L"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "2010,890 2010,950 2056,950 2056,890"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "2108,891 2108,951 2182,951 2182,891"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "218,1074 422,1055 568,1097 702,1045 863,1094 1102,1037 1283,1094 1767,1040 1997,1084 2196,1064 2196,988 1782,958 1509,1002 1370,965 1320,1002 218,980"
+            },
+            "baseline": {
+              "points": "232,1032 330,1032 428,1032 527,1032 625,1032 724,1035 822,1035 921,1035 1019,1034 1118,1035 1216,1032 1314,1035 1413,1035 1511,1035 1610,1033 1708,1032 1807,1032 1905,1032 2004,1032 2102,1032 2201,1035"
+            },
+            "text": "length measured at a scale s, K is a constant, and D is the fractal",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "217,992 217,1052 380,1052 380,992"
+                },
+                "text": "length"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "419,992 419,1052 653,1052 653,992"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "691,994 691,1054 742,1054 742,994"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "781,995 781,1055 795,1055 795,995"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "837,995 837,1055 973,1055 973,995"
+                },
+                "text": "scale"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1016,994 1016,1054 1067,1054 1067,994"
+                },
+                "text": "s,"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1101,994 1101,1054 1119,1054 1119,994"
+                },
+                "text": "K"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1162,992 1162,1052 1208,1052 1208,992"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1251,993 1251,1053 1264,1053 1264,993"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1307,995 1307,1055 1570,1055 1570,995"
+                },
+                "text": "constant,"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1608,992 1608,1052 1683,1052 1683,992"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1721,992 1721,1052 1739,1052 1739,992"
+                },
+                "text": "D"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1782,992 1782,1052 1828,1052 1828,992"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1871,992 1871,1052 1946,1052 1946,992"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "1989,992 1989,1052 2186,1052 2186,992"
+                },
+                "text": "fractal"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "221,1154 588,1134 958,1181 1079,1146 1139,1184 1253,1144 1791,1176 1888,1139 2012,1193 2198,1154 2198,1089 2037,1074 1729,1102 1402,1067 1337,1107 633,1074 551,1112 442,1064 221,1077"
+            },
+            "baseline": {
+              "points": "235,1133 333,1133 431,1133 530,1135 628,1131 727,1133 825,1133 924,1133 1022,1133 1121,1133 1219,1133 1317,1133 1416,1133 1514,1132 1613,1131 1711,1133 1810,1130 1908,1133 2007,1130 2105,1130 2204,1133"
+            },
+            "text": "dimension. Fractal dimensions have been determined for habitat",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "224,1093 224,1153 515,1153 515,1093"
+                },
+                "text": "dimension."
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "602,1092 602,1152 801,1152 801,1092"
+                },
+                "text": "Fractal"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "852,1093 852,1153 1142,1153 1142,1093"
+                },
+                "text": "dimensions"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "1197,1093 1197,1153 1301,1153 1301,1093"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "1357,1093 1357,1153 1461,1153 1461,1093"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1516,1091 1516,1151 1806,1151 1806,1091"
+                },
+                "text": "determined"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1861,1092 1861,1152 1939,1152 1939,1092"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1989,1090 1989,1150 2188,1150 2188,1090"
+                },
+                "text": "habitat"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "218,1263 2203,1256 2203,1191 2040,1176 218,1186"
+            },
+            "baseline": {
+              "points": "232,1232 330,1232 429,1231 528,1232 627,1232 726,1235 825,1232 924,1234 1023,1232 1122,1232 1221,1232 1319,1232 1418,1232 1517,1232 1616,1232 1715,1232 1814,1232 1913,1232 2012,1232 2111,1229 2210,1232"
+            },
+            "text": "space such as lichens (Shorrocks et al, 1991), vegetation (Morse et",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "217,1192 217,1252 347,1252 347,1192"
+                },
+                "text": "space"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "391,1191 391,1251 496,1251 496,1191"
+                },
+                "text": "such"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "540,1192 540,1252 583,1252 583,1192"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "622,1194 622,1254 820,1254 820,1194"
+                },
+                "text": "lichens"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "869,1192 869,1252 1153,1252 1153,1192"
+                },
+                "text": "(Shorrocks"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1193,1192 1193,1252 1241,1252 1241,1192"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1280,1192 1280,1252 1357,1252 1357,1192"
+                },
+                "text": "al,"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1401,1192 1401,1252 1569,1252 1569,1192"
+                },
+                "text": "1991),"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1603,1192 1603,1252 1893,1252 1893,1192"
+                },
+                "text": "vegetation"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1942,1191 1942,1251 2105,1251 2105,1191"
+                },
+                "text": "(Morse"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "2144,1190 2144,1250 2192,1250 2192,1190"
+                },
+                "text": "et"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "218,1362 603,1347 670,1382 799,1345 1025,1392 1169,1342 1325,1377 2196,1352 2196,1293 1886,1263 1531,1313 1432,1265 1184,1303 943,1251 519,1315 466,1268 218,1293"
+            },
+            "baseline": {
+              "points": "232,1330 330,1330 428,1330 527,1330 625,1333 724,1333 822,1332 921,1330 1019,1330 1118,1330 1216,1330 1314,1333 1413,1330 1511,1332 1610,1331 1708,1330 1807,1329 1905,1330 2004,1330 2102,1327 2201,1330"
+            },
+            "text": "al, 1985) and algae (Gee and Warwick, 1994). Fractals describe the",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "217,1290 217,1350 296,1350 296,1290"
+                },
+                "text": "al,"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "336,1290 336,1350 478,1350 478,1290"
+                },
+                "text": "1985)"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "513,1290 513,1350 587,1350 587,1290"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "627,1293 627,1353 764,1353 764,1293"
+                },
+                "text": "algae"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "809,1291 809,1351 907,1351 907,1291"
+                },
+                "text": "(Gee"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "952,1290 952,1350 1026,1350 1026,1290"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1066,1290 1066,1350 1297,1350 1297,1290"
+                },
+                "text": "Warwick,"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1337,1290 1337,1350 1509,1350 1509,1290"
+                },
+                "text": "1994)."
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1569,1290 1569,1350 1800,1350 1800,1290"
+                },
+                "text": "Fractals"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1840,1290 1840,1350 2066,1350 2066,1290"
+                },
+                "text": "describe"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "2106,1288 2106,1348 2180,1348 2180,1288"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "221,1449 1156,1484 1268,1434 1439,1481 1700,1439 1819,1481 2112,1437 2198,1471 2198,1377 221,1390"
+            },
+            "baseline": {
+              "points": "235,1429 333,1432 431,1432 530,1431 628,1431 727,1432 825,1432 924,1432 1022,1432 1121,1432 1219,1432 1317,1432 1416,1429 1514,1429 1613,1429 1711,1429 1810,1429 1908,1429 2007,1429 2105,1429 2204,1429"
+            },
+            "text": "complexity of the substrate, and therefore how much habitat is",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "220,1392 220,1452 509,1452 509,1392"
+                },
+                "text": "complexity"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "565,1391 565,1451 617,1451 617,1391"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "669,1391 669,1451 743,1451 743,1391"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "800,1392 800,1452 1094,1452 1094,1392"
+                },
+                "text": "substrate,"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1146,1392 1146,1452 1220,1452 1220,1392"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1276,1389 1276,1449 1533,1449 1533,1389"
+                },
+                "text": "therefore"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1590,1389 1590,1449 1664,1449 1664,1389"
+                },
+                "text": "how"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1721,1389 1721,1449 1833,1449 1833,1389"
+                },
+                "text": "much"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1885,1389 1885,1449 2090,1449 2090,1389"
+                },
+                "text": "habitat"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "2142,1389 2142,1449 2188,1449 2188,1389"
+                },
+                "text": "is"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "218,1553 305,1586 1027,1578 1169,1531 1434,1595 1541,1533 1945,1586 2201,1548 2201,1474 1983,1466 1906,1511 1849,1471 1662,1504 1509,1454 1124,1511 1025,1476 218,1489"
+            },
+            "baseline": {
+              "points": "232,1527 330,1530 429,1530 528,1530 627,1533 725,1533 824,1532 923,1530 1022,1530 1120,1533 1219,1528 1318,1533 1417,1530 1515,1530 1614,1529 1713,1530 1812,1527 1910,1530 2009,1530 2108,1530 2207,1530"
+            },
+            "text": "available at a given scale. The higher the fractal dimension",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "217,1490 217,1550 474,1550 474,1490"
+                },
+                "text": "available"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "530,1490 530,1550 586,1550 586,1490"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "638,1493 638,1553 656,1553 656,1493"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "708,1492 708,1552 848,1552 848,1492"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "905,1490 905,1550 1077,1550 1077,1490"
+                },
+                "text": "scale."
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1172,1488 1172,1548 1251,1548 1251,1488"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1307,1490 1307,1550 1480,1550 1480,1490"
+                },
+                "text": "higher"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1537,1489 1537,1549 1611,1549 1611,1489"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1668,1488 1668,1548 1868,1548 1868,1488"
+                },
+                "text": "fractal"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1920,1490 1920,1550 2182,1550 2182,1490"
+                },
+                "text": "dimension"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "218,1675 464,1650 638,1687 854,1645 1025,1690 1347,1685 1600,1640 1662,1680 1896,1640 1997,1697 2124,1640 2201,1655 2201,1568 2141,1600 1720,1566 1595,1608 1154,1561 1082,1608 218,1553"
+            },
+            "baseline": {
+              "points": "232,1629 330,1632 429,1629 528,1631 627,1632 725,1632 824,1632 923,1632 1022,1632 1120,1629 1219,1632 1318,1632 1417,1629 1515,1631 1614,1629 1713,1629 1812,1629 1910,1629 2009,1629 2108,1632 2207,1632"
+            },
+            "text": "measured at a given scale, the higher the expected density of",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "221,1591 221,1651 448,1651 448,1591"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "503,1591 503,1651 557,1651 557,1591"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "608,1591 608,1651 626,1651 626,1591"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "681,1592 681,1652 821,1652 821,1592"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "876,1592 876,1652 1049,1652 1049,1592"
+                },
+                "text": "scale,"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1104,1589 1104,1649 1176,1649 1176,1589"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1236,1591 1236,1651 1409,1651 1409,1591"
+                },
+                "text": "higher"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1464,1590 1464,1650 1541,1650 1541,1590"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1596,1589 1596,1649 1827,1649 1827,1589"
+                },
+                "text": "expected"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1882,1589 1882,1649 2082,1649 2082,1589"
+                },
+                "text": "density"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "2137,1592 2137,1652 2187,1652 2187,1592"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "221,1757 878,1779 1032,1739 1124,1777 1174,1739 1590,1784 1744,1749 1744,1690 1581,1675 948,1700 789,1657 742,1697 221,1700"
+            },
+            "baseline": {
+              "points": "235,1730 310,1730 386,1729 462,1727 538,1730 614,1730 689,1730 765,1730 841,1730 917,1730 993,1730 1068,1728 1144,1730 1220,1730 1296,1730 1372,1727 1447,1727 1523,1727 1599,1729 1675,1727 1751,1733"
+            },
+            "text": "animals of that body size that could be supported.",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "220,1689 220,1749 417,1749 417,1689"
+                },
+                "text": "animals"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "459,1687 459,1747 511,1747 511,1687"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "553,1690 553,1750 666,1750 666,1690"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "704,1690 704,1750 816,1750 816,1690"
+                },
+                "text": "body"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "859,1690 859,1750 967,1750 967,1690"
+                },
+                "text": "size"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1015,1688 1015,1748 1122,1748 1122,1688"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1165,1690 1165,1750 1306,1750 1306,1690"
+                },
+                "text": "could"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1348,1687 1348,1747 1395,1747 1395,1687"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1443,1688 1443,1748 1738,1748 1738,1688"
+                },
+                "text": "supported."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "377,1858 1734,1878 1908,1836 2201,1886 2201,1777 2030,1752 1804,1796 1645,1764 1122,1801 1030,1762 377,1779"
+            },
+            "baseline": {
+              "points": "390,1828 480,1828 571,1825 662,1828 753,1828 844,1828 935,1827 1025,1825 1116,1825 1207,1828 1298,1828 1389,1828 1480,1828 1571,1828 1661,1826 1752,1828 1843,1828 1934,1825 2025,1825 2116,1825 2207,1828"
+            },
+            "text": "Gee and Warwick (1994) found a relationship between the",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "381,1788 381,1848 452,1848 452,1788"
+                },
+                "text": "Gee"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "520,1785 520,1845 595,1845 595,1785"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "658,1788 658,1848 859,1848 859,1788"
+                },
+                "text": "Warwick"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "927,1785 927,1845 1098,1845 1098,1785"
+                },
+                "text": "(1994)"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "1157,1788 1157,1848 1290,1848 1290,1788"
+                },
+                "text": "found"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1353,1788 1353,1848 1371,1848 1371,1788"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1434,1787 1434,1847 1783,1847 1783,1787"
+                },
+                "text": "relationship"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1851,1785 1851,1845 2047,1845 2047,1785"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "2109,1786 2109,1846 2185,1846 2185,1786"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "221,1960 608,1975 792,1933 829,1970 1117,1975 1211,1933 1737,1987 1868,1943 2010,1980 2191,1955 2191,1886 2059,1858 1399,1896 221,1868"
+            },
+            "baseline": {
+              "points": "235,1927 333,1927 431,1927 529,1927 627,1927 725,1927 823,1927 922,1927 1020,1927 1118,1927 1216,1927 1314,1927 1412,1927 1510,1927 1609,1927 1707,1924 1805,1925 1903,1926 2001,1924 2099,1926 2198,1924"
+            },
+            "text": "fractal dimensions of macroalgae and the diversity and structure of",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "220,1887 220,1947 417,1947 417,1887"
+                },
+                "text": "fractal"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "451,1887 451,1947 744,1947 744,1887"
+                },
+                "text": "dimensions"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "784,1887 784,1947 831,1947 831,1887"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "865,1887 865,1947 1154,1947 1154,1887"
+                },
+                "text": "macroalgae"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "1198,1887 1198,1947 1275,1947 1275,1887"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1314,1887 1314,1947 1385,1947 1385,1887"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1425,1887 1425,1947 1684,1947 1684,1887"
+                },
+                "text": "diversity"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1728,1884 1728,1944 1804,1944 1804,1884"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1844,1884 1844,1944 2103,1944 2103,1884"
+                },
+                "text": "structure"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "2142,1884 2142,1944 2190,1944 2190,1884"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "223,2069 2196,2037 2196,1975 2102,1963 1888,2000 1804,1963 1707,2000 1144,1975 1109,2010 223,1978"
+            },
+            "baseline": {
+              "points": "238,2025 336,2026 434,2028 532,2028 630,2028 728,2028 826,2028 925,2028 1023,2028 1121,2028 1219,2028 1317,2028 1415,2028 1513,2025 1612,2027 1710,2025 1808,2025 1906,2025 2004,2025 2102,2025 2201,2025"
+            },
+            "text": "their epifaunal populations. They measured the fractal dimensions",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "222,1985 222,2045 357,2045 357,1985"
+                },
+                "text": "their"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "395,1988 395,2048 661,2048 661,1988"
+                },
+                "text": "epifaunal"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "699,1988 699,2048 1054,2048 1054,1988"
+                },
+                "text": "populations."
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "1120,1988 1120,2048 1227,2048 1227,1988"
+                },
+                "text": "They"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1265,1988 1265,2048 1493,2048 1493,1988"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1536,1986 1536,2046 1610,2046 1610,1986"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1658,1985 1658,2045 1854,2045 1854,1985"
+                },
+                "text": "fractal"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1896,1985 1896,2045 2186,2045 2186,1985"
+                },
+                "text": "dimensions"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "223,2131 876,2146 975,2184 1027,2146 1452,2169 1526,2129 1653,2169 2198,2174 2198,2092 1960,2072 223,2094"
+            },
+            "baseline": {
+              "points": "238,2124 336,2124 434,2127 532,2127 631,2124 729,2127 827,2127 926,2127 1024,2127 1122,2127 1221,2127 1319,2127 1417,2126 1515,2124 1614,2127 1712,2124 1810,2127 1909,2127 2007,2124 2105,2124 2204,2121"
+            },
+            "text": "of 4 intertidal algae found on the Isles of Scilly, off of the",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "223,2084 223,2144 272,2144 272,2084"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "318,2084 318,2144 338,2144 338,2084"
+                },
+                "text": "4"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "389,2086 389,2146 681,2146 681,2086"
+                },
+                "text": "intertidal"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "727,2087 727,2147 868,2147 868,2087"
+                },
+                "text": "algae"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "924,2087 924,2147 1060,2147 1060,2087"
+                },
+                "text": "found"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1111,2087 1111,2147 1156,2147 1156,2087"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1213,2087 1213,2147 1288,2147 1288,2087"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1339,2086 1339,2146 1479,2146 1479,2086"
+                },
+                "text": "Isles"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1531,2085 1531,2145 1580,2145 1580,2085"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1626,2084 1626,2144 1833,2144 1833,2084"
+                },
+                "text": "Scilly,"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1879,2086 1879,2146 1964,2146 1964,2086"
+                },
+                "text": "off"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "2010,2084 2010,2144 2060,2144 2060,2084"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "2111,2082 2111,2142 2186,2142 2186,2082"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "223,2280 457,2238 707,2288 1055,2238 1149,2285 1590,2246 2201,2283 2201,2174 2166,2164 1241,2196 908,2154 777,2208 223,2174"
+            },
+            "baseline": {
+              "points": "238,2225 336,2225 434,2225 533,2225 631,2225 730,2228 828,2228 927,2225 1025,2225 1124,2225 1222,2225 1320,2225 1419,2225 1517,2225 1616,2223 1714,2225 1813,2222 1911,2222 2010,2224 2108,2222 2207,2222"
+            },
+            "text": "coast of Britain. They found a higher density of animals on plants",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "227,2185 227,2245 365,2245 365,2185"
+                },
+                "text": "coast"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "399,2185 399,2245 452,2245 452,2185"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "486,2185 486,2245 721,2245 721,2185"
+                },
+                "text": "Britain."
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "784,2187 784,2247 889,2247 889,2187"
+                },
+                "text": "They"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "933,2185 933,2245 1066,2245 1066,2185"
+                },
+                "text": "found"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1106,2185 1106,2245 1124,2245 1124,2185"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1163,2185 1163,2245 1330,2245 1330,2185"
+                },
+                "text": "higher"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1370,2185 1370,2245 1571,2245 1571,2185"
+                },
+                "text": "density"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1610,2183 1610,2243 1662,2243 1662,2183"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1696,2182 1696,2242 1892,2242 1892,2182"
+                },
+                "text": "animals"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1937,2182 1937,2242 1979,2242 1979,2182"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "2018,2182 2018,2242 2190,2242 2190,2182"
+                },
+                "text": "plants"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "223,2350 2196,2355 2196,2285 2129,2270 1712,2303 1586,2258 1516,2293 1218,2270 1161,2308 1059,2265 223,2280"
+            },
+            "baseline": {
+              "points": "238,2324 336,2324 434,2324 532,2324 630,2324 728,2324 826,2324 925,2324 1023,2324 1121,2324 1219,2324 1317,2324 1415,2324 1513,2324 1612,2324 1710,2324 1808,2321 1906,2324 2004,2322 2102,2322 2201,2324"
+            },
+            "text": "with higher fractal dimensions. However, as they noted, they only",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "222,2284 222,2344 329,2344 329,2284"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "371,2284 371,2344 544,2344 544,2284"
+                },
+                "text": "higher"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "587,2284 587,2344 782,2344 782,2284"
+                },
+                "text": "fractal"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "825,2284 825,2344 1147,2344 1147,2284"
+                },
+                "text": "dimensions."
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1214,2284 1214,2344 1447,2344 1447,2284"
+                },
+                "text": "However,"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1485,2284 1485,2344 1531,2344 1531,2284"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1574,2284 1574,2344 1681,2344 1681,2284"
+                },
+                "text": "they"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1723,2281 1723,2341 1896,2341 1896,2281"
+                },
+                "text": "noted,"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1934,2282 1934,2342 2041,2342 2041,2282"
+                },
+                "text": "they"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "2083,2282 2083,2342 2190,2342 2190,2282"
+                },
+                "text": "only"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "228,2469 571,2471 618,2437 1144,2476 1263,2439 1690,2481 2047,2434 2201,2491 2201,2380 2117,2365 777,2394 454,2347 228,2382"
+            },
+            "baseline": {
+              "points": "241,2425 339,2423 437,2423 535,2425 634,2425 732,2425 830,2425 929,2425 1027,2423 1125,2424 1224,2425 1322,2424 1420,2423 1518,2425 1617,2422 1715,2419 1813,2422 1912,2422 2010,2422 2108,2422 2207,2422"
+            },
+            "text": "used one frond to measure the fractal dimension of a species of",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "227,2384 227,2444 333,2444 333,2384"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "381,2383 381,2443 459,2443 459,2383"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "511,2385 511,2445 646,2445 646,2385"
+                },
+                "text": "frond"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "698,2385 698,2445 744,2445 744,2385"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "791,2385 791,2445 991,2445 991,2385"
+                },
+                "text": "measure"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1048,2383 1048,2443 1118,2443 1118,2383"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1174,2384 1174,2444 1374,2444 1374,2384"
+                },
+                "text": "fractal"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1417,2384 1417,2444 1677,2444 1677,2384"
+                },
+                "text": "dimension"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1729,2380 1729,2440 1780,2440 1780,2380"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1828,2382 1828,2442 1841,2442 1841,2382"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1893,2382 1893,2442 2093,2442 2093,2382"
+                },
+                "text": "species"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "2145,2382 2145,2442 2191,2442 2191,2382"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "223,2571 481,2538 556,2580 762,2546 841,2590 960,2543 1484,2573 1578,2528 1978,2571 2193,2531 2124,2476 1836,2499 1744,2454 1427,2494 1005,2461 223,2496"
+            },
+            "baseline": {
+              "points": "238,2524 336,2525 434,2524 532,2524 630,2524 728,2527 826,2527 924,2524 1022,2524 1120,2524 1218,2524 1316,2524 1414,2524 1512,2523 1610,2521 1708,2521 1806,2524 1904,2521 2002,2521 2100,2521 2198,2524"
+            },
+            "text": "alga, and took that frond to be representative of all individuals.",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "222,2484 222,2544 361,2544 361,2484"
+                },
+                "text": "alga,"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "404,2484 404,2544 481,2544 481,2484"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "525,2484 525,2544 630,2544 630,2484"
+                },
+                "text": "took"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "674,2487 674,2547 784,2547 784,2487"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "823,2485 823,2545 957,2545 957,2485"
+                },
+                "text": "frond"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1000,2484 1000,2544 1048,2544 1048,2484"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1087,2484 1087,2544 1135,2544 1135,2484"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1178,2484 1178,2544 1591,2544 1591,2484"
+                },
+                "text": "representative"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1635,2481 1635,2541 1683,2541 1683,2481"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1722,2482 1722,2542 1798,2542 1798,2482"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1842,2481 1842,2541 2192,2541 2192,2481"
+                },
+                "text": "individuals."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "228,2650 2198,2657 2198,2580 2059,2571 228,2576"
+            },
+            "baseline": {
+              "points": "241,2613 339,2622 437,2622 535,2622 633,2622 731,2622 829,2622 927,2622 1025,2622 1123,2622 1221,2622 1319,2622 1417,2622 1515,2622 1613,2622 1711,2622 1809,2619 1907,2619 2005,2619 2103,2619 2201,2622"
+            },
+            "text": "They then used that dimension for their inter-species comparison.",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "227,2576 227,2636 329,2636 329,2576"
+                },
+                "text": "They"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "376,2582 376,2642 483,2642 483,2582"
+                },
+                "text": "then"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "526,2582 526,2642 637,2642 637,2582"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "680,2582 680,2642 791,2642 791,2582"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "834,2582 834,2642 1090,2642 1090,2582"
+                },
+                "text": "dimension"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "1137,2582 1137,2642 1217,2642 1217,2582"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1259,2582 1259,2642 1399,2642 1399,2582"
+                },
+                "text": "their"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1441,2582 1441,2642 1824,2642 1824,2582"
+                },
+                "text": "inter-species"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1871,2579 1871,2639 2192,2639 2192,2579"
+                },
+                "text": "comparison."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "223,2754 722,2742 963,2786 1278,2734 1695,2781 1906,2732 2201,2737 2201,2662 2141,2660 1764,2660 1685,2697 1536,2657 1357,2692 223,2675"
+            },
+            "baseline": {
+              "points": "238,2706 336,2722 434,2721 533,2723 631,2724 730,2721 828,2722 927,2721 1025,2721 1124,2721 1222,2721 1320,2721 1419,2721 1517,2721 1616,2721 1714,2718 1813,2720 1911,2718 2010,2718 2108,2718 2207,2718"
+            },
+            "text": "The fractal dimension measured may have been non-representative of",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "222,2669 222,2729 296,2729 296,2669"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "339,2681 339,2741 540,2741 540,2681"
+                },
+                "text": "fractal"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "578,2681 578,2741 836,2741 836,2681"
+                },
+                "text": "dimension"
+              },
+              {
+                "id": "tr_1_tl_25_w4",
+                "coords": {
+                  "points": "878,2681 878,2741 1108,2741 1108,2681"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_25_w5",
+                "coords": {
+                  "points": "1150,2681 1150,2741 1229,2741 1229,2681"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_25_w6",
+                "coords": {
+                  "points": "1267,2681 1267,2741 1375,2741 1375,2681"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_25_w7",
+                "coords": {
+                  "points": "1418,2681 1418,2741 1525,2741 1525,2681"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_25_w8",
+                "coords": {
+                  "points": "1563,2679 1563,2739 2102,2739 2102,2679"
+                },
+                "text": "non-representative"
+              },
+              {
+                "id": "tr_1_tl_25_w9",
+                "coords": {
+                  "points": "2144,2678 2144,2738 2191,2738 2191,2678"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_26",
+            "coords": {
+              "points": "223,2839 551,2886 796,2824 1454,2888 1583,2824 2025,2891 2126,2844 2201,2886 2201,2747 1881,2804 1653,2762 1149,2801 1057,2754 223,2789"
+            },
+            "baseline": {
+              "points": "238,2822 336,2825 434,2822 533,2823 631,2822 730,2822 828,2822 927,2822 1025,2822 1124,2822 1222,2822 1320,2822 1419,2822 1517,2822 1616,2820 1714,2819 1813,2819 1911,2819 2010,2819 2108,2819 2207,2819"
+            },
+            "text": "the population of individuals sampled, and therefore could have",
+            "words": [
+              {
+                "id": "tr_1_tl_26_w1",
+                "coords": {
+                  "points": "222,2782 222,2842 294,2842 294,2782"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_26_w2",
+                "coords": {
+                  "points": "347,2782 347,2842 640,2842 640,2782"
+                },
+                "text": "population"
+              },
+              {
+                "id": "tr_1_tl_26_w3",
+                "coords": {
+                  "points": "694,2782 694,2842 746,2842 746,2782"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_26_w4",
+                "coords": {
+                  "points": "790,2782 790,2842 1112,2842 1112,2782"
+                },
+                "text": "individuals"
+              },
+              {
+                "id": "tr_1_tl_26_w5",
+                "coords": {
+                  "points": "1165,2782 1165,2842 1401,2842 1401,2782"
+                },
+                "text": "sampled,"
+              },
+              {
+                "id": "tr_1_tl_26_w6",
+                "coords": {
+                  "points": "1449,2782 1449,2842 1526,2842 1526,2782"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_26_w7",
+                "coords": {
+                  "points": "1580,2779 1580,2839 1839,2839 1839,2779"
+                },
+                "text": "therefore"
+              },
+              {
+                "id": "tr_1_tl_26_w8",
+                "coords": {
+                  "points": "1893,2779 1893,2839 2031,2839 2031,2779"
+                },
+                "text": "could"
+              },
+              {
+                "id": "tr_1_tl_26_w9",
+                "coords": {
+                  "points": "2085,2779 2085,2839 2190,2839 2190,2779"
+                },
+                "text": "have"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

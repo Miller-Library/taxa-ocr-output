@@ -1,0 +1,1633 @@
+{
+  "processId": 10314265,
+  "status": "FINISHED",
+  "content": {
+    "text": "Detection of Sodium Channel Messenger RNA in the\nStellate Ganglion, Optic Lobe, and Mantle Muscle\nof the Squid Loligo Opalescens\nABSTRACT\nDifferent types of Na channels may be distinguished not only\nbetween species but also within individual organisms. Investigations into\nthe differences between Na channel isoforms may be useful in elucidating\nmechanisms by which Na channels carry out their specific functional roles\nwithin cells. In this study, two RNA probes transcribed from segments of\nCDNA encoding a putative squid giant axon Na channel (GFLNI) were\nemployed in in situ hybridizations and RNase protection assays to detec\nNa channel messenger RNAs in the stellate ganglion, optic lobe and mantle\nmuscle of the squid Loligo opalescens. The results of this study indicate\nthe presence of additional Na channel mRNAs with partial sequence\nhomology to GFLNI mRNA in squid stellate ganglion and optic lobe, and\nprovide evidence for the expression of Na channel mRNA in mantle muscle\ncells of L. opalescens.\nINTRODUCTION\nNa channels-the voltage-dependent ionic channels responsible for\ngeneration of action potentials-display remarkably similar Na currents\nacross different phyla (Shaller et al, 1992). Despite this conservation in\nfunctional properties, important differences in toxin sensitivity, antibody",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "244,262 244,2870 2207,2870 2207,262"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "275,294 455,328 2024,326 2024,258 1958,241 275,251"
+            },
+            "baseline": {
+              "points": "289,298 376,298 463,298 550,298 637,298 724,301 811,301 898,301 985,301 1072,302 1160,300 1247,301 1334,302 1421,302 1508,303 1595,304 1682,304 1769,304 1856,307 1943,310 2031,307"
+            },
+            "text": "Detection of Sodium Channel Messenger RNA in the",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "280,258 280,318 568,318 568,258"
+                },
+                "text": "Detection"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "615,258 615,318 675,318 675,258"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "714,261 714,321 919,321 919,261"
+                },
+                "text": "Sodium"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "988,260 988,320 1254,320 1254,260"
+                },
+                "text": "Channel"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "1286,262 1286,322 1620,322 1620,262"
+                },
+                "text": "Messenger"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "1659,264 1659,324 1772,324 1772,264"
+                },
+                "text": "RNA"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1827,266 1827,326 1872,326 1872,266"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1919,269 1919,329 2009,329 2009,269"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "348,392 1968,396 1968,333 1917,314 1338,353 992,311 348,326"
+            },
+            "baseline": {
+              "points": "361,366 441,369 522,372 603,369 683,372 764,372 845,371 925,375 1006,372 1087,373 1168,375 1248,375 1329,375 1410,377 1490,375 1571,375 1652,378 1732,374 1813,376 1894,378 1975,378"
+            },
+            "text": "Stellate Ganglion, Optic Lobe, and Mantle Muscle",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "353,329 353,389 572,389 572,329"
+                },
+                "text": "Stellate"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "620,331 620,391 925,391 925,331"
+                },
+                "text": "Ganglion,"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "949,332 949,392 1105,392 1105,332"
+                },
+                "text": "Optic"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "1153,335 1153,395 1317,395 1317,335"
+                },
+                "text": "Lobe,"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1349,336 1349,396 1442,396 1442,336"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1498,336 1498,396 1701,396 1701,336"
+                },
+                "text": "Mantle"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1741,336 1741,396 1944,396 1944,336"
+                },
+                "text": "Muscle"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "628,452 944,499 1053,450 1321,506 1384,469 1649,474 1649,406 1576,389 628,401"
+            },
+            "baseline": {
+              "points": "641,438 691,441 742,444 793,444 843,444 894,446 945,447 995,444 1046,447 1097,447 1148,446 1198,444 1249,446 1300,447 1350,447 1401,450 1452,447 1502,447 1553,447 1604,447 1655,447"
+            },
+            "text": "of the Squid Loligo Opalescens",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "633,399 633,459 693,459 693,399"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "725,404 725,464 809,464 809,404"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "856,406 856,466 1010,466 1010,406"
+                },
+                "text": "Squid"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "1064,405 1064,465 1240,465 1240,405"
+                },
+                "text": "Loligo"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "1287,407 1287,467 1634,467 1634,407"
+                },
+                "text": "Opalescens"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "248,749 272,761 285,752 304,771 345,757 372,771 392,752 423,771 460,757 579,754 579,688 547,674 530,688 499,688 486,676 457,686 426,671 387,688 367,671 348,688 248,691"
+            },
+            "baseline": {
+              "points": "262,742 288,740 315,739 342,739 369,739 396,739 423,737 449,737 476,738 503,739 530,739 557,739 584,742"
+            },
+            "text": "ABSTRACT",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "252,698 252,758 558,758 558,698"
+                },
+                "text": "ABSTRACT"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "396,949 2004,978 2004,895 1875,888 396,902"
+            },
+            "baseline": {
+              "points": "411,939 495,936 579,936 663,937 747,935 831,939 915,940 1000,942 1084,942 1168,939 1252,942 1336,942 1420,945 1505,945 1589,943 1673,946 1757,948 1841,948 1925,948 2010,945"
+            },
+            "text": "Different types of Na channels may be distinguished not only",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "399,896 399,956 626,956 626,896"
+                },
+                "text": "Different"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "654,895 654,955 781,955 781,895"
+                },
+                "text": "types"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "809,899 809,959 855,959 855,899"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "876,899 876,959 929,959 929,899"
+                },
+                "text": "Na"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "957,902 957,962 1184,962 1184,902"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1213,902 1213,962 1306,962 1306,902"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1340,902 1340,962 1387,962 1387,902"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1414,903 1414,963 1750,963 1750,903"
+                },
+                "text": "distinguished"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1791,908 1791,968 1871,968 1871,908"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1885,907 1885,967 1992,967 1992,907"
+                },
+                "text": "only"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "248,1044 2192,1063 2192,1002 2094,995 1676,1027 248,988"
+            },
+            "baseline": {
+              "points": "262,1035 358,1035 455,1035 552,1034 649,1037 746,1038 842,1038 939,1041 1036,1041 1133,1042 1230,1044 1326,1044 1423,1044 1520,1047 1617,1047 1714,1047 1810,1047 1907,1050 2004,1050 2101,1050 2198,1053"
+            },
+            "text": "between species but also within individual organisms. Investigations into",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "252,995 252,1055 449,1055 449,995"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "486,994 486,1054 662,1054 662,994"
+                },
+                "text": "species"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "692,997 692,1057 771,1057 771,997"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "794,998 794,1058 881,1058 881,998"
+                },
+                "text": "also"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "911,1001 911,1061 1065,1061 1065,1001"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1102,1004 1102,1064 1364,1064 1364,1004"
+                },
+                "text": "individual"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1387,1007 1387,1067 1665,1067 1665,1007"
+                },
+                "text": "organisms."
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1703,1009 1703,1069 2061,1069 2061,1009"
+                },
+                "text": "Investigations"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "2084,1010 2084,1070 2170,1070 2170,1010"
+                },
+                "text": "into"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "246,1136 2097,1192 2182,1172 2180,1085 243,1099"
+            },
+            "baseline": {
+              "points": "259,1133 355,1136 452,1134 548,1135 645,1132 741,1135 838,1136 934,1139 1031,1142 1127,1142 1224,1142 1320,1144 1417,1145 1513,1145 1610,1145 1706,1145 1803,1148 1899,1148 1996,1150 2092,1151 2189,1145"
+            },
+            "text": "the differences between Na channel isoforms may be useful in elucidating",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "246,1093 246,1153 315,1153 315,1093"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "344,1094 344,1154 629,1154 629,1094"
+                },
+                "text": "differences"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "658,1095 658,1155 851,1155 851,1095"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "888,1098 888,1158 943,1158 943,1098"
+                },
+                "text": "Na"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "978,1102 978,1162 1179,1162 1179,1102"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1201,1103 1201,1163 1416,1163 1416,1103"
+                },
+                "text": "isoforms"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1445,1105 1445,1165 1542,1165 1542,1105"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1578,1105 1578,1165 1619,1165 1619,1105"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1654,1105 1654,1165 1806,1165 1806,1105"
+                },
+                "text": "useful"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1828,1108 1828,1168 1862,1168 1862,1108"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1899,1110 1899,1170 2176,1170 2176,1110"
+                },
+                "text": "elucidating"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "241,1250 336,1282 671,1243 2167,1277 2187,1194 238,1192"
+            },
+            "baseline": {
+              "points": "253,1235 350,1235 447,1238 544,1238 641,1236 738,1238 835,1241 932,1243 1029,1244 1126,1241 1224,1244 1321,1241 1418,1244 1515,1245 1612,1247 1709,1246 1806,1247 1903,1247 2000,1250 2097,1249 2195,1244"
+            },
+            "text": "mechanisms by which Na channels carry out their specific functional roles",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "241,1196 241,1256 550,1256 550,1196"
+                },
+                "text": "mechanisms"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "583,1196 583,1256 629,1256 629,1196"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "662,1197 662,1257 793,1257 793,1197"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "834,1201 834,1261 886,1261 886,1201"
+                },
+                "text": "Na"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "919,1203 919,1263 1143,1263 1143,1203"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1163,1203 1163,1263 1288,1263 1288,1203"
+                },
+                "text": "carry"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1321,1202 1321,1262 1400,1262 1400,1202"
+                },
+                "text": "out"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1427,1204 1427,1264 1538,1264 1538,1204"
+                },
+                "text": "their"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1565,1206 1565,1266 1749,1266 1749,1206"
+                },
+                "text": "specific"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1776,1207 1776,1267 2045,1267 2045,1207"
+                },
+                "text": "functional"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "2066,1207 2066,1267 2177,1267 2177,1207"
+                },
+                "text": "roles"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "248,1345 2170,1369 2167,1299 2063,1294 246,1297"
+            },
+            "baseline": {
+              "points": "259,1336 354,1336 450,1339 546,1339 642,1339 738,1339 834,1339 930,1336 1026,1342 1122,1342 1218,1342 1313,1342 1409,1344 1505,1345 1601,1345 1697,1345 1793,1348 1889,1344 1985,1347 2081,1348 2177,1351"
+            },
+            "text": "within cells. In this study, two RNA probes transcribed from segments of",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "250,1296 250,1356 393,1356 393,1296"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "430,1299 430,1359 558,1359 558,1299"
+                },
+                "text": "cells."
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "595,1299 595,1359 630,1359 630,1299"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "667,1299 667,1359 753,1359 753,1299"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "775,1298 775,1358 940,1358 940,1298"
+                },
+                "text": "study,"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "962,1300 962,1360 1033,1360 1033,1300"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1070,1302 1070,1362 1163,1362 1163,1302"
+                },
+                "text": "RNA"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1199,1302 1199,1362 1372,1362 1372,1302"
+                },
+                "text": "probes"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1395,1305 1395,1365 1674,1365 1674,1305"
+                },
+                "text": "transcribed"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1718,1307 1718,1367 1811,1367 1811,1307"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1862,1306 1862,1366 2091,1366 2091,1306"
+                },
+                "text": "segments"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "2121,1309 2121,1369 2163,1369 2163,1309"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "243,1452 944,1450 1104,1489 1158,1457 1494,1491 2046,1462 2046,1389 1800,1379 243,1399"
+            },
+            "baseline": {
+              "points": "256,1438 345,1435 435,1438 525,1438 615,1438 705,1441 794,1441 884,1441 974,1441 1064,1441 1154,1444 1243,1444 1333,1444 1423,1444 1513,1446 1603,1444 1692,1444 1782,1444 1872,1444 1962,1444 2052,1446"
+            },
+            "text": "CDNA encoding a putative squid giant axon Na channel (GFLNI) were",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "246,1396 246,1456 363,1456 363,1396"
+                },
+                "text": "CDNA"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "404,1398 404,1458 627,1458 627,1398"
+                },
+                "text": "encoding"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "660,1399 660,1459 673,1459 673,1399"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "706,1401 706,1461 903,1461 903,1401"
+                },
+                "text": "putative"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "937,1401 937,1461 1061,1461 1061,1401"
+                },
+                "text": "squid"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1095,1404 1095,1464 1219,1464 1219,1404"
+                },
+                "text": "giant"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1246,1404 1246,1464 1344,1464 1344,1404"
+                },
+                "text": "axon"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1384,1404 1384,1464 1436,1464 1436,1404"
+                },
+                "text": "Na"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1470,1404 1470,1464 1673,1464 1673,1404"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1694,1404 1694,1464 1897,1464 1897,1404"
+                },
+                "text": "(GFLNI)"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1917,1404 1917,1464 2028,1464 2028,1404"
+                },
+                "text": "were"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "243,1545 2141,1586 2138,1513 2021,1494 243,1484"
+            },
+            "baseline": {
+              "points": "256,1530 350,1536 444,1536 539,1537 633,1539 728,1539 822,1539 917,1541 1011,1542 1106,1542 1200,1542 1294,1543 1389,1544 1483,1545 1578,1544 1672,1544 1767,1548 1861,1548 1956,1548 2050,1545 2145,1545"
+            },
+            "text": "employed in in situ hybridizations and RNase protection assays to detec",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "246,1496 246,1556 482,1556 482,1496"
+                },
+                "text": "employed"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "518,1496 518,1556 552,1556 552,1496"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "588,1498 588,1558 621,1558 621,1498"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "657,1499 657,1559 734,1559 734,1499"
+                },
+                "text": "situ"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "769,1501 769,1561 1138,1561 1138,1501"
+                },
+                "text": "hybridizations"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1166,1502 1166,1562 1243,1562 1243,1502"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1279,1503 1279,1563 1424,1563 1424,1503"
+                },
+                "text": "RNase"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1453,1504 1453,1564 1703,1564 1703,1504"
+                },
+                "text": "protection"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1739,1508 1739,1568 1898,1568 1898,1508"
+                },
+                "text": "assays"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1920,1508 1920,1568 1954,1568 1954,1508"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1990,1505 1990,1565 2114,1565 2114,1505"
+                },
+                "text": "detec"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "243,1647 825,1683 1070,1649 1788,1688 2189,1661 2189,1601 2041,1586 1615,1618 379,1569 243,1601"
+            },
+            "baseline": {
+              "points": "256,1631 358,1637 460,1637 562,1637 664,1637 766,1634 868,1637 970,1640 1072,1639 1174,1640 1276,1640 1378,1643 1480,1643 1582,1643 1684,1646 1786,1646 1888,1646 1990,1648 2092,1646 2195,1649"
+            },
+            "text": "Na channel messenger RNAs in the stellate ganglion, optic lobe and mantle",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "247,1591 247,1651 298,1651 298,1591"
+                },
+                "text": "Na"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "328,1597 328,1657 532,1657 532,1597"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "555,1596 555,1656 818,1656 818,1596"
+                },
+                "text": "messenger"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "841,1598 841,1658 972,1658 972,1598"
+                },
+                "text": "RNAs"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "995,1599 995,1659 1023,1659 1023,1599"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1061,1599 1061,1659 1133,1659 1133,1599"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1163,1600 1163,1660 1332,1660 1332,1600"
+                },
+                "text": "stellate"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1362,1603 1362,1663 1603,1663 1603,1603"
+                },
+                "text": "ganglion,"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1626,1606 1626,1666 1742,1666 1742,1606"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1765,1606 1765,1666 1867,1666 1867,1606"
+                },
+                "text": "lobe"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1897,1606 1897,1666 1977,1666 1977,1606"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "2014,1606 2014,1666 2175,1666 2175,1606"
+                },
+                "text": "mantle"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "241,1742 601,1783 640,1751 851,1785 951,1751 1009,1785 1172,1751 2141,1761 2138,1708 1890,1683 1754,1717 1182,1676 954,1712 241,1693"
+            },
+            "baseline": {
+              "points": "253,1733 347,1736 442,1736 536,1736 631,1739 726,1739 820,1739 915,1739 1009,1742 1104,1742 1199,1739 1293,1742 1388,1742 1482,1742 1577,1744 1672,1745 1766,1745 1861,1745 1955,1745 2050,1748 2145,1745"
+            },
+            "text": "muscle of the squid Loligo opalescens. The results of this study indicate",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "244,1695 244,1755 408,1755 408,1695"
+                },
+                "text": "muscle"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "436,1696 436,1756 483,1756 483,1696"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "512,1696 512,1756 579,1756 579,1696"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "607,1699 607,1759 737,1759 737,1699"
+                },
+                "text": "squid"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "772,1699 772,1759 915,1759 915,1699"
+                },
+                "text": "Loligo"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "943,1702 943,1762 1237,1762 1237,1702"
+                },
+                "text": "opalescens."
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1265,1702 1265,1762 1354,1762 1354,1702"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1389,1702 1389,1762 1552,1762 1552,1702"
+                },
+                "text": "results"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1581,1704 1581,1764 1628,1764 1628,1704"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1649,1705 1649,1765 1738,1765 1738,1705"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1759,1705 1759,1765 1895,1765 1895,1705"
+                },
+                "text": "study"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1930,1707 1930,1767 2121,1767 2121,1707"
+                },
+                "text": "indicate"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "243,1856 2031,1868 2029,1810 1961,1790 243,1783"
+            },
+            "baseline": {
+              "points": "256,1831 344,1834 433,1837 522,1834 611,1837 700,1840 789,1837 878,1840 967,1840 1056,1840 1145,1840 1233,1840 1322,1842 1411,1841 1500,1840 1589,1843 1678,1843 1767,1844 1856,1843 1945,1843 2034,1846"
+            },
+            "text": "the presence of additional Na channel mRNAs with partial sequence",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "246,1791 246,1851 315,1851 315,1791"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "351,1796 351,1856 566,1856 566,1796"
+                },
+                "text": "presence"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "595,1797 595,1857 643,1857 643,1797"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "664,1797 664,1857 929,1857 929,1797"
+                },
+                "text": "additional"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "951,1800 951,1860 1006,1860 1006,1800"
+                },
+                "text": "Na"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1035,1800 1035,1860 1244,1860 1244,1800"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1258,1801 1258,1861 1439,1861 1439,1801"
+                },
+                "text": "mRNAs"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1460,1800 1460,1860 1557,1860 1557,1800"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1601,1803 1601,1863 1767,1863 1767,1803"
+                },
+                "text": "partial"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1789,1803 1789,1863 2011,1863 2011,1803"
+                },
+                "text": "sequence"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "241,1939 1185,1987 2126,1970 2124,1890 241,1883"
+            },
+            "baseline": {
+              "points": "253,1936 346,1936 440,1935 534,1937 628,1938 722,1938 816,1939 909,1939 1003,1941 1097,1939 1191,1942 1285,1939 1379,1942 1473,1945 1566,1945 1660,1945 1754,1943 1848,1947 1942,1945 2036,1948 2130,1948"
+            },
+            "text": "homology to GFLNI mRNA in squid stellate ganglion and optic lobe, and",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "244,1895 244,1955 480,1955 480,1895"
+                },
+                "text": "homology"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "516,1896 516,1956 550,1956 550,1896"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "586,1898 586,1958 738,1958 738,1898"
+                },
+                "text": "GFLNI"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "767,1899 767,1959 913,1959 913,1899"
+                },
+                "text": "mRNA"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "949,1900 949,1960 983,1960 983,1900"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1019,1899 1019,1959 1136,1959 1136,1899"
+                },
+                "text": "squid"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1172,1899 1172,1959 1345,1959 1345,1899"
+                },
+                "text": "stellate"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1374,1905 1374,1965 1583,1965 1583,1905"
+                },
+                "text": "ganglion"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1619,1905 1619,1965 1695,1965 1695,1905"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1730,1904 1730,1964 1848,1964 1848,1904"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1877,1905 1877,1965 2001,1965 2001,1905"
+                },
+                "text": "lobe,"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "2023,1908 2023,1968 2099,1968 2099,1908"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "248,2060 2204,2075 2204,1978 248,1997"
+            },
+            "baseline": {
+              "points": "262,2034 359,2034 456,2034 553,2034 651,2036 748,2037 845,2037 942,2037 1040,2037 1137,2039 1234,2040 1331,2043 1429,2043 1526,2043 1623,2042 1720,2043 1818,2045 1915,2046 2012,2046 2109,2046 2207,2049"
+            },
+            "text": "provide evidence for the expression of Na channel mRNA in mantle muscle",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "244,1994 244,2054 431,2054 431,1994"
+                },
+                "text": "provide"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "466,1994 466,2054 680,2054 680,1994"
+                },
+                "text": "evidence"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "709,1996 709,2056 777,2056 777,1996"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "806,1997 806,2057 875,2057 875,1997"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "903,1997 903,2057 1166,2057 1166,1997"
+                },
+                "text": "expression"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1201,1999 1201,2059 1242,2059 1242,1999"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1271,2001 1271,2061 1318,2061 1318,2001"
+                },
+                "text": "Na"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1354,2003 1354,2063 1554,2063 1554,2003"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1576,2002 1576,2062 1720,2062 1720,2002"
+                },
+                "text": "mRNA"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1756,2004 1756,2064 1790,2064 1790,2004"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1825,2005 1825,2065 1991,2065 1991,2005"
+                },
+                "text": "mantle"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "2019,2006 2019,2066 2185,2066 2185,2006"
+                },
+                "text": "muscle"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "241,2165 389,2143 472,2170 518,2145 552,2165 598,2148 815,2150 812,2085 652,2097 630,2077 523,2107 445,2075 392,2107 345,2082 241,2090"
+            },
+            "baseline": {
+              "points": "253,2133 281,2135 309,2136 338,2136 366,2136 394,2136 423,2136 451,2137 479,2139 508,2139 536,2138 564,2136 593,2138 621,2139 649,2139 678,2139 706,2139 734,2139 763,2139 791,2139 820,2139"
+            },
+            "text": "cells of L. opalescens.",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "243,2095 243,2155 353,2155 353,2095"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "379,2096 379,2156 427,2156 427,2096"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "453,2098 453,2158 495,2158 495,2098"
+                },
+                "text": "L."
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "509,2099 509,2159 811,2159 811,2099"
+                },
+                "text": "opalescens."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "231,2338 423,2369 452,2347 601,2347 625,2362 703,2350 703,2277 596,2274 559,2238 528,2238 479,2282 358,2274 231,2299"
+            },
+            "baseline": {
+              "points": "244,2333 269,2331 295,2330 321,2332 346,2332 372,2330 398,2331 424,2333 449,2333 475,2333 501,2333 526,2334 552,2336 578,2335 604,2333 629,2331 655,2331 681,2332 707,2333"
+            },
+            "text": "INTRODUCTION",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "235,2293 235,2353 682,2353 682,2293"
+                },
+                "text": "INTRODUCTION"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "394,2549 2143,2559 2104,2474 954,2496 890,2464 847,2493 793,2442 725,2486 394,2486"
+            },
+            "baseline": {
+              "points": "408,2529 495,2535 582,2535 669,2532 756,2527 843,2531 930,2534 1017,2533 1104,2535 1191,2533 1278,2534 1365,2537 1452,2538 1539,2538 1626,2538 1713,2538 1800,2535 1887,2535 1974,2538 2061,2541 2148,2541"
+            },
+            "text": "Na channels-the voltage-dependent ionic channels responsible for",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "397,2490 397,2550 448,2550 448,2490"
+                },
+                "text": "Na"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "482,2492 482,2552 823,2552 823,2492"
+                },
+                "text": "channels-the"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "850,2494 850,2554 1343,2554 1343,2494"
+                },
+                "text": "voltage-dependent"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "1363,2497 1363,2557 1474,2557 1474,2497"
+                },
+                "text": "ionic"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1501,2498 1501,2558 1730,2558 1730,2498"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1757,2495 1757,2555 2039,2555 2039,2495"
+                },
+                "text": "responsible"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "2073,2501 2073,2561 2138,2561 2138,2501"
+                },
+                "text": "for"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "236,2654 2124,2659 2124,2603 1827,2576 236,2600"
+            },
+            "baseline": {
+              "points": "250,2625 344,2631 438,2633 532,2631 626,2633 720,2631 814,2632 908,2634 1002,2634 1096,2634 1190,2634 1284,2634 1378,2637 1472,2639 1566,2634 1660,2636 1754,2640 1848,2640 1942,2640 2036,2643 2130,2640"
+            },
+            "text": "generation of action potentials-display remarkably similar Na currents",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "239,2591 239,2651 500,2651 500,2591"
+                },
+                "text": "generation"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "541,2591 541,2651 587,2651 587,2591"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "608,2591 608,2651 748,2651 748,2591"
+                },
+                "text": "action"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "789,2594 789,2654 1259,2654 1259,2594"
+                },
+                "text": "potentials-display"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "1300,2598 1300,2658 1581,2658 1581,2598"
+                },
+                "text": "remarkably"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1616,2597 1616,2657 1790,2657 1790,2597"
+                },
+                "text": "similar"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1818,2600 1818,2660 1870,2660 1870,2600"
+                },
+                "text": "Na"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1905,2602 1905,2662 2112,2662 2112,2602"
+                },
+                "text": "currents"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "243,2746 1968,2778 2126,2756 2124,2700 241,2700"
+            },
+            "baseline": {
+              "points": "253,2729 346,2726 440,2726 534,2728 628,2729 722,2727 816,2734 909,2735 1003,2733 1097,2735 1191,2735 1285,2735 1379,2735 1473,2736 1566,2738 1660,2738 1754,2738 1848,2738 1942,2741 2036,2741 2130,2741"
+            },
+            "text": "across different phyla (Shaller et al, 1992). Despite this conservation in",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "244,2686 244,2746 396,2746 396,2686"
+                },
+                "text": "across"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "418,2687 418,2747 646,2747 646,2687"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "668,2687 668,2747 799,2747 799,2687"
+                },
+                "text": "phyla"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "835,2694 835,2754 1029,2754 1029,2694"
+                },
+                "text": "(Shaller"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1058,2694 1058,2754 1098,2754 1098,2694"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1120,2695 1120,2755 1182,2755 1182,2695"
+                },
+                "text": "al,"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1203,2695 1203,2755 1362,2755 1362,2695"
+                },
+                "text": "1992)."
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1398,2696 1398,2756 1578,2756 1578,2696"
+                },
+                "text": "Despite"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1607,2698 1607,2758 1696,2758 1696,2698"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1718,2698 1718,2758 2037,2758 2037,2698"
+                },
+                "text": "conservation"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "2072,2701 2072,2761 2106,2761 2106,2701"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "234,2841 392,2907 601,2846 2153,2875 2153,2788 234,2788"
+            },
+            "baseline": {
+              "points": "247,2831 342,2831 438,2834 533,2834 629,2834 725,2834 820,2834 916,2837 1012,2834 1107,2837 1203,2836 1299,2837 1394,2837 1490,2838 1586,2840 1681,2840 1777,2840 1873,2841 1968,2843 2064,2843 2160,2846"
+            },
+            "text": "functional properties, important differences in toxin sensitivity, antibody",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "237,2791 237,2851 501,2851 501,2791"
+                },
+                "text": "functional"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "523,2794 523,2854 801,2854 801,2794"
+                },
+                "text": "properties,"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "823,2795 823,2855 1080,2855 1080,2795"
+                },
+                "text": "important"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "1102,2796 1102,2856 1380,2856 1380,2796"
+                },
+                "text": "differences"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1409,2797 1409,2857 1443,2857 1443,2797"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1478,2798 1478,2858 1589,2858 1589,2798"
+                },
+                "text": "toxin"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1625,2800 1625,2860 1910,2860 1910,2800"
+                },
+                "text": "sensitivity,"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1932,2803 1932,2863 2147,2863 2147,2803"
+                },
+                "text": "antibody"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2011 @@
+{
+  "processId": 10305333,
+  "status": "FINISHED",
+  "content": {
+    "text": "(essentially, Fick's second equation of diffusion applied to the conduction of heat,\nIncropera and DeWitt 2002).\nConstruction of heat-budget model. Combining these various heating and\ncooling factors via equation (2), one can solve for the predicted body temperature\nat any time, given the instantaneous environmental conditions and the nature of\nthe limpet. A computer program can then model the body temperature over\nmany years based on seasonal, daily, and tidal variation. I entered the data from\nthe Nusselt and Reynolds results (anterior-facing-wind data only), absorptivity,\nrepresentative limpet size, and the constants listed in Table 2 into a generic\nlimpet heat-budget model devised by M. Denny, which assumes that the limpet is\non a planar surface of known inclination and azimuth.\nThis program outputs one body temperature for every 10 minutes, as well\nas a list of when and for how long the model limpet body temperature exceeded\n30\u00b0C, and what the maximum temperature was in each stressful period.\nmodeled the body temperature for 36 years of hypothetical weather, for limpets\n1.5 and 2 m above mean lower low water (MLLW) on a vertical rock surface\nfacing west. Comparing my thermal tolerances to the heat-budget model\nprovides a prediction of how near L. digitalis lives to its temperature limits.\nResults\nThermal limits. In the ten-minute survivorship trials, all Lottia digitalis tested at\n41\u00b0C or lower had resumed responding 24 hours later. All those tested at 45\u00b00\nand above did not survive. In between those two temperatures, limpets showed",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "364,279 364,2917 2188,2917 2188,279"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "363,376 2176,367 2176,267 2123,254 2053,292 2006,258 1915,292 1861,249 1435,299 1328,240 1190,292 363,265"
+            },
+            "baseline": {
+              "points": "376,337 466,334 556,334 646,334 737,334 827,334 917,334 1008,334 1098,334 1188,334 1279,334 1369,334 1459,337 1549,334 1640,334 1730,335 1820,336 1911,335 2001,337 2091,337 2182,343"
+            },
+            "text": "(essentially, Fick's second equation of diffusion applied to the conduction of heat,",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "369,294 369,354 629,354 629,294"
+                },
+                "text": "(essentially,"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "646,294 646,354 763,354 763,294"
+                },
+                "text": "Fick's"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "791,294 791,354 940,354 940,294"
+                },
+                "text": "second"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "969,294 969,354 1146,354 1146,294"
+                },
+                "text": "equation"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "1174,294 1174,354 1218,354 1218,294"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "1235,294 1235,354 1407,354 1407,294"
+                },
+                "text": "diffusion"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1435,295 1435,355 1579,355 1579,295"
+                },
+                "text": "applied"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1613,294 1613,354 1640,354 1640,294"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1669,294 1669,354 1723,354 1723,294"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1752,295 1752,355 1985,355 1985,295"
+                },
+                "text": "conduction"
+              },
+              {
+                "id": "tr_1_tl_1_w11",
+                "coords": {
+                  "points": "2013,297 2013,357 2051,357 2051,297"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_1_w12",
+                "coords": {
+                  "points": "2068,299 2068,359 2179,359 2179,299"
+                },
+                "text": "heat,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "358,449 394,474 537,462 580,501 653,499 693,471 759,499 805,469 911,483 954,462 1008,485 1008,412 956,388 866,412 771,378 716,403 358,410"
+            },
+            "baseline": {
+              "points": "370,447 402,447 434,448 466,450 499,450 531,448 563,448 595,450 628,448 660,447 692,447 724,447 757,445 789,444 821,444 853,446 886,447 918,447 950,447 982,451 1015,450"
+            },
+            "text": "Incropera and DeWitt 2002).",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "359,409 359,469 562,469 562,409"
+                },
+                "text": "Incropera"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "597,407 597,467 664,467 664,407"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "694,404 694,464 846,464 846,404"
+                },
+                "text": "DeWitt"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "864,407 864,467 1010,467 1010,407"
+                },
+                "text": "2002)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "367,582 605,628 877,578 2119,614 2117,524 1965,503 367,508"
+            },
+            "baseline": {
+              "points": "379,564 466,561 553,561 640,564 727,564 814,563 901,564 989,566 1076,564 1163,564 1250,564 1337,564 1424,564 1511,564 1599,564 1686,564 1773,564 1860,564 1947,567 2034,567 2122,564"
+            },
+            "text": "Construction of heat-budget model. Combining these various heating and",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "372,521 372,581 668,581 668,521"
+                },
+                "text": "Construction"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "701,524 701,584 743,584 743,524"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "764,524 764,584 1045,584 1045,524"
+                },
+                "text": "heat-budget"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "1067,524 1067,584 1225,584 1225,524"
+                },
+                "text": "model."
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "1280,524 1280,584 1507,584 1507,524"
+                },
+                "text": "Combining"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1539,524 1539,584 1644,584 1644,524"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1677,524 1677,584 1825,584 1825,524"
+                },
+                "text": "various"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1852,526 1852,586 2005,586 2005,526"
+                },
+                "text": "heating"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "2038,525 2038,585 2106,585 2106,525"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "367,737 458,693 1020,739 1185,689 1278,741 2182,698 2182,623 367,635"
+            },
+            "baseline": {
+              "points": "379,680 469,680 559,680 650,680 740,680 831,683 921,680 1012,683 1102,683 1193,680 1283,680 1373,680 1464,680 1554,680 1645,683 1735,682 1826,680 1916,681 2007,683 2097,683 2188,683"
+            },
+            "text": "cooling factors via equation (2), one can solve for the predicted body temperature",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "372,640 372,700 514,700 514,640"
+                },
+                "text": "cooling"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "546,640 546,700 684,700 684,640"
+                },
+                "text": "factors"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "711,640 711,700 757,700 757,640"
+                },
+                "text": "via"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "790,641 790,701 969,701 969,641"
+                },
+                "text": "equation"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "996,643 996,703 1069,703 1069,643"
+                },
+                "text": "(2),"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1086,642 1086,702 1154,702 1154,642"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1187,640 1187,700 1249,700 1249,640"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1282,640 1282,700 1381,700 1381,640"
+                },
+                "text": "solve"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1409,640 1409,700 1466,700 1466,640"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1483,640 1483,700 1535,700 1535,640"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1567,642 1567,702 1762,702 1762,642"
+                },
+                "text": "predicted"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1789,640 1789,700 1889,700 1889,640"
+                },
+                "text": "body"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1911,643 1911,703 2169,703 2169,643"
+                },
+                "text": "temperature"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "358,829 2146,834 2146,748 358,739"
+            },
+            "baseline": {
+              "points": "370,794 459,797 548,797 637,797 726,797 815,797 904,797 993,797 1082,797 1171,797 1261,797 1350,797 1439,797 1528,797 1617,797 1706,797 1795,797 1884,797 1973,797 2062,797 2152,797"
+            },
+            "text": "at any time, given the instantaneous environmental conditions and the nature of",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "363,754 363,814 402,814 402,754"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "418,756 418,816 488,816 488,756"
+                },
+                "text": "any"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "514,757 514,817 620,817 620,757"
+                },
+                "text": "time,"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "636,757 636,817 742,817 742,757"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "773,757 773,817 827,817 827,757"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "858,757 858,817 1162,817 1162,757"
+                },
+                "text": "instantaneous"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1188,757 1188,817 1506,817 1506,757"
+                },
+                "text": "environmental"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1522,757 1522,817 1734,817 1734,757"
+                },
+                "text": "conditions"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1765,757 1765,817 1835,817 1835,757"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1861,757 1861,817 1917,817 1917,757"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1948,757 1948,817 2073,817 2073,757"
+                },
+                "text": "nature"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "2109,757 2109,817 2144,817 2144,757"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "358,934 2055,956 2055,877 1938,854 358,873"
+            },
+            "baseline": {
+              "points": "370,907 454,910 539,910 623,910 708,912 793,913 877,913 962,913 1046,913 1131,913 1216,913 1300,913 1385,913 1469,912 1554,913 1639,913 1723,913 1808,913 1892,913 1977,910 2062,913"
+            },
+            "text": "the limpet. A computer program can then model the body temperature over",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "363,867 363,927 414,927 414,867"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "446,870 446,930 590,930 590,870"
+                },
+                "text": "limpet."
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "622,870 622,930 637,930 637,870"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "674,872 674,932 876,932 876,872"
+                },
+                "text": "computer"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "897,873 897,933 1057,933 1057,873"
+                },
+                "text": "program"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1099,873 1099,933 1166,933 1166,873"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1192,873 1192,933 1275,933 1275,873"
+                },
+                "text": "then"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1307,873 1307,933 1446,933 1446,873"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1462,872 1462,932 1514,932 1514,872"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1545,873 1545,933 1644,933 1644,873"
+                },
+                "text": "body"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1670,873 1670,933 1929,933 1929,873"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1960,870 1960,930 2048,930 2048,870"
+                },
+                "text": "over"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "360,1036 766,1083 1013,1038 2182,1058 2182,981 2114,965 360,990"
+            },
+            "baseline": {
+              "points": "373,1023 463,1026 554,1023 644,1026 735,1023 826,1026 916,1026 1007,1026 1097,1027 1188,1026 1279,1026 1369,1026 1460,1027 1550,1026 1641,1029 1732,1028 1822,1026 1913,1026 2003,1029 2094,1029 2185,1029"
+            },
+            "text": "many years based on seasonal, daily, and tidal variation. I entered the data from",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "365,984 365,1044 473,1044 473,984"
+                },
+                "text": "many"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "505,983 505,1043 612,1043 612,983"
+                },
+                "text": "years"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "639,984 639,1044 762,1044 762,984"
+                },
+                "text": "based"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "794,985 794,1045 830,1045 830,985"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "862,986 862,1046 1073,1046 1073,986"
+                },
+                "text": "seasonal,"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1094,986 1094,1046 1207,1046 1207,986"
+                },
+                "text": "daily,"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1223,986 1223,1046 1291,1046 1291,986"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1322,986 1322,1046 1415,1046 1415,986"
+                },
+                "text": "tidal"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1431,986 1431,1046 1632,1046 1632,986"
+                },
+                "text": "variation."
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1658,988 1658,1048 1673,1048 1673,988"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1689,987 1689,1047 1849,1047 1849,987"
+                },
+                "text": "entered"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1876,986 1876,1046 1932,1046 1932,986"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1964,989 1964,1049 2046,1049 2046,989"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_7_w14",
+                "coords": {
+                  "points": "2077,989 2077,1049 2144,1049 2144,989"
+                },
+                "text": "from"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "360,1158 460,1194 555,1156 1076,1156 1183,1212 1618,1158 2108,1197 2108,1099 1947,1072 1750,1106 360,1090"
+            },
+            "baseline": {
+              "points": "373,1140 460,1140 547,1140 634,1143 721,1143 808,1140 895,1143 982,1143 1069,1143 1156,1143 1243,1143 1330,1143 1417,1143 1504,1143 1591,1143 1678,1143 1765,1143 1852,1143 1939,1143 2026,1143 2113,1146"
+            },
+            "text": "the Nusselt and Reynolds results (anterior-facing-wind data only), absorptivity,",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "366,1100 366,1160 415,1160 415,1100"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "449,1100 449,1160 615,1160 615,1100"
+                },
+                "text": "Nusselt"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "633,1103 633,1163 699,1163 699,1103"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "727,1100 727,1160 927,1160 927,1100"
+                },
+                "text": "Reynolds"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "955,1103 955,1163 1088,1163 1088,1103"
+                },
+                "text": "results"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1116,1103 1116,1163 1560,1163 1560,1103"
+                },
+                "text": "(anterior-facing-wind"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1589,1103 1589,1163 1671,1163 1671,1103"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1706,1103 1706,1163 1827,1163 1827,1103"
+                },
+                "text": "only),"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1845,1103 1845,1163 2111,1163 2111,1103"
+                },
+                "text": "absorptivity,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "360,1274 433,1305 947,1274 1031,1326 1165,1269 2069,1278 2069,1219 1740,1192 360,1219"
+            },
+            "baseline": {
+              "points": "373,1259 458,1259 543,1256 628,1256 713,1258 798,1259 883,1257 968,1259 1053,1259 1138,1259 1223,1259 1308,1259 1393,1259 1478,1259 1563,1257 1648,1259 1733,1259 1818,1259 1903,1259 1988,1259 2074,1262"
+            },
+            "text": "representative limpet size, and the constants listed in Table 2 into a generic",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "360,1217 360,1277 669,1277 669,1217"
+                },
+                "text": "representative"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "702,1218 702,1278 834,1278 834,1218"
+                },
+                "text": "limpet"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "851,1217 851,1277 952,1277 952,1217"
+                },
+                "text": "size,"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "974,1219 974,1279 1037,1279 1037,1219"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "1070,1219 1070,1279 1123,1279 1123,1219"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1155,1219 1155,1279 1357,1279 1357,1219"
+                },
+                "text": "constants"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1385,1219 1385,1279 1485,1279 1485,1219"
+                },
+                "text": "listed"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1518,1217 1518,1277 1539,1277 1539,1217"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1572,1218 1572,1278 1683,1278 1683,1218"
+                },
+                "text": "Table"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1716,1219 1716,1279 1726,1279 1726,1219"
+                },
+                "text": "2"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1758,1219 1758,1279 1822,1279 1822,1219"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1854,1219 1854,1279 1864,1279 1864,1219"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1897,1219 1897,1279 2051,1279 2051,1219"
+                },
+                "text": "generic"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "367,1410 1312,1425 1534,1387 1593,1437 1818,1387 1881,1425 2180,1394 2180,1321 1972,1305 367,1323"
+            },
+            "baseline": {
+              "points": "379,1373 469,1373 559,1373 649,1373 740,1376 830,1376 920,1376 1011,1376 1101,1376 1191,1373 1282,1376 1372,1376 1462,1375 1552,1376 1643,1376 1733,1376 1823,1376 1914,1376 2004,1376 2094,1376 2185,1376"
+            },
+            "text": "limpet heat-budget model devised by M. Denny, which assumes that the limpet is",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "372,1333 372,1393 504,1393 504,1333"
+                },
+                "text": "limpet"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "520,1333 520,1393 785,1393 785,1333"
+                },
+                "text": "heat-budget"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "806,1336 806,1396 938,1396 938,1336"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "955,1336 955,1396 1113,1396 1113,1336"
+                },
+                "text": "devised"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1146,1333 1146,1393 1182,1393 1182,1333"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1209,1334 1209,1394 1261,1394 1261,1334"
+                },
+                "text": "M."
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1278,1336 1278,1396 1436,1396 1436,1336"
+                },
+                "text": "Denny,"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1453,1335 1453,1395 1563,1395 1563,1335"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1596,1336 1596,1396 1786,1396 1786,1336"
+                },
+                "text": "assumes"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1813,1336 1813,1396 1897,1396 1897,1336"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1913,1336 1913,1396 1966,1396 1966,1336"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1999,1336 1999,1396 2130,1396 2130,1336"
+                },
+                "text": "limpet"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "2147,1336 2147,1396 2172,1396 2172,1336"
+                },
+                "text": "is"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "360,1521 1555,1509 1539,1428 882,1425 811,1459 360,1419"
+            },
+            "baseline": {
+              "points": "373,1486 432,1489 491,1489 551,1489 610,1489 670,1489 729,1489 788,1489 848,1489 907,1489 967,1489 1026,1489 1085,1489 1145,1489 1204,1489 1264,1489 1323,1489 1382,1489 1442,1489 1501,1489 1561,1489"
+            },
+            "text": "on a planar surface of known inclination and azimuth.",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "365,1446 365,1506 405,1506 405,1446"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "436,1449 436,1509 445,1509 445,1449"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "476,1449 476,1509 612,1509 612,1449"
+                },
+                "text": "planar"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "633,1449 633,1509 784,1509 784,1449"
+                },
+                "text": "surface"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "815,1449 815,1509 850,1509 850,1449"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "871,1449 871,1509 997,1509 997,1449"
+                },
+                "text": "known"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1028,1449 1028,1509 1239,1509 1239,1449"
+                },
+                "text": "inclination"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1270,1449 1270,1509 1336,1509 1336,1449"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1367,1449 1367,1509 1553,1509 1553,1449"
+                },
+                "text": "azimuth."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "501,1629 1083,1616 1163,1659 2157,1616 2157,1559 1854,1543 501,1561"
+            },
+            "baseline": {
+              "points": "513,1600 595,1602 678,1603 760,1604 843,1603 925,1603 1008,1603 1090,1603 1173,1603 1255,1603 1338,1606 1421,1606 1503,1606 1586,1603 1668,1605 1751,1603 1833,1606 1916,1606 1998,1606 2081,1606 2164,1609"
+            },
+            "text": "This program outputs one body temperature for every 10 minutes, as well",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "507,1560 507,1620 588,1620 588,1560"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "616,1563 616,1623 773,1623 773,1563"
+                },
+                "text": "program"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "818,1563 818,1623 970,1623 970,1563"
+                },
+                "text": "outputs"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "998,1563 998,1623 1068,1623 1068,1563"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1096,1563 1096,1623 1194,1623 1194,1563"
+                },
+                "text": "body"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1222,1566 1222,1626 1477,1626 1477,1566"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1511,1564 1511,1624 1565,1624 1565,1564"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1582,1564 1582,1624 1696,1624 1696,1564"
+                },
+                "text": "every"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1724,1563 1724,1623 1767,1623 1767,1563"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1795,1566 1795,1626 1985,1626 1985,1566"
+                },
+                "text": "minutes,"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "2002,1566 2002,1626 2040,1626 2040,1566"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "2068,1567 2068,1627 2154,1627 2154,1567"
+                },
+                "text": "well"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "363,1743 916,1731 1178,1770 1505,1736 1815,1779 1913,1731 2078,1772 2146,1731 2146,1668 2012,1652 1265,1691 691,1672 610,1634 363,1666"
+            },
+            "baseline": {
+              "points": "376,1719 464,1719 553,1719 642,1719 731,1719 820,1719 908,1722 997,1722 1086,1719 1175,1719 1264,1719 1352,1722 1441,1720 1530,1720 1619,1719 1708,1722 1796,1722 1885,1722 1974,1722 2063,1722 2152,1725"
+            },
+            "text": "as a list of when and for how long the model limpet body temperature exceeded",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "363,1679 363,1739 405,1739 405,1679"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "437,1679 437,1739 447,1739 447,1679"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "474,1679 474,1739 537,1739 537,1679"
+                },
+                "text": "list"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "553,1679 553,1739 590,1739 590,1679"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "606,1679 606,1739 711,1739 711,1679"
+                },
+                "text": "when"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "743,1679 743,1739 811,1739 811,1679"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "844,1680 844,1740 896,1740 896,1680"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "912,1682 912,1742 981,1742 981,1682"
+                },
+                "text": "how"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1019,1679 1019,1739 1097,1739 1097,1679"
+                },
+                "text": "long"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1130,1679 1130,1739 1182,1739 1182,1679"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1214,1679 1214,1739 1351,1739 1351,1679"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1362,1680 1362,1740 1499,1740 1499,1680"
+                },
+                "text": "limpet"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1515,1679 1515,1739 1610,1739 1610,1679"
+                },
+                "text": "body"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "1637,1682 1637,1742 1895,1742 1895,1682"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_13_w15",
+                "coords": {
+                  "points": "1928,1682 1928,1742 2128,1742 2128,1682"
+                },
+                "text": "exceeded"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "358,1867 680,1910 789,1858 1197,1892 1280,1854 1380,1883 1725,1849 1933,1899 2010,1852 1994,1770 1922,1806 358,1784"
+            },
+            "baseline": {
+              "points": "370,1839 452,1836 534,1839 616,1839 699,1839 781,1839 863,1839 945,1839 1028,1839 1110,1840 1192,1840 1274,1839 1357,1839 1439,1841 1521,1840 1603,1840 1686,1839 1768,1841 1850,1841 1932,1841 2015,1839"
+            },
+            "text": "30\u00b0C, and what the maximum temperature was in each stressful period.",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "363,1796 363,1856 489,1856 489,1796"
+                },
+                "text": "30\u00b0C,"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "504,1799 504,1859 569,1859 569,1799"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "600,1799 600,1859 706,1859 706,1799"
+                },
+                "text": "what"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "722,1799 722,1859 778,1859 778,1799"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "809,1799 809,1859 995,1859 995,1799"
+                },
+                "text": "maximum"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1041,1800 1041,1860 1299,1860 1299,1800"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1330,1799 1330,1859 1405,1859 1405,1799"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1431,1800 1431,1860 1456,1860 1456,1800"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1487,1800 1487,1860 1577,1860 1577,1800"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1609,1799 1609,1859 1801,1859 1801,1799"
+                },
+                "text": "stressful"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1817,1801 1817,1861 1968,1861 1968,1801"
+                },
+                "text": "period."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "351,1976 544,2010 807,1972 2130,1976 2130,1910 2076,1899 351,1913"
+            },
+            "baseline": {
+              "points": "364,1955 452,1958 541,1955 629,1958 718,1958 807,1955 895,1958 984,1958 1073,1958 1161,1958 1250,1958 1339,1958 1427,1958 1516,1958 1605,1958 1693,1958 1782,1958 1871,1958 1959,1958 2048,1958 2137,1961"
+            },
+            "text": "modeled the body temperature for 36 years of hypothetical weather, for limpets",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "356,1917 356,1977 537,1977 537,1917"
+                },
+                "text": "modeled"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "564,1916 564,1976 617,1976 617,1916"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "650,1918 650,1978 745,1978 745,1918"
+                },
+                "text": "body"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "772,1918 772,1978 1033,1978 1033,1918"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1061,1918 1061,1978 1119,1978 1119,1918"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1136,1918 1136,1978 1178,1978 1178,1918"
+                },
+                "text": "36"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1205,1918 1205,1978 1316,1978 1316,1918"
+                },
+                "text": "years"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1343,1918 1343,1978 1386,1978 1386,1918"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1403,1918 1403,1978 1674,1978 1674,1918"
+                },
+                "text": "hypothetical"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1691,1918 1691,1978 1883,1978 1883,1918"
+                },
+                "text": "weather,"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1899,1918 1899,1978 1952,1978 1952,1918"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1974,1918 1974,1978 2122,1978 2122,1918"
+                },
+                "text": "limpets"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "358,2108 2060,2105 2060,2035 1854,2012 798,2042 555,2003 478,2040 428,2003 358,2040"
+            },
+            "baseline": {
+              "points": "370,2071 454,2074 539,2074 624,2072 709,2074 793,2074 878,2074 963,2074 1048,2074 1132,2074 1217,2074 1302,2074 1387,2074 1471,2074 1556,2074 1641,2074 1726,2074 1810,2074 1895,2074 1980,2074 2065,2077"
+            },
+            "text": "1.5 and 2 m above mean lower low water (MLLW) on a vertical rock surface",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "358,2031 358,2091 406,2091 406,2031"
+                },
+                "text": "1.5"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "438,2034 438,2094 507,2094 507,2034"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "534,2033 534,2093 550,2093 550,2033"
+                },
+                "text": "2"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "577,2032 577,2092 592,2092 592,2032"
+                },
+                "text": "m"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "636,2033 636,2093 758,2093 758,2033"
+                },
+                "text": "above"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "791,2034 791,2094 897,2094 897,2034"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "930,2034 930,2094 1047,2094 1047,2034"
+                },
+                "text": "lower"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1064,2034 1064,2094 1116,2094 1116,2034"
+                },
+                "text": "low"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1154,2034 1154,2094 1272,2094 1272,2034"
+                },
+                "text": "water"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1294,2034 1294,2094 1475,2094 1475,2034"
+                },
+                "text": "(MLLW)"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1491,2034 1491,2094 1528,2094 1528,2034"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1561,2034 1561,2094 1571,2094 1571,2034"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1604,2034 1604,2094 1764,2094 1764,2034"
+                },
+                "text": "vertical"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "1780,2034 1780,2094 1865,2094 1865,2034"
+                },
+                "text": "rock"
+              },
+              {
+                "id": "tr_1_tl_16_w15",
+                "coords": {
+                  "points": "1893,2034 1893,2094 2041,2094 2041,2034"
+                },
+                "text": "surface"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "360,2201 777,2244 1135,2196 1339,2259 1557,2201 2031,2228 2031,2123 1997,2119 1836,2155 1181,2112 1101,2157 687,2162 603,2114 514,2155 360,2128"
+            },
+            "baseline": {
+              "points": "373,2191 456,2188 539,2188 622,2190 705,2191 788,2191 871,2191 955,2191 1038,2191 1121,2191 1204,2189 1287,2188 1370,2189 1453,2188 1537,2191 1620,2191 1703,2191 1786,2191 1869,2191 1952,2191 2036,2194"
+            },
+            "text": "facing west. Comparing my thermal tolerances to the heat-budget model",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "366,2149 366,2209 484,2209 484,2149"
+                },
+                "text": "facing"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "512,2148 512,2208 625,2208 625,2148"
+                },
+                "text": "west."
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "685,2151 685,2211 918,2211 918,2151"
+                },
+                "text": "Comparing"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "951,2151 951,2211 1004,2211 1004,2151"
+                },
+                "text": "my"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "1032,2151 1032,2211 1194,2211 1194,2151"
+                },
+                "text": "thermal"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1211,2148 1211,2208 1432,2208 1432,2148"
+                },
+                "text": "tolerances"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1460,2148 1460,2208 1481,2208 1481,2148"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1514,2151 1514,2211 1568,2211 1568,2151"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1596,2151 1596,2211 1866,2211 1866,2151"
+                },
+                "text": "heat-budget"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1883,2151 1883,2211 2017,2211 2017,2151"
+                },
+                "text": "model"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "354,2327 723,2370 891,2318 938,2357 1183,2312 1670,2364 1779,2316 2010,2318 2010,2264 1954,2246 1176,2278 909,2237 854,2271 354,2248"
+            },
+            "baseline": {
+              "points": "367,2313 449,2304 531,2304 614,2304 696,2304 779,2304 861,2304 943,2304 1026,2304 1108,2306 1191,2307 1273,2306 1355,2306 1438,2304 1520,2304 1603,2304 1685,2307 1767,2307 1850,2307 1932,2307 2015,2307"
+            },
+            "text": "provides a prediction of how near L. digitalis lives to its temperature limits.",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "359,2264 359,2324 534,2324 534,2264"
+                },
+                "text": "provides"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "567,2264 567,2324 577,2324 577,2264"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "609,2264 609,2324 811,2324 811,2264"
+                },
+                "text": "prediction"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "844,2264 844,2324 880,2324 880,2264"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "897,2264 897,2324 965,2324 965,2264"
+                },
+                "text": "how"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1003,2264 1003,2324 1098,2324 1098,2264"
+                },
+                "text": "near"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1120,2266 1120,2326 1156,2326 1156,2266"
+                },
+                "text": "L."
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1178,2266 1178,2326 1332,2326 1332,2266"
+                },
+                "text": "digitalis"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1359,2264 1359,2324 1444,2324 1444,2264"
+                },
+                "text": "lives"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1476,2264 1476,2324 1502,2324 1502,2264"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1529,2264 1529,2324 1566,2324 1566,2264"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1593,2267 1593,2327 1853,2327 1853,2267"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1886,2267 1886,2327 2013,2327 2013,2267"
+                },
+                "text": "limits."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "351,2536 428,2570 456,2572 469,2563 494,2579 521,2561 544,2579 564,2579 564,2482 505,2491 444,2475 428,2484 419,2475 403,2484 383,2463 351,2461"
+            },
+            "baseline": {
+              "points": "364,2534 389,2532 415,2531 441,2531 467,2532 492,2534 518,2534 544,2534 570,2534"
+            },
+            "text": "Results",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "358,2491 358,2551 536,2551 536,2491"
+                },
+                "text": "Results"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "358,2681 2139,2688 2139,2579 2046,2572 1901,2606 1811,2568 1750,2608 1677,2577 358,2599"
+            },
+            "baseline": {
+              "points": "370,2648 458,2651 547,2651 636,2651 725,2651 814,2651 902,2648 991,2648 1080,2651 1169,2651 1258,2651 1346,2651 1435,2651 1524,2651 1613,2654 1702,2653 1790,2654 1879,2652 1968,2653 2057,2653 2146,2654"
+            },
+            "text": "Thermal limits. In the ten-minute survivorship trials, all Lottia digitalis tested at",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "364,2611 364,2671 558,2671 558,2611"
+                },
+                "text": "Thermal"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "570,2611 570,2671 716,2671 716,2611"
+                },
+                "text": "limits."
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "743,2611 743,2671 775,2671 775,2611"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "803,2610 803,2670 857,2670 857,2610"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "884,2608 884,2668 1106,2668 1106,2608"
+                },
+                "text": "ten-minute"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1139,2611 1139,2671 1393,2671 1393,2611"
+                },
+                "text": "survivorship"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1421,2611 1421,2671 1540,2671 1540,2611"
+                },
+                "text": "trials,"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1557,2612 1557,2672 1605,2672 1605,2612"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1622,2613 1622,2673 1730,2673 1730,2613"
+                },
+                "text": "Lottia"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1763,2612 1763,2672 1919,2672 1919,2612"
+                },
+                "text": "digitalis"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1942,2613 1942,2673 2066,2673 2066,2613"
+                },
+                "text": "tested"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "2099,2613 2099,2673 2136,2673 2136,2613"
+                },
+                "text": "at"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "358,2781 1629,2826 1804,2778 2024,2819 2092,2772 2137,2797 2135,2726 1666,2697 1584,2738 1147,2701 585,2735 449,2699 356,2733"
+            },
+            "baseline": {
+              "points": "370,2764 458,2767 547,2770 635,2770 724,2770 813,2767 901,2770 990,2770 1079,2767 1167,2770 1256,2770 1345,2770 1433,2770 1522,2770 1611,2771 1699,2770 1788,2770 1877,2770 1965,2770 2054,2770 2143,2767"
+            },
+            "text": "41\u00b0C or lower had resumed responding 24 hours later. All those tested at 45\u00b00",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "356,2725 356,2785 454,2785 454,2725"
+                },
+                "text": "41\u00b0C"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "490,2728 490,2788 526,2788 526,2728"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "547,2730 547,2790 661,2790 661,2730"
+                },
+                "text": "lower"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "683,2730 683,2790 749,2790 749,2730"
+                },
+                "text": "had"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "781,2728 781,2788 962,2788 962,2728"
+                },
+                "text": "resumed"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "994,2728 994,2788 1227,2788 1227,2728"
+                },
+                "text": "responding"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1259,2730 1259,2790 1294,2790 1294,2730"
+                },
+                "text": "24"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1326,2730 1326,2790 1440,2790 1440,2730"
+                },
+                "text": "hours"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1466,2730 1466,2790 1580,2790 1580,2730"
+                },
+                "text": "later."
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1606,2730 1606,2790 1663,2790 1663,2730"
+                },
+                "text": "All"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1679,2730 1679,2790 1787,2790 1787,2730"
+                },
+                "text": "those"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1819,2730 1819,2790 1943,2790 1943,2730"
+                },
+                "text": "tested"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "1975,2730 1975,2790 2011,2790 2011,2730"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_21_w14",
+                "coords": {
+                  "points": "2027,2729 2027,2789 2119,2789 2119,2729"
+                },
+                "text": "45\u00b00"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "351,2889 585,2951 768,2910 807,2944 1054,2923 1092,2962 1165,2914 1541,2946 1670,2908 1820,2962 1879,2910 2051,2948 2146,2905 2146,2842 1994,2828 351,2837"
+            },
+            "baseline": {
+              "points": "364,2886 453,2886 542,2886 632,2886 721,2886 811,2886 900,2886 989,2886 1079,2886 1168,2886 1258,2886 1347,2886 1436,2886 1526,2886 1615,2889 1705,2889 1794,2889 1883,2889 1973,2889 2062,2889 2152,2886"
+            },
+            "text": "and above did not survive. In between those two temperatures, limpets showed",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "351,2846 351,2906 416,2906 416,2846"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "447,2846 447,2906 569,2906 569,2846"
+                },
+                "text": "above"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "601,2846 601,2906 651,2906 651,2846"
+                },
+                "text": "did"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "682,2846 682,2906 752,2906 752,2846"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "768,2846 768,2906 941,2906 941,2846"
+                },
+                "text": "survive."
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "967,2846 967,2906 997,2906 997,2846"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1028,2846 1028,2906 1206,2906 1206,2846"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1232,2846 1232,2906 1344,2906 1344,2846"
+                },
+                "text": "those"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1375,2846 1375,2906 1436,2906 1436,2846"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1467,2849 1467,2909 1782,2909 1782,2849"
+                },
+                "text": "temperatures,"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1798,2849 1798,2909 1946,2909 1946,2849"
+                },
+                "text": "limpets"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1977,2849 1977,2909 2134,2909 2134,2849"
+                },
+                "text": "showed"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

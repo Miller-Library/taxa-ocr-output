@@ -1,0 +1,2621 @@
+{
+  "processId": 10306330,
+  "status": "FINISHED",
+  "content": {
+    "text": "Introduction\nFast developing and reproducing, the zebrafish Danio rerio undergoes enormous development\nin the first few days of its life. Its visual capabilities grow especially rapidly, enabling zebrafish larvae\nto pursue moving prey by its second day after hatching. Early researchers had presumed this prey-\npursuit milestone to mark the official beginning of zebrafish visual behavior (Clark, 1981); however,\nmore recent findings have revealed even earlier signs. Barely-hatched fish, for example, may exhibit\na visually-evoked startle response (as opposed to touch-evoked response, which begins even earlier).\nNext, tracking eye movements often kick in a few hours later. (Easter and Nicola, 1996) Ultimately, a\nvigorous, adult-like saccade reflex may begin to develop in larvae as early as 3 days after hatching.\n(Easter and Nicola, 1997)\nNecessarily, the brain region largely responsible for these behaviors - the optic tectum (or, in\nmammals, the superior colliculus) - develops at a hectic pace during these first few days. Comprising\ntwo conspicuous, layered structures atop the teleost brain, this complex integrative center is\nresponsible for numerous functions, including the execution of precise visuomotor capabilities (Salas,\net al. 1997). The optic tectum is also the home of a retinotopic map: the superficial layer of each\nlobe of the tectum receives input from the contralateral retina in a precise, organized fashion.\nEnergetic formation of this map begins just 3 days after hatching, as retinal ganglion cells (RGCS)\nproject axons into the outermost reaches of the tectum.\nIn this project, I recorded the morphological development of the zebrafish brain, examining\nfish at 3 days, 5 days, and 7 days after hatching. Because the brain's 3-D layout is so integral to its\nfunction, I used methods which would elaborate this layout. Namely, I approached the task through\nthree different sets of 3-D images: serial sectioning; confocal microscopy; and scanning electron\nmicroscopy.\nTo begin, I serially sectioned one complete brain for each age, ultimately producing for each a\ncataloque of consecutive, 3-micron-thick sections for examination under a conventional light",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "226,236 226,2970 2318,2970 2318,236"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "1182,315 1254,320 1273,336 1291,318 1322,323 1356,304 1379,312 1405,302 1434,318 1496,304 1496,200 1447,203 1429,190 1405,213 1379,206 1366,216 1309,203 1288,219 1231,226 1205,247 1182,242"
+            },
+            "baseline": {
+              "points": "1196,289 1221,291 1247,292 1273,292 1298,292 1324,292 1350,292 1375,292 1401,292 1427,292 1452,292 1478,291 1504,289"
+            },
+            "text": "Introduction",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "1188,252 1188,312 1482,312 1482,252"
+                },
+                "text": "Introduction"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "367,437 830,461 958,424 1124,466 1317,414 1629,471 1848,422 2303,453 2303,351 2183,323 2074,362 1939,323 1811,375 1569,323 997,354 940,302 812,357 367,346"
+            },
+            "baseline": {
+              "points": "382,396 478,399 574,396 671,399 767,399 864,397 960,399 1056,399 1153,399 1249,401 1346,401 1442,402 1538,399 1635,399 1731,399 1828,399 1924,399 2020,401 2117,401 2213,402 2310,402"
+            },
+            "text": "Fast developing and reproducing, the zebrafish Danio rerio undergoes enormous development",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "372,356 372,416 449,416 449,356"
+                },
+                "text": "Fast"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "470,356 470,416 677,416 677,356"
+                },
+                "text": "developing"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "708,359 708,419 770,419 770,359"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "796,358 796,418 1049,418 1049,358"
+                },
+                "text": "reproducing,"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1070,359 1070,419 1121,419 1121,359"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1148,360 1148,420 1318,420 1318,360"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1350,361 1350,421 1453,421 1453,361"
+                },
+                "text": "Danio"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1484,359 1484,419 1561,419 1561,359"
+                },
+                "text": "rerio"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1588,359 1588,419 1794,419 1794,359"
+                },
+                "text": "undergoes"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1815,359 1815,419 2011,419 2011,359"
+                },
+                "text": "enormous"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "2038,361 2038,421 2296,421 2296,361"
+                },
+                "text": "development"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "216,539 349,523 429,562 541,518 773,578 859,534 986,575 1228,531 1437,570 1668,536 1918,583 2246,536 2303,570 2301,468 1858,427 1653,479 1450,437 1348,481 1031,440 213,474"
+            },
+            "baseline": {
+              "points": "229,510 333,509 437,508 541,510 645,510 749,507 853,510 957,512 1061,513 1165,510 1269,511 1373,512 1477,510 1581,513 1685,513 1789,513 1893,513 1997,513 2101,511 2205,513 2310,516"
+            },
+            "text": "in the first few days of its life. Its visual capabilities grow especially rapidly, enabling zebrafish larvae",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "219,469 219,529 240,529 240,469"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "273,469 273,529 321,529 321,469"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "349,468 349,528 424,528 424,468"
+                },
+                "text": "first"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "441,468 441,528 495,528 495,468"
+                },
+                "text": "few"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "534,470 534,530 615,530 615,470"
+                },
+                "text": "days"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "642,469 642,529 674,529 674,469"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "691,468 691,528 729,528 729,468"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "757,468 757,528 827,528 827,468"
+                },
+                "text": "life."
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "860,470 860,530 903,530 903,470"
+                },
+                "text": "Its"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "931,472 931,532 1044,532 1044,472"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1056,470 1056,530 1273,530 1273,470"
+                },
+                "text": "capabilities"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1296,471 1296,531 1376,531 1376,471"
+                },
+                "text": "grow"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1415,470 1415,530 1599,530 1599,470"
+                },
+                "text": "especially"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "1627,473 1627,533 1773,533 1773,473"
+                },
+                "text": "rapidly,"
+              },
+              {
+                "id": "tr_1_tl_3_w15",
+                "coords": {
+                  "points": "1790,473 1790,533 1953,533 1953,473"
+                },
+                "text": "enabling"
+              },
+              {
+                "id": "tr_1_tl_3_w16",
+                "coords": {
+                  "points": "1981,471 1981,531 2148,531 2148,471"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_3_w17",
+                "coords": {
+                  "points": "2176,473 2176,533 2289,533 2289,473"
+                },
+                "text": "larvae"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "219,687 370,635 518,679 880,638 1273,679 1564,648 1666,690 1871,640 2066,695 2173,640 2259,661 2259,586 2098,560 219,588"
+            },
+            "baseline": {
+              "points": "232,620 333,620 435,620 536,620 638,620 739,620 841,622 942,620 1044,622 1145,623 1247,623 1348,621 1450,623 1551,623 1653,623 1754,623 1856,620 1957,623 2059,623 2160,624 2262,617"
+            },
+            "text": "to pursue moving prey by its second day after hatching. Early researchers had presumed this prey-",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "224,580 224,640 253,640 253,580"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "279,580 279,640 404,640 404,580"
+                },
+                "text": "pursue"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "435,580 435,640 570,640 570,580"
+                },
+                "text": "moving"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "596,580 596,640 676,640 676,580"
+                },
+                "text": "prey"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "702,580 702,640 741,640 741,580"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "762,580 762,640 802,640 802,580"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "828,580 828,640 958,640 958,580"
+                },
+                "text": "second"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "984,581 984,641 1043,641 1043,581"
+                },
+                "text": "day"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1069,582 1069,642 1159,642 1159,582"
+                },
+                "text": "after"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1180,582 1180,642 1366,642 1366,582"
+                },
+                "text": "hatching."
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1397,582 1397,642 1487,642 1487,582"
+                },
+                "text": "Early"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1513,583 1513,643 1739,643 1739,583"
+                },
+                "text": "researchers"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1765,581 1765,641 1829,641 1829,581"
+                },
+                "text": "had"
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "1855,582 1855,642 2046,642 2046,582"
+                },
+                "text": "presumed"
+              },
+              {
+                "id": "tr_1_tl_4_w15",
+                "coords": {
+                  "points": "2072,583 2072,643 2136,643 2136,583"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_4_w16",
+                "coords": {
+                  "points": "2162,580 2162,640 2257,640 2257,580"
+                },
+                "text": "prey-"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "219,781 710,760 835,796 880,755 1090,781 1215,744 1551,778 1629,744 2059,809 2118,763 2262,773 2262,684 1962,666 1764,700 1562,653 1291,700 940,656 219,687"
+            },
+            "baseline": {
+              "points": "232,734 333,731 435,731 537,731 639,731 741,733 842,731 944,734 1046,732 1148,734 1250,734 1351,734 1453,734 1555,734 1657,734 1759,734 1860,734 1962,733 2064,734 2166,734 2268,734"
+            },
+            "text": "pursuit milestone to mark the official beginning of zebrafish visual behavior (Clark, 1981); however,",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "224,692 224,752 361,752 361,692"
+                },
+                "text": "pursuit"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "383,691 383,751 562,751 562,691"
+                },
+                "text": "milestone"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "589,691 589,751 620,751 620,691"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "647,692 647,752 737,752 737,692"
+                },
+                "text": "mark"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "764,692 764,752 816,752 816,692"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "843,692 843,752 975,752 975,692"
+                },
+                "text": "official"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "991,692 991,752 1175,752 1175,692"
+                },
+                "text": "beginning"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1202,694 1202,754 1239,754 1239,694"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1261,694 1261,754 1430,754 1430,694"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1457,694 1457,754 1572,754 1572,694"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1583,694 1583,754 1758,754 1758,694"
+                },
+                "text": "behavior"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1774,694 1774,754 1911,754 1911,694"
+                },
+                "text": "(Clark,"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1927,693 1927,753 2059,753 2059,693"
+                },
+                "text": "1981);"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "2075,694 2075,754 2260,754 2260,694"
+                },
+                "text": "however,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "219,872 541,854 617,898 731,861 791,900 968,856 1606,895 1702,864 2163,903 2290,869 2290,802 2152,778 1827,815 1434,773 1314,812 1109,768 1028,807 219,794"
+            },
+            "baseline": {
+              "points": "232,838 335,840 438,840 541,841 645,841 748,839 851,838 955,841 1058,839 1161,841 1265,841 1368,842 1471,842 1574,844 1678,842 1781,844 1884,844 1988,844 2091,844 2194,844 2298,844"
+            },
+            "text": "more recent findings have revealed even earlier signs. Barely-hatched fish, for example, may exhibit",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "224,798 224,858 314,858 314,798"
+                },
+                "text": "more"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "346,800 346,860 467,860 467,800"
+                },
+                "text": "recent"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "483,801 483,861 637,861 637,801"
+                },
+                "text": "findings"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "658,799 658,859 742,859 742,799"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "775,798 775,858 933,858 933,798"
+                },
+                "text": "revealed"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "960,800 960,860 1044,860 1044,800"
+                },
+                "text": "even"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1071,800 1071,860 1192,860 1192,800"
+                },
+                "text": "earlier"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1214,801 1214,861 1330,861 1330,801"
+                },
+                "text": "signs."
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1357,802 1357,862 1653,862 1653,802"
+                },
+                "text": "Barely-hatched"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1680,802 1680,862 1764,862 1764,802"
+                },
+                "text": "fish,"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1786,804 1786,864 1832,864 1832,804"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1854,804 1854,864 2039,864 2039,804"
+                },
+                "text": "example,"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "2056,804 2056,864 2129,864 2129,804"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "2156,804 2156,864 2288,864 2288,804"
+                },
+                "text": "exhibit"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "211,981 331,1015 898,971 1166,1005 1283,966 1671,1010 1973,971 2303,999 2303,906 1991,887 1837,924 1593,882 1442,924 211,906"
+            },
+            "baseline": {
+              "points": "226,952 330,952 434,952 538,952 642,955 746,952 850,955 954,955 1058,956 1162,955 1266,955 1370,953 1474,955 1578,955 1682,955 1786,958 1890,955 1994,955 2098,955 2202,958 2307,955"
+            },
+            "text": "a visually-evoked startle response (as opposed to touch-evoked response, which begins even earlier).",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "216,912 216,972 225,972 225,912"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "256,912 256,972 554,972 554,912"
+                },
+                "text": "visually-evoked"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "580,914 580,974 696,974 696,914"
+                },
+                "text": "startle"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "727,913 727,973 894,973 894,913"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "925,915 925,975 979,975 979,915"
+                },
+                "text": "(as"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1000,915 1000,975 1162,975 1162,915"
+                },
+                "text": "opposed"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1188,915 1188,975 1218,975 1218,915"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1244,913 1244,973 1506,973 1506,913"
+                },
+                "text": "touch-evoked"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1537,915 1537,975 1734,975 1734,915"
+                },
+                "text": "response,"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1750,917 1750,977 1856,977 1856,917"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1887,915 1887,975 2007,975 2007,915"
+                },
+                "text": "begins"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "2034,915 2034,975 2119,975 2119,915"
+                },
+                "text": "even"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "2145,917 2145,977 2306,977 2306,917"
+                },
+                "text": "earlier)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "221,1083 872,1083 953,1122 1241,1083 1319,1122 1424,1085 2207,1088 2303,1122 2303,1033 2210,1012 221,1015"
+            },
+            "baseline": {
+              "points": "235,1062 338,1064 442,1064 546,1059 650,1062 753,1065 857,1062 961,1062 1065,1065 1168,1065 1272,1065 1376,1065 1480,1065 1583,1065 1687,1065 1791,1065 1895,1065 1998,1065 2102,1065 2206,1068 2310,1065"
+            },
+            "text": "Next, tracking eye movements often kick in a few hours later. (Easter and Nicola, 1996) Ultimately, a",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "226,1022 226,1082 331,1082 331,1022"
+                },
+                "text": "Next,"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "348,1024 348,1084 495,1084 495,1024"
+                },
+                "text": "tracking"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "527,1019 527,1079 585,1079 585,1019"
+                },
+                "text": "eye"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "612,1024 612,1084 838,1084 838,1024"
+                },
+                "text": "movements"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "865,1022 865,1082 954,1082 954,1022"
+                },
+                "text": "often"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "981,1023 981,1083 1049,1083 1049,1023"
+                },
+                "text": "kick"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1076,1025 1076,1085 1097,1085 1097,1025"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1124,1025 1124,1085 1139,1085 1139,1025"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1166,1025 1166,1085 1213,1085 1213,1025"
+                },
+                "text": "few"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1251,1025 1251,1085 1356,1085 1356,1025"
+                },
+                "text": "hours"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1377,1025 1377,1085 1482,1085 1482,1025"
+                },
+                "text": "later."
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1499,1025 1499,1085 1641,1085 1641,1025"
+                },
+                "text": "(Easter"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1662,1025 1662,1085 1720,1085 1720,1025"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1752,1025 1752,1085 1884,1085 1884,1025"
+                },
+                "text": "Nicola,"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "1905,1025 1905,1085 2016,1085 2016,1025"
+                },
+                "text": "1996)"
+              },
+              {
+                "id": "tr_1_tl_8_w16",
+                "coords": {
+                  "points": "2048,1026 2048,1086 2264,1086 2264,1026"
+                },
+                "text": "Ultimately,"
+              },
+              {
+                "id": "tr_1_tl_8_w17",
+                "coords": {
+                  "points": "2285,1025 2285,1085 2295,1085 2295,1025"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "219,1213 2259,1223 2259,1111 219,1129"
+            },
+            "baseline": {
+              "points": "232,1169 333,1172 435,1175 536,1173 638,1172 740,1174 841,1172 943,1175 1045,1175 1146,1175 1248,1175 1350,1175 1451,1175 1553,1175 1655,1175 1756,1175 1858,1176 1960,1175 2061,1175 2163,1175 2265,1175"
+            },
+            "text": "vigorous, adult-like saccade reflex may begin to develop in larvae as early as 3 days after hatching.",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "219,1131 219,1191 404,1191 404,1131"
+                },
+                "text": "vigorous,"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "426,1133 426,1193 595,1193 595,1133"
+                },
+                "text": "adult-like"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "628,1133 628,1193 775,1193 775,1133"
+                },
+                "text": "saccade"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "803,1132 803,1192 903,1192 903,1132"
+                },
+                "text": "reflex"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "931,1135 931,1195 1004,1195 1004,1135"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1031,1135 1031,1195 1131,1195 1131,1135"
+                },
+                "text": "begin"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1159,1135 1159,1195 1184,1195 1184,1135"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1217,1135 1217,1195 1360,1195 1360,1135"
+                },
+                "text": "develop"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1387,1135 1387,1195 1407,1195 1407,1135"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1440,1135 1440,1195 1550,1195 1550,1135"
+                },
+                "text": "larvae"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1578,1135 1578,1195 1615,1195 1615,1135"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1637,1135 1637,1195 1726,1195 1726,1135"
+                },
+                "text": "early"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1753,1135 1753,1195 1784,1195 1784,1135"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1812,1135 1812,1195 1822,1195 1822,1135"
+                },
+                "text": "3"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "1854,1135 1854,1195 1938,1195 1938,1135"
+                },
+                "text": "days"
+              },
+              {
+                "id": "tr_1_tl_9_w16",
+                "coords": {
+                  "points": "1960,1135 1960,1195 2050,1195 2050,1135"
+                },
+                "text": "after"
+              },
+              {
+                "id": "tr_1_tl_9_w17",
+                "coords": {
+                  "points": "2072,1135 2072,1195 2257,1195 2257,1135"
+                },
+                "text": "hatching."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "219,1332 331,1312 411,1332 466,1309 520,1340 627,1301 705,1306 723,1325 763,1314 763,1226 643,1202 536,1239 466,1213 442,1236 403,1218 357,1249 299,1218 219,1244"
+            },
+            "baseline": {
+              "points": "232,1280 258,1282 285,1283 312,1283 339,1283 365,1283 392,1283 419,1283 446,1283 472,1283 499,1283 526,1285 553,1286 579,1286 606,1285 633,1283 660,1283 686,1283 713,1283 740,1283 767,1283"
+            },
+            "text": "(Easter and Nicola, 1997)",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "226,1243 226,1303 369,1303 369,1243"
+                },
+                "text": "(Easter"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "387,1243 387,1303 449,1303 449,1243"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "479,1245 479,1305 616,1305 616,1245"
+                },
+                "text": "Nicola,"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "634,1243 634,1303 748,1303 748,1243"
+                },
+                "text": "1997)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "370,1408 708,1465 835,1411 992,1460 1129,1416 1241,1460 1286,1418 1483,1413 1710,1465 1913,1418 2298,1463 2298,1343 2181,1325 1999,1353 1764,1309 1590,1359 1314,1356 1179,1312 1101,1359 869,1309 809,1353 729,1322 638,1356 448,1306 370,1340"
+            },
+            "baseline": {
+              "points": "385,1396 486,1394 587,1394 688,1396 789,1399 890,1396 991,1397 1092,1396 1193,1396 1294,1396 1395,1396 1496,1394 1597,1396 1698,1396 1799,1393 1900,1396 2001,1396 2102,1396 2203,1399 2304,1396"
+            },
+            "text": "Necessarily, the brain region largely responsible for these behaviors - the optic tectum (or, in",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "375,1354 375,1414 612,1414 612,1354"
+                },
+                "text": "Necessarily,"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "628,1355 628,1415 679,1415 679,1355"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "711,1357 711,1417 798,1417 798,1357"
+                },
+                "text": "brain"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "830,1356 830,1416 943,1416 943,1356"
+                },
+                "text": "region"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "969,1356 969,1416 1092,1416 1092,1356"
+                },
+                "text": "largely"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1119,1356 1119,1416 1335,1416 1335,1356"
+                },
+                "text": "responsible"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1367,1356 1367,1416 1413,1416 1413,1356"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1434,1354 1434,1414 1531,1414 1531,1354"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1558,1356 1558,1416 1748,1416 1748,1356"
+                },
+                "text": "behaviors"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1770,1353 1770,1413 1779,1413 1779,1353"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1811,1354 1811,1414 1867,1414 1867,1354"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1894,1356 1894,1416 1981,1416 1981,1356"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "2007,1356 2007,1416 2120,1416 2120,1356"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "2162,1358 2162,1418 2234,1418 2234,1358"
+                },
+                "text": "(or,"
+              },
+              {
+                "id": "tr_1_tl_11_w15",
+                "coords": {
+                  "points": "2250,1357 2250,1417 2275,1417 2275,1357"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "221,1515 963,1520 1044,1569 1153,1528 1559,1575 1712,1522 1941,1517 2043,1572 2308,1541 2308,1457 2267,1450 221,1457"
+            },
+            "baseline": {
+              "points": "235,1504 339,1507 443,1507 547,1507 651,1509 755,1507 859,1507 963,1507 1067,1507 1171,1507 1275,1507 1379,1507 1483,1507 1587,1507 1691,1508 1795,1510 1899,1507 2003,1507 2107,1510 2211,1510 2315,1510"
+            },
+            "text": "mammals, the superior colliculus) - develops at a hectic pace during these first few days. Comprising",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "226,1466 226,1526 431,1526 431,1466"
+                },
+                "text": "mammals,"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "453,1467 453,1527 505,1527 505,1467"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "532,1468 532,1528 690,1528 690,1468"
+                },
+                "text": "superior"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "712,1467 712,1527 906,1527 906,1467"
+                },
+                "text": "colliculus)"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "923,1467 923,1527 933,1527 933,1467"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "965,1467 965,1527 1133,1527 1133,1467"
+                },
+                "text": "develops"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1160,1467 1160,1527 1191,1527 1191,1467"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1213,1467 1213,1527 1223,1527 1223,1467"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1250,1467 1250,1527 1361,1527 1361,1467"
+                },
+                "text": "hectic"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1388,1467 1388,1527 1467,1527 1467,1467"
+                },
+                "text": "pace"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1494,1467 1494,1527 1609,1527 1609,1467"
+                },
+                "text": "during"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1641,1467 1641,1527 1736,1527 1736,1467"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1763,1469 1763,1529 1841,1529 1841,1469"
+                },
+                "text": "first"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "1858,1467 1858,1527 1910,1527 1910,1467"
+                },
+                "text": "few"
+              },
+              {
+                "id": "tr_1_tl_12_w15",
+                "coords": {
+                  "points": "1947,1467 1947,1527 2052,1527 2052,1467"
+                },
+                "text": "days."
+              },
+              {
+                "id": "tr_1_tl_12_w16",
+                "coords": {
+                  "points": "2079,1470 2079,1530 2295,1530 2295,1470"
+                },
+                "text": "Comprising"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "221,1676 513,1627 1416,1673 1848,1629 2124,1673 2124,1554 221,1567"
+            },
+            "baseline": {
+              "points": "235,1617 329,1615 424,1617 519,1617 614,1620 708,1616 803,1615 898,1617 993,1617 1087,1617 1182,1616 1277,1617 1372,1617 1466,1617 1561,1615 1656,1617 1751,1617 1845,1617 1940,1617 2035,1614 2130,1614"
+            },
+            "text": "two conspicuous, layered structures atop the teleost brain, this complex integrative center is",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "226,1576 226,1636 286,1636 286,1576"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "316,1577 316,1637 573,1637 573,1577"
+                },
+                "text": "conspicuous,"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "594,1577 594,1637 729,1637 729,1577"
+                },
+                "text": "layered"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "755,1576 755,1636 946,1636 946,1576"
+                },
+                "text": "structures"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "977,1577 977,1637 1052,1637 1052,1577"
+                },
+                "text": "atop"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1078,1576 1078,1636 1133,1636 1133,1576"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1159,1576 1159,1636 1290,1636 1290,1576"
+                },
+                "text": "teleost"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1311,1577 1311,1637 1426,1637 1426,1577"
+                },
+                "text": "brain,"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1442,1576 1442,1636 1502,1636 1502,1576"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1528,1575 1528,1635 1688,1635 1688,1575"
+                },
+                "text": "complex"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1714,1577 1714,1637 1920,1637 1920,1577"
+                },
+                "text": "integrative"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1946,1574 1946,1634 2072,1634 2072,1574"
+                },
+                "text": "center"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "2087,1574 2087,1634 2112,1634 2112,1574"
+                },
+                "text": "is"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "213,1788 359,1759 518,1796 677,1749 880,1778 926,1744 1127,1793 1457,1744 1559,1780 1629,1738 1736,1785 1837,1741 1923,1778 2288,1767 2288,1679 2124,1697 2035,1655 1804,1697 1083,1653 843,1697 370,1663 213,1692"
+            },
+            "baseline": {
+              "points": "229,1728 332,1725 435,1726 538,1728 642,1731 745,1728 848,1729 952,1728 1055,1730 1158,1728 1262,1728 1365,1729 1468,1728 1571,1728 1675,1728 1778,1731 1881,1728 1985,1728 2088,1728 2191,1731 2295,1734"
+            },
+            "text": "responsible for numerous functions, including the execution of precise visuomotor capabilities (Salas,",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "218,1685 218,1745 435,1745 435,1685"
+                },
+                "text": "responsible"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "461,1687 461,1747 512,1747 512,1687"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "534,1690 534,1750 729,1750 729,1690"
+                },
+                "text": "numerous"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "751,1688 751,1748 952,1748 952,1688"
+                },
+                "text": "functions,"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "968,1689 968,1749 1133,1749 1133,1689"
+                },
+                "text": "including"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1165,1688 1165,1748 1216,1748 1216,1688"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1242,1688 1242,1748 1428,1748 1428,1688"
+                },
+                "text": "execution"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1454,1688 1454,1748 1490,1748 1490,1688"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1511,1688 1511,1748 1640,1748 1640,1688"
+                },
+                "text": "precise"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1666,1690 1666,1750 1893,1750 1893,1690"
+                },
+                "text": "visuomotor"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1910,1688 1910,1748 2126,1748 2126,1688"
+                },
+                "text": "capabilities"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "2153,1691 2153,1751 2287,1751 2287,1691"
+                },
+                "text": "(Salas,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "219,1866 700,1861 791,1900 900,1866 1096,1900 1145,1863 1382,1856 1452,1900 2223,1866 2223,1796 2155,1770 219,1785"
+            },
+            "baseline": {
+              "points": "232,1838 331,1837 431,1835 531,1838 631,1838 731,1838 831,1838 930,1840 1030,1838 1130,1838 1230,1839 1330,1838 1430,1838 1530,1838 1629,1838 1729,1841 1829,1838 1929,1841 2029,1838 2129,1838 2229,1838"
+            },
+            "text": "et al. 1997). The optic tectum is also the home of a retinotopic map: the superficial layer of each",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "224,1797 224,1857 260,1857 260,1797"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "281,1797 281,1857 322,1857 322,1797"
+                },
+                "text": "al."
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "338,1795 338,1855 466,1855 466,1795"
+                },
+                "text": "1997)."
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "498,1798 498,1858 565,1858 565,1798"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "591,1798 591,1858 678,1858 678,1798"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "705,1798 705,1858 818,1858 818,1798"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "860,1798 860,1858 880,1858 880,1798"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "907,1799 907,1859 974,1859 974,1799"
+                },
+                "text": "also"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1006,1798 1006,1858 1057,1858 1057,1798"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1083,1798 1083,1858 1186,1858 1186,1798"
+                },
+                "text": "home"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1212,1799 1212,1859 1248,1859 1248,1799"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1269,1798 1269,1858 1279,1858 1279,1798"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1306,1798 1306,1858 1512,1858 1512,1798"
+                },
+                "text": "retinotopic"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "1538,1798 1538,1858 1636,1858 1636,1798"
+                },
+                "text": "map:"
+              },
+              {
+                "id": "tr_1_tl_15_w15",
+                "coords": {
+                  "points": "1653,1799 1653,1859 1709,1859 1709,1799"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w16",
+                "coords": {
+                  "points": "1735,1798 1735,1858 1942,1858 1942,1798"
+                },
+                "text": "superficial"
+              },
+              {
+                "id": "tr_1_tl_15_w17",
+                "coords": {
+                  "points": "1958,1798 1958,1858 2055,1858 2055,1798"
+                },
+                "text": "layer"
+              },
+              {
+                "id": "tr_1_tl_15_w18",
+                "coords": {
+                  "points": "2072,1798 2072,1858 2112,1858 2112,1798"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w19",
+                "coords": {
+                  "points": "2128,1798 2128,1858 2211,1858 2211,1798"
+                },
+                "text": "each"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "216,1991 427,2004 507,1967 737,2007 1182,1960 1944,2014 1988,1967 2144,1970 2144,1905 213,1895"
+            },
+            "baseline": {
+              "points": "229,1948 325,1945 421,1945 517,1945 613,1946 709,1945 805,1948 901,1948 997,1948 1093,1948 1190,1948 1286,1948 1382,1946 1478,1948 1574,1948 1670,1948 1766,1946 1862,1948 1958,1945 2054,1947 2151,1948"
+            },
+            "text": "lobe of the tectum receives input from the contralateral retina in a precise, organized fashion.",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "217,1907 217,1967 291,1967 291,1907"
+                },
+                "text": "lobe"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "321,1905 321,1965 355,1965 355,1905"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "375,1905 375,1965 424,1965 424,1905"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "454,1905 454,1965 566,1965 566,1905"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "611,1905 611,1965 763,1965 763,1905"
+                },
+                "text": "receives"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "794,1908 794,1968 891,1968 891,1908"
+                },
+                "text": "input"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "912,1908 912,1968 975,1968 975,1908"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1020,1908 1020,1968 1069,1968 1069,1908"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1099,1908 1099,1968 1354,1968 1354,1908"
+                },
+                "text": "contralateral"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1370,1906 1370,1966 1473,1966 1473,1906"
+                },
+                "text": "retina"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1503,1908 1503,1968 1522,1968 1522,1908"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1552,1908 1552,1968 1566,1968 1566,1908"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1591,1908 1591,1968 1748,1968 1748,1908"
+                },
+                "text": "precise,"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "1764,1907 1764,1967 1950,1967 1950,1907"
+                },
+                "text": "organized"
+              },
+              {
+                "id": "tr_1_tl_16_w15",
+                "coords": {
+                  "points": "1981,1907 1981,1967 2137,1967 2137,1907"
+                },
+                "text": "fashion."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "213,2100 1306,2085 1442,2134 1577,2082 1671,2116 1757,2082 2220,2103 2220,2009 2108,1975 1967,2022 1736,1994 1562,2027 213,1996"
+            },
+            "baseline": {
+              "points": "229,2059 328,2058 428,2059 528,2058 628,2059 728,2059 828,2059 927,2059 1027,2059 1127,2059 1227,2059 1327,2059 1427,2059 1527,2059 1626,2059 1726,2059 1826,2062 1926,2059 2026,2059 2126,2059 2226,2062"
+            },
+            "text": "Energetic formation of this map begins just 3 days after hatching, as retinal ganglion cells (RGCS)",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "219,2018 219,2078 397,2078 397,2018"
+                },
+                "text": "Energetic"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "425,2018 425,2078 609,2078 609,2018"
+                },
+                "text": "formation"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "637,2019 637,2079 674,2079 674,2019"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "691,2019 691,2079 756,2079 756,2019"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "778,2019 778,2079 854,2079 854,2019"
+                },
+                "text": "map"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "881,2019 881,2079 1005,2079 1005,2019"
+                },
+                "text": "begins"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1028,2019 1028,2079 1098,2079 1098,2019"
+                },
+                "text": "just"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1121,2019 1121,2079 1131,2079 1131,2019"
+                },
+                "text": "3"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1159,2019 1159,2079 1245,2079 1245,2019"
+                },
+                "text": "days"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1267,2019 1267,2079 1359,2079 1359,2019"
+                },
+                "text": "after"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1376,2019 1376,2079 1566,2079 1566,2019"
+                },
+                "text": "hatching,"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1583,2019 1583,2079 1614,2079 1614,2019"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1642,2019 1642,2079 1772,2079 1772,2019"
+                },
+                "text": "retinal"
+              },
+              {
+                "id": "tr_1_tl_17_w14",
+                "coords": {
+                  "points": "1783,2020 1783,2080 1946,2080 1946,2020"
+                },
+                "text": "ganglion"
+              },
+              {
+                "id": "tr_1_tl_17_w15",
+                "coords": {
+                  "points": "1974,2019 1974,2079 2055,2079 2055,2019"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_17_w16",
+                "coords": {
+                  "points": "2077,2019 2077,2079 2217,2079 2217,2019"
+                },
+                "text": "(RGCS)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "219,2217 367,2178 593,2220 1374,2199 1374,2121 1252,2105 219,2124"
+            },
+            "baseline": {
+              "points": "232,2175 289,2169 346,2166 404,2169 461,2169 519,2169 576,2169 634,2169 691,2169 749,2169 806,2169 863,2169 921,2169 978,2169 1036,2168 1093,2166 1151,2166 1208,2166 1266,2166 1323,2168 1381,2166"
+            },
+            "text": "project axons into the outermost reaches of the tectum.",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "224,2128 224,2188 363,2188 363,2128"
+                },
+                "text": "project"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "385,2129 385,2189 493,2189 493,2129"
+                },
+                "text": "axons"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "515,2129 515,2189 582,2189 582,2129"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "609,2129 609,2189 660,2189 660,2129"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "691,2129 691,2189 894,2189 894,2129"
+                },
+                "text": "outermost"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "915,2128 915,2188 1060,2188 1060,2128"
+                },
+                "text": "reaches"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1087,2126 1087,2186 1123,2186 1123,2126"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1144,2126 1144,2186 1195,2186 1195,2126"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1222,2127 1222,2187 1372,2187 1372,2127"
+                },
+                "text": "tectum."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "362,2314 1686,2298 1856,2340 1905,2301 2254,2303 2254,2217 2163,2191 2074,2233 1941,2199 1512,2246 1351,2197 1249,2238 362,2233"
+            },
+            "baseline": {
+              "points": "376,2277 470,2280 564,2280 658,2280 752,2280 846,2278 940,2279 1035,2278 1129,2277 1223,2280 1317,2280 1411,2280 1505,2278 1599,2277 1694,2277 1788,2277 1882,2277 1976,2280 2070,2280 2164,2280 2259,2280"
+            },
+            "text": "In this project, I recorded the morphological development of the zebrafish brain, examining",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "367,2237 367,2297 392,2297 392,2237"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "424,2239 424,2299 486,2299 486,2239"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "513,2240 513,2300 663,2300 663,2240"
+                },
+                "text": "project,"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "685,2240 685,2300 694,2300 694,2240"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "716,2239 716,2299 882,2299 882,2239"
+                },
+                "text": "recorded"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "908,2238 908,2298 965,2298 965,2238"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "992,2237 992,2297 1278,2297 1278,2237"
+                },
+                "text": "morphological"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1294,2239 1294,2299 1554,2299 1554,2239"
+                },
+                "text": "development"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1575,2237 1575,2297 1611,2297 1611,2237"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1628,2237 1628,2297 1685,2297 1685,2237"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1711,2237 1711,2297 1882,2297 1882,2237"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1909,2239 1909,2299 2028,2299 2028,2239"
+                },
+                "text": "brain,"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "2044,2240 2044,2300 2241,2300 2241,2240"
+                },
+                "text": "examining"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "219,2420 2280,2431 2280,2334 2103,2311 1999,2350 1577,2319 1231,2366 812,2319 713,2355 219,2340"
+            },
+            "baseline": {
+              "points": "232,2387 334,2387 437,2387 540,2390 642,2390 745,2390 848,2389 950,2390 1053,2390 1156,2390 1259,2387 1361,2390 1464,2389 1567,2387 1669,2387 1772,2390 1875,2390 1977,2387 2080,2388 2183,2388 2286,2387"
+            },
+            "text": "fish at 3 days, 5 days, and 7 days after hatching. Because the brain's 3-D layout is so integral to its",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "224,2347 224,2407 282,2407 282,2347"
+                },
+                "text": "fish"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "309,2347 309,2407 345,2407 345,2347"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "362,2347 362,2407 377,2407 377,2347"
+                },
+                "text": "3"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "404,2347 404,2407 509,2407 509,2347"
+                },
+                "text": "days,"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "526,2349 526,2409 541,2409 541,2349"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "569,2350 569,2410 674,2410 674,2350"
+                },
+                "text": "days,"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "690,2350 690,2410 753,2410 753,2350"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "780,2349 780,2409 795,2409 795,2349"
+                },
+                "text": "7"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "817,2349 817,2409 902,2409 902,2349"
+                },
+                "text": "days"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "929,2350 929,2410 1018,2410 1018,2350"
+                },
+                "text": "after"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1034,2350 1034,2410 1224,2410 1224,2350"
+                },
+                "text": "hatching."
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1252,2349 1252,2409 1410,2409 1410,2349"
+                },
+                "text": "Because"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1437,2349 1437,2409 1489,2409 1489,2349"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "1516,2347 1516,2407 1643,2407 1643,2347"
+                },
+                "text": "brain's"
+              },
+              {
+                "id": "tr_1_tl_20_w15",
+                "coords": {
+                  "points": "1665,2347 1665,2407 1722,2407 1722,2347"
+                },
+                "text": "3-D"
+              },
+              {
+                "id": "tr_1_tl_20_w16",
+                "coords": {
+                  "points": "1754,2350 1754,2410 1875,2410 1875,2350"
+                },
+                "text": "layout"
+              },
+              {
+                "id": "tr_1_tl_20_w17",
+                "coords": {
+                  "points": "1897,2349 1897,2409 1918,2409 1918,2349"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_20_w18",
+                "coords": {
+                  "points": "1939,2347 1939,2407 1976,2407 1976,2347"
+                },
+                "text": "so"
+              },
+              {
+                "id": "tr_1_tl_20_w19",
+                "coords": {
+                  "points": "2003,2347 2003,2407 2156,2407 2156,2347"
+                },
+                "text": "integral"
+              },
+              {
+                "id": "tr_1_tl_20_w20",
+                "coords": {
+                  "points": "2173,2347 2173,2407 2198,2407 2198,2347"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_20_w21",
+                "coords": {
+                  "points": "2225,2347 2225,2407 2262,2407 2262,2347"
+                },
+                "text": "its"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "221,2509 596,2558 773,2514 1137,2550 1476,2511 1533,2553 2288,2514 2262,2428 2007,2470 1869,2431 1720,2470 1640,2431 1575,2467 221,2444"
+            },
+            "baseline": {
+              "points": "235,2498 338,2501 441,2501 544,2501 647,2498 750,2498 853,2500 956,2501 1059,2499 1162,2501 1265,2501 1368,2501 1471,2501 1574,2501 1677,2501 1780,2501 1883,2501 1986,2501 2089,2501 2192,2498 2295,2495"
+            },
+            "text": "function, I used methods which would elaborate this layout. Namely, I approached the task through",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "221,2460 221,2520 396,2520 396,2460"
+                },
+                "text": "function,"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "412,2461 412,2521 427,2521 427,2461"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "443,2461 443,2521 531,2521 531,2461"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "557,2458 557,2518 722,2518 722,2458"
+                },
+                "text": "methods"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "749,2458 749,2518 852,2518 852,2458"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "884,2460 884,2520 991,2520 991,2460"
+                },
+                "text": "would"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1018,2459 1018,2519 1194,2519 1194,2459"
+                },
+                "text": "elaborate"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1225,2461 1225,2521 1287,2521 1287,2461"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1308,2461 1308,2521 1447,2521 1447,2461"
+                },
+                "text": "layout."
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1474,2461 1474,2521 1644,2521 1644,2461"
+                },
+                "text": "Namely,"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1660,2461 1660,2521 1675,2521 1675,2461"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1691,2461 1691,2521 1918,2521 1918,2461"
+                },
+                "text": "approached"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "1950,2461 1950,2521 2002,2521 2002,2461"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w14",
+                "coords": {
+                  "points": "2028,2461 2028,2521 2100,2521 2100,2461"
+                },
+                "text": "task"
+              },
+              {
+                "id": "tr_1_tl_21_w15",
+                "coords": {
+                  "points": "2126,2457 2126,2517 2270,2517 2270,2457"
+                },
+                "text": "through"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "213,2647 458,2686 690,2636 770,2681 968,2634 1080,2678 1351,2629 1431,2681 1720,2631 1913,2670 1986,2623 2124,2686 2204,2657 2204,2576 1965,2543 1913,2576 1184,2582 937,2540 887,2576 656,2535 539,2579 213,2553"
+            },
+            "baseline": {
+              "points": "229,2608 328,2608 427,2608 526,2608 625,2608 724,2608 823,2610 922,2607 1021,2608 1120,2609 1220,2611 1319,2610 1418,2611 1517,2611 1616,2611 1715,2608 1814,2611 1913,2611 2012,2608 2111,2610 2211,2608"
+            },
+            "text": "three different sets of 3-D images: serial sectioning; confocal microscopy; and scanning electron",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "213,2568 213,2628 311,2628 311,2568"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "337,2568 337,2628 508,2628 508,2568"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "524,2568 524,2628 596,2628 596,2568"
+                },
+                "text": "sets"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "622,2568 622,2628 658,2628 658,2568"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "679,2568 679,2628 731,2628 731,2568"
+                },
+                "text": "3-D"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "762,2569 762,2629 922,2629 922,2569"
+                },
+                "text": "images:"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "938,2567 938,2627 1047,2627 1047,2567"
+                },
+                "text": "serial"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1063,2570 1063,2630 1280,2630 1280,2570"
+                },
+                "text": "sectioning;"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1301,2570 1301,2630 1467,2630 1467,2570"
+                },
+                "text": "confocal"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1483,2571 1483,2631 1726,2631 1726,2571"
+                },
+                "text": "microscopy;"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1747,2569 1747,2629 1809,2629 1809,2569"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1835,2570 1835,2630 2006,2630 2006,2570"
+                },
+                "text": "scanning"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "2032,2569 2032,2629 2182,2629 2182,2569"
+                },
+                "text": "electron"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "211,2725 242,2738 304,2735 349,2766 380,2753 390,2764 481,2779 481,2681 427,2686 390,2657 362,2683 325,2683 310,2668 278,2673 265,2688 242,2675 211,2678"
+            },
+            "baseline": {
+              "points": "226,2721 252,2721 278,2721 304,2721 330,2721 356,2721 382,2721 408,2721 434,2723 460,2723 486,2721"
+            },
+            "text": "microscopy.",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "217,2681 217,2741 479,2741 479,2681"
+                },
+                "text": "microscopy."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "367,2881 440,2847 742,2899 807,2845 913,2876 1070,2845 1109,2876 1882,2852 1965,2886 2118,2845 2311,2884 2311,2792 2116,2740 1902,2785 1762,2740 1653,2795 1478,2746 820,2795 630,2743 526,2785 367,2753"
+            },
+            "baseline": {
+              "points": "382,2832 478,2832 575,2832 672,2830 769,2832 866,2832 962,2832 1059,2829 1156,2832 1253,2829 1350,2829 1446,2831 1543,2832 1640,2832 1737,2832 1834,2829 1930,2829 2027,2832 2124,2831 2221,2829 2318,2829"
+            },
+            "text": "To begin, I serially sectioned one complete brain for each age, ultimately producing for each a",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "372,2792 372,2852 408,2852 408,2792"
+                },
+                "text": "To"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "439,2792 439,2852 563,2852 563,2792"
+                },
+                "text": "begin,"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "579,2791 579,2851 594,2851 594,2791"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "610,2790 610,2850 739,2850 739,2790"
+                },
+                "text": "serially"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "766,2792 766,2852 946,2852 946,2792"
+                },
+                "text": "sectioned"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "978,2790 978,2850 1034,2850 1034,2790"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1066,2791 1066,2851 1237,2851 1237,2791"
+                },
+                "text": "complete"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1268,2789 1268,2849 1356,2849 1356,2789"
+                },
+                "text": "brain"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1382,2790 1382,2850 1433,2850 1433,2790"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1455,2791 1455,2851 1537,2851 1537,2791"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "1564,2792 1564,2852 1651,2852 1651,2792"
+                },
+                "text": "age,"
+              },
+              {
+                "id": "tr_1_tl_24_w12",
+                "coords": {
+                  "points": "1667,2791 1667,2851 1858,2851 1858,2791"
+                },
+                "text": "ultimately"
+              },
+              {
+                "id": "tr_1_tl_24_w13",
+                "coords": {
+                  "points": "1885,2790 1885,2850 2076,2850 2076,2790"
+                },
+                "text": "producing"
+              },
+              {
+                "id": "tr_1_tl_24_w14",
+                "coords": {
+                  "points": "2103,2790 2103,2850 2154,2850 2154,2790"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_24_w15",
+                "coords": {
+                  "points": "2175,2789 2175,2849 2257,2849 2257,2789"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_24_w16",
+                "coords": {
+                  "points": "2284,2789 2284,2849 2299,2849 2299,2789"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "221,2962 406,2959 513,3006 591,2954 869,3008 1064,2964 1319,2959 1416,3001 1681,2954 1861,2995 2124,2972 2124,2884 2014,2873 221,2904"
+            },
+            "baseline": {
+              "points": "235,2942 329,2944 424,2942 519,2942 614,2942 708,2942 803,2942 898,2942 993,2941 1087,2942 1182,2942 1277,2942 1372,2942 1466,2942 1561,2942 1656,2942 1751,2942 1845,2942 1940,2942 2035,2942 2130,2936"
+            },
+            "text": "cataloque of consecutive, 3-micron-thick sections for examination under a conventional light",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "226,2903 226,2963 406,2963 406,2903"
+                },
+                "text": "cataloque"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "438,2902 438,2962 473,2962 473,2902"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "495,2902 495,2962 742,2962 742,2902"
+                },
+                "text": "consecutive,"
+              },
+              {
+                "id": "tr_1_tl_25_w4",
+                "coords": {
+                  "points": "758,2901 758,2961 1042,2961 1042,2901"
+                },
+                "text": "3-micron-thick"
+              },
+              {
+                "id": "tr_1_tl_25_w5",
+                "coords": {
+                  "points": "1069,2902 1069,2962 1223,2962 1223,2902"
+                },
+                "text": "sections"
+              },
+              {
+                "id": "tr_1_tl_25_w6",
+                "coords": {
+                  "points": "1244,2902 1244,2962 1295,2962 1295,2902"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_25_w7",
+                "coords": {
+                  "points": "1317,2902 1317,2962 1554,2962 1554,2902"
+                },
+                "text": "examination"
+              },
+              {
+                "id": "tr_1_tl_25_w8",
+                "coords": {
+                  "points": "1580,2902 1580,2962 1693,2962 1693,2902"
+                },
+                "text": "under"
+              },
+              {
+                "id": "tr_1_tl_25_w9",
+                "coords": {
+                  "points": "1715,2902 1715,2962 1724,2962 1724,2902"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_25_w10",
+                "coords": {
+                  "points": "1751,2902 1751,2962 2014,2962 2014,2902"
+                },
+                "text": "conventional"
+              },
+              {
+                "id": "tr_1_tl_25_w11",
+                "coords": {
+                  "points": "2025,2899 2025,2959 2112,2959 2112,2899"
+                },
+                "text": "light"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

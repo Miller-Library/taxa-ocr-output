@@ -1,0 +1,1992 @@
+{
+  "processId": 10331979,
+  "status": "FINISHED",
+  "content": {
+    "text": "8 1 Pns Rne\nwhere A is the surface area of the cell. The Variing term in this equation refers to the\ndriving force, which is equal to the command voltage minus the reversal potential, which\nwas estimated using tail current readings (data not shown). Eq. 1 was applied to each of\nthe traces for lgand Iks. While this equation gives more accurate traces than\ncompensation accomplished through offsetting the membrane command voltage by Ipeak\nRseres for each step, the fraction within the denominator tends to amplify noise for small\ncurrents and small driving voltages. Therefore the traces from stimuli that elicited no\ndiscernable increases in conductance were removed from the each series. The\ncalculations were also made without series resistance compensation to assess its\nsignificance. As shown in Fig. 9, for large depolarizations there is a significant offset due\nto series resistance. Fig. 10 shows the final, compensated conductance traces as\ncalculated for both Igr and Iks.\nCharacterization of Ixt\nThe procedure used for estimating the various parameters utilizes two\nsimultaneous approaches to the same values. First, approximations of the values are\nmade by fitting single exponentials to specific regions of curves for large depolarizations,\n(to be explained in more detail later). These values are then used as the initial guesses for\nparameterized functions that are then fit iteratively using a computer program\n(NEURON, developed by Michael Hines and John W. Moore at the Department of\nNeurobiology, Duke University). Because the empirical approximations are only",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "355,416 355,3121 2169,3121 2169,416"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "995,527 1036,538 1074,522 1203,581 1298,520 1345,538 1479,529 1477,450 1323,427 1255,445 1180,393 1162,407 1131,384 1054,457 993,470"
+            },
+            "baseline": {
+              "points": "1008,510 1034,505 1060,500 1087,494 1113,489 1139,484 1166,477 1192,472 1218,477 1245,480 1271,480 1297,485 1324,493 1350,498 1376,504 1403,511 1429,514 1455,516 1482,516"
+            },
+            "text": "8 1 Pns Rne",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "1011,468 1011,528 1024,528 1024,468"
+                },
+                "text": "8"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "1098,449 1098,509 1125,509 1125,449"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "1170,438 1170,498 1284,498 1284,438"
+                },
+                "text": "Pns"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "1344,470 1344,530 1458,530 1458,470"
+                },
+                "text": "Rne"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "353,821 586,794 868,841 1135,805 1266,843 1418,805 2065,805 2065,719 1388,751 1011,706 649,742 574,692 536,730 353,724"
+            },
+            "baseline": {
+              "points": "366,781 451,781 536,784 621,781 706,783 792,781 877,782 962,784 1047,784 1132,787 1218,787 1303,790 1388,788 1473,787 1558,787 1644,786 1729,787 1814,786 1899,787 1984,787 2070,784"
+            },
+            "text": "where A is the surface area of the cell. The Variing term in this equation refers to the",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "358,741 358,801 469,801 469,741"
+                },
+                "text": "where"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "491,742 491,802 506,802 506,742"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "538,743 538,803 559,803 559,743"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "581,741 581,801 633,801 633,741"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "660,742 660,802 792,802 792,742"
+                },
+                "text": "surface"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "819,741 819,801 892,801 892,741"
+                },
+                "text": "area"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "914,743 914,803 951,803 951,743"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "967,744 967,804 1020,804 1020,744"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1047,745 1047,805 1125,805 1125,745"
+                },
+                "text": "cell."
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1153,747 1153,807 1221,807 1221,747"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1248,749 1248,809 1364,809 1364,749"
+                },
+                "text": "Variing"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1386,747 1386,807 1454,807 1454,747"
+                },
+                "text": "term"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "1491,747 1491,807 1517,807 1517,747"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "1539,746 1539,806 1607,806 1607,746"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_2_w15",
+                "coords": {
+                  "points": "1629,746 1629,806 1787,806 1787,746"
+                },
+                "text": "equation"
+              },
+              {
+                "id": "tr_1_tl_2_w16",
+                "coords": {
+                  "points": "1814,746 1814,806 1920,806 1920,746"
+                },
+                "text": "refers"
+              },
+              {
+                "id": "tr_1_tl_2_w17",
+                "coords": {
+                  "points": "1941,747 1941,807 1967,807 1967,747"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_2_w18",
+                "coords": {
+                  "points": "1994,745 1994,805 2047,805 2047,745"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "348,907 522,945 669,911 742,957 839,916 932,950 1420,920 1515,959 1635,914 2035,957 2146,923 2146,857 1811,837 348,855"
+            },
+            "baseline": {
+              "points": "361,898 450,898 540,895 629,895 719,898 808,898 898,898 987,898 1077,898 1166,901 1256,901 1345,901 1435,901 1524,901 1614,901 1703,901 1793,901 1882,901 1972,904 2061,901 2151,898"
+            },
+            "text": "driving force, which is equal to the command voltage minus the reversal potential, which",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "353,858 353,918 483,918 483,858"
+                },
+                "text": "driving"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "509,855 509,915 625,915 625,855"
+                },
+                "text": "force,"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "641,857 641,917 747,917 747,857"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "773,858 773,918 797,918 797,858"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "818,858 818,918 924,918 924,858"
+                },
+                "text": "equal"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "940,858 940,918 970,918 970,858"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "995,858 995,918 1045,918 1045,858"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1071,860 1071,920 1253,920 1253,860"
+                },
+                "text": "command"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1284,861 1284,921 1420,921 1420,861"
+                },
+                "text": "voltage"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1446,861 1446,921 1552,921 1552,861"
+                },
+                "text": "minus"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1578,861 1578,921 1628,921 1628,861"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1654,861 1654,921 1810,921 1810,861"
+                },
+                "text": "reversal"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1826,862 1826,922 2013,922 2013,862"
+                },
+                "text": "potential,"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "2029,860 2029,920 2134,920 2134,860"
+                },
+                "text": "which"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "350,1036 871,1070 1377,1036 1531,1081 1716,1033 2033,1083 2159,1051 2146,966 350,979"
+            },
+            "baseline": {
+              "points": "364,1011 454,1011 544,1011 634,1011 724,1011 814,1014 904,1014 994,1014 1084,1014 1174,1014 1265,1017 1355,1014 1445,1014 1535,1016 1625,1017 1715,1017 1805,1017 1895,1017 1985,1016 2075,1017 2166,1017"
+            },
+            "text": "was estimated using tail current readings (data not shown). Eq. 1 was applied to each of",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "355,971 355,1031 424,1031 424,971"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "446,971 446,1031 625,1031 625,971"
+                },
+                "text": "estimated"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "653,971 653,1031 748,1031 748,971"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "775,973 775,1033 833,1033 833,973"
+                },
+                "text": "tail"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "849,974 849,1034 987,1034 987,974"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1009,974 1009,1034 1168,1034 1168,974"
+                },
+                "text": "readings"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1190,976 1190,1036 1280,1036 1280,976"
+                },
+                "text": "(data"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1307,974 1307,1034 1365,1034 1365,974"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1387,974 1387,1034 1545,1034 1545,974"
+                },
+                "text": "shown)."
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1573,976 1573,1036 1641,1036 1641,976"
+                },
+                "text": "Eq."
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1658,977 1658,1037 1673,1037 1673,977"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1695,977 1695,1037 1769,1037 1769,977"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1790,977 1790,1037 1923,1037 1923,977"
+                },
+                "text": "applied"
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "1950,976 1950,1036 1976,1036 1976,976"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_4_w15",
+                "coords": {
+                  "points": "2003,976 2003,1036 2082,1036 2082,976"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_4_w16",
+                "coords": {
+                  "points": "2109,977 2109,1037 2146,1037 2146,977"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "341,1155 540,1178 647,1144 812,1194 952,1149 1915,1162 1915,1090 1850,1070 1122,1097 701,1051 341,1092"
+            },
+            "baseline": {
+              "points": "355,1124 433,1127 511,1127 589,1127 668,1127 746,1127 824,1130 903,1128 981,1130 1059,1130 1138,1130 1216,1130 1294,1130 1372,1130 1451,1130 1529,1130 1607,1130 1686,1130 1764,1130 1842,1130 1921,1130"
+            },
+            "text": "the traces for lgand Iks. While this equation gives more accurate traces than",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "346,1084 346,1144 399,1144 399,1084"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "421,1087 421,1147 532,1147 532,1087"
+                },
+                "text": "traces"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "554,1087 554,1147 607,1147 607,1087"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "629,1087 629,1147 751,1147 751,1087"
+                },
+                "text": "lgand"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "778,1089 778,1149 841,1149 841,1089"
+                },
+                "text": "Iks."
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "869,1088 869,1148 975,1148 975,1088"
+                },
+                "text": "While"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1002,1090 1002,1150 1065,1150 1065,1090"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1087,1090 1087,1150 1246,1150 1246,1090"
+                },
+                "text": "equation"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1274,1090 1274,1150 1369,1150 1369,1090"
+                },
+                "text": "gives"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1391,1090 1391,1150 1481,1150 1481,1090"
+                },
+                "text": "more"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1508,1090 1508,1150 1667,1150 1667,1090"
+                },
+                "text": "accurate"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1695,1090 1695,1150 1806,1150 1806,1090"
+                },
+                "text": "traces"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1828,1090 1828,1150 1902,1150 1902,1090"
+                },
+                "text": "than"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "353,1284 518,1257 726,1296 889,1257 1020,1300 1192,1271 1406,1307 1700,1257 1800,1298 2022,1266 2137,1296 2137,1203 2001,1185 1655,1219 1497,1178 1056,1217 353,1198"
+            },
+            "baseline": {
+              "points": "366,1244 454,1244 543,1244 632,1244 721,1244 810,1244 898,1244 987,1247 1076,1247 1165,1247 1254,1247 1342,1247 1431,1247 1520,1247 1609,1247 1698,1247 1786,1247 1875,1247 1964,1247 2053,1251 2142,1250"
+            },
+            "text": "compensation accomplished through offsetting the membrane command voltage by Ipeak",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "353,1204 353,1264 619,1264 619,1204"
+                },
+                "text": "compensation"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "646,1204 646,1264 906,1264 906,1204"
+                },
+                "text": "accomplished"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "933,1207 933,1267 1076,1267 1076,1207"
+                },
+                "text": "through"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "1103,1207 1103,1267 1283,1267 1283,1207"
+                },
+                "text": "offsetting"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1311,1207 1311,1267 1358,1267 1358,1207"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1385,1207 1385,1267 1581,1267 1581,1207"
+                },
+                "text": "membrane"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1608,1207 1608,1267 1789,1267 1789,1207"
+                },
+                "text": "command"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1821,1207 1821,1267 1959,1267 1959,1207"
+                },
+                "text": "voltage"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1981,1208 1981,1268 2018,1268 2018,1208"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "2045,1210 2045,1270 2119,1270 2119,1210"
+                },
+                "text": "Ipeak"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "346,1397 832,1425 895,1388 1438,1386 1531,1427 1827,1375 2001,1420 2130,1395 2130,1307 581,1323 527,1289 430,1334 346,1296"
+            },
+            "baseline": {
+              "points": "358,1357 446,1363 535,1360 624,1360 713,1360 802,1360 891,1360 980,1360 1069,1360 1158,1360 1247,1360 1335,1363 1424,1361 1513,1363 1602,1363 1691,1363 1780,1362 1869,1363 1958,1363 2047,1363 2136,1363"
+            },
+            "text": "Rseres for each step, the fraction within the denominator tends to amplify noise for small",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "351,1320 351,1380 457,1380 457,1320"
+                },
+                "text": "Rseres"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "473,1321 473,1381 526,1381 526,1321"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "548,1320 548,1380 627,1380 627,1320"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "654,1320 654,1380 743,1380 743,1320"
+                },
+                "text": "step,"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "765,1320 765,1380 812,1380 812,1320"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "840,1320 840,1380 982,1380 982,1320"
+                },
+                "text": "fraction"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1009,1320 1009,1380 1120,1380 1120,1320"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1147,1320 1147,1380 1194,1380 1194,1320"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1222,1322 1222,1382 1470,1382 1470,1322"
+                },
+                "text": "denominator"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1487,1323 1487,1383 1587,1383 1587,1323"
+                },
+                "text": "tends"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1609,1323 1609,1383 1635,1383 1635,1323"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1662,1322 1662,1382 1799,1382 1799,1322"
+                },
+                "text": "amplify"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1826,1323 1826,1383 1921,1383 1921,1323"
+                },
+                "text": "noise"
+              },
+              {
+                "id": "tr_1_tl_7_w14",
+                "coords": {
+                  "points": "1948,1323 1948,1383 1996,1383 1996,1323"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_7_w15",
+                "coords": {
+                  "points": "2017,1323 2017,1383 2118,1383 2118,1323"
+                },
+                "text": "small"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "348,1490 1002,1540 1113,1499 1253,1544 1418,1492 2080,1522 2080,1443 1997,1416 1226,1402 988,1443 862,1404 409,1411 348,1443"
+            },
+            "baseline": {
+              "points": "361,1470 447,1476 533,1476 619,1476 705,1476 792,1474 878,1476 964,1476 1050,1476 1136,1476 1223,1476 1309,1476 1395,1476 1481,1479 1567,1476 1654,1476 1740,1476 1826,1478 1912,1477 1998,1479 2085,1476"
+            },
+            "text": "currents and small driving voltages. Therefore the traces from stimuli that elicited no",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "353,1434 353,1494 508,1494 508,1434"
+                },
+                "text": "currents"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "534,1436 534,1496 591,1496 591,1436"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "617,1436 617,1496 720,1496 720,1436"
+                },
+                "text": "small"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "736,1434 736,1494 860,1494 860,1434"
+                },
+                "text": "driving"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "892,1436 892,1496 1067,1496 1067,1436"
+                },
+                "text": "voltages."
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1094,1436 1094,1496 1285,1496 1285,1436"
+                },
+                "text": "Therefore"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1312,1436 1312,1496 1358,1496 1358,1436"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1384,1437 1384,1497 1498,1497 1498,1437"
+                },
+                "text": "traces"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1519,1436 1519,1496 1586,1496 1586,1436"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1628,1436 1628,1496 1762,1496 1762,1436"
+                },
+                "text": "stimuli"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1778,1437 1778,1497 1850,1497 1850,1437"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1866,1437 1866,1497 2000,1497 2000,1437"
+                },
+                "text": "elicited"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "2027,1437 2027,1497 2062,1497 2062,1437"
+                },
+                "text": "no"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "346,1619 1933,1628 1933,1547 1728,1531 843,1563 346,1526"
+            },
+            "baseline": {
+              "points": "358,1587 437,1590 516,1590 595,1590 674,1590 753,1590 832,1592 911,1593 990,1593 1069,1593 1148,1592 1227,1593 1306,1593 1385,1593 1464,1593 1543,1593 1622,1593 1701,1593 1780,1593 1859,1593 1939,1593"
+            },
+            "text": "discernable increases in conductance were removed from the each series. The",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "350,1550 350,1610 567,1610 567,1550"
+                },
+                "text": "discernable"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "592,1550 592,1610 765,1610 765,1550"
+                },
+                "text": "increases"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "790,1551 790,1611 809,1611 809,1551"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "839,1553 839,1613 1081,1613 1081,1553"
+                },
+                "text": "conductance"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "1106,1552 1106,1612 1195,1612 1195,1552"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1220,1553 1220,1613 1378,1613 1378,1553"
+                },
+                "text": "removed"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1408,1553 1408,1613 1477,1613 1477,1553"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1517,1553 1517,1613 1566,1613 1566,1553"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1596,1553 1596,1613 1675,1613 1675,1553"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1700,1553 1700,1613 1823,1613 1823,1553"
+                },
+                "text": "series."
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1853,1553 1853,1613 1922,1613 1922,1553"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "350,1725 545,1762 678,1725 848,1762 1106,1723 1714,1768 1976,1737 1976,1657 1929,1646 715,1676 475,1635 350,1671"
+            },
+            "baseline": {
+              "points": "364,1700 444,1705 525,1704 606,1703 687,1703 768,1706 849,1706 929,1704 1010,1704 1091,1706 1172,1706 1253,1703 1334,1706 1415,1706 1495,1706 1576,1706 1657,1706 1738,1706 1819,1706 1900,1706 1981,1706"
+            },
+            "text": "calculations were also made without series resistance compensation to assess its",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "354,1664 354,1724 585,1724 585,1664"
+                },
+                "text": "calculations"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "610,1663 610,1723 696,1723 696,1663"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "720,1665 720,1725 787,1725 787,1665"
+                },
+                "text": "also"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "817,1665 817,1725 913,1725 913,1665"
+                },
+                "text": "made"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "938,1664 938,1724 1087,1724 1087,1664"
+                },
+                "text": "without"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1107,1666 1107,1726 1212,1726 1212,1666"
+                },
+                "text": "series"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1232,1665 1232,1725 1420,1725 1420,1665"
+                },
+                "text": "resistance"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1444,1666 1444,1726 1714,1726 1714,1666"
+                },
+                "text": "compensation"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1739,1666 1739,1726 1768,1726 1768,1666"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1797,1666 1797,1726 1912,1726 1912,1666"
+                },
+                "text": "assess"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1932,1666 1932,1726 1970,1726 1970,1666"
+                },
+                "text": "its"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "346,1861 2159,1850 2159,1784 2078,1759 1956,1793 1859,1759 1219,1789 1018,1746 821,1789 346,1784"
+            },
+            "baseline": {
+              "points": "358,1817 448,1817 538,1820 629,1820 719,1820 810,1820 900,1820 990,1820 1081,1820 1171,1820 1262,1820 1352,1820 1442,1820 1533,1820 1623,1821 1714,1822 1804,1821 1894,1823 1985,1822 2075,1820 2166,1823"
+            },
+            "text": "significance. As shown in Fig. 9, for large depolarizations there is a significant offset due",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "346,1777 346,1837 591,1837 591,1777"
+                },
+                "text": "significance."
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "619,1780 619,1840 667,1840 667,1780"
+                },
+                "text": "As"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "690,1780 690,1840 809,1840 809,1780"
+                },
+                "text": "shown"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "837,1780 837,1840 858,1840 858,1780"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "886,1780 886,1840 962,1840 962,1780"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "979,1780 979,1840 1011,1840 1011,1780"
+                },
+                "text": "9,"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1034,1780 1034,1840 1082,1840 1082,1780"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1099,1780 1099,1840 1191,1840 1191,1780"
+                },
+                "text": "large"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1213,1780 1213,1840 1513,1840 1513,1780"
+                },
+                "text": "depolarizations"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1535,1780 1535,1840 1627,1840 1627,1780"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1650,1781 1650,1841 1676,1841 1676,1781"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1699,1781 1699,1841 1709,1841 1709,1781"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1732,1781 1732,1841 1938,1841 1938,1781"
+                },
+                "text": "significant"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "1955,1781 1955,1841 2064,1841 2064,1781"
+                },
+                "text": "offset"
+              },
+              {
+                "id": "tr_1_tl_11_w15",
+                "coords": {
+                  "points": "2086,1781 2086,1841 2145,1841 2145,1781"
+                },
+                "text": "due"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "346,1954 629,1951 828,2010 1287,1949 1409,1988 1979,1983 1979,1904 1838,1881 346,1877"
+            },
+            "baseline": {
+              "points": "358,1936 439,1936 520,1936 601,1934 683,1936 764,1933 845,1936 927,1935 1008,1936 1089,1936 1171,1936 1252,1936 1333,1936 1414,1936 1496,1936 1577,1936 1658,1939 1740,1936 1821,1939 1902,1939 1984,1936"
+            },
+            "text": "to series resistance. Fig. 10 shows the final, compensated conductance traces as",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "351,1896 351,1956 375,1956 375,1896"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "406,1896 406,1956 512,1956 512,1896"
+                },
+                "text": "series"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "533,1894 533,1954 740,1954 740,1894"
+                },
+                "text": "resistance."
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "771,1894 771,1954 846,1954 846,1894"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "867,1895 867,1955 903,1955 903,1895"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "929,1895 929,1955 1044,1955 1044,1895"
+                },
+                "text": "shows"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1070,1896 1070,1956 1120,1956 1120,1896"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1141,1896 1141,1956 1242,1956 1242,1896"
+                },
+                "text": "final,"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1258,1896 1258,1956 1506,1956 1506,1896"
+                },
+                "text": "compensated"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1537,1898 1537,1958 1780,1958 1780,1898"
+                },
+                "text": "conductance"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1801,1899 1801,1959 1916,1959 1916,1899"
+                },
+                "text": "traces"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1937,1897 1937,1957 1972,1957 1972,1897"
+                },
+                "text": "as"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "348,2062 513,2089 615,2062 672,2094 726,2078 968,2105 966,2010 825,2022 724,1988 683,2019 346,1997"
+            },
+            "baseline": {
+              "points": "358,2049 388,2051 419,2052 449,2052 480,2052 510,2052 541,2052 571,2052 602,2052 632,2052 663,2052 694,2052 724,2052 755,2052 785,2054 816,2054 846,2052 877,2054 907,2056 938,2058 969,2055"
+            },
+            "text": "calculated for both Igr and Iks.",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "353,2012 353,2072 544,2072 544,2012"
+                },
+                "text": "calculated"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "575,2012 575,2072 626,2072 626,2012"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "650,2012 650,2072 725,2072 725,2012"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "755,2013 755,2073 807,2073 807,2013"
+                },
+                "text": "Igr"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "820,2012 820,2072 878,2072 878,2012"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "907,2017 907,2077 970,2077 970,2017"
+                },
+                "text": "Iks."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "1036,2306 1262,2322 1348,2297 1395,2322 1445,2300 1486,2325 1524,2302 1524,2252 1440,2241 1404,2209 1257,2214 1201,2234 1110,2207 1088,2223 1056,2191 1036,2200"
+            },
+            "baseline": {
+              "points": "1047,2282 1072,2284 1097,2285 1123,2285 1148,2284 1174,2282 1199,2283 1224,2285 1250,2285 1275,2285 1301,2285 1326,2285 1352,2285 1377,2285 1402,2285 1428,2285 1453,2285 1479,2287 1504,2288 1530,2288"
+            },
+            "text": "Characterization of Ixt",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "1042,2244 1042,2304 1382,2304 1382,2244"
+                },
+                "text": "Characterization"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "1410,2245 1410,2305 1449,2305 1449,2245"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "1466,2247 1466,2307 1516,2307 1516,2247"
+                },
+                "text": "Ixt"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "504,2440 1927,2431 1927,2361 1752,2338 1305,2365 1110,2320 839,2370 504,2331"
+            },
+            "baseline": {
+              "points": "516,2392 586,2396 657,2395 728,2395 799,2395 870,2395 941,2398 1011,2395 1082,2397 1153,2398 1224,2398 1295,2398 1366,2398 1437,2398 1507,2401 1578,2399 1649,2398 1720,2398 1791,2398 1862,2398 1933,2401"
+            },
+            "text": "The procedure used for estimating the various parameters utilizes two",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "504,2353 504,2413 568,2413 568,2353"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "595,2355 595,2415 786,2415 786,2355"
+                },
+                "text": "procedure"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "814,2355 814,2415 894,2415 894,2355"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "921,2357 921,2417 974,2417 974,2357"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "996,2357 996,2417 1187,2417 1187,2357"
+                },
+                "text": "estimating"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1215,2358 1215,2418 1262,2418 1262,2358"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1290,2358 1290,2418 1428,2418 1428,2358"
+                },
+                "text": "various"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1450,2359 1450,2419 1668,2419 1668,2359"
+                },
+                "text": "parameters"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1690,2358 1690,2418 1823,2418 1823,2358"
+                },
+                "text": "utilizes"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1845,2358 1845,2418 1908,2418 1908,2358"
+                },
+                "text": "two"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "348,2544 1287,2530 1368,2576 1404,2542 1628,2571 2067,2537 2067,2481 1866,2447 1680,2485 1391,2451 346,2481"
+            },
+            "baseline": {
+              "points": "358,2512 443,2512 529,2512 615,2512 701,2512 786,2512 872,2514 958,2515 1044,2515 1129,2515 1215,2515 1301,2515 1387,2515 1472,2515 1558,2515 1644,2515 1730,2515 1815,2515 1901,2515 1987,2515 2073,2515"
+            },
+            "text": "simultaneous approaches to the same values. First, approximations of the values are",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "350,2472 350,2532 606,2532 606,2472"
+                },
+                "text": "simultaneous"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "631,2472 631,2532 847,2532 847,2472"
+                },
+                "text": "approaches"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "873,2474 873,2534 897,2534 897,2474"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "927,2474 927,2534 976,2534 976,2474"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "1001,2475 1001,2535 1089,2535 1089,2475"
+                },
+                "text": "same"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1114,2475 1114,2535 1252,2535 1252,2475"
+                },
+                "text": "values."
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1282,2475 1282,2535 1385,2535 1385,2475"
+                },
+                "text": "First,"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1401,2475 1401,2535 1706,2535 1706,2475"
+                },
+                "text": "approximations"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1726,2475 1726,2535 1765,2535 1765,2475"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1780,2475 1780,2535 1834,2535 1834,2475"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1859,2475 1859,2535 1977,2535 1977,2475"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1997,2475 1997,2535 2046,2535 2046,2475"
+                },
+                "text": "are"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "346,2659 1492,2652 1572,2684 1721,2646 1816,2691 2153,2661 2128,2562 1875,2598 1452,2564 346,2591"
+            },
+            "baseline": {
+              "points": "358,2625 452,2628 547,2625 642,2626 736,2626 831,2625 926,2628 1020,2628 1115,2628 1210,2628 1304,2628 1399,2631 1494,2631 1588,2631 1683,2630 1778,2631 1872,2631 1967,2631 2062,2631 2157,2634"
+            },
+            "text": "made by fitting single exponentials to specific regions of curves for large depolarizations,",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "352,2586 352,2646 449,2646 449,2586"
+                },
+                "text": "made"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "471,2586 471,2646 509,2646 509,2586"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "537,2585 537,2645 639,2645 639,2585"
+                },
+                "text": "fitting"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "672,2586 672,2646 775,2646 775,2586"
+                },
+                "text": "single"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "798,2587 798,2647 1041,2647 1041,2587"
+                },
+                "text": "exponentials"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1064,2588 1064,2648 1090,2648 1090,2588"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1118,2588 1118,2648 1259,2648 1259,2588"
+                },
+                "text": "specific"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1281,2589 1281,2649 1422,2649 1422,2589"
+                },
+                "text": "regions"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1444,2591 1444,2651 1482,2651 1482,2591"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1499,2591 1499,2651 1623,2651 1623,2591"
+                },
+                "text": "curves"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1645,2590 1645,2650 1694,2650 1694,2590"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1716,2590 1716,2650 1802,2650 1802,2590"
+                },
+                "text": "large"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1830,2591 1830,2651 2150,2651 2150,2591"
+                },
+                "text": "depolarizations,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "353,2777 1397,2763 1511,2804 1716,2770 1832,2811 2164,2775 2162,2711 1988,2680 755,2714 350,2664"
+            },
+            "baseline": {
+              "points": "364,2739 454,2742 544,2742 634,2745 725,2745 815,2745 905,2745 995,2745 1086,2745 1176,2745 1266,2746 1356,2746 1447,2746 1537,2748 1627,2748 1717,2748 1808,2748 1898,2748 1988,2746 2078,2746 2169,2745"
+            },
+            "text": "(to be explained in more detail later). These values are then used as the initial guesses for",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "355,2699 355,2759 402,2759 402,2699"
+                },
+                "text": "(to"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "429,2701 429,2761 466,2761 466,2701"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "488,2703 488,2763 667,2763 667,2703"
+                },
+                "text": "explained"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "694,2705 694,2765 715,2765 715,2705"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "742,2705 742,2765 837,2765 837,2705"
+                },
+                "text": "more"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "864,2705 864,2765 969,2765 969,2705"
+                },
+                "text": "detail"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "986,2705 986,2765 1102,2765 1102,2705"
+                },
+                "text": "later)."
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1129,2705 1129,2765 1239,2765 1239,2705"
+                },
+                "text": "These"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1267,2706 1267,2766 1383,2766 1383,2706"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1405,2706 1405,2766 1452,2766 1452,2706"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1479,2707 1479,2767 1552,2767 1552,2707"
+                },
+                "text": "then"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1574,2708 1574,2768 1658,2768 1658,2708"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1685,2708 1685,2768 1717,2768 1717,2708"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "1739,2708 1739,2768 1791,2768 1791,2708"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w15",
+                "coords": {
+                  "points": "1813,2708 1813,2768 1923,2768 1923,2708"
+                },
+                "text": "initial"
+              },
+              {
+                "id": "tr_1_tl_18_w16",
+                "coords": {
+                  "points": "1940,2706 1940,2766 2087,2766 2087,2706"
+                },
+                "text": "guesses"
+              },
+              {
+                "id": "tr_1_tl_18_w17",
+                "coords": {
+                  "points": "2109,2705 2109,2765 2156,2765 2156,2705"
+                },
+                "text": "for"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "348,2897 654,2874 877,2917 1088,2881 1302,2922 1515,2883 1924,2933 1924,2802 348,2815"
+            },
+            "baseline": {
+              "points": "361,2867 439,2861 517,2861 596,2861 674,2861 753,2861 831,2861 910,2861 988,2861 1067,2861 1145,2861 1223,2861 1302,2861 1380,2862 1459,2861 1537,2861 1616,2864 1694,2864 1773,2863 1851,2864 1930,2861"
+            },
+            "text": "parameterized functions that are then fit iteratively using a computer program",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "353,2821 353,2881 626,2881 626,2821"
+                },
+                "text": "parameterized"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "652,2821 652,2881 828,2881 828,2821"
+                },
+                "text": "functions"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "849,2821 849,2881 924,2881 924,2821"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "940,2821 940,2881 990,2881 990,2821"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1016,2821 1016,2881 1092,2881 1092,2821"
+                },
+                "text": "then"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1117,2821 1117,2881 1157,2881 1157,2821"
+                },
+                "text": "fit"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1173,2821 1173,2881 1360,2881 1360,2821"
+                },
+                "text": "iteratively"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1386,2821 1386,2881 1481,2881 1481,2821"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1507,2821 1507,2881 1517,2881 1517,2821"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1543,2824 1543,2884 1730,2884 1730,2824"
+                },
+                "text": "computer"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1751,2823 1751,2883 1897,2883 1897,2823"
+                },
+                "text": "program"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "360,3014 828,2989 1117,3032 1486,2992 1814,3037 2037,2996 2037,2931 1879,2915 1454,2949 1262,2912 1194,2946 1146,2908 1029,2944 954,2903 667,2944 360,2903"
+            },
+            "baseline": {
+              "points": "372,2974 455,2971 539,2974 622,2974 706,2974 789,2974 873,2974 956,2974 1040,2977 1123,2975 1207,2977 1291,2977 1374,2977 1458,2977 1541,2977 1625,2977 1708,2977 1792,2977 1875,2977 1959,2977 2043,2974"
+            },
+            "text": "(NEURON, developed by Michael Hines and John W. Moore at the Department of",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "366,2932 366,2992 603,2992 603,2932"
+                },
+                "text": "(NEURON,"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "620,2934 620,2994 813,2994 813,2934"
+                },
+                "text": "developed"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "841,2934 841,2994 874,2994 874,2934"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "902,2934 902,2994 1056,2994 1056,2934"
+                },
+                "text": "Michael"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "1074,2935 1074,2995 1178,2995 1178,2935"
+                },
+                "text": "Hines"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1200,2937 1200,2997 1260,2997 1260,2937"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1283,2937 1283,2997 1365,2997 1365,2937"
+                },
+                "text": "John"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1394,2937 1394,2997 1449,2997 1449,2937"
+                },
+                "text": "W."
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1466,2937 1466,2997 1592,2997 1592,2937"
+                },
+                "text": "Moore"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1615,2937 1615,2997 1647,2997 1647,2937"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1664,2937 1664,2997 1714,2997 1714,2937"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1742,2937 1742,2997 1973,2997 1973,2937"
+                },
+                "text": "Department"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1996,2935 1996,2995 2029,2995 2029,2935"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "350,3114 590,3141 886,3107 1013,3157 1085,3111 1208,3170 1418,3116 1988,3145 1988,3050 1845,3023 1685,3057 1409,3023 1298,3059 1063,3023 350,3055"
+            },
+            "baseline": {
+              "points": "364,3085 445,3088 526,3091 608,3091 689,3091 771,3091 852,3091 934,3091 1015,3091 1097,3092 1178,3092 1259,3091 1341,3094 1422,3094 1504,3094 1585,3094 1667,3094 1748,3094 1830,3094 1911,3094 1993,3091"
+            },
+            "text": "Neurobiology, Duke University). Because the empirical approximations are only",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "356,3050 356,3110 643,3110 643,3050"
+                },
+                "text": "Neurobiology,"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "660,3051 660,3111 757,3111 757,3051"
+                },
+                "text": "Duke"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "785,3051 785,3111 1024,3111 1024,3051"
+                },
+                "text": "University)."
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "1046,3052 1046,3112 1203,3112 1203,3052"
+                },
+                "text": "Because"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1231,3051 1231,3111 1279,3111 1279,3051"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1307,3054 1307,3114 1486,3114 1486,3054"
+                },
+                "text": "empirical"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1503,3054 1503,3114 1806,3114 1806,3054"
+                },
+                "text": "approximations"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1829,3054 1829,3114 1877,3114 1877,3054"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1905,3052 1905,3112 1980,3112 1980,3052"
+                },
+                "text": "only"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

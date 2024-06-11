@@ -1,0 +1,2179 @@
+{
+  "processId": 10341874,
+  "status": "FINISHED",
+  "content": {
+    "text": "AFLP\nAFLP was developed by Vos et al. (1995). The method involves multiple steps:\nisolation of genomic DNA, double restriction digest, ligation of adapters, preamplification,\nselective amplification and labeling, and autoradiography (Fig. 5).\nGenomic DNA is cut by a four base cutter (Msel) and a six base cutter (EcoRl).\nSynthesized oligo nucleotide adapters are then ligated to the ends of the restricted\nfragments (Fig. 6). In the preamplification step, primers whose sequence are identical to\nthe adapter sequence and sticky end sequence with an additional random base on the 3\nend are used. During the PCR reaction, the double stranded fragments with adapters on\nthe end denature, and the primers bind selectively to the fragments with the\ncomplementary adapter/sticky end sequence as well as the complement to the random base\n(Fig. 7). The PCR reaction amplifies these fragments. This provides selectivity by\namplifying only fragments with adapters followed by the complement to the random base.\nIn the selective amplification and labeling step, the primers are similar, except they\nhave an additional two random bases to increase selectivity. In this reaction, only the\nfragments with both the complementary adapter sequence/sticky end sequence and three\nbases complementary to the three on the primer are amplified (Fig. 8). This increases\nselectivity again by amplifying only a subset of the fragments that were amplified in the\npreamplification. Labeling of the fragments with radioactivity also occurs in this step, as\nthe EcoRl primer in this step is labeled with3\nThe product of the selective amplification and labeling step is resolved on a\npolyacrylamide sequencing gel. Since each fragment is a unique size, it should migrate at",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "334,273 334,2844 2179,2844 2179,273"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "327,352 343,347 368,361 382,354 396,361 444,352 471,377 485,375 485,290 469,290 451,271 432,278 423,271 402,285 354,251 327,258"
+            },
+            "baseline": {
+              "points": "340,334 369,331 399,331 429,331 459,331 489,331"
+            },
+            "text": "AFLP",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "331,291 331,351 471,351 471,291"
+                },
+                "text": "AFLP"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "478,462 724,469 828,522 897,462 1017,455 1431,494 1548,455 2123,474 2123,407 1900,363 1769,407 1612,366 1534,398 1421,345 1240,405 961,370 478,400"
+            },
+            "baseline": {
+              "points": "492,441 573,444 655,444 737,447 819,447 901,446 982,447 1064,447 1146,445 1228,446 1310,442 1391,444 1473,444 1555,447 1637,444 1719,444 1800,444 1882,444 1964,444 2046,444 2128,447"
+            },
+            "text": "AFLP was developed by Vos et al. (1995). The method involves multiple steps:",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "478,402 478,462 588,462 588,402"
+                },
+                "text": "AFLP"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "616,404 616,464 686,464 686,404"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "709,407 709,467 906,467 906,407"
+                },
+                "text": "developed"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "934,406 934,466 967,466 967,406"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "995,407 995,467 1071,467 1071,407"
+                },
+                "text": "Vos"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1088,405 1088,465 1126,465 1126,405"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1143,405 1143,465 1192,465 1192,405"
+                },
+                "text": "al."
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1203,403 1203,463 1357,463 1357,403"
+                },
+                "text": "(1995)."
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1385,404 1385,464 1456,464 1456,404"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1478,406 1478,466 1620,466 1620,406"
+                },
+                "text": "method"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1648,404 1648,464 1807,464 1807,404"
+                },
+                "text": "involves"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1830,404 1830,464 1983,464 1983,404"
+                },
+                "text": "multiple"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "2011,404 2011,464 2120,464 2120,404"
+                },
+                "text": "steps:"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "324,605 699,621 766,582 860,616 927,582 1051,635 1270,570 1329,610 1619,589 1674,626 1907,575 2174,596 2174,501 2134,492 1778,538 324,520"
+            },
+            "baseline": {
+              "points": "337,564 433,567 530,567 627,566 724,567 820,564 917,567 1014,567 1111,567 1208,567 1304,567 1401,567 1498,564 1595,567 1692,565 1788,564 1885,564 1982,564 2079,567 2176,567"
+            },
+            "text": "isolation of genomic DNA, double restriction digest, ligation of adapters, preamplification,",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "330,526 330,586 487,586 487,526"
+                },
+                "text": "isolation"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "521,526 521,586 553,586 553,526"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "575,526 575,586 733,586 733,526"
+                },
+                "text": "genomic"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "755,524 755,584 874,584 874,524"
+                },
+                "text": "DNA,"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "897,527 897,587 1022,587 1022,527"
+                },
+                "text": "double"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1044,527 1044,587 1234,587 1234,527"
+                },
+                "text": "restriction"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1262,527 1262,587 1392,587 1392,527"
+                },
+                "text": "digest,"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1409,524 1409,584 1550,584 1550,524"
+                },
+                "text": "ligation"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1578,526 1578,586 1616,586 1616,526"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1633,524 1633,584 1812,584 1812,524"
+                },
+                "text": "adapters,"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1829,524 1829,584 2166,584 2166,524"
+                },
+                "text": "preamplification,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "327,736 476,764 623,711 872,706 1083,752 1366,704 1490,745 1670,704 1670,623 1419,656 1000,607 807,662 626,621 327,653"
+            },
+            "baseline": {
+              "points": "340,686 406,683 473,683 540,683 606,683 673,683 740,683 806,683 873,683 940,683 1007,686 1073,686 1140,683 1207,683 1273,683 1340,684 1407,684 1473,682 1540,682 1607,683 1674,686"
+            },
+            "text": "selective amplification and labeling, and autoradiography (Fig. 5).",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "333,643 333,703 497,703 497,643"
+                },
+                "text": "selective"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "520,643 520,703 772,703 772,643"
+                },
+                "text": "amplification"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "800,643 800,703 859,703 859,643"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "882,644 882,704 1052,704 1052,644"
+                },
+                "text": "labeling,"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "1069,644 1069,704 1129,704 1129,644"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1157,643 1157,703 1480,703 1480,643"
+                },
+                "text": "autoradiography"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1509,642 1509,702 1601,702 1601,642"
+                },
+                "text": "(Fig."
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1613,644 1613,704 1673,704 1673,644"
+                },
+                "text": "5)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "485,849 931,814 1495,869 1615,821 1886,867 2022,812 2111,844 2093,741 485,754"
+            },
+            "baseline": {
+              "points": "498,800 578,802 659,800 740,800 821,800 902,800 983,803 1064,802 1145,803 1226,803 1307,803 1387,803 1468,800 1549,803 1630,803 1711,803 1792,803 1873,803 1954,800 2035,800 2116,806"
+            },
+            "text": "Genomic DNA is cut by a four base cutter (Msel) and a six base cutter (EcoRl).",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "491,761 491,821 659,821 659,761"
+                },
+                "text": "Genomic"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "687,760 687,820 774,820 774,760"
+                },
+                "text": "DNA"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "807,760 807,820 833,820 833,760"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "856,760 856,820 909,820 909,760"
+                },
+                "text": "cut"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "932,761 932,821 964,821 964,761"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "992,762 992,822 1002,822 1002,762"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1030,762 1030,822 1106,822 1106,762"
+                },
+                "text": "four"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1123,763 1123,823 1204,823 1204,763"
+                },
+                "text": "base"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1226,763 1226,823 1340,823 1340,763"
+                },
+                "text": "cutter"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1357,761 1357,821 1493,821 1493,761"
+                },
+                "text": "(Msel)"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1515,762 1515,822 1569,822 1569,762"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1597,763 1597,823 1607,823 1607,763"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1635,763 1635,823 1678,823 1678,763"
+                },
+                "text": "six"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "1701,763 1701,823 1781,823 1781,763"
+                },
+                "text": "base"
+              },
+              {
+                "id": "tr_1_tl_5_w15",
+                "coords": {
+                  "points": "1809,763 1809,823 1918,823 1918,763"
+                },
+                "text": "cutter"
+              },
+              {
+                "id": "tr_1_tl_5_w16",
+                "coords": {
+                  "points": "1940,760 1940,820 2114,820 2114,760"
+                },
+                "text": "(EcoRl)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "340,968 934,931 1141,975 1226,934 2006,977 1992,856 1182,892 881,851 738,890 582,839 340,874"
+            },
+            "baseline": {
+              "points": "352,919 434,919 517,919 600,919 683,919 766,920 849,922 931,922 1014,922 1097,922 1180,922 1263,922 1346,922 1429,919 1511,922 1594,920 1677,922 1760,919 1843,917 1926,919 2009,919"
+            },
+            "text": "Synthesized oligo nucleotide adapters are then ligated to the ends of the restricted",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "345,879 345,939 572,939 572,879"
+                },
+                "text": "Synthesized"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "598,879 598,939 685,939 685,879"
+                },
+                "text": "oligo"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "712,881 712,941 908,941 908,881"
+                },
+                "text": "nucleotide"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "935,882 935,942 1094,942 1094,882"
+                },
+                "text": "adapters"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1121,882 1121,942 1166,942 1166,882"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1193,882 1193,942 1265,942 1265,882"
+                },
+                "text": "then"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1291,881 1291,941 1414,941 1414,881"
+                },
+                "text": "ligated"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1441,879 1441,939 1467,939 1467,879"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1498,881 1498,941 1549,941 1549,881"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1571,880 1571,940 1658,940 1658,880"
+                },
+                "text": "ends"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1679,881 1679,941 1715,941 1715,881"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1731,879 1731,939 1782,939 1782,879"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1808,878 1808,938 1983,938 1983,878"
+                },
+                "text": "restricted"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "336,1116 787,1058 966,1113 1090,1049 1497,1095 1750,1060 1824,1104 1877,1063 1989,1097 2128,1067 2128,1005 1996,977 336,989"
+            },
+            "baseline": {
+              "points": "349,1038 438,1038 527,1038 616,1035 706,1035 795,1041 884,1038 973,1041 1063,1041 1152,1041 1241,1041 1330,1041 1420,1041 1509,1038 1598,1038 1687,1038 1777,1038 1866,1038 1955,1038 2044,1038 2134,1038"
+            },
+            "text": "fragments (Fig. 6). In the preamplification step, primers whose sequence are identical to",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "341,998 341,1058 532,1058 532,998"
+                },
+                "text": "fragments"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "553,995 553,1055 645,1055 645,995"
+                },
+                "text": "(Fig."
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "662,995 662,1055 718,1055 718,995"
+                },
+                "text": "6)."
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "744,998 744,1058 775,1058 775,998"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "801,999 801,1059 852,1059 852,999"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "879,1001 879,1061 1189,1061 1189,1001"
+                },
+                "text": "preamplification"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1216,1001 1216,1061 1308,1061 1308,1001"
+                },
+                "text": "step,"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1324,1001 1324,1061 1468,1061 1468,1001"
+                },
+                "text": "primers"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1490,998 1490,1058 1609,1058 1609,998"
+                },
+                "text": "whose"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1635,998 1635,1058 1805,1058 1805,998"
+                },
+                "text": "sequence"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1832,998 1832,1058 1883,1058 1883,998"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1904,998 1904,1058 2074,1058 2074,998"
+                },
+                "text": "identical"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "2090,998 2090,1058 2116,1058 2116,998"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "327,1171 488,1168 593,1217 674,1175 782,1212 1187,1168 1755,1203 1851,1168 1932,1212 2086,1173 2086,1104 1964,1079 1904,1122 1566,1088 869,1125 780,1074 674,1125 566,1092 327,1116"
+            },
+            "baseline": {
+              "points": "340,1155 427,1158 515,1155 602,1156 690,1158 778,1158 865,1158 953,1158 1040,1158 1128,1156 1216,1158 1303,1157 1391,1156 1478,1157 1566,1155 1654,1155 1741,1155 1829,1155 1916,1155 2004,1155 2092,1149"
+            },
+            "text": "the adapter sequence and sticky end sequence with an additional random base on the 3",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "332,1115 332,1175 382,1175 382,1115"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "408,1116 408,1176 554,1176 554,1116"
+                },
+                "text": "adapter"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "575,1117 575,1177 748,1177 748,1117"
+                },
+                "text": "sequence"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "774,1118 774,1178 829,1178 829,1118"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "860,1118 860,1178 966,1178 966,1118"
+                },
+                "text": "sticky"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "992,1118 992,1178 1048,1178 1048,1118"
+                },
+                "text": "end"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1079,1116 1079,1176 1251,1176 1251,1116"
+                },
+                "text": "sequence"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1277,1116 1277,1176 1352,1176 1352,1116"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1378,1116 1378,1176 1413,1176 1413,1116"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1439,1115 1439,1175 1637,1175 1637,1115"
+                },
+                "text": "additional"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1653,1115 1653,1175 1779,1175 1779,1115"
+                },
+                "text": "random"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1821,1115 1821,1175 1901,1175 1901,1115"
+                },
+                "text": "base"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1927,1115 1927,1175 1962,1175 1962,1115"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1988,1114 1988,1174 2044,1174 2044,1114"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "2064,1110 2064,1170 2079,1170 2079,1110"
+                },
+                "text": "3"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "340,1311 515,1283 702,1329 954,1286 1109,1329 1424,1286 1665,1325 2125,1281 2125,1224 1925,1205 1631,1240 1440,1208 1019,1244 759,1198 340,1230"
+            },
+            "baseline": {
+              "points": "352,1271 445,1274 539,1273 632,1274 726,1274 820,1274 913,1274 1007,1274 1101,1274 1194,1274 1288,1274 1381,1274 1475,1274 1569,1274 1662,1274 1756,1271 1850,1271 1943,1271 2037,1272 2131,1271"
+            },
+            "text": "end are used. During the PCR reaction, the double stranded fragments with adapters on",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "345,1231 345,1291 406,1291 406,1231"
+                },
+                "text": "end"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "433,1233 433,1293 483,1293 483,1233"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "505,1233 505,1293 612,1293 612,1233"
+                },
+                "text": "used."
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "639,1234 639,1294 767,1294 767,1234"
+                },
+                "text": "During"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "793,1234 793,1294 844,1294 844,1234"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "870,1234 870,1294 943,1294 943,1234"
+                },
+                "text": "PCR"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "979,1234 979,1294 1149,1294 1149,1234"
+                },
+                "text": "reaction,"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1170,1234 1170,1294 1216,1294 1216,1234"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1242,1234 1242,1294 1365,1294 1365,1234"
+                },
+                "text": "double"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1391,1234 1391,1294 1551,1294 1551,1234"
+                },
+                "text": "stranded"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1577,1233 1577,1293 1767,1293 1767,1233"
+                },
+                "text": "fragments"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1789,1231 1789,1291 1865,1291 1865,1231"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1892,1231 1892,1291 2056,1291 2056,1231"
+                },
+                "text": "adapters"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "2077,1231 2077,1291 2113,1291 2113,1231"
+                },
+                "text": "on"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "324,1424 823,1456 1095,1414 1162,1454 1276,1412 1546,1444 1868,1405 1868,1357 1718,1316 1375,1364 1228,1329 1157,1362 324,1343"
+            },
+            "baseline": {
+              "points": "337,1391 413,1394 490,1394 567,1394 644,1394 721,1394 798,1394 874,1394 951,1394 1028,1394 1105,1394 1182,1394 1259,1394 1336,1392 1412,1394 1489,1394 1566,1394 1643,1394 1720,1391 1797,1391 1874,1394"
+            },
+            "text": "the end denature, and the primers bind selectively to the fragments with the",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "329,1351 329,1411 376,1411 376,1351"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "402,1354 402,1414 465,1414 465,1354"
+                },
+                "text": "end"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "491,1354 491,1414 680,1414 680,1354"
+                },
+                "text": "denature,"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "696,1354 696,1414 758,1414 758,1354"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "786,1354 786,1414 832,1414 832,1354"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "859,1354 859,1414 1006,1414 1006,1354"
+                },
+                "text": "primers"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1027,1354 1027,1414 1100,1414 1100,1354"
+                },
+                "text": "bind"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1127,1354 1127,1414 1325,1414 1325,1354"
+                },
+                "text": "selectively"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1352,1352 1352,1412 1378,1412 1378,1352"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1410,1354 1410,1414 1462,1414 1462,1354"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1484,1354 1484,1414 1683,1414 1683,1354"
+                },
+                "text": "fragments"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1704,1351 1704,1411 1777,1411 1777,1351"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1804,1352 1804,1412 1855,1412 1855,1352"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "334,1548 1700,1527 2174,1571 2174,1467 1907,1438 1571,1481 1417,1442 1175,1483 1092,1447 536,1479 453,1431 334,1465"
+            },
+            "baseline": {
+              "points": "346,1513 437,1513 529,1513 620,1512 712,1512 804,1512 895,1512 987,1513 1079,1513 1170,1513 1262,1511 1354,1513 1445,1513 1537,1513 1629,1513 1720,1511 1812,1510 1904,1510 1995,1510 2087,1510 2179,1510"
+            },
+            "text": "complementary adapter/sticky end sequence as well as the complement to the random base",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "339,1473 339,1533 636,1533 636,1473"
+                },
+                "text": "complementary"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "662,1472 662,1532 934,1532 934,1472"
+                },
+                "text": "adapter/sticky"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "960,1473 960,1533 1020,1533 1020,1473"
+                },
+                "text": "end"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "1046,1473 1046,1533 1217,1533 1217,1473"
+                },
+                "text": "sequence"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1243,1471 1243,1531 1273,1531 1273,1471"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1299,1472 1299,1532 1379,1532 1379,1472"
+                },
+                "text": "well"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1395,1473 1395,1533 1430,1533 1430,1473"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1450,1473 1450,1533 1500,1533 1500,1473"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1526,1472 1526,1532 1768,1532 1768,1472"
+                },
+                "text": "complement"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1784,1470 1784,1530 1814,1530 1814,1470"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1839,1470 1839,1530 1894,1530 1894,1470"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1915,1470 1915,1530 2046,1530 2046,1470"
+                },
+                "text": "random"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "2087,1470 2087,1530 2162,1530 2162,1470"
+                },
+                "text": "base"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "334,1658 391,1688 879,1644 996,1693 1392,1640 2012,1670 2012,1594 1923,1564 1831,1601 1615,1559 1081,1603 534,1555 334,1587"
+            },
+            "baseline": {
+              "points": "346,1632 429,1632 513,1629 596,1629 680,1629 764,1632 847,1632 931,1632 1014,1631 1098,1632 1182,1629 1265,1631 1349,1629 1432,1629 1516,1629 1600,1629 1683,1629 1767,1627 1850,1627 1934,1624 2018,1624"
+            },
+            "text": "(Fig. 7). The PCR reaction amplifies these fragments. This provides selectivity by",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "341,1592 341,1652 436,1652 436,1592"
+                },
+                "text": "(Fig."
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "448,1590 448,1650 504,1650 504,1590"
+                },
+                "text": "7)."
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "533,1589 533,1649 600,1649 600,1589"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "624,1589 624,1649 698,1649 698,1589"
+                },
+                "text": "PCR"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "732,1592 732,1652 885,1652 885,1592"
+                },
+                "text": "reaction"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "908,1591 908,1651 1084,1651 1084,1591"
+                },
+                "text": "amplifies"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1101,1590 1101,1650 1197,1650 1197,1590"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1220,1589 1220,1649 1430,1649 1430,1589"
+                },
+                "text": "fragments."
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1459,1589 1459,1649 1538,1649 1538,1589"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1561,1589 1561,1649 1725,1649 1725,1589"
+                },
+                "text": "provides"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1749,1587 1749,1647 1935,1647 1935,1587"
+                },
+                "text": "selectivity"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1964,1584 1964,1644 1997,1644 1997,1584"
+                },
+                "text": "by"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "331,1776 780,1799 869,1762 1129,1805 1260,1757 1375,1799 1605,1764 1819,1810 1891,1769 2047,1808 2146,1776 2146,1690 872,1718 430,1684 331,1716"
+            },
+            "baseline": {
+              "points": "343,1749 433,1747 523,1748 613,1747 704,1748 794,1749 884,1747 975,1749 1065,1749 1155,1749 1246,1746 1336,1746 1426,1746 1516,1746 1607,1746 1697,1746 1787,1746 1878,1746 1968,1746 2058,1746 2149,1746"
+            },
+            "text": "amplifying only fragments with adapters followed by the complement to the random base.",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "331,1707 331,1767 532,1767 532,1707"
+                },
+                "text": "amplifying"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "565,1707 565,1767 634,1767 634,1707"
+                },
+                "text": "only"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "661,1708 661,1768 852,1768 852,1708"
+                },
+                "text": "fragments"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "874,1707 874,1767 953,1767 953,1707"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "980,1709 980,1769 1139,1769 1139,1709"
+                },
+                "text": "adapters"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1161,1706 1161,1766 1325,1766 1325,1706"
+                },
+                "text": "followed"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1352,1706 1352,1766 1389,1766 1389,1706"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1416,1706 1416,1766 1463,1766 1463,1706"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1490,1706 1490,1766 1734,1766 1734,1706"
+                },
+                "text": "complement"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1751,1706 1751,1766 1777,1766 1777,1706"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1804,1706 1804,1766 1856,1766 1856,1706"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1884,1706 1884,1766 2011,1766 2011,1706"
+                },
+                "text": "random"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "2049,1706 2049,1766 2149,1766 2149,1706"
+                },
+                "text": "base."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "474,1932 800,1879 897,1918 1661,1877 1713,1914 2146,1911 2146,1812 2072,1796 1932,1833 1840,1799 1288,1828 1208,1785 1074,1831 474,1812"
+            },
+            "baseline": {
+              "points": "486,1862 569,1865 652,1865 735,1865 819,1865 902,1866 985,1865 1069,1865 1152,1868 1235,1865 1319,1865 1402,1865 1485,1865 1568,1865 1652,1865 1735,1865 1818,1863 1902,1863 1985,1862 2068,1862 2152,1862"
+            },
+            "text": "In the selective amplification and labeling step, the primers are similar, except they",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "479,1822 479,1882 505,1882 505,1822"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "531,1824 531,1884 583,1884 583,1824"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "609,1825 609,1885 770,1885 770,1825"
+                },
+                "text": "selective"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "797,1825 797,1885 1047,1885 1047,1825"
+                },
+                "text": "amplification"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "1074,1826 1074,1886 1131,1886 1131,1826"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1158,1825 1158,1885 1303,1885 1303,1825"
+                },
+                "text": "labeling"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1330,1825 1330,1885 1424,1885 1424,1825"
+                },
+                "text": "step,"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1440,1825 1440,1885 1491,1885 1491,1825"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1518,1825 1518,1885 1663,1885 1663,1825"
+                },
+                "text": "primers"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1685,1825 1685,1885 1737,1885 1737,1825"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1759,1823 1759,1883 1904,1883 1904,1823"
+                },
+                "text": "similar,"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1925,1822 1925,1882 2050,1882 2050,1822"
+                },
+                "text": "except"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "2071,1822 2071,1882 2144,1882 2144,1822"
+                },
+                "text": "they"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "334,2035 506,2003 672,2038 777,1992 961,2035 1095,1996 1205,2035 1389,1994 1520,2024 1624,1985 1734,2029 2068,2031 2068,1923 2029,1918 1555,1953 1442,1918 1336,1950 1226,1902 1065,1953 334,1934"
+            },
+            "baseline": {
+              "points": "346,1982 432,1982 518,1982 605,1982 691,1982 778,1982 864,1985 950,1984 1037,1985 1123,1984 1210,1985 1296,1985 1382,1985 1469,1982 1555,1982 1642,1985 1728,1982 1814,1982 1901,1982 1987,1982 2074,1982"
+            },
+            "text": "have an additional two random bases to increase selectivity. In this reaction, only the",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "339,1942 339,2002 419,2002 419,1942"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "445,1942 445,2002 479,2002 479,1942"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "505,1942 505,2002 701,2002 701,1942"
+                },
+                "text": "additional"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "717,1942 717,2002 783,2002 783,1942"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "809,1944 809,2004 939,2004 939,1944"
+                },
+                "text": "random"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "975,1944 975,2004 1076,2004 1076,1944"
+                },
+                "text": "bases"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1096,1944 1096,2004 1126,2004 1126,1944"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1152,1945 1152,2005 1303,2005 1303,1945"
+                },
+                "text": "increase"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1329,1943 1329,2003 1541,2003 1541,1943"
+                },
+                "text": "selectivity."
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1571,1943 1571,2003 1601,2003 1601,1943"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1627,1944 1627,2004 1688,2004 1688,1944"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1713,1942 1713,2002 1884,2002 1884,1942"
+                },
+                "text": "reaction,"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1905,1942 1905,2002 1975,2002 1975,1942"
+                },
+                "text": "only"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "2001,1942 2001,2002 2056,2002 2056,1942"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "334,2130 715,2118 929,2162 1095,2114 1401,2169 1771,2111 2125,2146 2107,2058 1808,2029 1679,2070 1230,2022 1104,2068 973,2035 897,2070 692,2035 334,2058"
+            },
+            "baseline": {
+              "points": "346,2101 435,2101 524,2101 613,2098 702,2101 791,2101 880,2101 969,2104 1058,2104 1147,2101 1237,2104 1326,2101 1415,2101 1504,2101 1593,2101 1682,2101 1771,2098 1860,2098 1949,2101 2038,2098 2128,2095"
+            },
+            "text": "fragments with both the complementary adapter sequence/sticky end sequence and three",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "339,2061 339,2121 530,2121 530,2061"
+                },
+                "text": "fragments"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "551,2058 551,2118 628,2118 628,2058"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "654,2060 654,2120 731,2120 731,2060"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "758,2061 758,2121 809,2121 809,2061"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "835,2064 835,2124 1129,2124 1129,2064"
+                },
+                "text": "complementary"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1156,2063 1156,2123 1301,2123 1301,2063"
+                },
+                "text": "adapter"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1322,2061 1322,2121 1626,2121 1626,2061"
+                },
+                "text": "sequence/sticky"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1653,2061 1653,2121 1709,2121 1709,2061"
+                },
+                "text": "end"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1736,2058 1736,2118 1911,2118 1911,2058"
+                },
+                "text": "sequence"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1937,2060 1937,2120 1994,2120 1994,2060"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "2020,2057 2020,2117 2113,2117 2113,2057"
+                },
+                "text": "three"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "331,2254 1178,2270 1283,2231 1486,2300 1628,2238 2056,2245 2019,2160 331,2160"
+            },
+            "baseline": {
+              "points": "343,2221 433,2221 523,2221 614,2223 704,2221 795,2221 885,2221 976,2221 1066,2221 1157,2221 1247,2221 1338,2221 1428,2221 1519,2218 1609,2221 1700,2218 1790,2218 1881,2218 1971,2218 2062,2218"
+            },
+            "text": "bases complementary to the three on the primer are amplified (Fig. 8). This increases",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "331,2181 331,2241 434,2241 434,2181"
+                },
+                "text": "bases"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "456,2182 456,2242 754,2242 754,2182"
+                },
+                "text": "complementary"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "782,2181 782,2241 809,2241 809,2181"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "837,2181 837,2241 885,2241 885,2181"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "913,2181 913,2241 1004,2241 1004,2181"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1027,2181 1027,2241 1064,2241 1064,2181"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1092,2181 1092,2241 1140,2241 1140,2181"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1168,2181 1168,2241 1293,2241 1293,2181"
+                },
+                "text": "primer"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1315,2181 1315,2241 1363,2241 1363,2181"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1391,2179 1391,2239 1559,2239 1559,2179"
+                },
+                "text": "amplified"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1587,2180 1587,2240 1684,2240 1684,2180"
+                },
+                "text": "(Fig."
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1695,2178 1695,2238 1755,2238 1755,2178"
+                },
+                "text": "8)."
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1766,2178 1766,2238 1847,2238 1847,2178"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_17_w14",
+                "coords": {
+                  "points": "1869,2178 1869,2238 2042,2238 2042,2178"
+                },
+                "text": "increases"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "327,2358 766,2392 918,2358 1237,2408 1552,2351 1819,2408 1992,2346 2098,2371 2098,2293 1670,2259 1493,2302 1184,2266 777,2312 483,2272 327,2316"
+            },
+            "baseline": {
+              "points": "340,2340 428,2340 516,2340 604,2340 692,2340 781,2340 869,2340 957,2343 1045,2340 1133,2340 1222,2340 1310,2340 1398,2340 1486,2340 1574,2340 1663,2340 1751,2340 1839,2337 1927,2337 2015,2337 2104,2337"
+            },
+            "text": "selectivity again by amplifying only a subset of the fragments that were amplified in the",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "328,2300 328,2360 517,2360 517,2300"
+                },
+                "text": "selectivity"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "546,2300 546,2360 640,2360 640,2300"
+                },
+                "text": "again"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "663,2300 663,2360 702,2360 702,2300"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "730,2300 730,2360 926,2360 926,2300"
+                },
+                "text": "amplifying"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "954,2301 954,2361 1026,2361 1026,2301"
+                },
+                "text": "only"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1055,2300 1055,2360 1066,2360 1066,2300"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1089,2300 1089,2360 1211,2360 1211,2300"
+                },
+                "text": "subset"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1234,2300 1234,2360 1267,2360 1267,2300"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1284,2300 1284,2360 1334,2360 1334,2300"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1363,2300 1363,2360 1553,2360 1553,2300"
+                },
+                "text": "fragments"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1576,2300 1576,2360 1648,2360 1648,2300"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1671,2300 1671,2360 1754,2360 1754,2300"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1783,2297 1783,2357 1955,2357 1955,2297"
+                },
+                "text": "amplified"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "1984,2297 1984,2357 2005,2357 2005,2297"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_18_w15",
+                "coords": {
+                  "points": "2034,2297 2034,2357 2084,2357 2084,2297"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "334,2521 672,2486 844,2528 1019,2468 1656,2516 1815,2466 1893,2521 1969,2479 2132,2486 2132,2424 2029,2410 336,2415"
+            },
+            "baseline": {
+              "points": "349,2462 438,2459 527,2459 617,2459 706,2459 796,2459 885,2459 974,2459 1064,2459 1153,2459 1243,2459 1332,2456 1421,2459 1511,2456 1600,2456 1690,2456 1779,2456 1868,2456 1958,2456 2047,2459 2137,2456"
+            },
+            "text": "preamplification. Labeling of the fragments with radioactivity also occurs in this step, as",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "340,2419 340,2479 675,2479 675,2419"
+                },
+                "text": "preamplification."
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "703,2419 703,2479 865,2479 865,2419"
+                },
+                "text": "Labeling"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "893,2419 893,2479 930,2479 930,2419"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "947,2419 947,2479 996,2479 996,2419"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1023,2419 1023,2479 1212,2479 1212,2419"
+                },
+                "text": "fragments"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1235,2418 1235,2478 1310,2478 1310,2418"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1338,2417 1338,2477 1576,2477 1576,2417"
+                },
+                "text": "radioactivity"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1604,2416 1604,2476 1668,2476 1668,2416"
+                },
+                "text": "also"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1696,2416 1696,2476 1820,2476 1820,2416"
+                },
+                "text": "occurs"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1842,2416 1842,2476 1869,2476 1869,2416"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1891,2416 1891,2476 1956,2476 1956,2416"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1978,2418 1978,2478 2070,2478 2070,2418"
+                },
+                "text": "step,"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "2087,2417 2087,2477 2124,2477 2124,2417"
+                },
+                "text": "as"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "324,2610 1267,2617 1267,2491 1228,2484 1141,2544 711,2502 642,2542 580,2514 324,2528"
+            },
+            "baseline": {
+              "points": "337,2576 383,2576 430,2576 477,2576 524,2576 570,2576 617,2576 664,2577 711,2578 757,2576 804,2576 851,2576 898,2576 944,2576 991,2576 1038,2576 1085,2576 1131,2573 1178,2573 1225,2576 1272,2566"
+            },
+            "text": "the EcoRl primer in this step is labeled with3",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "332,2536 332,2596 379,2596 379,2536"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "404,2536 404,2596 537,2596 537,2536"
+                },
+                "text": "EcoRl"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "555,2536 555,2596 682,2596 682,2536"
+                },
+                "text": "primer"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "707,2537 707,2597 724,2597 724,2537"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "755,2536 755,2596 821,2596 821,2536"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "840,2536 840,2596 912,2596 912,2536"
+                },
+                "text": "step"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "937,2536 937,2596 961,2596 961,2536"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "986,2536 986,2596 1118,2596 1118,2536"
+                },
+                "text": "labeled"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1143,2534 1143,2594 1257,2594 1257,2534"
+                },
+                "text": "with3"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "476,2735 1755,2702 2019,2739 2019,2652 1948,2631 1603,2661 1260,2617 1083,2663 975,2629 589,2663 476,2624"
+            },
+            "baseline": {
+              "points": "489,2692 565,2692 642,2693 719,2695 796,2692 872,2695 949,2694 1026,2692 1103,2694 1179,2692 1256,2695 1333,2692 1410,2692 1486,2692 1563,2692 1640,2692 1717,2691 1793,2686 1870,2689 1947,2689 2024,2692"
+            },
+            "text": "The product of the selective amplification and labeling step is resolved on a",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "481,2652 481,2712 543,2712 543,2652"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "570,2653 570,2713 726,2713 726,2653"
+                },
+                "text": "product"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "747,2653 747,2713 783,2713 783,2653"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "799,2653 799,2713 851,2713 851,2653"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "878,2653 878,2713 1040,2713 1040,2653"
+                },
+                "text": "selective"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1066,2652 1066,2712 1312,2712 1312,2652"
+                },
+                "text": "amplification"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1344,2652 1344,2712 1400,2712 1400,2652"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1427,2652 1427,2712 1567,2712 1567,2652"
+                },
+                "text": "labeling"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1599,2652 1599,2712 1667,2712 1667,2652"
+                },
+                "text": "step"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1694,2651 1694,2711 1719,2711 1719,2651"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1741,2647 1741,2707 1902,2707 1902,2647"
+                },
+                "text": "resolved"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1929,2649 1929,2709 1965,2709 1965,2649"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "1991,2650 1991,2710 2001,2710 2001,2650"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "322,2847 711,2868 835,2827 1368,2870 1711,2820 1966,2868 2148,2824 2148,2769 1904,2742 1490,2783 665,2732 584,2772 322,2758"
+            },
+            "baseline": {
+              "points": "334,2815 424,2815 515,2815 606,2815 697,2814 788,2815 879,2815 970,2813 1061,2814 1152,2815 1243,2815 1333,2814 1424,2812 1515,2813 1606,2812 1697,2812 1788,2809 1879,2812 1970,2812 2061,2812 2152,2812"
+            },
+            "text": "polyacrylamide sequencing gel. Since each fragment is a unique size, it should migrate at",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "328,2775 328,2835 622,2835 622,2775"
+                },
+                "text": "polyacrylamide"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "649,2774 649,2834 862,2834 862,2774"
+                },
+                "text": "sequencing"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "890,2773 890,2833 960,2833 960,2773"
+                },
+                "text": "gel."
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "988,2773 988,2833 1086,2833 1086,2773"
+                },
+                "text": "Since"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1114,2775 1114,2835 1190,2835 1190,2775"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1218,2774 1218,2834 1397,2834 1397,2774"
+                },
+                "text": "fragment"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1414,2772 1414,2832 1436,2832 1436,2772"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1458,2772 1458,2832 1469,2832 1469,2772"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1497,2772 1497,2832 1621,2832 1621,2772"
+                },
+                "text": "unique"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1644,2772 1644,2832 1730,2832 1730,2772"
+                },
+                "text": "size,"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1747,2770 1747,2830 1768,2830 1768,2770"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1792,2771 1792,2831 1911,2831 1911,2771"
+                },
+                "text": "should"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "1939,2772 1939,2832 2080,2832 2080,2772"
+                },
+                "text": "migrate"
+              },
+              {
+                "id": "tr_1_tl_22_w14",
+                "coords": {
+                  "points": "2108,2772 2108,2832 2140,2832 2140,2772"
+                },
+                "text": "at"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

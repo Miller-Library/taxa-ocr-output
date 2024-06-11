@@ -1,0 +1,3298 @@
+{
+  "processId": 10313945,
+  "status": "FINISHED",
+  "content": {
+    "text": "species in all different light conditions decreased with time irrespective of PAR or time of\nday (Figure 14 a). The exceptions to this decreasing trend are in PW and PS.\nMeasurements ofc do not have a decreasing trend over time as the absorption\nspectra do. Instead, on average, c changes over the time of day inversely with respect\nto expected daylight; it appears to be correlate with time of day, not PAR (Figure 14 b)\n(Table 4). For combined timeseries of Dunalliela this trend is larger than two\nstandard deviations. For Phaeodactylum the trend is not outside one standard deviation.\n(Figure 15).\nDiscussion\nA similar diel cycle in fluorescence is observed in cultures and in the field. In the\ncultures chlorophyll does not oscillate over the day as fluorescence does. This supports\nthe hypothesis that diel variations are primarily due to changes in phytoplankton\nphysiology, not growth, grazing or mixing.\nNormalized fluorescence varies inversely to PAR, regardless of time of day. This\nsuggests the cycle in fluorescence is related to PAR, not circadian rhythms. The\nobservation that f\u201c takes an average of 20 minutes to adapt to changes in PAR, means\na timeseries of f* lags approximately 20 minutes behind a timeseries of PAR. Thus,\nthe correlation between f* and PAR can be made tighter by taking a running average of\nPAR over 20 minutes and shifting PAR ahead in time by 20 minutes. Qualitatively\ncorrecting for this lag time makes a small but noticable improvement in the uncertainty of\nf* as a function of PAR (Figure 4)\nThese data provide the basis for an empirical way to measure mean fluorescence\nfrom instantaneous fluorescence\ncorrected f = (.0005)*(shifted and smoothed PAR)\"(mean f) + f\nThis is mathematically equivalent to adding a constant fraction of the irradiance peaks to\nthe fluorescence troughs in a time series of f*. The coefficient .0005 comes from the slope\nof f* vs PAR in situ (Figure 4). This coefficient was only qualitatively determined. A\nstatistically derrived higher order fit to Figure 4 may provide a better correction\nalgorithm. The mean f must be included in the correction because the magnitued of the\nin situ diel oscillations varies directly with the mean (Figure 3). It should be noted that\nthis is just a step in the direction of a real-time empirical correction, because this model\nrequires the time averaged f. Yet this correction tightens the relationship between f and\nmean f by a factor of 2 (Figure 16).",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "328,311 328,3018 2161,3018 2161,311"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "315,359 2143,366 2143,288 315,308"
+            },
+            "baseline": {
+              "points": "328,346 419,352 510,349 601,346 692,349 783,349 874,350 965,350 1056,352 1147,352 1238,352 1329,349 1420,349 1511,351 1602,348 1693,346 1784,349 1875,349 1966,349 2057,349 2149,349"
+            },
+            "text": "species in all different light conditions decreased with time irrespective of PAR or time of",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "315,309 315,369 444,369 444,309"
+                },
+                "text": "species"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "481,309 481,369 507,369 507,309"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "533,307 533,367 574,367 574,307"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "590,308 590,368 761,368 761,308"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "789,309 789,369 876,369 876,309"
+                },
+                "text": "light"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "893,310 893,370 1089,370 1089,310"
+                },
+                "text": "conditions"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1111,312 1111,372 1298,372 1298,312"
+                },
+                "text": "decreased"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1325,309 1325,369 1397,369 1397,309"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1423,309 1423,369 1501,369 1501,309"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1533,307 1533,367 1756,367 1756,307"
+                },
+                "text": "irrespective"
+              },
+              {
+                "id": "tr_1_tl_1_w11",
+                "coords": {
+                  "points": "1783,309 1783,369 1819,369 1819,309"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_1_w12",
+                "coords": {
+                  "points": "1835,309 1835,369 1912,369 1912,309"
+                },
+                "text": "PAR"
+              },
+              {
+                "id": "tr_1_tl_1_w13",
+                "coords": {
+                  "points": "1944,309 1944,369 1980,369 1980,309"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_1_w14",
+                "coords": {
+                  "points": "1996,309 1996,369 2073,369 2073,309"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_1_w15",
+                "coords": {
+                  "points": "2100,309 2100,369 2136,369 2136,309"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "318,434 1910,441 1910,384 1673,372 318,398"
+            },
+            "baseline": {
+              "points": "331,423 410,423 489,425 568,426 648,423 727,423 806,426 885,425 965,423 1044,426 1123,423 1202,426 1282,426 1361,426 1440,423 1519,423 1599,422 1678,420 1757,420 1836,421 1916,423"
+            },
+            "text": "day (Figure 14 a). The exceptions to this decreasing trend are in PW and PS.",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "324,383 324,443 383,443 383,383"
+                },
+                "text": "day"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "416,384 416,444 556,444 556,384"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "584,384 584,444 616,444 616,384"
+                },
+                "text": "14"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "644,383 644,443 692,443 692,383"
+                },
+                "text": "a)."
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "731,384 731,444 795,444 795,384"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "823,383 823,443 1029,443 1029,383"
+                },
+                "text": "exceptions"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1051,385 1051,445 1078,445 1078,385"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1105,383 1105,443 1170,443 1170,383"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1187,386 1187,446 1392,446 1392,386"
+                },
+                "text": "decreasing"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1420,383 1420,443 1506,443 1506,383"
+                },
+                "text": "trend"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1534,382 1534,442 1582,442 1582,382"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1605,381 1605,441 1631,441 1631,381"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "1670,380 1670,440 1713,440 1713,380"
+                },
+                "text": "PW"
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "1762,380 1762,440 1816,440 1816,380"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w15",
+                "coords": {
+                  "points": "1844,382 1844,442 1908,442 1908,382"
+                },
+                "text": "PS."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "473,526 2047,514 2047,466 1986,443 473,464"
+            },
+            "baseline": {
+              "points": "486,501 564,501 642,501 721,501 799,501 878,501 956,503 1034,504 1113,501 1191,502 1270,502 1348,501 1426,501 1505,501 1583,498 1662,501 1740,501 1818,501 1897,501 1975,501 2054,501"
+            },
+            "text": "Measurements ofc do not have a decreasing trend over time as the absorption",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "477,461 477,521 756,521 756,461"
+                },
+                "text": "Measurements"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "780,461 780,521 840,521 840,461"
+                },
+                "text": "ofc"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "865,461 865,521 901,521 901,461"
+                },
+                "text": "do"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "930,463 930,523 990,523 990,463"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "1014,463 1014,523 1097,523 1097,463"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1126,461 1126,521 1135,521 1135,461"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1173,461 1173,521 1373,521 1373,461"
+                },
+                "text": "decreasing"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1397,461 1397,521 1485,521 1485,461"
+                },
+                "text": "trend"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1514,459 1514,519 1593,519 1593,459"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1612,460 1612,520 1687,520 1687,460"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1711,461 1711,521 1743,521 1743,461"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1767,461 1767,521 1813,521 1813,461"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1841,461 1841,521 2037,521 2037,461"
+                },
+                "text": "absorption"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "318,587 2116,590 2116,532 1979,523 318,544"
+            },
+            "baseline": {
+              "points": "331,573 420,576 510,576 599,576 689,579 778,579 868,576 957,576 1047,579 1136,576 1226,576 1316,576 1405,579 1495,576 1584,576 1674,576 1763,576 1853,573 1942,576 2032,573 2122,573"
+            },
+            "text": "spectra do. Instead, on average, c changes over the time of day inversely with respect",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "317,534 317,594 447,594 447,534"
+                },
+                "text": "spectra"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "471,536 471,596 533,596 533,536"
+                },
+                "text": "do."
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "553,537 553,597 712,597 712,537"
+                },
+                "text": "Instead,"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "737,539 737,599 774,599 774,539"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "804,536 804,596 972,596 972,536"
+                },
+                "text": "average,"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1006,537 1006,597 1020,597 1020,537"
+                },
+                "text": "c"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1045,536 1045,596 1204,596 1204,536"
+                },
+                "text": "changes"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1223,536 1223,596 1309,596 1309,536"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1325,537 1325,597 1372,597 1372,537"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1402,537 1402,597 1479,597 1479,537"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1503,536 1503,596 1536,596 1536,536"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1556,536 1556,596 1613,596 1613,536"
+                },
+                "text": "day"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1662,536 1662,596 1840,596 1840,536"
+                },
+                "text": "inversely"
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "1875,535 1875,595 1951,595 1951,535"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_4_w15",
+                "coords": {
+                  "points": "1976,533 1976,593 2119,593 2119,533"
+                },
+                "text": "respect"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "322,674 2107,676 2107,608 2063,599 322,612"
+            },
+            "baseline": {
+              "points": "334,647 427,647 521,650 614,651 708,655 802,653 895,652 989,653 1083,653 1176,653 1270,651 1363,653 1457,653 1551,652 1644,650 1738,650 1832,650 1925,647 2019,650 2113,644"
+            },
+            "text": "to expected daylight; it appears to be correlate with time of day, not PAR (Figure 14 b)",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "322,607 322,667 349,667 349,607"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "377,607 377,667 539,667 539,607"
+                },
+                "text": "expected"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "561,612 561,672 734,672 734,612"
+                },
+                "text": "daylight;"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "762,613 762,673 789,673 789,613"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "806,612 806,672 947,672 947,612"
+                },
+                "text": "appears"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "969,612 969,672 995,672 995,612"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1018,613 1018,673 1055,673 1055,613"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1089,613 1089,673 1256,673 1256,613"
+                },
+                "text": "correlate"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1290,612 1290,672 1365,672 1365,612"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1393,613 1393,673 1469,673 1469,613"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1496,612 1496,672 1534,672 1534,612"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1551,611 1551,671 1632,671 1632,611"
+                },
+                "text": "day,"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1649,610 1649,670 1708,670 1708,610"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "1730,610 1730,670 1811,670 1811,610"
+                },
+                "text": "PAR"
+              },
+              {
+                "id": "tr_1_tl_5_w15",
+                "coords": {
+                  "points": "1855,607 1855,667 1990,667 1990,607"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_5_w16",
+                "coords": {
+                  "points": "2018,609 2018,669 2050,669 2050,609"
+                },
+                "text": "14"
+              },
+              {
+                "id": "tr_1_tl_5_w17",
+                "coords": {
+                  "points": "2078,605 2078,665 2110,665 2110,605"
+                },
+                "text": "b)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "322,740 2004,740 1979,683 1826,672 322,690"
+            },
+            "baseline": {
+              "points": "334,728 417,727 501,726 585,723 669,728 752,728 836,726 920,728 1004,728 1087,728 1171,728 1255,728 1339,728 1422,728 1506,728 1590,725 1674,725 1757,725 1841,728 1925,725 2009,722"
+            },
+            "text": "(Table 4). For combined timeseries of Dunalliela this trend is larger than two",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "327,687 327,747 440,747 440,687"
+                },
+                "text": "(Table"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "466,686 466,746 517,746 517,686"
+                },
+                "text": "4)."
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "601,685 601,745 667,745 667,685"
+                },
+                "text": "For"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "694,687 694,747 885,747 885,687"
+                },
+                "text": "combined"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "916,688 916,748 1112,748 1112,688"
+                },
+                "text": "timeseries"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1133,688 1133,748 1175,748 1175,688"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1201,688 1201,748 1402,748 1402,688"
+                },
+                "text": "Dunalliela"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1439,688 1439,748 1500,748 1500,688"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1521,685 1521,745 1609,745 1609,685"
+                },
+                "text": "trend"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1636,685 1636,745 1661,745 1661,685"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1693,685 1693,745 1806,745 1806,685"
+                },
+                "text": "larger"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1822,687 1822,747 1893,747 1893,687"
+                },
+                "text": "than"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1920,684 1920,744 1981,744 1981,684"
+                },
+                "text": "two"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "315,809 2102,818 2102,747 315,775"
+            },
+            "baseline": {
+              "points": "328,800 421,806 515,805 608,803 702,804 796,804 889,806 983,806 1077,806 1170,806 1264,803 1357,803 1451,803 1545,805 1638,804 1732,803 1826,803 1919,803 2013,805 2107,806"
+            },
+            "text": "standard deviations. For Phaeodactylum the trend is not outside one standard deviation.",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "319,764 319,824 472,824 472,764"
+                },
+                "text": "standard"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "497,763 497,823 713,823 713,763"
+                },
+                "text": "deviations."
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "739,764 739,824 807,824 807,764"
+                },
+                "text": "For"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "823,766 823,826 1113,826 1113,766"
+                },
+                "text": "Phaeodactylum"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1163,765 1163,825 1212,825 1212,765"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1238,763 1238,823 1326,823 1326,763"
+                },
+                "text": "trend"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1351,763 1351,823 1375,823 1375,763"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1400,763 1400,823 1459,823 1459,763"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1474,764 1474,824 1607,824 1607,764"
+                },
+                "text": "outside"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1632,763 1632,823 1691,823 1691,763"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1716,763 1716,823 1873,823 1873,763"
+                },
+                "text": "standard"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1899,764 1899,824 2095,824 2095,764"
+                },
+                "text": "deviation."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "322,891 359,900 375,916 402,905 423,914 443,893 494,891 528,912 539,900 583,907 583,848 562,839 507,836 484,855 452,841 441,850 404,832 395,841 377,832 322,848"
+            },
+            "baseline": {
+              "points": "334,883 359,880 384,877 409,879 434,880 459,880 484,881 509,883 534,883 559,883 585,883"
+            },
+            "text": "(Figure 15).",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "324,837 324,897 464,897 464,837"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "497,843 497,903 579,903 579,843"
+                },
+                "text": "15)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "318,1111 347,1122 489,1117 505,1131 558,1120 555,1042 519,1067 496,1053 466,1074 432,1072 411,1056 363,1049 354,1056 318,1031"
+            },
+            "baseline": {
+              "points": "331,1104 356,1104 382,1104 407,1104 433,1105 458,1107 484,1107 509,1107 535,1107 561,1107"
+            },
+            "text": "Discussion",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "318,1064 318,1124 539,1124 539,1064"
+                },
+                "text": "Discussion"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "464,1261 813,1298 2086,1282 2086,1211 2027,1202 1081,1186 590,1225 464,1177"
+            },
+            "baseline": {
+              "points": "477,1256 557,1256 638,1254 719,1254 800,1256 880,1253 961,1255 1042,1253 1123,1253 1203,1253 1284,1253 1365,1253 1446,1253 1526,1256 1607,1253 1688,1256 1769,1256 1849,1256 1930,1256 2011,1256 2092,1253"
+            },
+            "text": "A similar diel cycle in fluorescence is observed in cultures and in the field. In the",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "464,1216 464,1276 473,1276 473,1216"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "510,1215 510,1275 641,1275 641,1215"
+                },
+                "text": "similar"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "662,1214 662,1274 733,1274 733,1214"
+                },
+                "text": "diel"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "744,1215 744,1275 840,1275 840,1215"
+                },
+                "text": "cycle"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "867,1213 867,1273 891,1273 891,1213"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "917,1213 917,1273 1161,1273 1161,1213"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1182,1213 1182,1273 1207,1273 1207,1213"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1228,1213 1228,1273 1396,1273 1396,1213"
+                },
+                "text": "observed"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1427,1213 1427,1273 1447,1273 1447,1213"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1473,1215 1473,1275 1625,1275 1625,1215"
+                },
+                "text": "cultures"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1646,1215 1646,1275 1707,1275 1707,1215"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1733,1216 1733,1276 1753,1276 1753,1216"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1784,1216 1784,1276 1829,1276 1829,1216"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "1856,1216 1856,1276 1957,1276 1957,1216"
+                },
+                "text": "field."
+              },
+              {
+                "id": "tr_1_tl_10_w15",
+                "coords": {
+                  "points": "1973,1216 1973,1276 2003,1276 2003,1216"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_10_w16",
+                "coords": {
+                  "points": "2024,1214 2024,1274 2074,1274 2074,1214"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "324,1373 1823,1337 2107,1371 2075,1282 324,1286"
+            },
+            "baseline": {
+              "points": "337,1334 425,1332 514,1331 603,1329 692,1330 781,1331 869,1332 958,1333 1047,1334 1136,1329 1225,1328 1313,1330 1402,1329 1491,1330 1580,1328 1669,1331 1757,1328 1846,1328 1935,1330 2024,1328 2113,1331"
+            },
+            "text": "cultures chlorophyll does not oscillate over the day as fluorescence does. This supports",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "323,1292 323,1352 471,1352 471,1292"
+                },
+                "text": "cultures"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "491,1289 491,1349 718,1349 718,1289"
+                },
+                "text": "chlorophyll"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "733,1290 733,1350 816,1350 816,1290"
+                },
+                "text": "does"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "842,1292 842,1352 900,1352 900,1292"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "926,1293 926,1353 1083,1353 1083,1293"
+                },
+                "text": "oscillate"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1114,1288 1114,1348 1197,1348 1197,1288"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1212,1288 1212,1348 1261,1348 1261,1288"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1291,1289 1291,1349 1345,1349 1345,1289"
+                },
+                "text": "day"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1375,1289 1375,1349 1405,1349 1405,1289"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1425,1288 1425,1348 1666,1348 1666,1288"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1696,1288 1696,1348 1800,1348 1800,1288"
+                },
+                "text": "does."
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1835,1288 1835,1348 1913,1348 1913,1288"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1938,1288 1938,1348 2100,1348 2100,1288"
+                },
+                "text": "supports"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "322,1424 1935,1428 1935,1378 1794,1350 322,1371"
+            },
+            "baseline": {
+              "points": "334,1409 414,1409 494,1408 574,1409 655,1409 735,1409 815,1408 896,1412 976,1409 1056,1406 1137,1409 1217,1409 1297,1406 1377,1406 1458,1409 1538,1406 1618,1409 1699,1409 1779,1409 1859,1412 1940,1409"
+            },
+            "text": "the hypothesis that diel variations are primarily due to changes in phytoplankton",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "322,1369 322,1429 367,1429 367,1369"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "392,1368 392,1428 595,1428 595,1368"
+                },
+                "text": "hypothesis"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "616,1369 616,1429 686,1429 686,1369"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "712,1368 712,1428 787,1428 787,1368"
+                },
+                "text": "diel"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "803,1371 803,1431 990,1431 990,1371"
+                },
+                "text": "variations"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1011,1366 1011,1426 1061,1426 1061,1366"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1087,1369 1087,1429 1259,1429 1259,1369"
+                },
+                "text": "primarily"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1285,1366 1285,1426 1345,1426 1345,1366"
+                },
+                "text": "due"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1371,1366 1371,1426 1396,1426 1396,1366"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1422,1367 1422,1427 1573,1427 1573,1367"
+                },
+                "text": "changes"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1594,1368 1594,1428 1619,1428 1619,1368"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1645,1369 1645,1429 1918,1429 1918,1369"
+                },
+                "text": "phytoplankton"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "331,1513 1209,1506 1209,1440 331,1460"
+            },
+            "baseline": {
+              "points": "343,1486 386,1483 430,1483 473,1486 517,1481 561,1485 604,1484 648,1483 691,1483 735,1483 779,1483 822,1483 866,1485 909,1486 953,1484 997,1485 1040,1486 1084,1486 1127,1486 1171,1485 1215,1486"
+            },
+            "text": "physiology, not growth, grazing or mixing.",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "331,1444 331,1504 564,1504 564,1444"
+                },
+                "text": "physiology,"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "581,1443 581,1503 644,1503 644,1443"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "660,1443 660,1503 814,1503 814,1443"
+                },
+                "text": "growth,"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "830,1445 830,1505 968,1505 968,1445"
+                },
+                "text": "grazing"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "995,1445 995,1505 1031,1505 1031,1445"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1053,1445 1053,1505 1207,1505 1207,1445"
+                },
+                "text": "mixing."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "473,1579 2141,1572 2120,1508 1849,1494 1613,1529 1515,1497 473,1515"
+            },
+            "baseline": {
+              "points": "486,1561 569,1558 652,1561 735,1559 818,1557 901,1559 984,1555 1067,1558 1150,1558 1233,1558 1316,1556 1399,1558 1482,1561 1565,1558 1648,1558 1731,1559 1814,1557 1897,1561 1980,1558 2063,1558 2146,1558"
+            },
+            "text": "Normalized fluorescence varies inversely to PAR, regardless of time of day. This",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "473,1518 473,1578 694,1578 694,1518"
+                },
+                "text": "Normalized"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "720,1517 720,1577 962,1577 962,1517"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "998,1517 998,1577 1113,1577 1113,1517"
+                },
+                "text": "varies"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "1134,1518 1134,1578 1306,1578 1306,1518"
+                },
+                "text": "inversely"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "1342,1516 1342,1576 1366,1576 1366,1516"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1392,1519 1392,1579 1503,1579 1503,1519"
+                },
+                "text": "PAR,"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1519,1518 1519,1578 1710,1578 1710,1518"
+                },
+                "text": "regardless"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1736,1518 1736,1578 1770,1578 1770,1518"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1786,1517 1786,1577 1861,1577 1861,1517"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1887,1520 1887,1580 1922,1580 1922,1520"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1943,1518 1943,1578 2028,1578 2028,1518"
+                },
+                "text": "day."
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "2054,1518 2054,1578 2134,1578 2134,1518"
+                },
+                "text": "This"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "324,1659 1958,1659 1924,1586 1746,1577 1394,1618 1277,1577 324,1606"
+            },
+            "baseline": {
+              "points": "337,1636 418,1632 499,1636 581,1636 662,1636 743,1636 825,1636 906,1635 987,1636 1069,1636 1150,1636 1231,1636 1313,1636 1394,1636 1475,1636 1557,1636 1638,1636 1719,1630 1801,1633 1882,1634 1964,1633"
+            },
+            "text": "suggests the cycle in fluorescence is related to PAR, not circadian rhythms. The",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "324,1592 324,1652 479,1652 479,1592"
+                },
+                "text": "suggests"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "505,1596 505,1656 551,1656 551,1596"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "573,1596 573,1656 665,1656 665,1596"
+                },
+                "text": "cycle"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "692,1596 692,1656 717,1656 717,1596"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "744,1595 744,1655 987,1655 987,1595"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1008,1596 1008,1656 1033,1656 1033,1596"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1055,1596 1055,1656 1178,1656 1178,1596"
+                },
+                "text": "related"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1205,1596 1205,1656 1230,1656 1230,1596"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1257,1596 1257,1656 1365,1656 1365,1596"
+                },
+                "text": "PAR,"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1402,1596 1402,1656 1463,1656 1463,1596"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1480,1596 1480,1656 1650,1656 1650,1596"
+                },
+                "text": "circadian"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1677,1591 1677,1651 1852,1651 1852,1591"
+                },
+                "text": "rhythms."
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1879,1593 1879,1653 1945,1653 1945,1593"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "324,1723 2111,1725 2111,1673 1926,1652 324,1684"
+            },
+            "baseline": {
+              "points": "337,1713 430,1713 524,1711 617,1710 711,1708 805,1713 898,1713 992,1713 1086,1710 1179,1713 1273,1713 1366,1713 1460,1711 1554,1713 1647,1712 1741,1711 1835,1712 1928,1713 2022,1713 2116,1707"
+            },
+            "text": "observation that f\u201c takes an average of 20 minutes to adapt to changes in PAR, means",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "329,1672 329,1732 544,1732 544,1672"
+                },
+                "text": "observation"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "570,1670 570,1730 641,1730 641,1670"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "687,1668 687,1728 721,1728 721,1668"
+                },
+                "text": "f\u201c"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "757,1673 757,1733 853,1733 853,1673"
+                },
+                "text": "takes"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "889,1673 889,1733 923,1733 923,1673"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "949,1672 949,1732 1090,1732 1090,1672"
+                },
+                "text": "average"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1121,1671 1121,1731 1156,1731 1156,1671"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1171,1673 1171,1733 1211,1733 1211,1673"
+                },
+                "text": "20"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1237,1673 1237,1733 1383,1733 1383,1673"
+                },
+                "text": "minutes"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1409,1671 1409,1731 1428,1731 1428,1671"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1459,1672 1459,1732 1559,1732 1559,1672"
+                },
+                "text": "adapt"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1575,1672 1575,1732 1599,1732 1599,1672"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1626,1671 1626,1731 1781,1731 1781,1671"
+                },
+                "text": "changes"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "1802,1671 1802,1731 1827,1731 1827,1671"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_16_w15",
+                "coords": {
+                  "points": "1852,1672 1852,1732 1963,1732 1963,1672"
+                },
+                "text": "PAR,"
+              },
+              {
+                "id": "tr_1_tl_16_w16",
+                "coords": {
+                  "points": "1984,1671 1984,1731 2109,1731 2109,1671"
+                },
+                "text": "means"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "322,1803 2086,1805 2086,1746 1814,1730 322,1764"
+            },
+            "baseline": {
+              "points": "334,1782 421,1788 509,1788 597,1785 685,1782 773,1782 861,1788 949,1791 1037,1789 1125,1787 1213,1788 1300,1791 1388,1788 1476,1789 1564,1788 1652,1788 1740,1785 1828,1785 1916,1787 2004,1787 2092,1785"
+            },
+            "text": "a timeseries of f* lags approximately 20 minutes behind a timeseries of PAR. Thus,",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "327,1742 327,1802 337,1802 337,1742"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "363,1748 363,1808 554,1808 554,1748"
+                },
+                "text": "timeseries"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "575,1745 575,1805 610,1805 610,1745"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "637,1743 637,1803 667,1803 667,1743"
+                },
+                "text": "f*"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "704,1742 704,1802 776,1802 776,1742"
+                },
+                "text": "lags"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "807,1751 807,1811 1091,1811 1091,1751"
+                },
+                "text": "approximately"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1128,1747 1128,1807 1164,1807 1164,1747"
+                },
+                "text": "20"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1190,1749 1190,1809 1339,1809 1339,1749"
+                },
+                "text": "minutes"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1361,1748 1361,1808 1484,1808 1484,1748"
+                },
+                "text": "behind"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1511,1748 1511,1808 1521,1808 1521,1748"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1547,1748 1547,1808 1738,1808 1738,1748"
+                },
+                "text": "timeseries"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1759,1745 1759,1805 1795,1805 1795,1745"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1816,1745 1816,1805 1924,1805 1924,1745"
+                },
+                "text": "PAR."
+              },
+              {
+                "id": "tr_1_tl_17_w14",
+                "coords": {
+                  "points": "1971,1746 1971,1806 2089,1806 2089,1746"
+                },
+                "text": "Thus,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "324,1883 2146,1876 2146,1819 2013,1812 324,1823"
+            },
+            "baseline": {
+              "points": "337,1862 427,1862 518,1862 609,1865 700,1862 790,1862 881,1859 972,1862 1063,1862 1153,1863 1244,1865 1335,1863 1426,1862 1516,1861 1607,1862 1698,1860 1789,1862 1879,1862 1970,1862 2061,1860 2152,1862"
+            },
+            "text": "the correlation between f* and PAR can be made tighter by taking a running average of",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "323,1822 323,1882 372,1882 372,1822"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "397,1822 397,1882 593,1882 593,1822"
+                },
+                "text": "correlation"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "623,1822 623,1882 770,1882 770,1822"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "801,1821 801,1881 825,1881 825,1821"
+                },
+                "text": "f*"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "865,1819 865,1879 923,1879 923,1819"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "959,1822 959,1882 1042,1882 1042,1822"
+                },
+                "text": "PAR"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1082,1822 1082,1882 1140,1882 1140,1822"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1180,1823 1180,1883 1214,1883 1214,1823"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1249,1823 1249,1883 1347,1883 1347,1823"
+                },
+                "text": "made"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1372,1821 1372,1881 1494,1881 1494,1821"
+                },
+                "text": "tighter"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1515,1821 1515,1881 1549,1881 1549,1821"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1584,1821 1584,1881 1697,1881 1697,1821"
+                },
+                "text": "taking"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1727,1820 1727,1880 1736,1880 1736,1820"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "1766,1822 1766,1882 1913,1882 1913,1822"
+                },
+                "text": "running"
+              },
+              {
+                "id": "tr_1_tl_18_w15",
+                "coords": {
+                  "points": "1938,1821 1938,1881 2080,1881 2080,1821"
+                },
+                "text": "average"
+              },
+              {
+                "id": "tr_1_tl_18_w16",
+                "coords": {
+                  "points": "2106,1821 2106,1881 2140,1881 2140,1821"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "336,1956 2038,1963 2038,1901 1842,1887 457,1919 336,1885"
+            },
+            "baseline": {
+              "points": "349,1931 433,1937 518,1938 603,1938 688,1939 773,1938 857,1938 942,1940 1027,1940 1112,1940 1197,1940 1281,1939 1366,1939 1451,1938 1536,1937 1621,1940 1705,1940 1790,1935 1875,1937 1960,1937 2045,1940"
+            },
+            "text": "PAR over 20 minutes and shifting PAR ahead in time by 20 minutes. Qualitatively",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "336,1892 336,1952 409,1952 409,1892"
+                },
+                "text": "PAR"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "462,1897 462,1957 546,1957 546,1897"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "568,1898 568,1958 605,1958 605,1898"
+                },
+                "text": "20"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "626,1898 626,1958 773,1958 773,1898"
+                },
+                "text": "minutes"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "800,1898 800,1958 858,1958 858,1898"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "891,1900 891,1960 1032,1960 1032,1900"
+                },
+                "text": "shifting"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1059,1900 1059,1960 1138,1960 1138,1900"
+                },
+                "text": "PAR"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1181,1899 1181,1959 1286,1959 1286,1899"
+                },
+                "text": "ahead"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1313,1899 1313,1959 1334,1959 1334,1899"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1361,1898 1361,1958 1439,1958 1439,1898"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1461,1897 1461,1957 1497,1957 1497,1897"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1524,1897 1524,1957 1561,1957 1561,1897"
+                },
+                "text": "20"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1588,1900 1588,1960 1756,1960 1756,1900"
+                },
+                "text": "minutes."
+              },
+              {
+                "id": "tr_1_tl_19_w14",
+                "coords": {
+                  "points": "1778,1897 1778,1957 2025,1957 2025,1897"
+                },
+                "text": "Qualitatively"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "324,2038 2111,2052 2111,1965 2050,1961 324,1988"
+            },
+            "baseline": {
+              "points": "337,2015 430,2013 524,2015 617,2015 711,2013 805,2015 898,2017 992,2015 1086,2018 1179,2012 1273,2015 1366,2015 1460,2014 1554,2013 1647,2015 1741,2013 1835,2012 1928,2015 2022,2015 2116,2012"
+            },
+            "text": "correcting for this lag time makes a small but noticable improvement in the uncertainty of",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "323,1973 323,2033 510,2033 510,1973"
+                },
+                "text": "correcting"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "535,1975 535,2035 584,2035 584,1975"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "604,1974 604,2034 662,2034 662,1974"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "683,1973 683,2033 731,2033 731,1973"
+                },
+                "text": "lag"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "757,1974 757,2034 835,2034 835,1974"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "860,1976 860,2036 978,2036 978,1976"
+                },
+                "text": "makes"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "998,1975 998,2035 1007,2035 1007,1975"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1032,1977 1032,2037 1135,2037 1135,1977"
+                },
+                "text": "small"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1151,1972 1151,2032 1214,2032 1214,1972"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1229,1975 1229,2035 1396,2035 1396,1975"
+                },
+                "text": "noticable"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1421,1973 1421,2033 1682,2033 1682,1973"
+                },
+                "text": "improvement"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1707,1973 1707,2033 1736,2033 1736,1973"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1761,1972 1761,2032 1810,2032 1810,1972"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "1835,1975 1835,2035 2041,2035 2041,1975"
+                },
+                "text": "uncertainty"
+              },
+              {
+                "id": "tr_1_tl_20_w15",
+                "coords": {
+                  "points": "2066,1972 2066,2032 2105,2032 2105,1972"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "327,2102 818,2125 1003,2095 1028,2116 1044,2034 829,2061 788,2029 665,2066 324,2056"
+            },
+            "baseline": {
+              "points": "337,2074 372,2079 408,2084 444,2087 480,2089 516,2089 551,2089 587,2089 623,2089 659,2089 695,2089 730,2089 766,2089 802,2089 838,2088 874,2086 909,2088 945,2089 981,2089 1017,2089 1053,2089"
+            },
+            "text": "f* as a function of PAR (Figure 4)",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "325,2034 325,2094 355,2094 355,2034"
+                },
+                "text": "f*"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "391,2044 391,2104 427,2104 427,2044"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "446,2047 446,2107 457,2107 457,2047"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "482,2049 482,2109 639,2109 639,2049"
+                },
+                "text": "function"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "670,2049 670,2109 705,2109 705,2049"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "724,2049 724,2109 802,2109 802,2049"
+                },
+                "text": "PAR"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "832,2047 832,2107 977,2107 977,2047"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1002,2049 1002,2109 1043,2109 1043,2049"
+                },
+                "text": "4)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "478,2187 2088,2205 2088,2116 1997,2104 478,2116"
+            },
+            "baseline": {
+              "points": "489,2161 569,2169 649,2167 729,2164 810,2167 890,2167 970,2167 1051,2167 1131,2167 1211,2170 1292,2170 1372,2167 1452,2167 1532,2167 1613,2167 1693,2167 1773,2167 1854,2167 1934,2167 2014,2167 2095,2167"
+            },
+            "text": "These data provide the basis for an empirical way to measure mean fluorescence",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "477,2125 477,2185 582,2185 582,2125"
+                },
+                "text": "These"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "607,2127 607,2187 673,2187 673,2127"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "698,2125 698,2185 841,2185 841,2125"
+                },
+                "text": "provide"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "866,2127 866,2187 914,2187 914,2127"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "939,2127 939,2187 1029,2187 1029,2127"
+                },
+                "text": "basis"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1049,2127 1049,2187 1101,2187 1101,2127"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1121,2127 1121,2187 1154,2187 1154,2127"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1179,2130 1179,2190 1366,2190 1366,2130"
+                },
+                "text": "empirical"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1395,2127 1395,2187 1462,2187 1462,2127"
+                },
+                "text": "way"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1491,2127 1491,2187 1515,2187 1515,2127"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1539,2127 1539,2187 1693,2187 1693,2127"
+                },
+                "text": "measure"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1718,2127 1718,2187 1813,2187 1813,2127"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "1838,2127 1838,2187 2077,2187 2077,2127"
+                },
+                "text": "fluorescence"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "322,2255 386,2276 971,2260 971,2210 864,2198 791,2212 736,2194 644,2219 322,2194"
+            },
+            "baseline": {
+              "points": "334,2245 366,2242 398,2242 430,2244 462,2245 494,2245 526,2245 558,2243 590,2242 622,2242 655,2242 687,2242 719,2242 751,2242 783,2242 815,2241 847,2239 879,2239 911,2241 943,2241 976,2239"
+            },
+            "text": "from instantaneous fluorescence",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "321,2202 321,2262 390,2262 390,2202"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "432,2202 432,2262 697,2262 697,2202"
+                },
+                "text": "instantaneous"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "716,2199 716,2259 961,2259 961,2199"
+                },
+                "text": "fluorescence"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "478,2338 1842,2328 1839,2262 475,2264"
+            },
+            "baseline": {
+              "points": "489,2316 560,2319 632,2319 703,2314 775,2313 846,2316 918,2314 989,2316 1061,2319 1132,2319 1204,2319 1275,2319 1347,2319 1418,2317 1490,2316 1561,2316 1633,2318 1704,2316 1776,2316 1848,2316"
+            },
+            "text": "corrected f = (.0005)*(shifted and smoothed PAR)\"(mean f) + f",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "480,2279 480,2339 655,2339 655,2279"
+                },
+                "text": "corrected"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "677,2275 677,2335 693,2335 693,2275"
+                },
+                "text": "f"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "731,2273 731,2333 741,2333 741,2273"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "784,2274 784,2334 1103,2334 1103,2274"
+                },
+                "text": "(.0005)*(shifted"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "1131,2279 1131,2339 1195,2339 1195,2279"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "1217,2279 1217,2339 1403,2339 1403,2279"
+                },
+                "text": "smoothed"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1430,2276 1430,2336 1680,2336 1680,2276"
+                },
+                "text": "PAR)\"(mean"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1707,2276 1707,2336 1738,2336 1738,2276"
+                },
+                "text": "f)"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1766,2276 1766,2336 1781,2336 1781,2276"
+                },
+                "text": "+"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1819,2276 1819,2336 1834,2336 1834,2276"
+                },
+                "text": "f"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "345,2413 2118,2415 2118,2349 2027,2340 345,2351"
+            },
+            "baseline": {
+              "points": "358,2391 446,2391 534,2394 623,2394 711,2394 799,2392 888,2394 976,2394 1064,2396 1153,2394 1241,2395 1329,2395 1418,2396 1506,2394 1594,2394 1683,2391 1771,2394 1859,2394 1948,2394 2036,2391 2125,2388"
+            },
+            "text": "This is mathematically equivalent to adding a constant fraction of the irradiance peaks to",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "345,2351 345,2411 420,2411 420,2351"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "440,2351 440,2411 465,2411 465,2351"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "481,2354 481,2414 773,2414 773,2354"
+                },
+                "text": "mathematically"
+              },
+              {
+                "id": "tr_1_tl_25_w4",
+                "coords": {
+                  "points": "809,2354 809,2414 1015,2414 1015,2354"
+                },
+                "text": "equivalent"
+              },
+              {
+                "id": "tr_1_tl_25_w5",
+                "coords": {
+                  "points": "1041,2355 1041,2415 1066,2415 1066,2355"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_25_w6",
+                "coords": {
+                  "points": "1097,2354 1097,2414 1217,2414 1217,2354"
+                },
+                "text": "adding"
+              },
+              {
+                "id": "tr_1_tl_25_w7",
+                "coords": {
+                  "points": "1244,2355 1244,2415 1253,2415 1253,2355"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_25_w8",
+                "coords": {
+                  "points": "1279,2355 1279,2415 1440,2415 1440,2355"
+                },
+                "text": "constant"
+              },
+              {
+                "id": "tr_1_tl_25_w9",
+                "coords": {
+                  "points": "1456,2354 1456,2414 1591,2414 1591,2354"
+                },
+                "text": "fraction"
+              },
+              {
+                "id": "tr_1_tl_25_w10",
+                "coords": {
+                  "points": "1622,2352 1622,2412 1657,2412 1657,2352"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_25_w11",
+                "coords": {
+                  "points": "1673,2351 1673,2411 1722,2411 1722,2351"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_25_w12",
+                "coords": {
+                  "points": "1743,2354 1743,2414 1929,2414 1929,2354"
+                },
+                "text": "irradiance"
+              },
+              {
+                "id": "tr_1_tl_25_w13",
+                "coords": {
+                  "points": "1955,2351 1955,2411 2061,2411 2061,2351"
+                },
+                "text": "peaks"
+              },
+              {
+                "id": "tr_1_tl_25_w14",
+                "coords": {
+                  "points": "2081,2349 2081,2409 2106,2409 2106,2349"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_26",
+            "coords": {
+              "points": "322,2475 2155,2495 2155,2429 2100,2418 322,2431"
+            },
+            "baseline": {
+              "points": "334,2469 425,2467 516,2466 608,2469 699,2469 790,2469 882,2472 973,2471 1064,2469 1156,2469 1247,2466 1338,2469 1430,2469 1521,2469 1612,2468 1704,2466 1795,2469 1886,2466 1978,2469 2069,2469 2161,2466"
+            },
+            "text": "the fluorescence troughs in a time series of f*. The coefficient .0005 comes from the slope",
+            "words": [
+              {
+                "id": "tr_1_tl_26_w1",
+                "coords": {
+                  "points": "322,2428 322,2488 371,2488 371,2428"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_26_w2",
+                "coords": {
+                  "points": "392,2426 392,2486 635,2486 635,2426"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_26_w3",
+                "coords": {
+                  "points": "656,2429 656,2489 802,2489 802,2429"
+                },
+                "text": "troughs"
+              },
+              {
+                "id": "tr_1_tl_26_w4",
+                "coords": {
+                  "points": "822,2430 822,2490 847,2490 847,2430"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_26_w5",
+                "coords": {
+                  "points": "873,2431 873,2491 882,2491 882,2431"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_26_w6",
+                "coords": {
+                  "points": "908,2431 908,2491 984,2491 984,2431"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_26_w7",
+                "coords": {
+                  "points": "1010,2429 1010,2489 1115,2489 1115,2429"
+                },
+                "text": "series"
+              },
+              {
+                "id": "tr_1_tl_26_w8",
+                "coords": {
+                  "points": "1136,2429 1136,2489 1176,2489 1176,2429"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_26_w9",
+                "coords": {
+                  "points": "1192,2426 1192,2486 1247,2486 1247,2426"
+                },
+                "text": "f*."
+              },
+              {
+                "id": "tr_1_tl_26_w10",
+                "coords": {
+                  "points": "1273,2427 1273,2487 1338,2487 1338,2427"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_26_w11",
+                "coords": {
+                  "points": "1364,2429 1364,2489 1577,2489 1577,2429"
+                },
+                "text": "coefficient"
+              },
+              {
+                "id": "tr_1_tl_26_w12",
+                "coords": {
+                  "points": "1592,2427 1592,2487 1688,2487 1688,2427"
+                },
+                "text": ".0005"
+              },
+              {
+                "id": "tr_1_tl_26_w13",
+                "coords": {
+                  "points": "1724,2428 1724,2488 1844,2488 1844,2428"
+                },
+                "text": "comes"
+              },
+              {
+                "id": "tr_1_tl_26_w14",
+                "coords": {
+                  "points": "1871,2426 1871,2486 1936,2486 1936,2426"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_26_w15",
+                "coords": {
+                  "points": "1977,2429 1977,2489 2027,2489 2027,2429"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_26_w16",
+                "coords": {
+                  "points": "2053,2427 2053,2487 2148,2487 2148,2427"
+                },
+                "text": "slope"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_27",
+            "coords": {
+              "points": "322,2550 791,2589 1031,2555 2093,2573 2059,2493 322,2507"
+            },
+            "baseline": {
+              "points": "334,2543 422,2537 510,2540 598,2546 686,2546 775,2546 863,2543 951,2543 1039,2543 1127,2546 1216,2543 1304,2545 1392,2546 1480,2543 1568,2542 1657,2543 1745,2540 1833,2543 1921,2543 2009,2543 2098,2543"
+            },
+            "text": "of f* vs PAR in situ (Figure 4). This coefficient was only qualitatively determined. A",
+            "words": [
+              {
+                "id": "tr_1_tl_27_w1",
+                "coords": {
+                  "points": "327,2502 327,2562 363,2562 363,2502"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_27_w2",
+                "coords": {
+                  "points": "379,2498 379,2558 409,2558 409,2498"
+                },
+                "text": "f*"
+              },
+              {
+                "id": "tr_1_tl_27_w3",
+                "coords": {
+                  "points": "430,2497 430,2557 471,2557 471,2497"
+                },
+                "text": "vs"
+              },
+              {
+                "id": "tr_1_tl_27_w4",
+                "coords": {
+                  "points": "487,2501 487,2561 564,2561 564,2501"
+                },
+                "text": "PAR"
+              },
+              {
+                "id": "tr_1_tl_27_w5",
+                "coords": {
+                  "points": "612,2506 612,2566 637,2566 637,2506"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_27_w6",
+                "coords": {
+                  "points": "663,2506 663,2566 720,2566 720,2506"
+                },
+                "text": "situ"
+              },
+              {
+                "id": "tr_1_tl_27_w7",
+                "coords": {
+                  "points": "767,2503 767,2563 911,2563 911,2503"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_27_w8",
+                "coords": {
+                  "points": "933,2503 933,2563 989,2563 989,2503"
+                },
+                "text": "4)."
+              },
+              {
+                "id": "tr_1_tl_27_w9",
+                "coords": {
+                  "points": "1026,2503 1026,2563 1108,2563 1108,2503"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_27_w10",
+                "coords": {
+                  "points": "1129,2503 1129,2563 1341,2563 1341,2503"
+                },
+                "text": "coefficient"
+              },
+              {
+                "id": "tr_1_tl_27_w11",
+                "coords": {
+                  "points": "1357,2505 1357,2565 1423,2565 1423,2505"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_27_w12",
+                "coords": {
+                  "points": "1445,2502 1445,2562 1522,2562 1522,2502"
+                },
+                "text": "only"
+              },
+              {
+                "id": "tr_1_tl_27_w13",
+                "coords": {
+                  "points": "1549,2502 1549,2562 1780,2562 1780,2502"
+                },
+                "text": "qualitatively"
+              },
+              {
+                "id": "tr_1_tl_27_w14",
+                "coords": {
+                  "points": "1807,2503 1807,2563 2044,2563 2044,2503"
+                },
+                "text": "determined."
+              },
+              {
+                "id": "tr_1_tl_27_w15",
+                "coords": {
+                  "points": "2061,2503 2061,2563 2075,2563 2075,2503"
+                },
+                "text": "A"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_28",
+            "coords": {
+              "points": "327,2635 1296,2630 1426,2664 1929,2630 1929,2582 1871,2571 327,2584"
+            },
+            "baseline": {
+              "points": "340,2621 419,2618 499,2618 579,2620 658,2621 738,2621 818,2621 897,2621 977,2624 1057,2622 1137,2621 1216,2624 1296,2621 1376,2619 1455,2619 1535,2618 1615,2621 1694,2621 1774,2621 1854,2621 1934,2615"
+            },
+            "text": "statistically derrived higher order fit to Figure 4 may provide a better correction",
+            "words": [
+              {
+                "id": "tr_1_tl_28_w1",
+                "coords": {
+                  "points": "327,2578 327,2638 533,2638 533,2578"
+                },
+                "text": "statistically"
+              },
+              {
+                "id": "tr_1_tl_28_w2",
+                "coords": {
+                  "points": "560,2580 560,2640 709,2640 709,2580"
+                },
+                "text": "derrived"
+              },
+              {
+                "id": "tr_1_tl_28_w3",
+                "coords": {
+                  "points": "736,2581 736,2641 860,2641 860,2581"
+                },
+                "text": "higher"
+              },
+              {
+                "id": "tr_1_tl_28_w4",
+                "coords": {
+                  "points": "876,2582 876,2642 979,2642 979,2582"
+                },
+                "text": "order"
+              },
+              {
+                "id": "tr_1_tl_28_w5",
+                "coords": {
+                  "points": "1006,2582 1006,2642 1046,2642 1046,2582"
+                },
+                "text": "fit"
+              },
+              {
+                "id": "tr_1_tl_28_w6",
+                "coords": {
+                  "points": "1073,2581 1073,2641 1103,2641 1103,2581"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_28_w7",
+                "coords": {
+                  "points": "1130,2582 1130,2642 1248,2642 1248,2582"
+                },
+                "text": "Figure"
+              },
+              {
+                "id": "tr_1_tl_28_w8",
+                "coords": {
+                  "points": "1270,2581 1270,2641 1284,2641 1284,2581"
+                },
+                "text": "4"
+              },
+              {
+                "id": "tr_1_tl_28_w9",
+                "coords": {
+                  "points": "1311,2579 1311,2639 1383,2639 1383,2579"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_28_w10",
+                "coords": {
+                  "points": "1410,2578 1410,2638 1544,2638 1544,2578"
+                },
+                "text": "provide"
+              },
+              {
+                "id": "tr_1_tl_28_w11",
+                "coords": {
+                  "points": "1570,2579 1570,2639 1580,2639 1580,2579"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_28_w12",
+                "coords": {
+                  "points": "1607,2581 1607,2641 1709,2641 1709,2581"
+                },
+                "text": "better"
+              },
+              {
+                "id": "tr_1_tl_28_w13",
+                "coords": {
+                  "points": "1731,2581 1731,2641 1917,2641 1917,2581"
+                },
+                "text": "correction"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_29",
+            "coords": {
+              "points": "318,2701 1035,2737 2155,2708 2155,2660 2011,2646 318,2664"
+            },
+            "baseline": {
+              "points": "331,2695 422,2695 513,2695 605,2695 696,2696 787,2698 879,2700 970,2698 1061,2696 1153,2696 1244,2698 1335,2698 1427,2698 1518,2696 1609,2697 1701,2695 1792,2698 1883,2698 1975,2695 2066,2695 2158,2692"
+            },
+            "text": "algorithm. The mean f must be included in the correction because the magnitued of the",
+            "words": [
+              {
+                "id": "tr_1_tl_29_w1",
+                "coords": {
+                  "points": "317,2655 317,2715 520,2715 520,2655"
+                },
+                "text": "algorithm."
+              },
+              {
+                "id": "tr_1_tl_29_w2",
+                "coords": {
+                  "points": "555,2655 555,2715 624,2715 624,2655"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_29_w3",
+                "coords": {
+                  "points": "669,2656 669,2716 767,2716 767,2656"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_29_w4",
+                "coords": {
+                  "points": "792,2658 792,2718 807,2718 807,2658"
+                },
+                "text": "f"
+              },
+              {
+                "id": "tr_1_tl_29_w5",
+                "coords": {
+                  "points": "832,2659 832,2719 930,2719 930,2659"
+                },
+                "text": "must"
+              },
+              {
+                "id": "tr_1_tl_29_w6",
+                "coords": {
+                  "points": "946,2658 946,2718 980,2718 980,2658"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_29_w7",
+                "coords": {
+                  "points": "1005,2656 1005,2716 1163,2716 1163,2656"
+                },
+                "text": "included"
+              },
+              {
+                "id": "tr_1_tl_29_w8",
+                "coords": {
+                  "points": "1193,2657 1193,2717 1217,2717 1217,2657"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_29_w9",
+                "coords": {
+                  "points": "1243,2658 1243,2718 1292,2718 1292,2658"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_29_w10",
+                "coords": {
+                  "points": "1318,2658 1318,2718 1505,2718 1505,2658"
+                },
+                "text": "correction"
+              },
+              {
+                "id": "tr_1_tl_29_w11",
+                "coords": {
+                  "points": "1555,2656 1555,2716 1703,2716 1703,2656"
+                },
+                "text": "because"
+              },
+              {
+                "id": "tr_1_tl_29_w12",
+                "coords": {
+                  "points": "1728,2656 1728,2716 1777,2716 1777,2656"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_29_w13",
+                "coords": {
+                  "points": "1808,2657 1808,2717 2010,2717 2010,2657"
+                },
+                "text": "magnitued"
+              },
+              {
+                "id": "tr_1_tl_29_w14",
+                "coords": {
+                  "points": "2035,2655 2035,2715 2074,2715 2074,2655"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_29_w15",
+                "coords": {
+                  "points": "2090,2653 2090,2713 2139,2713 2139,2653"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_30",
+            "coords": {
+              "points": "324,2783 2104,2788 2077,2715 324,2733"
+            },
+            "baseline": {
+              "points": "337,2770 425,2773 514,2773 602,2773 691,2773 779,2773 868,2773 956,2772 1045,2773 1133,2773 1222,2773 1310,2773 1399,2773 1487,2770 1576,2770 1664,2772 1753,2773 1841,2770 1930,2770 2018,2770 2107,2770"
+            },
+            "text": "in situ diel oscillations varies directly with the mean (Figure 3). It should be noted that",
+            "words": [
+              {
+                "id": "tr_1_tl_30_w1",
+                "coords": {
+                  "points": "329,2730 329,2790 348,2790 348,2730"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_30_w2",
+                "coords": {
+                  "points": "374,2732 374,2792 434,2792 434,2732"
+                },
+                "text": "situ"
+              },
+              {
+                "id": "tr_1_tl_30_w3",
+                "coords": {
+                  "points": "480,2733 480,2793 555,2793 555,2733"
+                },
+                "text": "diel"
+              },
+              {
+                "id": "tr_1_tl_30_w4",
+                "coords": {
+                  "points": "571,2733 571,2793 788,2793 788,2733"
+                },
+                "text": "oscillations"
+              },
+              {
+                "id": "tr_1_tl_30_w5",
+                "coords": {
+                  "points": "809,2733 809,2793 920,2793 920,2733"
+                },
+                "text": "varies"
+              },
+              {
+                "id": "tr_1_tl_30_w6",
+                "coords": {
+                  "points": "940,2732 940,2792 1081,2792 1081,2732"
+                },
+                "text": "directly"
+              },
+              {
+                "id": "tr_1_tl_30_w7",
+                "coords": {
+                  "points": "1107,2733 1107,2793 1182,2793 1182,2733"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_30_w8",
+                "coords": {
+                  "points": "1208,2733 1208,2793 1258,2793 1258,2733"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_30_w9",
+                "coords": {
+                  "points": "1294,2733 1294,2793 1389,2793 1389,2733"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_30_w10",
+                "coords": {
+                  "points": "1415,2730 1415,2790 1552,2790 1552,2730"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_30_w11",
+                "coords": {
+                  "points": "1572,2730 1572,2790 1627,2790 1627,2730"
+                },
+                "text": "3)."
+              },
+              {
+                "id": "tr_1_tl_30_w12",
+                "coords": {
+                  "points": "1653,2732 1653,2792 1683,2792 1683,2732"
+                },
+                "text": "It"
+              },
+              {
+                "id": "tr_1_tl_30_w13",
+                "coords": {
+                  "points": "1699,2732 1699,2792 1815,2792 1815,2732"
+                },
+                "text": "should"
+              },
+              {
+                "id": "tr_1_tl_30_w14",
+                "coords": {
+                  "points": "1840,2730 1840,2790 1875,2790 1875,2730"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_30_w15",
+                "coords": {
+                  "points": "1901,2730 1901,2790 1996,2790 1996,2730"
+                },
+                "text": "noted"
+              },
+              {
+                "id": "tr_1_tl_30_w16",
+                "coords": {
+                  "points": "2027,2730 2027,2790 2097,2790 2097,2730"
+                },
+                "text": "that"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_31",
+            "coords": {
+              "points": "322,2870 2079,2863 2079,2799 322,2820"
+            },
+            "baseline": {
+              "points": "334,2848 421,2848 509,2848 596,2848 684,2848 772,2848 859,2847 947,2848 1034,2849 1122,2848 1210,2848 1297,2848 1385,2848 1472,2848 1560,2848 1648,2848 1735,2846 1823,2846 1910,2846 1998,2848 2086,2848"
+            },
+            "text": "this is just a step in the direction of a real-time empirical correction, because this model",
+            "words": [
+              {
+                "id": "tr_1_tl_31_w1",
+                "coords": {
+                  "points": "321,2808 321,2868 383,2868 383,2808"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_31_w2",
+                "coords": {
+                  "points": "403,2808 403,2868 426,2868 426,2808"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_31_w3",
+                "coords": {
+                  "points": "451,2808 451,2868 517,2868 517,2808"
+                },
+                "text": "just"
+              },
+              {
+                "id": "tr_1_tl_31_w4",
+                "coords": {
+                  "points": "532,2808 532,2868 542,2868 542,2808"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_31_w5",
+                "coords": {
+                  "points": "567,2808 567,2868 629,2868 629,2808"
+                },
+                "text": "step"
+              },
+              {
+                "id": "tr_1_tl_31_w6",
+                "coords": {
+                  "points": "658,2808 658,2868 681,2868 681,2808"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_31_w7",
+                "coords": {
+                  "points": "706,2808 706,2868 758,2868 758,2808"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_31_w8",
+                "coords": {
+                  "points": "783,2807 783,2867 946,2867 946,2807"
+                },
+                "text": "direction"
+              },
+              {
+                "id": "tr_1_tl_31_w9",
+                "coords": {
+                  "points": "976,2808 976,2868 1009,2868 1009,2808"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_31_w10",
+                "coords": {
+                  "points": "1029,2808 1029,2868 1038,2868 1038,2808"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_31_w11",
+                "coords": {
+                  "points": "1072,2808 1072,2868 1240,2868 1240,2808"
+                },
+                "text": "real-time"
+              },
+              {
+                "id": "tr_1_tl_31_w12",
+                "coords": {
+                  "points": "1265,2808 1265,2868 1452,2868 1452,2808"
+                },
+                "text": "empirical"
+              },
+              {
+                "id": "tr_1_tl_31_w13",
+                "coords": {
+                  "points": "1467,2808 1467,2868 1678,2868 1678,2808"
+                },
+                "text": "correction,"
+              },
+              {
+                "id": "tr_1_tl_31_w14",
+                "coords": {
+                  "points": "1703,2806 1703,2866 1852,2866 1852,2806"
+                },
+                "text": "because"
+              },
+              {
+                "id": "tr_1_tl_31_w15",
+                "coords": {
+                  "points": "1877,2806 1877,2866 1938,2866 1938,2806"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_31_w16",
+                "coords": {
+                  "points": "1958,2808 1958,2868 2082,2868 2082,2808"
+                },
+                "text": "model"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_32",
+            "coords": {
+              "points": "318,2927 441,2964 503,2929 2086,2939 2086,2879 1967,2868 318,2895"
+            },
+            "baseline": {
+              "points": "331,2916 418,2922 506,2922 594,2922 682,2922 770,2922 858,2921 946,2921 1034,2925 1122,2922 1210,2921 1297,2922 1385,2922 1473,2922 1561,2922 1649,2922 1737,2922 1825,2919 1913,2919 2001,2921 2089,2919"
+            },
+            "text": "requires the time averaged f. Yet this correction tightens the relationship between f and",
+            "words": [
+              {
+                "id": "tr_1_tl_32_w1",
+                "coords": {
+                  "points": "317,2880 317,2940 466,2940 466,2880"
+                },
+                "text": "requires"
+              },
+              {
+                "id": "tr_1_tl_32_w2",
+                "coords": {
+                  "points": "491,2882 491,2942 539,2942 539,2882"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_32_w3",
+                "coords": {
+                  "points": "564,2882 564,2942 635,2942 635,2882"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_32_w4",
+                "coords": {
+                  "points": "660,2882 660,2942 829,2942 829,2882"
+                },
+                "text": "averaged"
+              },
+              {
+                "id": "tr_1_tl_32_w5",
+                "coords": {
+                  "points": "858,2881 858,2941 887,2941 887,2881"
+                },
+                "text": "f."
+              },
+              {
+                "id": "tr_1_tl_32_w6",
+                "coords": {
+                  "points": "911,2881 911,2941 978,2941 978,2881"
+                },
+                "text": "Yet"
+              },
+              {
+                "id": "tr_1_tl_32_w7",
+                "coords": {
+                  "points": "1008,2884 1008,2944 1070,2944 1070,2884"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_32_w8",
+                "coords": {
+                  "points": "1095,2881 1095,2941 1283,2941 1283,2881"
+                },
+                "text": "correction"
+              },
+              {
+                "id": "tr_1_tl_32_w9",
+                "coords": {
+                  "points": "1307,2882 1307,2942 1457,2942 1457,2882"
+                },
+                "text": "tightens"
+              },
+              {
+                "id": "tr_1_tl_32_w10",
+                "coords": {
+                  "points": "1481,2882 1481,2942 1529,2942 1529,2882"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_32_w11",
+                "coords": {
+                  "points": "1549,2882 1549,2942 1775,2942 1775,2882"
+                },
+                "text": "relationship"
+              },
+              {
+                "id": "tr_1_tl_32_w12",
+                "coords": {
+                  "points": "1800,2879 1800,2939 1954,2939 1954,2879"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_32_w13",
+                "coords": {
+                  "points": "1979,2880 1979,2940 1993,2940 1993,2880"
+                },
+                "text": "f"
+              },
+              {
+                "id": "tr_1_tl_32_w14",
+                "coords": {
+                  "points": "2008,2880 2008,2940 2070,2940 2070,2880"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_33",
+            "coords": {
+              "points": "324,3009 402,3012 434,3044 551,3009 642,3041 1069,3018 1069,2945 887,2968 811,2943 711,2970 324,2950"
+            },
+            "baseline": {
+              "points": "337,3000 373,3000 410,3000 447,3000 484,2999 521,2997 558,3000 594,3000 631,3000 668,3000 705,3000 742,3000 779,3000 816,2998 852,2997 889,2998 926,3000 963,3000 1000,3000 1037,3000 1074,3000"
+            },
+            "text": "mean f by a factor of 2 (Figure 16).",
+            "words": [
+              {
+                "id": "tr_1_tl_33_w1",
+                "coords": {
+                  "points": "324,2960 324,3020 423,3020 423,2960"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_33_w2",
+                "coords": {
+                  "points": "445,2959 445,3019 456,3019 456,2959"
+                },
+                "text": "f"
+              },
+              {
+                "id": "tr_1_tl_33_w3",
+                "coords": {
+                  "points": "473,2958 473,3018 511,3018 511,2958"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_33_w4",
+                "coords": {
+                  "points": "539,2958 539,3018 549,3018 549,2958"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_33_w5",
+                "coords": {
+                  "points": "577,2960 577,3020 686,3020 686,2960"
+                },
+                "text": "factor"
+              },
+              {
+                "id": "tr_1_tl_33_w6",
+                "coords": {
+                  "points": "710,2960 710,3020 742,3020 742,2960"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_33_w7",
+                "coords": {
+                  "points": "759,2960 759,3020 775,3020 775,2960"
+                },
+                "text": "2"
+              },
+              {
+                "id": "tr_1_tl_33_w8",
+                "coords": {
+                  "points": "809,2957 809,3017 951,3017 951,2957"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_33_w9",
+                "coords": {
+                  "points": "990,2960 990,3020 1072,3020 1072,2960"
+                },
+                "text": "16)."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2114 @@
+{
+  "processId": 10311011,
+  "status": "FINISHED",
+  "content": {
+    "text": "Introduction\nDevelopmental studies in fishes are focused mainly on swimming-one of the\nsimpler forms of vertebrate locomotion. In swimming, muscle movements are reduced to\nlateral sets of myotomes which contract alternatively to propel the fish forward. These\nmyotomes overlay the spinal cord and demarcate its segments. This simple organization\nfacillitates ease of both neural control in the fish and muscular and neural studies (Sillar et\nal, 1993). Correlational studies of the development of swimming behavior, muscle\nactivation, and motoneural anatomy have been performed in several swimming organisms,\nincluding cyclostomes and amphibians, but not extensively in teleost fishes. Larval\nzebrafish (Brachydanio rerio) motoneural anatomy has been studied extensively, and\nswimming acquisition and underlying neural patterns have been analyzed in larval\nAngelfish (Pterophyllum scalare), but developmental biology still lacks a well\u00ac\ncharacterized model teleost species for neural control and muscle activation during\nswimming (Yoshida et al, 1996)\nThis paper introduces another candidate teleost model, the Pacific Bonito (Sarda\nchiliensis). Bonito offer an auspicious and interesting model for the study of teleosts for\nthree reasons. First, it is possible to detach the intact spinal cord from the fish with\nminimal effort, allowing for neuroanatomical and physiological studies. Second, these fish\nare highly active from a very early age and exhibit a range of behaviors including turning,\nburst swimming, listing, and, later in development, hovering, continuous swimming, and\npredation. Bonito development is accelerated compared to that of other teleosts. For\nexample, larval Angelfish, Pterophyllum scalare, do not show locomotion until S days\nafter hatching (Yoshida et al, 1996), while Bonito can swim immediately post-hatch.",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "346,362 346,3061 2163,3061 2163,362"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "339,450 430,430 457,450 563,439 586,450 601,436 644,434 644,375 604,364 590,375 495,380 445,362 425,375 339,366"
+            },
+            "baseline": {
+              "points": "352,420 379,422 406,422 433,421 460,421 487,423 514,423 541,423 568,423 595,423 622,423 650,423"
+            },
+            "text": "Introduction",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "340,382 340,442 624,442 624,382"
+                },
+                "text": "Introduction"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "491,588 615,552 1531,592 1834,547 1999,599 2065,583 2062,484 488,491"
+            },
+            "baseline": {
+              "points": "501,540 579,540 657,540 736,540 814,540 892,540 971,542 1049,541 1127,543 1206,540 1284,541 1362,540 1441,543 1519,541 1597,543 1676,541 1754,543 1832,542 1911,543 1989,543 2068,546"
+            },
+            "text": "Developmental studies in fishes are focused mainly on swimming-one of the",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "493,500 493,560 796,560 796,500"
+                },
+                "text": "Developmental"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "812,500 812,560 943,560 943,500"
+                },
+                "text": "studies"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "964,501 964,561 990,561 990,501"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "1011,501 1011,561 1120,561 1120,501"
+                },
+                "text": "fishes"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1142,501 1142,561 1194,561 1194,501"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1215,500 1215,560 1362,560 1362,500"
+                },
+                "text": "focused"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1388,502 1388,562 1508,562 1508,502"
+                },
+                "text": "mainly"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1535,501 1535,561 1571,561 1571,501"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1597,502 1597,562 1916,562 1916,502"
+                },
+                "text": "swimming-one"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1943,503 1943,563 1979,563 1979,503"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "2001,504 2001,564 2047,564 2047,504"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "346,674 1368,674 1449,708 1866,676 2022,721 2132,687 2132,608 2078,588 1929,629 346,604"
+            },
+            "baseline": {
+              "points": "358,653 447,656 536,656 625,659 714,659 803,659 892,659 981,659 1070,659 1159,659 1248,659 1337,659 1426,662 1515,662 1604,659 1693,660 1782,662 1871,662 1960,662 2049,662 2139,665"
+            },
+            "text": "simpler forms of vertebrate locomotion. In swimming, muscle movements are reduced to",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "341,614 341,674 478,674 478,614"
+                },
+                "text": "simpler"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "500,616 500,676 611,676 611,616"
+                },
+                "text": "forms"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "633,619 633,679 669,679 669,619"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "686,619 686,679 876,679 876,619"
+                },
+                "text": "vertebrate"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "898,619 898,679 1142,679 1142,619"
+                },
+                "text": "locomotion."
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1153,619 1153,679 1184,679 1184,619"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1212,619 1212,679 1423,679 1423,619"
+                },
+                "text": "swimming,"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1440,622 1440,682 1567,682 1567,622"
+                },
+                "text": "muscle"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1594,620 1594,680 1817,680 1817,620"
+                },
+                "text": "movements"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1833,622 1833,682 1885,682 1885,622"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1913,622 1913,682 2055,682 2055,622"
+                },
+                "text": "reduced"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "2088,623 2088,683 2108,683 2108,623"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "341,807 2096,810 2096,730 1861,719 341,733"
+            },
+            "baseline": {
+              "points": "355,778 442,778 529,775 616,775 704,778 791,776 878,778 966,778 1053,778 1140,778 1228,778 1315,778 1402,778 1489,778 1577,778 1664,778 1751,778 1839,778 1926,781 2013,781 2101,781"
+            },
+            "text": "lateral sets of myotomes which contract alternatively to propel the fish forward. These",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "341,738 341,798 457,798 457,738"
+                },
+                "text": "lateral"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "473,735 473,795 544,795 544,735"
+                },
+                "text": "sets"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "565,735 565,795 605,795 605,735"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "621,737 621,797 824,797 824,737"
+                },
+                "text": "myotomes"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "846,738 846,798 952,798 952,738"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "978,738 978,798 1141,798 1141,738"
+                },
+                "text": "contract"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1157,738 1157,798 1391,798 1391,738"
+                },
+                "text": "alternatively"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1417,738 1417,798 1442,798 1442,738"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1473,738 1473,798 1600,798 1600,738"
+                },
+                "text": "propel"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1616,738 1616,798 1666,798 1666,738"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1692,738 1692,798 1747,798 1747,738"
+                },
+                "text": "fish"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1774,738 1774,798 1947,798 1947,738"
+                },
+                "text": "forward."
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1978,741 1978,801 2084,801 2084,741"
+                },
+                "text": "These"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "341,916 1004,911 1219,954 1388,916 2119,927 2119,866 1915,834 341,862"
+            },
+            "baseline": {
+              "points": "355,895 443,895 532,895 620,895 709,898 797,898 886,898 974,898 1063,898 1151,898 1240,898 1328,898 1417,898 1505,898 1594,898 1682,898 1771,898 1859,899 1948,898 2036,900 2125,901"
+            },
+            "text": "myotomes overlay the spinal cord and demarcate its segments. This simple organization",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "341,855 341,915 542,915 542,855"
+                },
+                "text": "myotomes"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "569,855 569,915 704,915 704,855"
+                },
+                "text": "overlay"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "730,858 730,918 776,918 776,858"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "803,858 803,918 917,918 917,858"
+                },
+                "text": "spinal"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "933,858 933,918 1010,918 1010,858"
+                },
+                "text": "cord"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1037,858 1037,918 1093,918 1093,858"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1126,858 1126,918 1317,918 1317,858"
+                },
+                "text": "demarcate"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1343,858 1343,918 1379,918 1379,858"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1401,858 1401,918 1597,918 1597,858"
+                },
+                "text": "segments."
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1624,858 1624,918 1707,918 1707,858"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1728,858 1728,918 1847,918 1847,858"
+                },
+                "text": "simple"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1874,858 1874,918 2106,918 2106,858"
+                },
+                "text": "organization"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "339,1027 988,1058 1162,1027 1262,1083 1350,1040 1445,1076 1648,1033 1707,1079 2148,1040 2148,963 339,966"
+            },
+            "baseline": {
+              "points": "352,1011 442,1014 532,1014 622,1014 712,1014 802,1014 892,1014 982,1014 1072,1014 1162,1014 1253,1014 1343,1017 1433,1014 1523,1017 1613,1015 1703,1015 1793,1017 1883,1017 1973,1017 2063,1017 2154,1014"
+            },
+            "text": "facillitates ease of both neural control in the fish and muscular and neural studies (Sillar et",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "339,973 339,1033 535,1033 535,973"
+                },
+                "text": "facillitates"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "556,974 556,1034 632,1034 632,974"
+                },
+                "text": "ease"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "658,974 658,1034 697,1034 697,974"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "713,974 713,1034 789,1034 789,974"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "815,974 815,1034 935,1034 935,974"
+                },
+                "text": "neural"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "956,974 956,1034 1097,1034 1097,974"
+                },
+                "text": "control"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1113,974 1113,1034 1133,1034 1133,974"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1159,974 1159,1034 1209,1034 1209,974"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1235,974 1235,1034 1296,1034 1296,974"
+                },
+                "text": "fish"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1321,976 1321,1036 1377,1036 1377,976"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1402,975 1402,1035 1579,1035 1579,975"
+                },
+                "text": "muscular"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1600,975 1600,1035 1655,1035 1655,975"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1686,975 1686,1035 1807,1035 1807,975"
+                },
+                "text": "neural"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1823,977 1823,1037 1954,1037 1954,977"
+                },
+                "text": "studies"
+              },
+              {
+                "id": "tr_1_tl_6_w15",
+                "coords": {
+                  "points": "1975,977 1975,1037 2090,1037 2090,977"
+                },
+                "text": "(Sillar"
+              },
+              {
+                "id": "tr_1_tl_6_w16",
+                "coords": {
+                  "points": "2111,974 2111,1034 2141,1034 2141,974"
+                },
+                "text": "et"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "335,1135 640,1178 2010,1165 2010,1090 1954,1076 335,1099"
+            },
+            "baseline": {
+              "points": "346,1131 429,1131 513,1130 596,1131 680,1134 763,1134 847,1134 930,1134 1014,1134 1097,1134 1181,1134 1265,1134 1348,1134 1432,1134 1515,1134 1599,1134 1682,1134 1766,1134 1849,1134 1933,1134 2017,1137"
+            },
+            "text": "al, 1993). Correlational studies of the development of swimming behavior, muscle",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "335,1091 335,1151 389,1151 389,1091"
+                },
+                "text": "al,"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "406,1090 406,1150 537,1150 537,1090"
+                },
+                "text": "1993)."
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "565,1094 565,1154 826,1154 826,1094"
+                },
+                "text": "Correlational"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "843,1094 843,1154 974,1154 974,1094"
+                },
+                "text": "studies"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "997,1094 997,1154 1034,1154 1034,1094"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1051,1094 1051,1154 1100,1154 1100,1094"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1128,1094 1128,1154 1379,1154 1379,1094"
+                },
+                "text": "development"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1401,1094 1401,1154 1433,1154 1433,1094"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1456,1094 1456,1154 1647,1154 1647,1094"
+                },
+                "text": "swimming"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1675,1094 1675,1154 1855,1154 1855,1094"
+                },
+                "text": "behavior,"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1872,1094 1872,1154 2002,1154 2002,1094"
+                },
+                "text": "muscle"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "337,1260 950,1298 1201,1266 1289,1305 1673,1266 1825,1314 2074,1284 2144,1330 2144,1205 2074,1194 337,1217"
+            },
+            "baseline": {
+              "points": "349,1250 443,1250 538,1251 633,1253 727,1253 822,1253 917,1253 1011,1253 1106,1253 1201,1250 1295,1253 1390,1253 1485,1253 1579,1253 1674,1253 1769,1253 1863,1253 1958,1253 2053,1253 2148,1256"
+            },
+            "text": "activation, and motoneural anatomy have been performed in several swimming organisms,",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "337,1210 337,1270 539,1270 539,1210"
+                },
+                "text": "activation,"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "561,1212 561,1272 617,1272 617,1212"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "644,1213 644,1273 872,1273 872,1213"
+                },
+                "text": "motoneural"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "889,1213 889,1273 1044,1273 1044,1213"
+                },
+                "text": "anatomy"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1071,1212 1071,1272 1153,1272 1153,1212"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1180,1210 1180,1270 1258,1270 1258,1210"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1284,1213 1284,1273 1481,1273 1481,1213"
+                },
+                "text": "performed"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1508,1213 1508,1273 1528,1273 1528,1213"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1555,1213 1555,1273 1695,1273 1695,1213"
+                },
+                "text": "several"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1711,1213 1711,1273 1903,1273 1903,1213"
+                },
+                "text": "swimming"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1930,1213 1930,1273 2142,1273 2142,1213"
+                },
+                "text": "organisms,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "335,1375 495,1420 884,1379 2008,1409 2008,1330 1752,1305 1651,1341 335,1336"
+            },
+            "baseline": {
+              "points": "346,1369 429,1369 512,1369 596,1368 679,1371 763,1370 846,1372 929,1372 1013,1369 1096,1372 1180,1372 1263,1372 1346,1372 1430,1372 1513,1372 1597,1372 1680,1372 1763,1372 1847,1372 1930,1372 2014,1369"
+            },
+            "text": "including cyclostomes and amphibians, but not extensively in teleost fishes. Larval",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "335,1329 335,1389 506,1389 506,1329"
+                },
+                "text": "including"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "537,1330 537,1390 775,1390 775,1330"
+                },
+                "text": "cyclostomes"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "796,1331 796,1391 856,1391 856,1331"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "882,1329 882,1389 1114,1389 1114,1329"
+                },
+                "text": "amphibians,"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "1130,1332 1130,1392 1190,1392 1190,1332"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1211,1332 1211,1392 1271,1392 1271,1332"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1292,1332 1292,1392 1499,1392 1499,1332"
+                },
+                "text": "extensively"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1525,1332 1525,1392 1545,1392 1545,1332"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1576,1332 1576,1392 1702,1392 1702,1332"
+                },
+                "text": "teleost"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1718,1332 1718,1392 1844,1392 1844,1332"
+                },
+                "text": "fishes."
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1870,1331 1870,1391 2001,1391 2001,1331"
+                },
+                "text": "Larval"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "335,1522 1029,1499 1445,1547 1511,1506 1605,1547 2053,1501 2053,1427 335,1454"
+            },
+            "baseline": {
+              "points": "346,1486 431,1489 517,1489 602,1489 688,1489 774,1489 859,1489 945,1489 1031,1489 1116,1489 1202,1489 1288,1489 1373,1489 1459,1489 1545,1489 1630,1489 1716,1489 1802,1489 1887,1489 1973,1491 2059,1489"
+            },
+            "text": "zebrafish (Brachydanio rerio) motoneural anatomy has been studied extensively, and",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "335,1448 335,1508 507,1508 507,1448"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "533,1449 533,1509 796,1509 796,1449"
+                },
+                "text": "(Brachydanio"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "827,1449 827,1509 939,1509 939,1449"
+                },
+                "text": "rerio)"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "960,1449 960,1509 1187,1509 1187,1449"
+                },
+                "text": "motoneural"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1203,1449 1203,1509 1360,1509 1360,1449"
+                },
+                "text": "anatomy"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1386,1449 1386,1509 1441,1509 1441,1449"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1462,1449 1462,1509 1543,1509 1543,1449"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1569,1449 1569,1509 1701,1509 1701,1449"
+                },
+                "text": "studied"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1732,1449 1732,1509 1965,1509 1965,1449"
+                },
+                "text": "extensively,"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1981,1450 1981,1510 2041,1510 2041,1450"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "337,1610 1685,1655 1974,1619 1940,1544 1486,1576 337,1551"
+            },
+            "baseline": {
+              "points": "349,1599 430,1605 511,1607 593,1608 674,1606 756,1608 837,1608 919,1608 1000,1608 1082,1608 1163,1608 1244,1608 1326,1608 1407,1608 1489,1608 1570,1608 1652,1608 1733,1608 1815,1608 1896,1606 1978,1608"
+            },
+            "text": "swimming acquisition and underlying neural patterns have been analyzed in larval",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "337,1565 337,1625 524,1625 524,1565"
+                },
+                "text": "swimming"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "556,1566 556,1626 759,1626 759,1566"
+                },
+                "text": "acquisition"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "786,1568 786,1628 843,1628 843,1568"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "870,1568 870,1628 1068,1628 1068,1568"
+                },
+                "text": "underlying"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1100,1568 1100,1628 1219,1628 1219,1568"
+                },
+                "text": "neural"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1236,1568 1236,1628 1387,1628 1387,1568"
+                },
+                "text": "patterns"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1414,1568 1414,1628 1491,1628 1491,1568"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1518,1568 1518,1628 1595,1628 1595,1568"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1627,1568 1627,1628 1784,1628 1784,1568"
+                },
+                "text": "analyzed"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1816,1567 1816,1627 1836,1627 1836,1567"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1863,1566 1863,1626 1972,1626 1972,1566"
+                },
+                "text": "larval"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "341,1741 1922,1762 1922,1662 341,1694"
+            },
+            "baseline": {
+              "points": "355,1725 433,1725 512,1725 590,1725 669,1725 748,1725 826,1725 905,1725 984,1725 1062,1726 1141,1727 1220,1725 1298,1725 1377,1725 1456,1725 1534,1724 1613,1725 1692,1725 1770,1725 1849,1725 1928,1719"
+            },
+            "text": "Angelfish (Pterophyllum scalare), but developmental biology still lacks a well\u00ac",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "341,1685 341,1745 515,1745 515,1685"
+                },
+                "text": "Angelfish"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "543,1685 543,1745 810,1745 810,1685"
+                },
+                "text": "(Pterophyllum"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "849,1685 849,1745 1023,1745 1023,1685"
+                },
+                "text": "scalare),"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "1040,1686 1040,1746 1100,1746 1100,1686"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1117,1685 1117,1745 1411,1745 1411,1685"
+                },
+                "text": "developmental"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1423,1684 1423,1744 1564,1744 1564,1684"
+                },
+                "text": "biology"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1587,1685 1587,1745 1657,1745 1657,1685"
+                },
+                "text": "still"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1669,1685 1669,1745 1766,1745 1766,1685"
+                },
+                "text": "lacks"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1789,1685 1789,1745 1799,1745 1799,1685"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1822,1683 1822,1743 1919,1743 1919,1683"
+                },
+                "text": "well\u00ac"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "339,1859 439,1890 868,1852 1006,1897 1155,1854 1375,1899 1653,1852 2010,1890 2010,1807 1954,1782 339,1809"
+            },
+            "baseline": {
+              "points": "352,1841 435,1844 518,1842 601,1844 684,1844 767,1842 850,1841 933,1841 1016,1841 1099,1841 1183,1841 1266,1844 1349,1842 1432,1841 1515,1844 1598,1844 1681,1844 1764,1844 1847,1844 1930,1844 2014,1850"
+            },
+            "text": "characterized model teleost species for neural control and muscle activation during",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "339,1803 339,1863 593,1863 593,1803"
+                },
+                "text": "characterized"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "620,1804 620,1864 741,1864 741,1804"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "757,1801 757,1861 885,1861 885,1801"
+                },
+                "text": "teleost"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "906,1801 906,1861 1042,1861 1042,1801"
+                },
+                "text": "species"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "1064,1801 1064,1861 1114,1861 1114,1801"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1135,1801 1135,1861 1257,1861 1257,1801"
+                },
+                "text": "neural"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1273,1802 1273,1862 1416,1862 1416,1802"
+                },
+                "text": "control"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1432,1801 1432,1861 1487,1861 1487,1801"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1513,1804 1513,1864 1646,1864 1646,1804"
+                },
+                "text": "muscle"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1672,1804 1672,1864 1855,1864 1855,1804"
+                },
+                "text": "activation"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1881,1804 1881,1864 1998,1864 1998,1804"
+                },
+                "text": "during"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "337,1970 416,2001 638,2001 683,1974 807,1999 1006,1992 1006,1908 952,1920 889,1895 769,1931 507,1911 337,1927"
+            },
+            "baseline": {
+              "points": "349,1960 382,1960 415,1961 448,1963 481,1963 514,1963 547,1964 580,1966 613,1963 646,1961 680,1961 713,1963 746,1963 779,1963 812,1963 845,1963 878,1961 911,1960 944,1959 977,1957 1011,1963"
+            },
+            "text": "swimming (Yoshida et al, 1996)",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "338,1922 338,1982 532,1982 532,1922"
+                },
+                "text": "swimming"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "562,1921 562,1981 738,1981 738,1921"
+                },
+                "text": "(Yoshida"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "762,1923 762,1983 797,1983 797,1923"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "815,1923 815,1983 868,1983 868,1923"
+                },
+                "text": "al,"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "886,1918 886,1978 1003,1978 1003,1918"
+                },
+                "text": "1996)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "486,2080 656,2123 726,2089 959,2128 1468,2096 1768,2139 1908,2092 2123,2157 2123,2022 486,2035"
+            },
+            "baseline": {
+              "points": "498,2080 579,2083 661,2083 742,2083 824,2083 905,2083 987,2083 1068,2083 1150,2083 1231,2083 1313,2083 1394,2083 1476,2083 1557,2083 1639,2083 1720,2083 1802,2083 1883,2083 1965,2083 2046,2083 2128,2080"
+            },
+            "text": "This paper introduces another candidate teleost model, the Pacific Bonito (Sarda",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "486,2040 486,2100 558,2100 558,2040"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "585,2043 585,2103 689,2103 689,2043"
+                },
+                "text": "paper"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "710,2043 710,2103 913,2103 913,2043"
+                },
+                "text": "introduces"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "935,2043 935,2103 1081,2103 1081,2043"
+                },
+                "text": "another"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1103,2043 1103,2103 1280,2103 1280,2043"
+                },
+                "text": "candidate"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1306,2043 1306,2103 1436,2103 1436,2043"
+                },
+                "text": "teleost"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1452,2043 1452,2103 1588,2103 1588,2043"
+                },
+                "text": "model,"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1605,2043 1605,2103 1656,2103 1656,2043"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1683,2043 1683,2103 1807,2103 1807,2043"
+                },
+                "text": "Pacific"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1829,2043 1829,2103 1954,2103 1954,2043"
+                },
+                "text": "Bonito"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1986,2043 1986,2103 2105,2103 2105,2043"
+                },
+                "text": "(Sarda"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "341,2209 430,2250 595,2212 995,2259 1119,2218 1416,2259 1741,2218 2126,2243 2126,2159 2042,2146 341,2175"
+            },
+            "baseline": {
+              "points": "355,2202 443,2202 532,2202 621,2202 710,2202 798,2202 887,2202 976,2202 1065,2202 1153,2202 1242,2202 1331,2202 1420,2202 1508,2202 1597,2202 1686,2202 1775,2202 1863,2202 1952,2202 2041,2202 2130,2199"
+            },
+            "text": "chiliensis). Bonito offer an auspicious and interesting model for the study of teleosts for",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "336,2162 336,2222 558,2222 558,2162"
+                },
+                "text": "chiliensis)."
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "585,2162 585,2222 709,2222 709,2162"
+                },
+                "text": "Bonito"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "741,2162 741,2222 829,2222 829,2162"
+                },
+                "text": "offer"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "851,2162 851,2222 881,2222 881,2162"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "908,2162 908,2222 1110,2222 1110,2162"
+                },
+                "text": "auspicious"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1131,2162 1131,2222 1188,2222 1188,2162"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1214,2162 1214,2222 1412,2222 1412,2162"
+                },
+                "text": "interesting"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1443,2162 1443,2222 1562,2222 1562,2162"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1578,2162 1578,2222 1630,2222 1630,2162"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1646,2162 1646,2222 1698,2222 1698,2162"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1725,2162 1725,2222 1823,2222 1823,2162"
+                },
+                "text": "study"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1849,2162 1849,2222 1885,2222 1885,2162"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1901,2162 1901,2222 2046,2222 2046,2162"
+                },
+                "text": "teleosts"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "2067,2160 2067,2220 2119,2220 2119,2160"
+                },
+                "text": "for"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "341,2327 1085,2368 1330,2329 1459,2379 1549,2334 1587,2370 1662,2331 2019,2354 2019,2268 1804,2252 1705,2288 877,2288 785,2252 341,2284"
+            },
+            "baseline": {
+              "points": "355,2319 438,2319 522,2318 605,2319 689,2317 772,2319 856,2319 939,2319 1023,2319 1106,2319 1190,2319 1274,2319 1357,2319 1441,2319 1524,2319 1608,2319 1691,2319 1775,2319 1858,2319 1942,2318 2026,2319"
+            },
+            "text": "three reasons. First, it is possible to detach the intact spinal cord from the fish with",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "341,2279 341,2339 426,2339 426,2279"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "452,2278 452,2338 614,2338 614,2278"
+                },
+                "text": "reasons."
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "640,2277 640,2337 746,2337 746,2277"
+                },
+                "text": "First,"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "762,2279 762,2339 787,2339 787,2279"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "803,2279 803,2339 828,2339 828,2279"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "849,2279 849,2339 1000,2339 1000,2279"
+                },
+                "text": "possible"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1026,2279 1026,2339 1051,2339 1051,2279"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1077,2279 1077,2339 1199,2339 1199,2279"
+                },
+                "text": "detach"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1225,2279 1225,2339 1275,2339 1275,2279"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1301,2279 1301,2339 1407,2339 1407,2279"
+                },
+                "text": "intact"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1423,2279 1423,2339 1540,2339 1540,2279"
+                },
+                "text": "spinal"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1555,2279 1555,2339 1631,2339 1631,2279"
+                },
+                "text": "cord"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1662,2279 1662,2339 1728,2339 1728,2279"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_17_w14",
+                "coords": {
+                  "points": "1769,2279 1769,2339 1819,2339 1819,2279"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w15",
+                "coords": {
+                  "points": "1845,2278 1845,2338 1905,2338 1905,2278"
+                },
+                "text": "fish"
+              },
+              {
+                "id": "tr_1_tl_17_w16",
+                "coords": {
+                  "points": "1931,2278 1931,2338 2002,2338 2002,2278"
+                },
+                "text": "with"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "341,2467 911,2447 1074,2487 1262,2447 1596,2494 1784,2442 2060,2499 2159,2465 2159,2395 2076,2386 341,2401"
+            },
+            "baseline": {
+              "points": "355,2435 445,2438 535,2438 626,2438 716,2438 807,2438 897,2438 987,2438 1078,2438 1168,2438 1259,2438 1349,2438 1439,2438 1530,2438 1620,2438 1711,2438 1801,2436 1891,2438 1982,2438 2072,2437 2163,2435"
+            },
+            "text": "minimal effort, allowing for neuroanatomical and physiological studies. Second, these fish",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "341,2397 341,2457 491,2457 491,2397"
+                },
+                "text": "minimal"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "507,2398 507,2458 631,2458 631,2398"
+                },
+                "text": "effort,"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "648,2398 648,2458 809,2458 809,2398"
+                },
+                "text": "allowing"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "835,2398 835,2458 886,2458 886,2398"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "908,2398 908,2458 1235,2458 1235,2398"
+                },
+                "text": "neuroanatomical"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1257,2398 1257,2458 1314,2458 1314,2398"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1340,2398 1340,2458 1600,2458 1600,2398"
+                },
+                "text": "physiological"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1616,2398 1616,2458 1766,2458 1766,2398"
+                },
+                "text": "studies."
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1793,2397 1793,2457 1954,2457 1954,2397"
+                },
+                "text": "Second,"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1970,2397 1970,2457 2063,2457 2063,2397"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "2090,2395 2090,2455 2146,2455 2146,2395"
+                },
+                "text": "fish"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "341,2569 1400,2609 2128,2582 2128,2512 2053,2503 341,2521"
+            },
+            "baseline": {
+              "points": "355,2554 443,2554 532,2554 621,2557 710,2554 799,2557 888,2554 977,2557 1066,2554 1155,2557 1244,2557 1332,2557 1421,2555 1510,2555 1599,2557 1688,2554 1777,2554 1866,2554 1955,2556 2044,2557 2133,2563"
+            },
+            "text": "are highly active from a very early age and exhibit a range of behaviors including turning,",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "336,2514 336,2574 390,2574 390,2514"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "412,2514 412,2574 521,2574 521,2514"
+                },
+                "text": "highly"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "548,2516 548,2576 657,2576 657,2516"
+                },
+                "text": "active"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "679,2514 679,2574 750,2574 750,2514"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "794,2516 794,2576 805,2576 805,2516"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "827,2514 827,2574 903,2574 903,2514"
+                },
+                "text": "very"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "931,2516 931,2576 1012,2576 1012,2516"
+                },
+                "text": "early"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1040,2514 1040,2574 1099,2574 1099,2514"
+                },
+                "text": "age"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1122,2516 1122,2576 1181,2576 1181,2516"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1209,2517 1209,2577 1339,2577 1339,2517"
+                },
+                "text": "exhibit"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1356,2516 1356,2576 1366,2576 1366,2516"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1389,2515 1389,2575 1492,2575 1492,2515"
+                },
+                "text": "range"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1515,2515 1515,2575 1552,2575 1552,2515"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w14",
+                "coords": {
+                  "points": "1569,2514 1569,2574 1754,2574 1754,2514"
+                },
+                "text": "behaviors"
+              },
+              {
+                "id": "tr_1_tl_19_w15",
+                "coords": {
+                  "points": "1777,2514 1777,2574 1951,2574 1951,2514"
+                },
+                "text": "including"
+              },
+              {
+                "id": "tr_1_tl_19_w16",
+                "coords": {
+                  "points": "1979,2517 1979,2577 2131,2577 2131,2517"
+                },
+                "text": "turning,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "341,2704 2110,2702 2110,2632 1958,2625 341,2625"
+            },
+            "baseline": {
+              "points": "355,2674 443,2674 531,2674 619,2677 707,2677 795,2677 883,2677 971,2677 1059,2677 1147,2675 1235,2676 1323,2677 1411,2675 1499,2674 1587,2677 1675,2676 1763,2674 1851,2674 1939,2674 2027,2677 2116,2674"
+            },
+            "text": "burst swimming, listing, and, later in development, hovering, continuous swimming, and",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "341,2634 341,2694 431,2694 431,2634"
+                },
+                "text": "burst"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "452,2635 452,2695 670,2695 670,2635"
+                },
+                "text": "swimming,"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "686,2637 686,2697 817,2697 817,2637"
+                },
+                "text": "listing,"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "833,2637 833,2697 914,2697 914,2637"
+                },
+                "text": "and,"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "930,2637 930,2697 1016,2697 1016,2637"
+                },
+                "text": "later"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1036,2637 1036,2697 1056,2697 1056,2637"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1087,2635 1087,2695 1351,2695 1351,2635"
+                },
+                "text": "development,"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1372,2634 1372,2694 1554,2694 1554,2634"
+                },
+                "text": "hovering,"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1575,2635 1575,2695 1788,2695 1788,2635"
+                },
+                "text": "continuous"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1809,2634 1809,2694 2027,2694 2027,2634"
+                },
+                "text": "swimming,"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "2043,2635 2043,2695 2098,2695 2098,2635"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "337,2808 2076,2831 2076,2756 1988,2736 337,2761"
+            },
+            "baseline": {
+              "points": "349,2793 435,2793 522,2793 608,2793 695,2793 781,2793 868,2793 954,2793 1041,2793 1127,2793 1214,2793 1301,2792 1387,2793 1474,2793 1560,2793 1647,2793 1733,2793 1820,2791 1906,2793 1993,2790 2080,2790"
+            },
+            "text": "predation. Bonito development is accelerated compared to that of other teleosts. For",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "341,2753 341,2813 543,2813 543,2753"
+                },
+                "text": "predation."
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "569,2753 569,2813 697,2813 697,2753"
+                },
+                "text": "Bonito"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "728,2753 728,2813 980,2813 980,2753"
+                },
+                "text": "development"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "995,2753 995,2813 1019,2813 1019,2753"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1040,2753 1040,2813 1252,2813 1252,2753"
+                },
+                "text": "accelerated"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1283,2752 1283,2812 1465,2812 1465,2752"
+                },
+                "text": "compared"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1495,2753 1495,2813 1520,2813 1520,2753"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1550,2753 1550,2813 1619,2813 1619,2753"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1639,2753 1639,2813 1678,2813 1678,2753"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1694,2752 1694,2812 1793,2812 1793,2752"
+                },
+                "text": "other"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1813,2752 1813,2812 1975,2812 1975,2752"
+                },
+                "text": "teleosts."
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "2006,2750 2006,2810 2069,2810 2069,2750"
+                },
+                "text": "For"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "339,2928 1535,2960 1651,2926 1850,2962 2080,2926 2051,2860 339,2876"
+            },
+            "baseline": {
+              "points": "352,2909 438,2912 525,2912 612,2912 698,2912 785,2912 872,2912 958,2909 1045,2909 1132,2909 1219,2911 1305,2910 1392,2912 1479,2911 1565,2909 1652,2909 1739,2909 1825,2909 1912,2909 1999,2909 2086,2909"
+            },
+            "text": "example, larval Angelfish, Pterophyllum scalare, do not show locomotion until S days",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "339,2871 339,2931 516,2931 516,2871"
+                },
+                "text": "example,"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "532,2872 532,2932 641,2932 641,2872"
+                },
+                "text": "larval"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "658,2872 658,2932 855,2932 855,2872"
+                },
+                "text": "Angelfish,"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "877,2869 877,2929 1122,2929 1122,2869"
+                },
+                "text": "Pterophyllum"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1164,2870 1164,2930 1320,2930 1320,2870"
+                },
+                "text": "scalare,"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1342,2871 1342,2931 1378,2931 1378,2871"
+                },
+                "text": "do"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1405,2871 1405,2931 1466,2931 1466,2871"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1483,2869 1483,2929 1566,2929 1566,2869"
+                },
+                "text": "show"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1603,2869 1603,2929 1822,2929 1822,2869"
+                },
+                "text": "locomotion"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1849,2869 1849,2929 1937,2929 1937,2869"
+                },
+                "text": "until"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1953,2869 1953,2929 1963,2929 1963,2869"
+                },
+                "text": "S"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1990,2869 1990,2929 2073,2929 2073,2869"
+                },
+                "text": "days"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "337,3037 432,3075 875,3044 936,3093 1094,3041 1312,3073 1406,3041 1601,3098 1762,3055 2044,3064 2044,2974 337,2998"
+            },
+            "baseline": {
+              "points": "349,3032 434,3032 519,3032 604,3032 689,3032 774,3032 859,3031 944,3032 1029,3029 1114,3029 1199,3029 1284,3029 1369,3032 1454,3032 1539,3029 1624,3029 1709,3029 1794,3029 1879,3029 1964,3029 2050,3029"
+            },
+            "text": "after hatching (Yoshida et al, 1996), while Bonito can swim immediately post-hatch.",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "337,2992 337,3052 419,3052 419,2992"
+                },
+                "text": "after"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "441,2992 441,3052 600,3052 600,2992"
+                },
+                "text": "hatching"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "628,2992 628,3052 802,3052 802,2992"
+                },
+                "text": "(Yoshida"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "825,2991 825,3051 857,3051 857,2991"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "874,2991 874,3051 923,3051 923,2991"
+                },
+                "text": "al,"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "946,2989 946,3049 1071,3049 1071,2989"
+                },
+                "text": "1996),"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1088,2989 1088,3049 1186,3049 1186,2989"
+                },
+                "text": "while"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1209,2989 1209,3049 1334,3049 1334,2989"
+                },
+                "text": "Bonito"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1362,2992 1362,3052 1416,3052 1416,2992"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1444,2990 1444,3050 1521,3050 1521,2990"
+                },
+                "text": "swim"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1560,2989 1560,3049 1795,3049 1795,2989"
+                },
+                "text": "immediately"
+              },
+              {
+                "id": "tr_1_tl_23_w12",
+                "coords": {
+                  "points": "1823,2989 1823,3049 2041,3049 2041,2989"
+                },
+                "text": "post-hatch."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

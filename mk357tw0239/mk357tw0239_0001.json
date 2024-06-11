@@ -1,0 +1,2577 @@
+{
+  "processId": 10341571,
+  "status": "FINISHED",
+  "content": {
+    "text": "ABSTRACT\nCyclic guanosine monophosphate (CGMP) gated channels serve as the downstream target in\nvertebrate visual transduction. However, it is not known whether cGMP-gated channels play a\nsimilar role in photoreceptors from invertebrates. Inside-out patch clamping of solitary\nphotoreceptor cells isolated from the retina of the squid (Loligo opalescens) revealed that the\nprobability of channel opening increases from a baseline of Po = 0.20 in the absence of cGMP to\nnear saturation (Po = 0.91) at 100 uM cGMP, suggesting the existence of cGMP-gated channels.\nThe probability of channel openings was independent of membrane potential over the range -60 to\n+60 mV. Data from these macroscopic patches revealed multiple channel types with unitary\nconductances ranging from 10 to 125 pS in symmetrical Nat solutions. Conductance of a 100 pS\nchannel was blocked by the addition of 2 mM Ca2 to the inner face of the patch. However,\nchannel activity persists in the presence of 60 mM Mg2-, a divalent cation concentration sufficient\nto block cGMP-gated channels in vertebrate photoreceptors. This suggests a significant difference\nin vertebrate and invertebrate cGMP-gated channel structure. The results of this study indicate that\ncGMP-gated channels are the effectors in invertebrate phototransduction.\nINTRODUCTION\nPhototransduction in vertebrate retinal rod cells involves an enzyme cascade in which the\nsecond messenger cyclic guanosine monophosphate (cGMP) directly controls the gating of cation\nchannels in the cell membrane (Fensenko et al., 1985) to regulate the photoreceptor potential. The\ntransduction cascade begins when light isomerizes the chromophore of rhodopsin (11-cis retinal)\nand activates the GTP-binding protein, transducin. Activated transducin activates CGMP\nphosphodiesterase, which lowers the concentration of cGMP in the cell, leading to the closing of\ncation channels and hyperpolarization of the photoreceptor (Stryer, 1986).\nSignificant homology exists between the squid and vertebrate phototransduction cascades,\nalthough it has been shown that light causes depolarization, not hyperpolarization, of squid (Loligo\npealei) photoreceptor cells (Pinto and Brown, 1977; Nasi and Gomez, 1992) and it is generally",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "262,266 262,2955 2245,2955 2245,266"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "262,337 327,327 352,347 394,354 441,332 485,357 530,329 572,334 570,255 527,250 513,265 473,265 456,282 418,262 376,272 260,253"
+            },
+            "baseline": {
+              "points": "277,316 302,316 327,316 352,316 377,315 402,314 428,314 453,316 478,316 503,316 528,316 553,317 579,319"
+            },
+            "text": "ABSTRACT",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "263,274 263,334 554,334 554,274"
+                },
+                "text": "ABSTRACT"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "267,433 896,473 1050,431 1342,478 1575,431 2097,431 2097,359 1860,391 1300,342 1213,384 267,357"
+            },
+            "baseline": {
+              "points": "280,414 371,417 462,417 553,417 644,420 736,417 827,415 918,417 1009,417 1100,417 1192,418 1283,418 1374,417 1465,417 1556,417 1648,419 1739,420 1830,420 1921,420 2012,420 2104,423"
+            },
+            "text": "Cyclic guanosine monophosphate (CGMP) gated channels serve as the downstream target in",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "273,375 273,435 391,435 391,375"
+                },
+                "text": "Cyclic"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "418,377 418,437 606,437 606,377"
+                },
+                "text": "guanosine"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "634,375 634,435 935,435 935,375"
+                },
+                "text": "monophosphate"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "957,377 957,437 1118,437 1118,377"
+                },
+                "text": "(CGMP)"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1135,377 1135,437 1226,437 1226,377"
+                },
+                "text": "gated"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1249,377 1249,437 1415,437 1415,377"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1437,377 1437,437 1528,437 1528,377"
+                },
+                "text": "serve"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1550,377 1550,437 1582,437 1582,377"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1604,378 1604,438 1652,438 1652,378"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1674,380 1674,440 1895,440 1895,380"
+                },
+                "text": "downstream"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1933,380 1933,440 2046,440 2046,380"
+                },
+                "text": "target"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "2057,381 2057,441 2084,441 2084,381"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "262,537 770,567 859,530 1038,570 1226,532 2167,542 2144,478 1867,493 1813,446 1748,485 1312,485 1194,441 1132,475 262,470"
+            },
+            "baseline": {
+              "points": "277,516 371,516 466,516 561,519 656,519 751,519 845,519 940,517 1035,516 1130,519 1225,519 1319,519 1414,519 1509,519 1604,519 1699,519 1793,522 1888,522 1983,522 2078,525 2173,528"
+            },
+            "text": "vertebrate visual transduction. However, it is not known whether cGMP-gated channels play a",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "263,476 263,536 455,536 455,476"
+                },
+                "text": "vertebrate"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "478,478 478,538 597,538 597,478"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "609,479 609,539 869,539 869,479"
+                },
+                "text": "transduction."
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "893,476 893,536 1091,536 1091,476"
+                },
+                "text": "However,"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "1108,478 1108,538 1130,538 1130,478"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1142,479 1142,539 1170,539 1170,479"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1193,479 1193,539 1250,539 1250,479"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1268,479 1268,539 1392,539 1392,479"
+                },
+                "text": "known"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1415,479 1415,539 1568,539 1568,479"
+                },
+                "text": "whether"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1591,479 1591,539 1834,539 1834,479"
+                },
+                "text": "cGMP-gated"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1858,482 1858,542 2028,542 2028,482"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "2045,485 2045,545 2124,545 2124,485"
+                },
+                "text": "play"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "2147,487 2147,547 2158,547 2158,487"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "258,631 426,669 629,631 842,671 988,631 1082,671 1258,634 2006,659 2006,587 1944,560 1721,547 1483,589 986,552 258,577"
+            },
+            "baseline": {
+              "points": "271,614 358,617 445,617 532,617 619,618 706,620 793,617 880,620 967,620 1054,618 1141,620 1228,620 1315,621 1402,621 1489,623 1576,623 1663,623 1750,623 1837,623 1924,623 2012,617"
+            },
+            "text": "similar role in photoreceptors from invertebrates. Inside-out patch clamping of solitary",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "258,575 258,635 392,635 392,575"
+                },
+                "text": "similar"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "413,577 413,637 475,637 475,577"
+                },
+                "text": "role"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "501,577 501,637 527,637 527,577"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "553,579 553,639 843,639 843,579"
+                },
+                "text": "photoreceptors"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "864,580 864,640 931,640 931,580"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "973,579 973,639 1237,639 1237,579"
+                },
+                "text": "invertebrates."
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1264,581 1264,641 1465,641 1465,581"
+                },
+                "text": "Inside-out"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1481,583 1481,643 1574,643 1574,583"
+                },
+                "text": "patch"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1595,583 1595,643 1771,643 1771,583"
+                },
+                "text": "clamping"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1797,583 1797,643 1833,643 1833,583"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1849,583 1849,643 1988,643 1988,583"
+                },
+                "text": "solitary"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "260,778 522,730 579,763 666,730 879,768 1055,730 1122,763 2107,758 2078,664 260,686"
+            },
+            "baseline": {
+              "points": "274,719 370,719 467,719 564,719 661,720 757,721 854,719 951,722 1048,722 1145,722 1241,722 1338,722 1435,722 1532,722 1629,724 1725,722 1822,722 1919,722 2016,725 2113,725"
+            },
+            "text": "photoreceptor cells isolated from the retina of the squid (Loligo opalescens) revealed that the",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "265,679 265,739 535,739 535,679"
+                },
+                "text": "photoreceptor"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "557,679 557,739 636,739 636,679"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "658,680 658,740 800,740 800,680"
+                },
+                "text": "isolated"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "827,679 827,739 895,739 895,679"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "933,682 933,742 980,742 980,682"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1008,682 1008,742 1108,742 1108,682"
+                },
+                "text": "retina"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1130,682 1130,742 1166,742 1166,682"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1183,682 1183,742 1230,742 1230,682"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1257,682 1257,742 1346,742 1346,682"
+                },
+                "text": "squid"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1379,682 1379,742 1506,742 1506,682"
+                },
+                "text": "(Loligo"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1533,683 1533,743 1760,743 1760,683"
+                },
+                "text": "opalescens)"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1782,682 1782,742 1935,742 1935,682"
+                },
+                "text": "revealed"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1957,684 1957,744 2030,744 2030,684"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "2047,685 2047,745 2094,745 2094,685"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "262,837 2199,844 2199,770 2132,753 1983,785 1322,745 1174,782 262,775"
+            },
+            "baseline": {
+              "points": "277,815 373,815 469,815 566,817 662,817 759,817 855,817 952,817 1048,817 1145,817 1241,817 1337,817 1434,817 1530,815 1627,817 1723,817 1820,817 1916,819 2013,820 2109,817 2206,820"
+            },
+            "text": "probability of channel opening increases from a baseline of Po = 0.20 in the absence of cGMP to",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "267,775 267,835 473,835 473,775"
+                },
+                "text": "probability"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "504,776 504,836 534,836 534,776"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "556,777 556,837 705,837 705,777"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "726,777 726,837 870,837 870,777"
+                },
+                "text": "opening"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "897,777 897,837 1072,837 1072,777"
+                },
+                "text": "increases"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1093,777 1093,837 1159,837 1159,777"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1201,777 1201,837 1211,837 1211,777"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1237,777 1237,837 1386,837 1386,777"
+                },
+                "text": "baseline"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1408,777 1408,837 1444,837 1444,777"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1465,775 1465,835 1500,835 1500,775"
+                },
+                "text": "Po"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1527,775 1527,835 1536,835 1536,775"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1568,776 1568,836 1645,836 1645,776"
+                },
+                "text": "0.20"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1671,777 1671,837 1691,837 1691,777"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1717,777 1717,837 1768,837 1768,777"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w15",
+                "coords": {
+                  "points": "1795,777 1795,837 1939,837 1939,777"
+                },
+                "text": "absence"
+              },
+              {
+                "id": "tr_1_tl_6_w16",
+                "coords": {
+                  "points": "1966,779 1966,839 2001,839 2001,779"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w17",
+                "coords": {
+                  "points": "2017,778 2017,838 2135,838 2135,778"
+                },
+                "text": "cGMP"
+              },
+              {
+                "id": "tr_1_tl_6_w18",
+                "coords": {
+                  "points": "2161,779 2161,839 2187,839 2187,779"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "255,943 337,929 396,973 527,931 901,929 1075,973 1684,921 2204,956 2182,854 1483,889 768,844 255,884"
+            },
+            "baseline": {
+              "points": "268,913 365,916 462,916 559,916 656,914 753,916 850,916 947,916 1044,917 1141,917 1238,917 1335,918 1432,919 1529,919 1626,919 1723,919 1820,919 1917,919 2014,919 2111,919 2209,922"
+            },
+            "text": "near saturation (Po = 0.91) at 100 uM cGMP, suggesting the existence of cGMP-gated channels.",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "256,873 256,933 335,933 335,873"
+                },
+                "text": "near"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "358,876 358,936 545,936 545,876"
+                },
+                "text": "saturation"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "569,875 569,935 625,935 625,875"
+                },
+                "text": "(Po"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "648,874 648,934 659,934 659,874"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "694,875 694,935 796,935 796,875"
+                },
+                "text": "0.91)"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "813,876 813,936 847,936 847,876"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "865,876 865,936 926,936 926,876"
+                },
+                "text": "100"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "950,876 950,936 989,936 989,876"
+                },
+                "text": "uM"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1030,877 1030,937 1171,937 1171,877"
+                },
+                "text": "cGMP,"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1189,877 1189,937 1387,937 1387,877"
+                },
+                "text": "suggesting"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1411,879 1411,939 1461,939 1461,879"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1485,879 1485,939 1660,939 1660,879"
+                },
+                "text": "existence"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1689,879 1689,939 1723,939 1723,879"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w14",
+                "coords": {
+                  "points": "1741,879 1741,939 1985,939 1985,879"
+                },
+                "text": "cGMP-gated"
+              },
+              {
+                "id": "tr_1_tl_7_w15",
+                "coords": {
+                  "points": "2014,879 2014,939 2201,939 2201,879"
+                },
+                "text": "channels."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "260,1038 1726,1070 2107,1028 2214,1075 2214,990 2142,971 260,963"
+            },
+            "baseline": {
+              "points": "274,1018 371,1018 468,1020 566,1020 663,1020 760,1020 858,1020 955,1020 1052,1020 1150,1023 1247,1022 1344,1023 1442,1023 1539,1023 1636,1023 1734,1023 1831,1023 1928,1023 2026,1023 2123,1020 2221,1023"
+            },
+            "text": "The probability of channel openings was independent of membrane potential over the range -60 to",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "260,978 260,1038 328,1038 328,978"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "350,979 350,1039 556,1039 556,979"
+                },
+                "text": "probability"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "584,980 584,1040 620,1040 620,980"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "637,980 637,1040 790,1040 790,980"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "806,980 806,1040 976,1040 976,980"
+                },
+                "text": "openings"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "998,980 998,1040 1066,1040 1066,980"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1088,982 1088,1042 1326,1042 1326,982"
+                },
+                "text": "independent"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1342,983 1342,1043 1379,1043 1379,983"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1395,983 1395,1043 1591,1043 1591,983"
+                },
+                "text": "membrane"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1618,983 1618,1043 1787,1043 1787,983"
+                },
+                "text": "potential"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1804,983 1804,1043 1883,1043 1883,983"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1905,983 1905,1043 1952,1043 1952,983"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1974,983 1974,1043 2074,1043 2074,983"
+                },
+                "text": "range"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "2101,980 2101,1040 2153,1040 2153,980"
+                },
+                "text": "-60"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "2180,982 2180,1042 2206,1042 2206,982"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "260,1124 535,1176 795,1129 1300,1179 1580,1134 1639,1169 2097,1154 2097,1085 1681,1085 1607,1040 1550,1085 1327,1060 1218,1097 260,1055"
+            },
+            "baseline": {
+              "points": "274,1116 365,1119 457,1122 548,1122 640,1122 731,1122 823,1122 914,1122 1006,1122 1097,1125 1189,1122 1280,1122 1372,1125 1463,1123 1555,1125 1646,1125 1738,1123 1829,1122 1921,1124 2012,1125 2104,1119"
+            },
+            "text": "+60 mV. Data from these macroscopic patches revealed multiple channel types with unitary",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "260,1076 260,1136 325,1136 325,1076"
+                },
+                "text": "+60"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "350,1079 350,1139 436,1139 436,1079"
+                },
+                "text": "mV."
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "462,1082 462,1142 547,1142 547,1082"
+                },
+                "text": "Data"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "573,1082 573,1142 638,1142 638,1082"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "679,1082 679,1142 769,1142 769,1082"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "796,1082 796,1142 1033,1142 1033,1082"
+                },
+                "text": "macroscopic"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1059,1083 1059,1143 1200,1143 1200,1083"
+                },
+                "text": "patches"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1221,1082 1221,1142 1372,1142 1372,1082"
+                },
+                "text": "revealed"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1398,1083 1398,1143 1549,1143 1549,1083"
+                },
+                "text": "multiple"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1575,1084 1575,1144 1726,1144 1726,1084"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1742,1082 1742,1142 1837,1142 1837,1082"
+                },
+                "text": "types"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1859,1083 1859,1143 1934,1143 1934,1083"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1959,1084 1959,1144 2090,1144 2090,1084"
+                },
+                "text": "unitary"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "258,1248 359,1278 582,1236 646,1278 815,1233 1000,1270 1644,1236 1756,1270 1862,1233 2214,1275 2199,1156 1936,1196 1773,1161 258,1166"
+            },
+            "baseline": {
+              "points": "271,1218 368,1221 466,1223 563,1223 661,1224 758,1221 856,1221 953,1224 1051,1224 1148,1224 1246,1224 1343,1224 1441,1224 1538,1224 1636,1224 1733,1224 1831,1224 1928,1224 2026,1224 2123,1224 2221,1226"
+            },
+            "text": "conductances ranging from 10 to 125 pS in symmetrical Nat solutions. Conductance of a 100 pS",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "263,1181 263,1241 527,1241 527,1181"
+                },
+                "text": "conductances"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "549,1183 549,1243 691,1243 691,1183"
+                },
+                "text": "ranging"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "719,1181 719,1241 787,1241 787,1181"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "830,1181 830,1241 861,1241 861,1181"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "888,1182 888,1242 914,1242 914,1182"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "941,1184 941,1244 1004,1244 1004,1184"
+                },
+                "text": "125"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1026,1184 1026,1244 1067,1244 1067,1184"
+                },
+                "text": "pS"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1095,1184 1095,1244 1116,1244 1116,1184"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1143,1184 1143,1244 1386,1244 1386,1184"
+                },
+                "text": "symmetrical"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1402,1184 1402,1244 1470,1244 1470,1184"
+                },
+                "text": "Nat"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1487,1184 1487,1244 1682,1244 1682,1184"
+                },
+                "text": "solutions."
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1704,1184 1704,1244 1958,1244 1958,1184"
+                },
+                "text": "Conductance"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1985,1184 1985,1244 2021,1244 2021,1184"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "2038,1184 2038,1244 2048,1244 2048,1184"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_10_w15",
+                "coords": {
+                  "points": "2075,1184 2075,1244 2138,1244 2138,1184"
+                },
+                "text": "100"
+              },
+              {
+                "id": "tr_1_tl_10_w16",
+                "coords": {
+                  "points": "2159,1185 2159,1245 2201,1245 2201,1185"
+                },
+                "text": "pS"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "260,1342 391,1382 1270,1322 1397,1367 1627,1327 2097,1355 2097,1295 1894,1258 1773,1293 1114,1251 260,1288"
+            },
+            "baseline": {
+              "points": "274,1319 365,1322 457,1322 548,1322 640,1322 731,1319 823,1322 914,1322 1006,1322 1097,1322 1189,1322 1280,1322 1372,1322 1463,1322 1555,1323 1646,1323 1738,1324 1829,1322 1921,1323 2012,1322 2104,1328"
+            },
+            "text": "channel was blocked by the addition of 2 mM Ca2 to the inner face of the patch. However,",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "260,1281 260,1341 413,1341 413,1281"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "430,1282 430,1342 498,1342 498,1282"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "520,1282 520,1342 662,1342 662,1282"
+                },
+                "text": "blocked"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "695,1279 695,1339 731,1339 731,1279"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "758,1280 758,1340 806,1340 806,1280"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "827,1282 827,1342 975,1342 975,1282"
+                },
+                "text": "addition"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1008,1282 1008,1342 1039,1342 1039,1282"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1061,1282 1061,1342 1071,1342 1071,1282"
+                },
+                "text": "2"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1098,1282 1098,1342 1145,1342 1145,1282"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1194,1282 1194,1342 1257,1342 1257,1282"
+                },
+                "text": "Ca2"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1289,1282 1289,1342 1315,1342 1315,1282"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1342,1282 1342,1342 1389,1342 1389,1282"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1417,1282 1417,1342 1511,1342 1511,1282"
+                },
+                "text": "inner"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "1528,1283 1528,1343 1601,1343 1601,1283"
+                },
+                "text": "face"
+              },
+              {
+                "id": "tr_1_tl_11_w15",
+                "coords": {
+                  "points": "1629,1283 1629,1343 1660,1343 1660,1283"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w16",
+                "coords": {
+                  "points": "1682,1283 1682,1343 1729,1343 1729,1283"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w17",
+                "coords": {
+                  "points": "1751,1282 1751,1342 1872,1342 1872,1282"
+                },
+                "text": "patch."
+              },
+              {
+                "id": "tr_1_tl_11_w18",
+                "coords": {
+                  "points": "1894,1282 1894,1342 2095,1342 2095,1282"
+                },
+                "text": "However,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "260,1441 681,1481 758,1439 1639,1481 1726,1434 2209,1456 2209,1389 2130,1372 1622,1394 1228,1355 1008,1394 760,1357 644,1392 532,1357 260,1394"
+            },
+            "baseline": {
+              "points": "274,1421 371,1424 468,1424 565,1423 662,1424 759,1424 856,1424 953,1424 1050,1424 1147,1424 1244,1424 1341,1422 1438,1424 1535,1424 1632,1424 1729,1424 1826,1424 1923,1424 2020,1424 2117,1424 2215,1424"
+            },
+            "text": "channel activity persists in the presence of 60 mM Mg2-, a divalent cation concentration sufficient",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "265,1383 265,1443 415,1443 415,1383"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "436,1383 436,1443 571,1443 571,1383"
+                },
+                "text": "activity"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "597,1384 597,1444 737,1444 737,1384"
+                },
+                "text": "persists"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "758,1384 758,1444 777,1444 777,1384"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "803,1384 803,1444 853,1444 853,1384"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "879,1384 879,1444 1039,1444 1039,1384"
+                },
+                "text": "presence"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1065,1384 1065,1444 1099,1444 1099,1384"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1115,1384 1115,1444 1155,1444 1155,1384"
+                },
+                "text": "60"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1175,1384 1175,1444 1225,1444 1225,1384"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1272,1382 1272,1442 1382,1442 1382,1382"
+                },
+                "text": "Mg2-,"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1398,1383 1398,1443 1407,1443 1407,1383"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1433,1384 1433,1444 1588,1444 1588,1384"
+                },
+                "text": "divalent"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1599,1384 1599,1444 1709,1444 1709,1384"
+                },
+                "text": "cation"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "1735,1384 1735,1444 1991,1444 1991,1384"
+                },
+                "text": "concentration"
+              },
+              {
+                "id": "tr_1_tl_12_w15",
+                "coords": {
+                  "points": "2017,1384 2017,1444 2202,1444 2202,1384"
+                },
+                "text": "sufficient"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "258,1570 369,1533 765,1582 946,1535 1350,1577 1572,1535 1884,1575 2229,1538 2229,1476 2045,1459 258,1476"
+            },
+            "baseline": {
+              "points": "271,1525 369,1522 467,1524 565,1522 664,1524 762,1525 860,1525 958,1522 1057,1524 1155,1524 1253,1525 1351,1525 1450,1525 1548,1525 1646,1522 1744,1525 1843,1525 1941,1525 2039,1525 2137,1525 2236,1525"
+            },
+            "text": "to block cGMP-gated channels in vertebrate photoreceptors. This suggests a significant difference",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "263,1484 263,1544 288,1544 288,1484"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "315,1482 315,1542 412,1542 412,1482"
+                },
+                "text": "block"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "439,1482 439,1542 681,1542 681,1482"
+                },
+                "text": "cGMP-gated"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "707,1485 707,1545 872,1545 872,1485"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "894,1483 894,1543 919,1543 919,1483"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "945,1483 945,1543 1131,1543 1131,1483"
+                },
+                "text": "vertebrate"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1157,1485 1157,1545 1462,1545 1462,1485"
+                },
+                "text": "photoreceptors."
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1488,1485 1488,1545 1565,1545 1565,1485"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1586,1482 1586,1542 1747,1542 1747,1482"
+                },
+                "text": "suggests"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1768,1485 1768,1545 1783,1545 1783,1485"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1804,1485 1804,1545 2010,1545 2010,1485"
+                },
+                "text": "significant"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "2026,1485 2026,1545 2217,1545 2217,1485"
+                },
+                "text": "difference"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "248,1659 782,1632 1355,1676 1592,1637 1979,1686 2239,1642 2209,1575 1840,1550 1587,1592 248,1567"
+            },
+            "baseline": {
+              "points": "262,1624 361,1624 460,1624 559,1625 658,1624 757,1624 856,1624 955,1624 1054,1623 1153,1624 1252,1624 1351,1624 1450,1624 1549,1624 1648,1624 1747,1624 1846,1624 1945,1624 2044,1624 2143,1627 2242,1624"
+            },
+            "text": "in vertebrate and invertebrate cGMP-gated channel structure. The results of this study indicate that",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "247,1584 247,1644 272,1644 272,1584"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "302,1584 302,1644 489,1644 489,1584"
+                },
+                "text": "vertebrate"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "515,1584 515,1644 574,1644 574,1584"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "599,1584 599,1644 826,1644 826,1584"
+                },
+                "text": "invertebrate"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "852,1583 852,1643 1094,1643 1094,1583"
+                },
+                "text": "cGMP-gated"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1119,1584 1119,1644 1272,1644 1272,1584"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1288,1584 1288,1644 1470,1644 1470,1584"
+                },
+                "text": "structure."
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1496,1584 1496,1644 1559,1644 1559,1584"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1585,1584 1585,1644 1708,1644 1708,1584"
+                },
+                "text": "results"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1728,1584 1728,1644 1762,1644 1762,1584"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1783,1584 1783,1644 1847,1644 1847,1584"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1867,1584 1867,1644 1961,1644 1961,1584"
+                },
+                "text": "study"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1986,1584 1986,1644 2134,1644 2134,1584"
+                },
+                "text": "indicate"
+              },
+              {
+                "id": "tr_1_tl_14_w14",
+                "coords": {
+                  "points": "2159,1585 2159,1645 2233,1645 2233,1585"
+                },
+                "text": "that"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "258,1733 448,1793 532,1753 792,1788 948,1738 1149,1778 1218,1736 1515,1788 1728,1738 1689,1667 258,1686"
+            },
+            "baseline": {
+              "points": "271,1722 344,1725 417,1725 490,1725 563,1725 636,1725 709,1725 782,1725 855,1725 928,1725 1001,1725 1074,1725 1147,1725 1220,1725 1293,1725 1366,1725 1439,1725 1512,1725 1585,1725 1658,1725 1731,1725"
+            },
+            "text": "cGMP-gated channels are the effectors in invertebrate phototransduction.",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "263,1685 263,1745 509,1745 509,1685"
+                },
+                "text": "cGMP-gated"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "535,1685 535,1745 701,1745 701,1685"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "722,1685 722,1745 772,1745 772,1685"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "793,1685 793,1745 842,1745 842,1685"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "868,1685 868,1745 1035,1745 1035,1685"
+                },
+                "text": "effectors"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1056,1685 1056,1745 1080,1745 1080,1685"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1101,1685 1101,1745 1327,1745 1327,1685"
+                },
+                "text": "invertebrate"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1353,1685 1353,1745 1721,1745 1721,1685"
+                },
+                "text": "phototransduction."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "255,1939 307,1954 337,1936 433,1946 473,1974 510,1939 703,1939 703,1862 671,1879 513,1872 431,1837 322,1882 297,1857 255,1857"
+            },
+            "baseline": {
+              "points": "268,1925 294,1923 320,1922 346,1922 372,1923 398,1925 424,1923 450,1922 476,1922 502,1922 528,1922 554,1924 580,1925 606,1923 632,1922 658,1922 684,1922 710,1922"
+            },
+            "text": "INTRODUCTION",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "257,1882 257,1942 678,1942 678,1882"
+                },
+                "text": "INTRODUCTION"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "406,2068 2189,2058 2189,1954 2080,1986 2008,1939 1610,1998 842,1941 560,1988 406,1946"
+            },
+            "baseline": {
+              "points": "420,2024 508,2024 597,2024 686,2024 774,2024 863,2024 952,2024 1040,2024 1129,2024 1218,2024 1307,2024 1395,2025 1484,2022 1573,2024 1661,2024 1750,2024 1839,2026 1927,2024 2016,2024 2105,2024 2194,2027"
+            },
+            "text": "Phototransduction in vertebrate retinal rod cells involves an enzyme cascade in which the",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "410,1984 410,2044 761,2044 761,1984"
+                },
+                "text": "Phototransduction"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "786,1984 786,2044 809,2044 809,1984"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "839,1984 839,2044 1022,2044 1022,1984"
+                },
+                "text": "vertebrate"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "1046,1984 1046,2044 1171,2044 1171,1984"
+                },
+                "text": "retinal"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "1186,1984 1186,2044 1238,2044 1238,1984"
+                },
+                "text": "rod"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1263,1984 1263,2044 1345,2044 1345,1984"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1364,1983 1364,2043 1527,2043 1527,1983"
+                },
+                "text": "involves"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1547,1983 1547,2043 1580,2043 1580,1983"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1606,1984 1606,2044 1749,2044 1749,1984"
+                },
+                "text": "enzyme"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1774,1985 1774,2045 1918,2045 1918,1985"
+                },
+                "text": "cascade"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1943,1984 1943,2044 1966,2044 1966,1984"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1996,1984 1996,2044 2101,2044 2101,1984"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "2131,1985 2131,2045 2178,2045 2178,1985"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "255,2169 475,2137 535,2179 770,2139 1065,2142 1122,2184 1533,2142 1679,2172 1746,2139 1827,2187 1981,2142 2209,2159 2209,2055 2026,2095 1543,2053 1303,2095 770,2065 255,2100"
+            },
+            "baseline": {
+              "points": "268,2122 365,2125 462,2121 560,2124 657,2123 754,2125 852,2125 949,2125 1046,2125 1144,2125 1241,2125 1338,2125 1436,2125 1533,2125 1630,2124 1728,2125 1825,2125 1922,2125 2020,2125 2117,2125 2215,2125"
+            },
+            "text": "second messenger cyclic guanosine monophosphate (cGMP) directly controls the gating of cation",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "255,2083 255,2143 380,2143 380,2083"
+                },
+                "text": "second"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "406,2082 406,2142 613,2142 613,2082"
+                },
+                "text": "messenger"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "634,2083 634,2143 740,2143 740,2083"
+                },
+                "text": "cyclic"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "766,2085 766,2145 952,2145 952,2085"
+                },
+                "text": "guanosine"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "978,2085 978,2145 1281,2145 1281,2085"
+                },
+                "text": "monophosphate"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1307,2085 1307,2145 1468,2145 1468,2085"
+                },
+                "text": "(cGMP)"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1484,2084 1484,2144 1620,2144 1620,2084"
+                },
+                "text": "directly"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1646,2084 1646,2144 1797,2144 1797,2084"
+                },
+                "text": "controls"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1818,2085 1818,2145 1868,2145 1868,2085"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1894,2085 1894,2145 2005,2145 2005,2085"
+                },
+                "text": "gating"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "2031,2085 2031,2145 2065,2145 2065,2085"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "2086,2085 2086,2145 2192,2145 2192,2085"
+                },
+                "text": "cation"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "255,2258 441,2288 607,2234 775,2271 1109,2231 1322,2288 1565,2231 1823,2288 1996,2236 2226,2248 2211,2152 1808,2194 1072,2152 857,2196 255,2169"
+            },
+            "baseline": {
+              "points": "268,2224 366,2227 464,2227 562,2227 661,2227 759,2227 857,2227 955,2225 1054,2227 1152,2227 1250,2227 1348,2224 1447,2227 1545,2227 1643,2227 1741,2227 1840,2227 1938,2226 2036,2227 2134,2225 2233,2224"
+            },
+            "text": "channels in the cell membrane (Fensenko et al., 1985) to regulate the photoreceptor potential. The",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "260,2186 260,2246 425,2246 425,2186"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "451,2187 451,2247 471,2247 471,2187"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "503,2187 503,2247 549,2247 549,2187"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "575,2187 575,2247 642,2247 642,2187"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "658,2187 658,2247 859,2247 859,2187"
+                },
+                "text": "membrane"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "880,2185 880,2245 1076,2245 1076,2185"
+                },
+                "text": "(Fensenko"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1103,2187 1103,2247 1133,2247 1133,2187"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1149,2187 1149,2247 1205,2247 1205,2187"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1227,2186 1227,2246 1335,2246 1335,2186"
+                },
+                "text": "1985)"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1351,2184 1351,2244 1376,2244 1376,2184"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1403,2187 1403,2247 1547,2247 1547,2187"
+                },
+                "text": "regulate"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1573,2187 1573,2247 1619,2247 1619,2187"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1646,2187 1646,2247 1914,2247 1914,2187"
+                },
+                "text": "photoreceptor"
+              },
+              {
+                "id": "tr_1_tl_19_w14",
+                "coords": {
+                  "points": "1935,2186 1935,2246 2120,2246 2120,2186"
+                },
+                "text": "potential."
+              },
+              {
+                "id": "tr_1_tl_19_w15",
+                "coords": {
+                  "points": "2142,2184 2142,2244 2214,2244 2214,2184"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "255,2360 2196,2352 2196,2263 255,2295"
+            },
+            "baseline": {
+              "points": "268,2325 364,2328 461,2328 557,2328 654,2328 751,2325 847,2325 944,2325 1040,2326 1137,2326 1234,2327 1330,2325 1427,2325 1523,2325 1620,2325 1717,2325 1813,2326 1910,2325 2006,2325 2103,2325 2200,2328"
+            },
+            "text": "transduction cascade begins when light isomerizes the chromophore of rhodopsin (11-cis retinal)",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "255,2288 255,2348 491,2348 491,2288"
+                },
+                "text": "transduction"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "522,2288 522,2348 663,2348 663,2288"
+                },
+                "text": "cascade"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "689,2285 689,2345 810,2345 810,2285"
+                },
+                "text": "begins"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "835,2285 835,2345 926,2345 926,2285"
+                },
+                "text": "when"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "952,2285 952,2345 1042,2345 1042,2285"
+                },
+                "text": "light"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1058,2286 1058,2346 1260,2346 1260,2286"
+                },
+                "text": "isomerizes"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1281,2285 1281,2345 1330,2345 1330,2285"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1351,2285 1351,2345 1608,2345 1608,2285"
+                },
+                "text": "chromophore"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1634,2285 1634,2345 1669,2345 1669,2285"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1685,2285 1685,2345 1871,2345 1871,2285"
+                },
+                "text": "rhodopsin"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1902,2285 1902,2345 2027,2345 2027,2285"
+                },
+                "text": "(11-cis"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "2048,2285 2048,2345 2189,2345 2189,2285"
+                },
+                "text": "retinal)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "255,2471 352,2484 456,2434 998,2437 1109,2484 1498,2434 2031,2466 2031,2367 255,2390"
+            },
+            "baseline": {
+              "points": "268,2424 356,2427 444,2427 533,2427 621,2427 710,2424 798,2427 886,2425 975,2427 1063,2427 1152,2427 1240,2427 1328,2427 1417,2427 1505,2427 1594,2427 1682,2427 1770,2427 1859,2427 1947,2424 2036,2424"
+            },
+            "text": "and activates the GTP-binding protein, transducin. Activated transducin activates CGMP",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "260,2384 260,2444 315,2444 315,2384"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "341,2387 341,2447 507,2447 507,2387"
+                },
+                "text": "activates"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "528,2387 528,2447 579,2447 579,2387"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "605,2384 605,2444 858,2444 858,2384"
+                },
+                "text": "GTP-binding"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "884,2386 884,2446 1035,2446 1035,2386"
+                },
+                "text": "protein,"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1046,2387 1046,2447 1263,2447 1263,2387"
+                },
+                "text": "transducin."
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1289,2387 1289,2447 1472,2447 1472,2387"
+                },
+                "text": "Activated"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1498,2387 1498,2447 1689,2447 1689,2387"
+                },
+                "text": "transducin"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1720,2387 1720,2447 1882,2447 1882,2387"
+                },
+                "text": "activates"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1903,2384 1903,2444 2024,2444 2024,2384"
+                },
+                "text": "CGMP"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "255,2555 2199,2553 2199,2456 1922,2494 255,2476"
+            },
+            "baseline": {
+              "points": "268,2525 364,2525 461,2525 558,2525 655,2525 752,2525 849,2525 946,2525 1043,2525 1140,2525 1237,2525 1333,2525 1430,2525 1527,2525 1624,2525 1721,2525 1818,2525 1915,2525 2012,2525 2109,2525 2206,2522"
+            },
+            "text": "phosphodiesterase, which lowers the concentration of cGMP in the cell, leading to the closing of",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "260,2485 260,2545 637,2545 637,2485"
+                },
+                "text": "phosphodiesterase,"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "653,2485 653,2545 762,2545 762,2485"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "789,2485 789,2545 917,2545 917,2485"
+                },
+                "text": "lowers"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "939,2485 939,2545 985,2545 985,2485"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1011,2485 1011,2545 1265,2545 1265,2485"
+                },
+                "text": "concentration"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1296,2485 1296,2545 1327,2545 1327,2485"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1348,2485 1348,2545 1461,2545 1461,2485"
+                },
+                "text": "cGMP"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1493,2485 1493,2545 1513,2545 1513,2485"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1540,2485 1540,2545 1591,2545 1591,2485"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1612,2485 1612,2545 1699,2545 1699,2485"
+                },
+                "text": "cell,"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1710,2485 1710,2545 1845,2545 1845,2485"
+                },
+                "text": "leading"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1871,2485 1871,2545 1897,2545 1897,2485"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "1923,2485 1923,2545 1974,2545 1974,2485"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w14",
+                "coords": {
+                  "points": "1996,2485 1996,2545 2130,2545 2130,2485"
+                },
+                "text": "closing"
+              },
+              {
+                "id": "tr_1_tl_22_w15",
+                "coords": {
+                  "points": "2156,2482 2156,2542 2192,2542 2192,2482"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "258,2645 740,2682 1055,2637 1134,2674 1216,2637 1756,2662 1756,2565 1674,2560 258,2590"
+            },
+            "baseline": {
+              "points": "271,2624 345,2627 420,2627 494,2627 569,2627 643,2627 718,2627 792,2627 867,2627 941,2627 1016,2627 1090,2626 1165,2627 1239,2627 1314,2626 1388,2624 1463,2625 1537,2624 1612,2627 1686,2624 1761,2627"
+            },
+            "text": "cation channels and hyperpolarization of the photoreceptor (Stryer, 1986).",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "263,2585 263,2645 373,2645 373,2585"
+                },
+                "text": "cation"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "399,2587 399,2647 565,2647 565,2587"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "591,2587 591,2647 646,2647 646,2587"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "672,2587 672,2647 1016,2647 1016,2587"
+                },
+                "text": "hyperpolarization"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "1042,2586 1042,2646 1077,2646 1077,2586"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1097,2586 1097,2646 1142,2646 1142,2586"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1168,2586 1168,2646 1441,2646 1441,2586"
+                },
+                "text": "photoreceptor"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1461,2584 1461,2644 1608,2644 1608,2584"
+                },
+                "text": "(Stryer,"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1624,2584 1624,2644 1759,2644 1759,2584"
+                },
+                "text": "1986)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "409,2783 597,2749 911,2776 968,2736 1486,2786 1689,2736 1738,2773 2219,2763 2219,2672 2167,2664 2026,2699 1785,2655 1711,2692 1389,2647 1025,2689 956,2655 807,2694 622,2655 409,2694"
+            },
+            "baseline": {
+              "points": "423,2725 513,2725 603,2725 693,2725 783,2725 873,2725 963,2725 1053,2725 1143,2725 1233,2728 1323,2725 1413,2725 1503,2725 1593,2725 1683,2725 1773,2725 1863,2725 1953,2725 2043,2725 2133,2725 2224,2728"
+            },
+            "text": "Significant homology exists between the squid and vertebrate phototransduction cascades,",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "414,2685 414,2745 630,2745 630,2685"
+                },
+                "text": "Significant"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "646,2685 646,2745 838,2745 838,2685"
+                },
+                "text": "homology"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "863,2685 863,2745 964,2745 964,2685"
+                },
+                "text": "exists"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "990,2685 990,2745 1141,2745 1141,2685"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "1167,2686 1167,2746 1211,2746 1211,2686"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "1237,2686 1237,2746 1333,2746 1333,2686"
+                },
+                "text": "squid"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1359,2685 1359,2745 1419,2745 1419,2685"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1445,2685 1445,2745 1631,2745 1631,2685"
+                },
+                "text": "vertebrate"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1652,2685 1652,2745 2000,2745 2000,2685"
+                },
+                "text": "phototransduction"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "2026,2685 2026,2745 2212,2745 2212,2685"
+                },
+                "text": "cascades,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "258,2887 500,2833 728,2875 830,2833 929,2867 1280,2843 1352,2885 1538,2835 1998,2840 2083,2885 2239,2843 2239,2793 2167,2773 258,2791"
+            },
+            "baseline": {
+              "points": "271,2824 369,2827 468,2827 567,2827 665,2827 764,2827 863,2827 961,2826 1060,2827 1159,2827 1258,2827 1356,2826 1455,2827 1554,2827 1652,2827 1751,2827 1850,2827 1948,2827 2047,2827 2146,2827 2245,2830"
+            },
+            "text": "although it has been shown that light causes depolarization, not hyperpolarization, of squid (Loligo",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "263,2786 263,2846 422,2846 422,2786"
+                },
+                "text": "although"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "449,2787 449,2847 475,2847 475,2787"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "491,2787 491,2847 549,2847 549,2787"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_25_w4",
+                "coords": {
+                  "points": "571,2787 571,2847 650,2847 650,2787"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_25_w5",
+                "coords": {
+                  "points": "677,2787 677,2847 798,2847 798,2787"
+                },
+                "text": "shown"
+              },
+              {
+                "id": "tr_1_tl_25_w6",
+                "coords": {
+                  "points": "826,2787 826,2847 894,2847 894,2787"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_25_w7",
+                "coords": {
+                  "points": "910,2786 910,2846 1000,2846 1000,2786"
+                },
+                "text": "light"
+              },
+              {
+                "id": "tr_1_tl_25_w8",
+                "coords": {
+                  "points": "1012,2787 1012,2847 1133,2847 1133,2787"
+                },
+                "text": "causes"
+              },
+              {
+                "id": "tr_1_tl_25_w9",
+                "coords": {
+                  "points": "1155,2786 1155,2846 1451,2846 1451,2786"
+                },
+                "text": "depolarization,"
+              },
+              {
+                "id": "tr_1_tl_25_w10",
+                "coords": {
+                  "points": "1468,2787 1468,2847 1525,2847 1525,2787"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_25_w11",
+                "coords": {
+                  "points": "1542,2787 1542,2847 1907,2847 1907,2787"
+                },
+                "text": "hyperpolarization,"
+              },
+              {
+                "id": "tr_1_tl_25_w12",
+                "coords": {
+                  "points": "1925,2787 1925,2847 1961,2847 1961,2787"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_25_w13",
+                "coords": {
+                  "points": "1978,2787 1978,2847 2072,2847 2072,2787"
+                },
+                "text": "squid"
+              },
+              {
+                "id": "tr_1_tl_25_w14",
+                "coords": {
+                  "points": "2100,2787 2100,2847 2231,2847 2231,2787"
+                },
+                "text": "(Loligo"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_26",
+            "coords": {
+              "points": "260,2952 830,2939 909,2972 1013,2939 1062,2972 1298,2939 1414,3004 1721,2939 1961,2947 2023,3004 2164,2979 2164,2880 2006,2895 1944,2850 1798,2887 963,2890 842,2848 701,2895 651,2863 260,2902"
+            },
+            "baseline": {
+              "points": "274,2931 368,2928 463,2928 557,2925 652,2925 747,2925 841,2925 936,2925 1031,2925 1125,2925 1220,2925 1315,2925 1409,2925 1504,2925 1599,2925 1693,2927 1788,2927 1883,2927 1977,2925 2072,2928 2167,2928"
+            },
+            "text": "pealei) photoreceptor cells (Pinto and Brown, 1977; Nasi and Gomez, 1992) and it is generally",
+            "words": [
+              {
+                "id": "tr_1_tl_26_w1",
+                "coords": {
+                  "points": "266,2889 266,2949 400,2949 400,2889"
+                },
+                "text": "pealei)"
+              },
+              {
+                "id": "tr_1_tl_26_w2",
+                "coords": {
+                  "points": "423,2885 423,2945 693,2945 693,2885"
+                },
+                "text": "photoreceptor"
+              },
+              {
+                "id": "tr_1_tl_26_w3",
+                "coords": {
+                  "points": "710,2885 710,2945 796,2945 796,2885"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_26_w4",
+                "coords": {
+                  "points": "818,2885 818,2945 926,2945 926,2885"
+                },
+                "text": "(Pinto"
+              },
+              {
+                "id": "tr_1_tl_26_w5",
+                "coords": {
+                  "points": "954,2885 954,2945 1007,2945 1007,2885"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_26_w6",
+                "coords": {
+                  "points": "1035,2885 1035,2945 1181,2945 1181,2885"
+                },
+                "text": "Brown,"
+              },
+              {
+                "id": "tr_1_tl_26_w7",
+                "coords": {
+                  "points": "1198,2885 1198,2945 1305,2945 1305,2885"
+                },
+                "text": "1977;"
+              },
+              {
+                "id": "tr_1_tl_26_w8",
+                "coords": {
+                  "points": "1322,2885 1322,2945 1409,2945 1409,2885"
+                },
+                "text": "Nasi"
+              },
+              {
+                "id": "tr_1_tl_26_w9",
+                "coords": {
+                  "points": "1426,2885 1426,2945 1484,2945 1484,2885"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_26_w10",
+                "coords": {
+                  "points": "1507,2885 1507,2945 1663,2945 1663,2885"
+                },
+                "text": "Gomez,"
+              },
+              {
+                "id": "tr_1_tl_26_w11",
+                "coords": {
+                  "points": "1680,2887 1680,2947 1793,2947 1793,2887"
+                },
+                "text": "1992)"
+              },
+              {
+                "id": "tr_1_tl_26_w12",
+                "coords": {
+                  "points": "1810,2887 1810,2947 1869,2947 1869,2887"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_26_w13",
+                "coords": {
+                  "points": "1891,2886 1891,2946 1918,2946 1918,2886"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_26_w14",
+                "coords": {
+                  "points": "1929,2885 1929,2945 1956,2945 1956,2885"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_26_w15",
+                "coords": {
+                  "points": "1978,2887 1978,2947 2151,2947 2151,2887"
+                },
+                "text": "generally"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

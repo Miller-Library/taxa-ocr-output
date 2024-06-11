@@ -1,0 +1,2099 @@
+{
+  "processId": 10310181,
+  "status": "FINISHED",
+  "content": {
+    "text": "At extremely short periods, the conduction velocity of Pannychia\nbioluminescence should decrease with decreasing period; however,\nthe theory is not sufficient to describe the dispersion relation at\nnaturally-occurring periods.\nThe regularity of the impulses suggest control by a pacemaker\nneuron. Bullock proposes two theoretical mechanisms for\nendogenous rhythms, oscillating circuits and pacemaker neurons, but\nstates that no rhythmic oscillatory circuits have been described in\ninvertebrates; therefore, the neural rhythm is probably set by\npacemaker neurons (1965). Most pacemakers have, when excited, an\ninward current that gradually depolarizes the cell to threshold. At\nthreshold, the action potential is generated, followed by quick\nrepolarization. The repolarization returns the cell to its initial state\nin which the inward current causes the cycle to recur. Because the\npulsing points that initiate bioluminescence can be located anywhere\non the dorsal surface of the animal and because several points may\nbe pulsing independently at the same time, the pacemaker neurons\nare most likely diffusely spread throughout the nerve net.\nThe period of the pacemaker depends on the magnitude of the\ninward current, the threshold voltage, and properties of the cell\nmembrane. A nerve cell with a constant current can be modeled as a\nsimple RC circuit (Jack et al., 1983). The equation V = IR(I-etR\ndescribes the voltage during the charging of a capacitor. The time\nrequired to reach threshold is therefore t =-RC*In(1 - Vth/IR).\nIncreasing the threshold voltage will therefore increase the period as\nit takes longer for the cell to reach threshold voltage.\n11",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "393,281 393,3059 2226,3059 2226,281"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "392,358 1077,339 1382,378 1856,335 1952,378 2111,346 2111,266 392,298"
+            },
+            "baseline": {
+              "points": "405,340 490,337 576,337 661,335 747,331 832,331 918,330 1003,328 1089,331 1174,331 1260,331 1346,336 1431,337 1517,337 1602,337 1688,337 1773,334 1859,331 1944,331 2030,331 2116,334"
+            },
+            "text": "At extremely short periods, the conduction velocity of Pannychia",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "393,299 393,359 445,359 445,299"
+                },
+                "text": "At"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "475,296 475,356 703,356 703,296"
+                },
+                "text": "extremely"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "752,291 752,351 868,351 868,291"
+                },
+                "text": "short"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "898,288 898,348 1092,348 1092,288"
+                },
+                "text": "periods,"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "1122,291 1122,351 1185,351 1185,291"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "1227,296 1227,356 1473,356 1473,296"
+                },
+                "text": "conduction"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1521,297 1521,357 1702,357 1702,297"
+                },
+                "text": "velocity"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1744,294 1744,354 1791,354 1791,294"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1832,291 1832,351 2096,351 2096,291"
+                },
+                "text": "Pannychia"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "392,458 2155,453 2155,392 1920,364 1767,401 1394,403 1337,362 845,412 392,389"
+            },
+            "baseline": {
+              "points": "405,435 492,435 580,435 667,432 755,432 843,429 930,429 1018,426 1105,429 1193,429 1281,432 1368,435 1456,435 1543,435 1631,436 1719,435 1806,432 1894,432 1981,432 2069,432 2157,438"
+            },
+            "text": "bioluminescence should decrease with decreasing period; however,",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "392,394 392,454 785,454 785,394"
+                },
+                "text": "bioluminescence"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "841,389 841,449 988,449 988,389"
+                },
+                "text": "should"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "1038,389 1038,449 1228,449 1228,389"
+                },
+                "text": "decrease"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "1278,393 1278,453 1371,453 1371,393"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1420,395 1420,455 1671,455 1671,395"
+                },
+                "text": "decreasing"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1721,392 1721,452 1896,452 1896,392"
+                },
+                "text": "period;"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1935,392 1935,452 2152,452 2152,392"
+                },
+                "text": "however,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "392,535 519,585 756,535 852,572 1644,563 1720,599 1815,542 2086,551 2086,487 1890,471 1811,506 1084,465 392,499"
+            },
+            "baseline": {
+              "points": "405,534 489,534 573,534 658,532 742,531 826,531 911,529 995,530 1079,528 1164,528 1248,530 1332,534 1417,534 1501,534 1585,537 1670,536 1754,534 1838,534 1923,531 2007,531 2092,534"
+            },
+            "text": "the theory is not sufficient to describe the dispersion relation at",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "393,494 393,554 453,554 453,494"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "499,494 499,554 638,554 638,494"
+                },
+                "text": "theory"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "683,491 683,551 716,551 716,491"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "756,491 756,551 834,551 834,491"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "869,489 869,549 1092,549 1092,489"
+                },
+                "text": "sufficient"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1126,488 1126,548 1159,548 1159,488"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1204,492 1204,552 1389,552 1389,492"
+                },
+                "text": "describe"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1434,494 1434,554 1495,554 1495,494"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1540,496 1540,556 1770,556 1770,496"
+                },
+                "text": "dispersion"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1821,491 1821,551 1988,551 1988,491"
+                },
+                "text": "relation"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "2039,492 2039,552 2077,552 2077,492"
+                },
+                "text": "at"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "399,654 578,672 804,651 909,690 1025,642 1148,665 1148,588 1111,576 904,601 845,578 761,601 535,578 399,604"
+            },
+            "baseline": {
+              "points": "411,635 448,634 485,632 522,632 559,632 596,632 633,632 670,632 707,632 744,632 781,632 818,632 855,632 892,633 929,635 966,632 1003,630 1040,629 1077,629 1114,629 1152,629"
+            },
+            "text": "naturally-occurring periods.",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "400,592 400,652 880,652 880,592"
+                },
+                "text": "naturally-occurring"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "946,589 946,649 1144,649 1144,589"
+                },
+                "text": "periods."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "549,747 1132,736 1287,783 1772,733 2186,790 2186,690 1995,667 1007,667 676,711 549,672"
+            },
+            "baseline": {
+              "points": "561,731 642,733 723,734 805,733 886,732 968,731 1049,731 1131,731 1212,731 1294,731 1375,732 1456,734 1538,737 1619,731 1701,734 1782,731 1864,734 1945,734 2027,731 2108,731 2190,731"
+            },
+            "text": "The regularity of the impulses suggest control by a pacemaker",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "550,691 550,751 621,751 621,691"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "667,693 667,753 889,753 889,693"
+                },
+                "text": "regularity"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "935,691 935,751 979,751 979,691"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "1018,691 1018,751 1079,751 1079,691"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "1124,691 1124,751 1319,751 1319,691"
+                },
+                "text": "impulses"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1359,693 1359,753 1536,753 1536,693"
+                },
+                "text": "suggest"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1571,692 1571,752 1743,752 1743,692"
+                },
+                "text": "control"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1777,691 1777,751 1821,751 1821,691"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1872,694 1872,754 1888,754 1888,694"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1933,691 1933,751 2178,751 2178,691"
+                },
+                "text": "pacemaker"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "392,865 610,831 727,881 1016,843 1927,865 1890,774 622,813 392,783"
+            },
+            "baseline": {
+              "points": "405,829 481,829 557,830 634,832 710,831 787,832 863,831 939,832 1016,830 1092,828 1169,826 1245,828 1321,830 1398,832 1474,832 1551,832 1627,832 1703,832 1780,832 1856,829 1933,832"
+            },
+            "text": "neuron. Bullock proposes two theoretical mechanisms for",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "392,789 392,849 574,849 574,789"
+                },
+                "text": "neuron."
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "644,791 644,851 820,851 820,791"
+                },
+                "text": "Bullock"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "869,791 869,851 1072,851 1072,791"
+                },
+                "text": "proposes"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "1115,786 1115,846 1185,846 1185,786"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1234,791 1234,851 1485,851 1485,791"
+                },
+                "text": "theoretical"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1518,792 1518,852 1807,852 1807,792"
+                },
+                "text": "mechanisms"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1850,790 1850,850 1914,850 1914,790"
+                },
+                "text": "for"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "392,954 2211,954 2211,872 1995,861 1583,900 392,870"
+            },
+            "baseline": {
+              "points": "405,928 495,928 585,931 676,931 766,931 857,931 947,931 1038,931 1128,928 1219,928 1309,929 1399,931 1490,931 1580,932 1671,934 1761,931 1852,931 1942,931 2033,931 2123,933 2214,928"
+            },
+            "text": "endogenous rhythms, oscillating circuits and pacemaker neurons, but",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "392,889 392,949 668,949 668,889"
+                },
+                "text": "endogenous"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "712,891 712,951 930,951 930,891"
+                },
+                "text": "rhythms,"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "968,889 968,949 1207,949 1207,889"
+                },
+                "text": "oscillating"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "1255,889 1255,949 1425,949 1425,889"
+                },
+                "text": "circuits"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1469,891 1469,951 1543,951 1543,891"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1596,892 1596,952 1847,952 1847,892"
+                },
+                "text": "pacemaker"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1890,891 1890,951 2097,951 2097,891"
+                },
+                "text": "neurons,"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "2135,890 2135,950 2203,950 2203,890"
+                },
+                "text": "but"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "396,1039 1508,1041 1560,1075 1672,1034 2136,1045 2136,968 396,984"
+            },
+            "baseline": {
+              "points": "408,1026 494,1026 581,1029 668,1029 754,1029 841,1029 928,1029 1014,1027 1101,1029 1188,1029 1275,1029 1361,1029 1448,1029 1535,1029 1621,1032 1708,1029 1795,1032 1881,1032 1968,1029 2055,1029 2142,1035"
+            },
+            "text": "states that no rhythmic oscillatory circuits have been described in",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "397,986 397,1046 519,1046 519,986"
+                },
+                "text": "states"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "559,989 559,1049 653,1049 653,989"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "688,989 688,1049 738,1049 738,989"
+                },
+                "text": "no"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "778,989 778,1049 990,1049 990,989"
+                },
+                "text": "rhythmic"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1035,989 1035,1049 1270,1049 1270,989"
+                },
+                "text": "oscillatory"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1315,989 1315,1049 1489,1049 1489,989"
+                },
+                "text": "circuits"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1529,990 1529,1050 1629,1050 1629,990"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1680,989 1680,1049 1774,1049 1774,989"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1826,990 1826,1050 2043,1050 2043,990"
+                },
+                "text": "described"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "2089,992 2089,1052 2122,1052 2122,992"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "389,1148 1537,1139 1656,1180 1713,1143 2041,1148 2041,1086 1842,1100 1776,1061 389,1093"
+            },
+            "baseline": {
+              "points": "402,1125 484,1125 566,1128 648,1129 731,1130 813,1131 895,1131 977,1131 1060,1131 1142,1131 1224,1131 1306,1131 1389,1131 1471,1131 1553,1131 1635,1130 1718,1131 1800,1131 1882,1131 1964,1131 2047,1134"
+            },
+            "text": "invertebrates; therefore, the neural rhythm is probably set by",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "390,1087 390,1147 716,1147 716,1087"
+                },
+                "text": "invertebrates;"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "756,1091 756,1151 990,1151 990,1091"
+                },
+                "text": "therefore,"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "1031,1091 1031,1151 1093,1151 1093,1091"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "1140,1091 1140,1151 1288,1151 1288,1091"
+                },
+                "text": "neural"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "1323,1091 1323,1151 1471,1151 1471,1091"
+                },
+                "text": "rhythm"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1535,1091 1535,1151 1568,1151 1568,1091"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1615,1090 1615,1150 1815,1150 1815,1090"
+                },
+                "text": "probably"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1867,1091 1867,1151 1935,1151 1935,1091"
+                },
+                "text": "set"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1970,1092 1970,1152 2021,1152 2021,1092"
+                },
+                "text": "by"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "405,1250 2221,1255 2221,1182 2082,1171 1938,1198 1474,1157 1171,1173 1118,1214 1041,1177 405,1187"
+            },
+            "baseline": {
+              "points": "417,1232 507,1229 597,1229 688,1229 778,1229 869,1229 959,1229 1050,1226 1140,1232 1231,1230 1321,1232 1411,1229 1502,1229 1592,1229 1683,1229 1773,1229 1864,1229 1954,1230 2045,1232 2135,1232 2226,1232"
+            },
+            "text": "pacemaker neurons (1965). Most pacemakers have, when excited, an",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "405,1189 405,1249 648,1249 648,1189"
+                },
+                "text": "pacemaker"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "686,1189 686,1249 871,1249 871,1189"
+                },
+                "text": "neurons"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "909,1187 909,1247 1089,1247 1089,1187"
+                },
+                "text": "(1965)."
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "1153,1190 1153,1250 1269,1250 1269,1190"
+                },
+                "text": "Most"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1307,1189 1307,1249 1577,1249 1577,1189"
+                },
+                "text": "pacemakers"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1620,1189 1620,1249 1747,1249 1747,1189"
+                },
+                "text": "have,"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1785,1189 1785,1249 1895,1249 1895,1189"
+                },
+                "text": "when"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1943,1191 1943,1251 2129,1251 2129,1191"
+                },
+                "text": "excited,"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "2166,1192 2166,1252 2203,1252 2203,1192"
+                },
+                "text": "an"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "399,1364 806,1335 1587,1380 1649,1344 1735,1382 2029,1332 2152,1362 2152,1289 2057,1316 1988,1273 399,1273"
+            },
+            "baseline": {
+              "points": "411,1328 498,1325 585,1325 672,1328 760,1328 847,1330 934,1331 1022,1331 1109,1330 1196,1329 1284,1330 1371,1330 1458,1328 1545,1328 1633,1328 1720,1328 1807,1328 1895,1331 1982,1331 2069,1331 2157,1334"
+            },
+            "text": "inward current that gradually depolarizes the cell to threshold. At",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "400,1285 400,1345 552,1345 552,1285"
+                },
+                "text": "inward"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "593,1288 593,1348 762,1348 762,1288"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "797,1289 797,1349 887,1349 887,1289"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "922,1290 922,1350 1132,1350 1132,1290"
+                },
+                "text": "gradually"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1178,1290 1178,1350 1433,1350 1433,1290"
+                },
+                "text": "depolarizes"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1479,1288 1479,1348 1535,1348 1535,1288"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1582,1288 1582,1348 1672,1348 1672,1288"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1701,1288 1701,1348 1734,1348 1734,1288"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1781,1291 1781,1351 2018,1351 2018,1291"
+                },
+                "text": "threshold."
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "2087,1292 2087,1352 2143,1352 2143,1292"
+                },
+                "text": "At"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "396,1437 945,1437 1032,1474 1196,1437 1360,1485 1515,1446 2027,1458 2013,1371 1895,1401 1027,1369 952,1412 861,1369 396,1385"
+            },
+            "baseline": {
+              "points": "408,1426 489,1426 570,1426 651,1428 732,1428 814,1429 895,1429 976,1429 1057,1429 1138,1429 1220,1429 1301,1429 1382,1429 1463,1429 1544,1429 1626,1429 1707,1429 1788,1429 1869,1429 1950,1429 2032,1429"
+            },
+            "text": "threshold, the action potential is generated, followed by quick",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "397,1386 397,1446 634,1446 634,1386"
+                },
+                "text": "threshold,"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "669,1388 669,1448 731,1448 731,1388"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "777,1389 777,1449 907,1449 907,1389"
+                },
+                "text": "action"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "953,1389 953,1449 1162,1449 1162,1389"
+                },
+                "text": "potential"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1197,1389 1197,1449 1230,1449 1230,1389"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1271,1389 1271,1449 1514,1449 1514,1389"
+                },
+                "text": "generated,"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1549,1389 1549,1449 1741,1449 1741,1389"
+                },
+                "text": "followed"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1793,1389 1793,1449 1837,1449 1837,1389"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1883,1389 1883,1449 2002,1449 2002,1389"
+                },
+                "text": "quick"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "392,1553 2166,1562 2132,1458 1872,1487 1667,1453 1583,1501 392,1480"
+            },
+            "baseline": {
+              "points": "405,1525 493,1528 581,1528 669,1528 757,1531 846,1531 934,1531 1022,1531 1110,1531 1198,1531 1287,1531 1375,1531 1463,1529 1551,1531 1639,1531 1728,1531 1816,1531 1904,1531 1992,1531 2080,1531 2169,1531"
+            },
+            "text": "repolarization. The repolarization returns the cell to its initial state",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "393,1488 393,1548 738,1548 738,1488"
+                },
+                "text": "repolarization."
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "806,1491 806,1551 883,1551 883,1491"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "929,1491 929,1551 1247,1551 1247,1491"
+                },
+                "text": "repolarization"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "1287,1491 1287,1551 1448,1551 1448,1491"
+                },
+                "text": "returns"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "1487,1490 1487,1550 1548,1550 1548,1490"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1594,1491 1594,1551 1677,1551 1677,1491"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1711,1491 1711,1551 1744,1551 1744,1491"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1790,1491 1790,1551 1845,1551 1845,1491"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1885,1491 1885,1551 2023,1551 2023,1491"
+                },
+                "text": "initial"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "2058,1491 2058,1551 2152,1551 2152,1491"
+                },
+                "text": "state"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "387,1644 1205,1674 1649,1631 1904,1674 2150,1651 2148,1576 385,1594"
+            },
+            "baseline": {
+              "points": "399,1626 486,1626 574,1629 662,1626 750,1627 837,1629 925,1627 1013,1629 1101,1629 1188,1629 1276,1629 1364,1629 1452,1629 1539,1629 1627,1629 1715,1629 1803,1632 1890,1630 1978,1629 2066,1629 2154,1632"
+            },
+            "text": "in which the inward current causes the cycle to recur. Because the",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "385,1586 385,1646 417,1646 417,1586"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "460,1587 460,1647 593,1647 593,1587"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "637,1586 637,1646 695,1646 695,1586"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "744,1588 744,1648 893,1648 893,1588"
+                },
+                "text": "inward"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "937,1589 937,1649 1103,1649 1103,1589"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1135,1589 1135,1649 1280,1649 1280,1589"
+                },
+                "text": "causes"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1318,1589 1318,1649 1376,1649 1376,1589"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1419,1589 1419,1649 1531,1649 1531,1589"
+                },
+                "text": "cycle"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1575,1589 1575,1649 1612,1649 1612,1589"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1650,1589 1650,1649 1788,1649 1788,1589"
+                },
+                "text": "recur."
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1853,1589 1853,1649 2035,1649 2035,1589"
+                },
+                "text": "Because"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "2084,1590 2084,1650 2137,1650 2137,1590"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "396,1761 2193,1772 2193,1690 2002,1667 1540,1710 897,1658 783,1699 676,1658 396,1697"
+            },
+            "baseline": {
+              "points": "408,1728 497,1728 587,1728 676,1728 766,1728 855,1728 945,1728 1034,1728 1124,1728 1213,1728 1303,1728 1393,1728 1482,1728 1572,1728 1661,1728 1751,1728 1840,1728 1930,1728 2019,1728 2109,1731 2199,1728"
+            },
+            "text": "pulsing points that initiate bioluminescence can be located anywhere",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "396,1688 396,1748 560,1748 560,1688"
+                },
+                "text": "pulsing"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "608,1688 608,1748 746,1748 746,1688"
+                },
+                "text": "points"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "789,1688 789,1748 879,1748 879,1688"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "916,1688 916,1748 1075,1748 1075,1688"
+                },
+                "text": "initiate"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1124,1688 1124,1748 1505,1748 1505,1688"
+                },
+                "text": "bioluminescence"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1554,1688 1554,1748 1623,1748 1623,1688"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1671,1688 1671,1748 1713,1748 1713,1688"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1766,1688 1766,1748 1926,1748 1926,1688"
+                },
+                "text": "located"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1974,1690 1974,1750 2191,1750 2191,1690"
+                },
+                "text": "anywhere"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "396,1836 1207,1868 1865,1833 2161,1872 2161,1788 1858,1761 1747,1799 1095,1761 396,1795"
+            },
+            "baseline": {
+              "points": "408,1826 495,1823 583,1826 671,1826 759,1826 847,1826 935,1826 1023,1826 1111,1828 1199,1829 1287,1829 1374,1829 1462,1827 1550,1829 1638,1828 1726,1829 1814,1829 1902,1829 1990,1829 2078,1829 2166,1835"
+            },
+            "text": "on the dorsal surface of the animal and because several points may",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "397,1785 397,1845 435,1845 435,1785"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "486,1783 486,1843 546,1843 546,1783"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "586,1786 586,1846 730,1846 730,1786"
+                },
+                "text": "dorsal"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "770,1786 770,1846 926,1846 926,1786"
+                },
+                "text": "surface"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "971,1786 971,1846 1015,1846 1015,1786"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1054,1787 1054,1847 1116,1847 1116,1787"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1155,1789 1155,1849 1310,1849 1310,1789"
+                },
+                "text": "animal"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1344,1788 1344,1848 1416,1848 1416,1788"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1462,1788 1462,1848 1640,1848 1640,1788"
+                },
+                "text": "because"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1685,1789 1685,1849 1852,1849 1852,1789"
+                },
+                "text": "several"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1886,1789 1886,1849 2024,1849 2024,1789"
+                },
+                "text": "points"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "2064,1790 2064,1850 2147,1850 2147,1790"
+                },
+                "text": "may"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "396,1936 2164,1968 2164,1870 1075,1911 790,1865 471,1897 396,1858"
+            },
+            "baseline": {
+              "points": "408,1927 496,1927 584,1927 672,1927 760,1927 848,1927 936,1927 1024,1927 1112,1927 1200,1927 1288,1927 1376,1927 1464,1927 1552,1928 1640,1927 1728,1928 1816,1927 1904,1927 1992,1928 2080,1930 2169,1930"
+            },
+            "text": "be pulsing independently at the same time, the pacemaker neurons",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "396,1887 396,1947 439,1947 439,1887"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "489,1887 489,1947 652,1947 652,1887"
+                },
+                "text": "pulsing"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "702,1887 702,1947 1028,1947 1028,1887"
+                },
+                "text": "independently"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "1077,1887 1077,1947 1120,1947 1120,1887"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "1154,1887 1154,1947 1213,1947 1213,1887"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1263,1887 1263,1947 1371,1947 1371,1887"
+                },
+                "text": "same"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1416,1887 1416,1947 1540,1947 1540,1887"
+                },
+                "text": "time,"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1579,1887 1579,1947 1638,1947 1638,1887"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1688,1887 1688,1947 1944,1947 1944,1887"
+                },
+                "text": "pacemaker"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1983,1889 1983,1949 2161,1949 2161,1889"
+                },
+                "text": "neurons"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "387,2043 1934,2075 1934,1981 1193,1993 1002,1950 829,1995 387,1984"
+            },
+            "baseline": {
+              "points": "399,2026 476,2029 553,2029 630,2026 707,2029 784,2029 861,2026 938,2029 1015,2027 1092,2027 1169,2029 1246,2029 1323,2029 1400,2029 1477,2029 1554,2029 1631,2029 1708,2031 1785,2029 1862,2028 1939,2032"
+            },
+            "text": "are most likely diffusely spread throughout the nerve net.",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "388,1986 388,2046 446,2046 446,1986"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "493,1989 493,2049 610,2049 610,1989"
+                },
+                "text": "most"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "646,1989 646,2049 768,2049 768,1989"
+                },
+                "text": "likely"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "822,1988 822,2048 1021,2048 1021,1988"
+                },
+                "text": "diffusely"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1075,1988 1075,2048 1214,2048 1214,1988"
+                },
+                "text": "spread"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1256,1989 1256,2049 1520,2049 1520,1989"
+                },
+                "text": "throughout"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1556,1989 1556,2049 1620,2049 1620,1989"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1667,1990 1667,2050 1790,2050 1790,1990"
+                },
+                "text": "nerve"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1837,1988 1837,2048 1924,2048 1924,1988"
+                },
+                "text": "net."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "549,2145 1353,2180 2186,2145 2186,2093 1991,2068 1631,2102 549,2082"
+            },
+            "baseline": {
+              "points": "561,2127 642,2130 723,2130 805,2130 886,2130 968,2130 1049,2130 1131,2130 1212,2130 1294,2130 1375,2130 1456,2130 1538,2130 1619,2130 1701,2131 1782,2131 1864,2130 1945,2130 2027,2131 2108,2130 2190,2133"
+            },
+            "text": "The period of the pacemaker depends on the magnitude of the",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "550,2087 550,2147 623,2147 623,2087"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "669,2090 669,2150 811,2150 811,2090"
+                },
+                "text": "period"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "857,2090 857,2150 902,2150 902,2090"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "937,2090 937,2150 999,2150 999,2090"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1045,2090 1045,2150 1289,2150 1289,2090"
+                },
+                "text": "pacemaker"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1324,2090 1324,2150 1511,2150 1511,2090"
+                },
+                "text": "depends"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1552,2090 1552,2150 1597,2150 1597,2090"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1643,2090 1643,2150 1705,2150 1705,2090"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1751,2090 1751,2150 1989,2150 1989,2090"
+                },
+                "text": "magnitude"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "2030,2090 2030,2150 2075,2150 2075,2090"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "2109,2091 2109,2151 2171,2151 2171,2091"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "389,2234 2075,2266 2057,2180 389,2184"
+            },
+            "baseline": {
+              "points": "402,2229 485,2229 569,2229 653,2229 737,2229 821,2229 905,2229 989,2229 1073,2229 1157,2229 1241,2229 1324,2232 1408,2232 1492,2232 1576,2232 1660,2232 1744,2229 1828,2232 1912,2229 1996,2229 2080,2232"
+            },
+            "text": "inward current, the threshold voltage, and properties of the cell",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "389,2189 389,2249 542,2249 542,2189"
+                },
+                "text": "inward"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "586,2189 586,2249 771,2249 771,2189"
+                },
+                "text": "current,"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "810,2189 810,2249 870,2249 870,2189"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "914,2189 914,2249 1126,2249 1126,2189"
+                },
+                "text": "threshold"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "1171,2189 1171,2249 1362,2249 1362,2189"
+                },
+                "text": "voltage,"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1395,2192 1395,2252 1466,2252 1466,2192"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1516,2192 1516,2252 1750,2252 1750,2192"
+                },
+                "text": "properties"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1789,2191 1789,2251 1837,2251 1837,2191"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1876,2189 1876,2249 1936,2249 1936,2189"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1985,2190 1985,2250 2067,2250 2067,2190"
+                },
+                "text": "cell"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "387,2346 2214,2353 2214,2273 2050,2266 387,2305"
+            },
+            "baseline": {
+              "points": "399,2324 490,2327 581,2327 672,2330 763,2327 854,2330 945,2328 1036,2327 1127,2330 1218,2330 1309,2330 1400,2330 1491,2330 1582,2330 1673,2330 1764,2330 1855,2330 1946,2330 2037,2330 2128,2330 2220,2333"
+            },
+            "text": "membrane. A nerve cell with a constant current can be modeled as a",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "387,2287 387,2347 647,2347 647,2287"
+                },
+                "text": "membrane."
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "710,2288 710,2348 731,2348 731,2288"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "783,2289 783,2349 902,2349 902,2289"
+                },
+                "text": "nerve"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "945,2287 945,2347 1028,2347 1028,2287"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1065,2289 1065,2349 1153,2349 1153,2289"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1195,2290 1195,2350 1210,2350 1210,2290"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1252,2290 1252,2350 1445,2350 1445,2290"
+                },
+                "text": "constant"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1477,2290 1477,2350 1644,2350 1644,2290"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1681,2290 1681,2350 1748,2350 1748,2290"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1790,2290 1790,2350 1836,2350 1836,2290"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1879,2290 1879,2350 2066,2350 2066,2290"
+                },
+                "text": "modeled"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "2108,2290 2108,2350 2149,2350 2149,2290"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "2186,2292 2186,2352 2207,2352 2207,2292"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "399,2455 1269,2467 1366,2432 1583,2482 1779,2432 1893,2473 2038,2430 2127,2457 2129,2362 1405,2369 1339,2403 1232,2369 399,2385"
+            },
+            "baseline": {
+              "points": "411,2426 501,2429 591,2429 682,2429 772,2431 863,2430 953,2431 1044,2432 1134,2432 1225,2430 1315,2431 1406,2431 1496,2432 1587,2432 1677,2432 1768,2429 1858,2429 1949,2426 2039,2420 2130,2420"
+            },
+            "text": "simple RC circuit (Jack et al., 1983). The equation V = IR(I-etR",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "402,2388 402,2448 542,2448 542,2388"
+                },
+                "text": "simple"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "583,2389 583,2449 635,2449 635,2389"
+                },
+                "text": "RC"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "683,2390 683,2450 836,2450 836,2390"
+                },
+                "text": "circuit"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "864,2390 864,2450 978,2450 978,2390"
+                },
+                "text": "(Jack"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1019,2391 1019,2451 1058,2451 1058,2391"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1086,2392 1086,2452 1158,2452 1158,2392"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1186,2390 1186,2450 1326,2450 1326,2390"
+                },
+                "text": "1983)."
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1380,2391 1380,2451 1460,2451 1460,2391"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1494,2392 1494,2452 1682,2452 1682,2392"
+                },
+                "text": "equation"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1723,2390 1723,2450 1742,2450 1742,2390"
+                },
+                "text": "V"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1790,2389 1790,2449 1802,2449 1802,2389"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1850,2385 1850,2445 2070,2445 2070,2385"
+                },
+                "text": "IR(I-etR"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "387,2537 453,2571 763,2533 888,2578 993,2539 1136,2578 2127,2562 2127,2487 1954,2469 1852,2514 1733,2469 387,2496"
+            },
+            "baseline": {
+              "points": "399,2527 485,2530 572,2527 659,2530 745,2530 832,2530 919,2530 1005,2530 1092,2531 1179,2531 1266,2530 1352,2532 1439,2530 1526,2530 1612,2533 1699,2533 1786,2530 1872,2533 1959,2533 2046,2530 2133,2533"
+            },
+            "text": "describes the voltage during the charging of a capacitor. The time",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "388,2489 388,2549 598,2549 598,2489"
+                },
+                "text": "describes"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "633,2490 633,2550 696,2550 696,2490"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "742,2490 742,2550 901,2550 901,2490"
+                },
+                "text": "voltage"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "947,2490 947,2550 1089,2550 1089,2490"
+                },
+                "text": "during"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "1130,2491 1130,2551 1187,2551 1187,2491"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1227,2491 1227,2551 1421,2551 1421,2491"
+                },
+                "text": "charging"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1468,2490 1468,2550 1513,2550 1513,2490"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1548,2491 1548,2551 1564,2551 1564,2491"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1605,2492 1605,2552 1838,2552 1838,2492"
+                },
+                "text": "capacitor."
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1902,2493 1902,2553 1975,2553 1975,2493"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "2022,2490 2022,2550 2112,2550 2112,2490"
+                },
+                "text": "time"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "387,2640 2027,2662 2027,2580 1956,2560 1802,2603 1084,2562 387,2596"
+            },
+            "baseline": {
+              "points": "399,2626 480,2629 562,2629 643,2628 725,2629 807,2629 888,2629 970,2629 1052,2629 1133,2629 1215,2629 1297,2629 1378,2626 1460,2626 1542,2626 1623,2629 1705,2629 1787,2629 1868,2629 1950,2629 2032,2632"
+            },
+            "text": "required to reach threshold is therefore t =-RC*In(1 - Vth/IR).",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "388,2588 388,2648 568,2648 568,2588"
+                },
+                "text": "required"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "610,2588 610,2648 644,2648 644,2588"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "686,2589 686,2649 802,2649 802,2589"
+                },
+                "text": "reach"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "843,2589 843,2649 1054,2649 1054,2589"
+                },
+                "text": "threshold"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "1095,2589 1095,2649 1130,2649 1130,2589"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "1165,2589 1165,2649 1363,2649 1363,2589"
+                },
+                "text": "therefore"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1399,2586 1399,2646 1421,2646 1421,2586"
+                },
+                "text": "t"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1451,2587 1451,2647 1731,2647 1731,2587"
+                },
+                "text": "=-RC*In(1"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1767,2589 1767,2649 1778,2649 1778,2589"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1820,2589 1820,2649 2029,2649 2029,2589"
+                },
+                "text": "Vth/IR)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "387,2756 1205,2769 1369,2733 1676,2785 2061,2751 2125,2788 2209,2758 2209,2685 2034,2660 1965,2694 793,2699 387,2667"
+            },
+            "baseline": {
+              "points": "399,2727 489,2730 580,2730 671,2730 762,2733 852,2730 943,2730 1034,2730 1125,2730 1215,2732 1306,2730 1397,2731 1488,2733 1578,2730 1669,2733 1760,2733 1851,2733 1941,2733 2032,2733 2123,2733 2214,2730"
+            },
+            "text": "Increasing the threshold voltage will therefore increase the period as",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "387,2690 387,2750 622,2750 622,2690"
+                },
+                "text": "Increasing"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "671,2690 671,2750 731,2750 731,2690"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "781,2690 781,2750 993,2750 993,2690"
+                },
+                "text": "threshold"
+              },
+              {
+                "id": "tr_1_tl_25_w4",
+                "coords": {
+                  "points": "1043,2690 1043,2750 1201,2750 1201,2690"
+                },
+                "text": "voltage"
+              },
+              {
+                "id": "tr_1_tl_25_w5",
+                "coords": {
+                  "points": "1251,2690 1251,2750 1343,2750 1343,2690"
+                },
+                "text": "will"
+              },
+              {
+                "id": "tr_1_tl_25_w6",
+                "coords": {
+                  "points": "1376,2692 1376,2752 1583,2752 1583,2692"
+                },
+                "text": "therefore"
+              },
+              {
+                "id": "tr_1_tl_25_w7",
+                "coords": {
+                  "points": "1634,2693 1634,2753 1819,2753 1819,2693"
+                },
+                "text": "increase"
+              },
+              {
+                "id": "tr_1_tl_25_w8",
+                "coords": {
+                  "points": "1863,2693 1863,2753 1928,2753 1928,2693"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_25_w9",
+                "coords": {
+                  "points": "1972,2693 1972,2753 2113,2753 2113,2693"
+                },
+                "text": "period"
+              },
+              {
+                "id": "tr_1_tl_25_w10",
+                "coords": {
+                  "points": "2158,2691 2158,2751 2201,2751 2201,2691"
+                },
+                "text": "as"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_26",
+            "coords": {
+              "points": "380,2831 683,2874 1107,2842 1255,2890 1583,2835 1681,2881 1790,2854 1790,2794 1745,2779 1335,2760 1196,2801 1095,2765 380,2799"
+            },
+            "baseline": {
+              "points": "393,2829 463,2831 533,2832 603,2832 673,2833 743,2833 813,2832 883,2832 953,2832 1023,2832 1093,2832 1163,2832 1233,2832 1303,2832 1373,2832 1443,2832 1513,2832 1583,2832 1653,2832 1723,2834 1793,2838"
+            },
+            "text": "it takes longer for the cell to reach threshold voltage.",
+            "words": [
+              {
+                "id": "tr_1_tl_26_w1",
+                "coords": {
+                  "points": "381,2789 381,2849 409,2849 409,2789"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_26_w2",
+                "coords": {
+                  "points": "444,2791 444,2851 558,2851 558,2791"
+                },
+                "text": "takes"
+              },
+              {
+                "id": "tr_1_tl_26_w3",
+                "coords": {
+                  "points": "600,2793 600,2853 749,2853 749,2793"
+                },
+                "text": "longer"
+              },
+              {
+                "id": "tr_1_tl_26_w4",
+                "coords": {
+                  "points": "785,2792 785,2852 853,2852 853,2792"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_26_w5",
+                "coords": {
+                  "points": "888,2792 888,2852 951,2852 951,2792"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_26_w6",
+                "coords": {
+                  "points": "992,2792 992,2852 1078,2852 1078,2792"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_26_w7",
+                "coords": {
+                  "points": "1107,2792 1107,2852 1141,2852 1141,2792"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_26_w8",
+                "coords": {
+                  "points": "1182,2792 1182,2852 1297,2852 1297,2792"
+                },
+                "text": "reach"
+              },
+              {
+                "id": "tr_1_tl_26_w9",
+                "coords": {
+                  "points": "1343,2792 1343,2852 1550,2852 1550,2792"
+                },
+                "text": "threshold"
+              },
+              {
+                "id": "tr_1_tl_26_w10",
+                "coords": {
+                  "points": "1598,2793 1598,2853 1787,2853 1787,2793"
+                },
+                "text": "voltage."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_27",
+            "coords": {
+              "points": "1228,3043 1246,3036 1278,3056 1287,3059 1291,3054 1303,3066 1314,3066 1314,2965 1264,2963 1259,2968 1225,2968"
+            },
+            "baseline": {
+              "points": "1241,3032 1268,3032 1295,3033 1322,3035"
+            },
+            "text": "11",
+            "words": [
+              {
+                "id": "tr_1_tl_27_w1",
+                "coords": {
+                  "points": "1233,2992 1233,3052 1305,3052 1305,2992"
+                },
+                "text": "11"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

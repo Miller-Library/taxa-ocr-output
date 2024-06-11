@@ -1,0 +1,2175 @@
+{
+  "processId": 10342192,
+  "status": "FINISHED",
+  "content": {
+    "text": "ABSTRACT\nThermal adaptation at the biochemical level has been demonstrated in previous\nstudies of bony fishes and other vertebrates. One criterion that has been used to\nassess the possible presence of thermal adaptation is the Michaelis-Menten constant,\nor KK values have been shown to be conserved among teleosts and some other\nvertebrates within their physiological temperature ranges. One possible mechanism\nby which homologous proteins may conserve K at extreme temperatures is by\nchanges in primary structure. The relationship between temperature adaptation and\nchanges in primary structure has been explored in teleost fishes, but has yet to be\nstudied in elasmobranchs. In this study, the variation of pyruvate Kp with\ntemperature and the deduced amino acid sequences of four elasmobranch Aj-LDH\northologs were compared. Both the subtropical and the cold temperate species of\nsharks were found to display conservation of pyruvate Kp over physiological\ntemperature ranges, while the subtropical and the Antarctic species of rays did not.\nThe deduced amino acid sequences of the shark enzymes exhibited different regions\nof variability than the LDH's of teleosts previously studied, while the sequences of\nthe ray enzymes exhibited similar regions of variability to those of teleost orthologs.\nIt was concluded that there may a limited number of sites at which temperature\nadaptation in AA-LDH occurs, and that even closely related organisms do not\nnecessarily use the same sequence changes to adapt to temperature.\nINTRODUCTION\nLife occurs at a wide range of temperatures, from below zero to above 100 degrees\nCelsius. Because life processes including development, mitosis, and membrane\nfunction are affected by the thermal environment in which they occur, organisms",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "280,272 280,2961 2247,2961 2247,272"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "272,338 319,336 343,356 392,334 488,334 552,356 584,351 584,272 525,275 486,253 441,272 424,262 410,272 383,260 338,265 289,235 272,238"
+            },
+            "baseline": {
+              "points": "286,325 311,325 336,325 362,325 387,325 412,325 438,325 463,325 488,325 514,325 539,325 564,325 590,325"
+            },
+            "text": "ABSTRACT",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "275,285 275,345 564,345 564,285"
+                },
+                "text": "ABSTRACT"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "282,547 1494,571 1575,535 2156,584 2156,427 2121,417 1960,486 1614,490 1528,451 1464,483 1381,446 1145,486 903,429 760,493 282,449"
+            },
+            "baseline": {
+              "points": "295,525 388,522 481,525 575,525 668,525 762,523 855,523 948,525 1042,523 1135,524 1229,522 1322,525 1415,525 1509,522 1602,525 1696,522 1789,525 1882,522 1976,523 2069,525 2163,525"
+            },
+            "text": "Thermal adaptation at the biochemical level has been demonstrated in previous",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "282,482 282,542 472,542 472,482"
+                },
+                "text": "Thermal"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "493,485 493,545 725,545 725,485"
+                },
+                "text": "adaptation"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "761,483 761,543 797,543 797,483"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "818,483 818,543 879,543 879,483"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "911,483 911,543 1184,543 1184,483"
+                },
+                "text": "biochemical"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1200,482 1200,542 1308,542 1308,482"
+                },
+                "text": "level"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1329,485 1329,545 1395,545 1395,485"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1422,483 1422,543 1514,543 1514,483"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1551,482 1551,542 1855,542 1855,482"
+                },
+                "text": "demonstrated"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1886,482 1886,542 1917,542 1917,482"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1953,484 1953,544 2144,544 2144,484"
+                },
+                "text": "previous"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "267,657 1138,645 1207,682 1700,640 2136,677 2136,584 2072,567 267,579"
+            },
+            "baseline": {
+              "points": "280,626 373,623 466,623 559,623 652,623 745,623 838,624 931,623 1024,623 1117,620 1211,623 1304,623 1397,623 1490,623 1583,623 1676,624 1769,626 1862,623 1955,623 2048,624 2142,626"
+            },
+            "text": "studies of bony fishes and other vertebrates. One criterion that has been used to",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "267,583 267,643 418,643 418,583"
+                },
+                "text": "studies"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "444,583 444,643 486,643 486,583"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "507,583 507,643 606,643 606,583"
+                },
+                "text": "bony"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "638,583 638,643 758,643 758,583"
+                },
+                "text": "fishes"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "790,583 790,643 857,643 857,583"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "889,583 889,643 1004,643 1004,583"
+                },
+                "text": "other"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1030,581 1030,641 1297,641 1297,581"
+                },
+                "text": "vertebrates."
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1313,583 1313,643 1396,643 1396,583"
+                },
+                "text": "One"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1428,583 1428,643 1606,643 1606,583"
+                },
+                "text": "criterion"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1638,584 1638,644 1726,644 1726,584"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1747,585 1747,645 1815,645 1815,585"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1836,583 1836,643 1930,643 1930,583"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1967,583 1967,643 2055,643 2055,583"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "2093,585 2093,645 2118,645 2118,585"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "272,758 2244,750 2242,674 2161,660 2092,694 1854,660 272,687"
+            },
+            "baseline": {
+              "points": "286,725 384,723 482,725 580,725 678,725 776,722 874,725 972,725 1070,725 1168,728 1266,728 1364,728 1462,725 1560,725 1658,727 1756,725 1854,725 1952,725 2050,726 2148,728 2247,734"
+            },
+            "text": "assess the possible presence of thermal adaptation is the Michaelis-Menten constant,",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "272,683 272,743 399,743 399,683"
+                },
+                "text": "assess"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "426,684 426,744 484,744 484,684"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "516,685 516,745 686,745 686,685"
+                },
+                "text": "possible"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "718,683 718,743 903,743 903,683"
+                },
+                "text": "presence"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "936,685 936,745 978,745 978,685"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1000,685 1000,745 1174,745 1174,685"
+                },
+                "text": "thermal"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1196,688 1196,748 1429,748 1429,688"
+                },
+                "text": "adaptation"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1462,685 1462,745 1487,745 1487,685"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1515,685 1515,745 1572,745 1572,685"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1605,685 1605,745 1997,745 1997,685"
+                },
+                "text": "Michaelis-Menten"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "2035,687 2035,747 2242,747 2242,687"
+                },
+                "text": "constant,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "272,868 682,834 836,871 1013,829 1126,876 1560,834 1604,868 2161,868 2234,829 2234,780 2104,753 1879,785 1768,753 272,758"
+            },
+            "baseline": {
+              "points": "286,814 383,817 481,817 579,814 677,814 774,812 872,811 970,813 1068,811 1165,814 1263,814 1361,814 1459,814 1556,814 1654,814 1752,814 1850,814 1947,814 2045,814 2143,814 2241,811"
+            },
+            "text": "or KK values have been shown to be conserved among teleosts and some other",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "272,774 272,834 315,834 315,774"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "337,777 337,837 451,837 451,777"
+                },
+                "text": "KK"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "522,774 522,834 657,834 657,774"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "685,772 685,832 782,832 782,772"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "810,771 810,831 901,831 901,771"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "935,772 935,832 1075,832 1075,772"
+                },
+                "text": "shown"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1108,772 1108,832 1135,832 1135,772"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1168,774 1168,834 1211,834 1211,774"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1239,774 1239,834 1455,834 1455,774"
+                },
+                "text": "conserved"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1488,774 1488,834 1634,834 1634,774"
+                },
+                "text": "among"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1678,774 1678,834 1846,834 1846,774"
+                },
+                "text": "teleosts"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1874,774 1874,834 1938,834 1938,774"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1977,774 1977,834 2085,834 2085,774"
+                },
+                "text": "some"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "2113,773 2113,833 2226,833 2226,773"
+                },
+                "text": "other"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "275,934 2234,959 2234,885 2146,861 275,885"
+            },
+            "baseline": {
+              "points": "289,922 386,922 483,924 581,922 678,925 776,925 873,928 971,926 1068,926 1166,927 1263,925 1360,925 1458,925 1555,927 1653,928 1750,926 1848,928 1945,928 2043,928 2140,925 2238,928"
+            },
+            "text": "vertebrates within their physiological temperature ranges. One possible mechanism",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "275,882 275,942 519,942 519,882"
+                },
+                "text": "vertebrates"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "553,883 553,943 682,943 682,883"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "715,885 715,945 818,945 818,885"
+                },
+                "text": "their"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "846,886 846,946 1145,946 1145,886"
+                },
+                "text": "physiological"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1167,885 1167,945 1438,945 1438,885"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1471,886 1471,946 1633,946 1633,886"
+                },
+                "text": "ranges."
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1656,887 1656,947 1737,947 1737,887"
+                },
+                "text": "One"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1770,888 1770,948 1943,948 1943,888"
+                },
+                "text": "possible"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1972,886 1972,946 2204,946 2204,886"
+                },
+                "text": "mechanism"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "270,1067 638,1030 959,1069 1207,1030 1550,1079 1633,1035 2126,1047 2126,976 1964,954 1680,986 1469,952 270,961"
+            },
+            "baseline": {
+              "points": "283,1011 375,1011 468,1014 560,1014 653,1014 745,1014 838,1016 930,1014 1023,1014 1115,1014 1208,1014 1300,1014 1393,1016 1485,1017 1578,1017 1670,1014 1763,1014 1855,1014 1948,1013 2040,1012 2133,1011"
+            },
+            "text": "by which homologous proteins may conserve K at extreme temperatures is by",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "276,971 276,1031 313,1031 313,971"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "346,972 346,1032 471,1032 471,972"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "504,974 504,1034 780,1034 780,974"
+                },
+                "text": "homologous"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "808,974 808,1034 987,1034 987,974"
+                },
+                "text": "proteins"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1015,974 1015,1034 1101,1034 1101,974"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1135,974 1135,1034 1324,1034 1324,974"
+                },
+                "text": "conserve"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1357,975 1357,1035 1373,1035 1373,975"
+                },
+                "text": "K"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1444,976 1444,1036 1482,1036 1482,976"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1499,976 1499,1036 1672,1036 1672,976"
+                },
+                "text": "extreme"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1700,974 1700,1034 1993,1034 1993,974"
+                },
+                "text": "temperatures"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "2015,972 2015,1032 2042,1032 2042,972"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "2070,971 2070,1031 2112,1031 2112,971"
+                },
+                "text": "by"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "272,1158 2244,1160 2244,1079 1871,1099 1633,1042 1550,1099 1300,1057 826,1099 272,1069"
+            },
+            "baseline": {
+              "points": "286,1128 384,1127 482,1126 580,1128 678,1128 776,1128 874,1128 972,1128 1070,1128 1168,1128 1266,1128 1364,1128 1462,1128 1560,1128 1658,1128 1756,1128 1854,1128 1952,1129 2050,1130 2148,1128 2247,1128"
+            },
+            "text": "changes in primary structure. The relationship between temperature adaptation and",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "272,1087 272,1147 452,1147 452,1087"
+                },
+                "text": "changes"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "474,1086 474,1146 505,1146 505,1086"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "537,1088 537,1148 712,1148 712,1088"
+                },
+                "text": "primary"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "744,1088 744,1148 962,1148 962,1088"
+                },
+                "text": "structure."
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "984,1088 984,1148 1057,1148 1057,1088"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1084,1088 1084,1148 1344,1148 1344,1088"
+                },
+                "text": "relationship"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1382,1088 1382,1148 1557,1148 1557,1088"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1589,1088 1589,1148 1865,1148 1865,1088"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1892,1089 1892,1149 2125,1149 2125,1089"
+                },
+                "text": "adaptation"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "2157,1088 2157,1148 2231,1148 2231,1088"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "272,1251 1864,1246 2026,1283 2161,1253 2161,1197 2070,1158 1339,1197 755,1150 272,1194"
+            },
+            "baseline": {
+              "points": "286,1226 380,1229 474,1227 568,1229 662,1229 756,1229 850,1229 944,1228 1038,1229 1132,1226 1226,1229 1320,1229 1414,1229 1508,1229 1602,1229 1696,1229 1790,1229 1884,1229 1978,1229 2072,1226 2166,1229"
+            },
+            "text": "changes in primary structure has been explored in teleost fishes, but has yet to be",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "272,1188 272,1248 447,1248 447,1188"
+                },
+                "text": "changes"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "474,1187 474,1247 500,1247 500,1187"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "533,1189 533,1249 703,1249 703,1189"
+                },
+                "text": "primary"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "736,1189 736,1249 933,1249 933,1189"
+                },
+                "text": "structure"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "960,1188 960,1248 1023,1248 1023,1188"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1050,1187 1050,1247 1145,1247 1145,1187"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1178,1189 1178,1249 1359,1249 1359,1189"
+                },
+                "text": "explored"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1397,1189 1397,1249 1423,1249 1423,1189"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1455,1189 1455,1249 1599,1249 1599,1189"
+                },
+                "text": "teleost"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1621,1189 1621,1249 1759,1249 1759,1189"
+                },
+                "text": "fishes,"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1781,1189 1781,1249 1849,1249 1849,1189"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1872,1189 1872,1249 1940,1249 1940,1189"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1962,1188 1962,1248 2031,1248 2031,1188"
+                },
+                "text": "yet"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "2053,1186 2053,1246 2079,1246 2079,1186"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "2111,1187 2111,1247 2153,1247 2153,1187"
+                },
+                "text": "be"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "270,1349 1908,1364 2026,1332 2001,1263 270,1285"
+            },
+            "baseline": {
+              "points": "283,1319 370,1319 457,1319 545,1319 632,1321 720,1319 807,1321 895,1322 982,1322 1070,1322 1157,1322 1244,1322 1332,1322 1419,1322 1507,1322 1594,1321 1682,1322 1769,1322 1857,1322 1944,1322 2032,1322"
+            },
+            "text": "studied in elasmobranchs. In this study, the variation of pyruvate Kp with",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "270,1279 270,1339 423,1339 423,1279"
+                },
+                "text": "studied"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "462,1279 462,1339 489,1339 489,1279"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "522,1279 522,1339 878,1339 878,1279"
+                },
+                "text": "elasmobranchs."
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "895,1282 895,1342 927,1342 927,1282"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "961,1282 961,1342 1037,1342 1037,1282"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1060,1282 1060,1342 1207,1342 1207,1282"
+                },
+                "text": "study,"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1224,1282 1224,1342 1283,1342 1283,1282"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1317,1282 1317,1342 1503,1342 1503,1282"
+                },
+                "text": "variation"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1542,1281 1542,1341 1580,1341 1580,1281"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1602,1282 1602,1342 1799,1342 1799,1282"
+                },
+                "text": "pyruvate"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1832,1282 1832,1342 1881,1342 1881,1282"
+                },
+                "text": "Kp"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1920,1282 1920,1342 2007,1342 2007,1282"
+                },
+                "text": "with"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "272,1457 866,1476 1077,1437 1359,1481 1506,1432 1636,1464 1842,1432 2016,1491 2200,1437 2185,1366 1687,1391 1506,1346 1140,1400 272,1354"
+            },
+            "baseline": {
+              "points": "286,1420 387,1417 488,1420 589,1420 690,1420 791,1420 892,1420 993,1420 1094,1420 1195,1420 1296,1420 1397,1420 1498,1420 1599,1420 1700,1420 1801,1420 1902,1420 2003,1421 2104,1421 2205,1417"
+            },
+            "text": "temperature and the deduced amino acid sequences of four elasmobranch Aj-LDH",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "272,1377 272,1437 542,1437 542,1377"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "574,1380 574,1440 642,1440 642,1380"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "675,1380 675,1440 738,1440 738,1380"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "766,1380 766,1440 945,1440 945,1380"
+                },
+                "text": "deduced"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "983,1380 983,1440 1110,1440 1110,1380"
+                },
+                "text": "amino"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1142,1380 1142,1440 1221,1440 1221,1380"
+                },
+                "text": "acid"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1254,1380 1254,1440 1476,1440 1476,1380"
+                },
+                "text": "sequences"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1503,1380 1503,1440 1545,1440 1545,1380"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1567,1380 1567,1440 1651,1440 1651,1380"
+                },
+                "text": "four"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1678,1380 1678,1440 1980,1440 1980,1380"
+                },
+                "text": "elasmobranch"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "2013,1381 2013,1441 2171,1441 2171,1381"
+                },
+                "text": "Aj-LDH"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "275,1555 2153,1555 2153,1486 1979,1472 275,1496"
+            },
+            "baseline": {
+              "points": "289,1531 382,1527 476,1525 569,1528 663,1528 756,1531 850,1529 943,1531 1037,1531 1130,1531 1224,1528 1318,1531 1411,1531 1505,1528 1598,1531 1692,1531 1785,1531 1879,1531 1972,1531 2066,1528 2160,1528"
+            },
+            "text": "orthologs were compared. Both the subtropical and the cold temperate species of",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "275,1487 275,1547 481,1547 481,1487"
+                },
+                "text": "orthologs"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "508,1487 508,1547 608,1547 608,1487"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "641,1490 641,1550 878,1550 878,1490"
+                },
+                "text": "compared."
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "895,1490 895,1550 984,1550 984,1490"
+                },
+                "text": "Both"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1017,1491 1017,1551 1080,1551 1080,1491"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1107,1488 1107,1548 1361,1548 1361,1488"
+                },
+                "text": "subtropical"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1378,1490 1378,1550 1446,1550 1446,1490"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1484,1488 1484,1548 1541,1548 1541,1488"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1568,1491 1568,1551 1647,1551 1647,1491"
+                },
+                "text": "cold"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1680,1491 1680,1551 1902,1551 1902,1491"
+                },
+                "text": "temperate"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1929,1489 1929,1549 2082,1549 2082,1489"
+                },
+                "text": "species"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "2109,1488 2109,1548 2145,1548 2145,1488"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "275,1643 697,1682 829,1646 939,1685 1104,1631 1506,1673 1562,1633 1783,1682 2090,1648 2090,1577 1832,1565 275,1575"
+            },
+            "baseline": {
+              "points": "289,1623 379,1620 469,1620 559,1620 650,1623 740,1623 830,1623 921,1623 1011,1623 1101,1623 1192,1623 1282,1623 1372,1623 1462,1623 1553,1623 1643,1625 1733,1624 1824,1623 1914,1623 2004,1623 2095,1623"
+            },
+            "text": "sharks were found to display conservation of pyruvate Kp over physiological",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "275,1581 275,1641 411,1641 411,1581"
+                },
+                "text": "sharks"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "439,1580 439,1640 542,1640 542,1580"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "570,1582 570,1642 689,1642 689,1582"
+                },
+                "text": "found"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "723,1583 723,1643 755,1643 755,1583"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "788,1583 788,1643 941,1643 941,1583"
+                },
+                "text": "display"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "974,1583 974,1643 1252,1643 1252,1583"
+                },
+                "text": "conservation"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1286,1583 1286,1643 1323,1643 1323,1583"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1346,1583 1346,1643 1541,1643 1541,1583"
+                },
+                "text": "pyruvate"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1569,1583 1569,1643 1623,1643 1623,1583"
+                },
+                "text": "Kp"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1662,1584 1662,1644 1754,1644 1754,1584"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1782,1583 1782,1643 2087,1643 2087,1583"
+                },
+                "text": "physiological"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "280,1781 608,1746 763,1790 922,1751 1015,1795 1246,1744 1469,1785 1660,1739 1756,1788 1896,1756 1969,1788 2195,1754 2195,1687 2060,1658 974,1702 890,1665 363,1697 280,1651"
+            },
+            "baseline": {
+              "points": "292,1728 387,1731 483,1731 578,1729 674,1728 769,1730 865,1731 960,1731 1056,1731 1151,1731 1247,1731 1342,1731 1438,1733 1533,1731 1629,1731 1724,1731 1820,1731 1915,1731 2011,1731 2106,1731 2202,1731"
+            },
+            "text": "temperature ranges, while the subtropical and the Antarctic species of rays did not.",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "280,1691 280,1751 552,1751 552,1691"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "578,1688 578,1748 738,1748 738,1688"
+                },
+                "text": "ranges,"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "759,1690 759,1750 872,1750 872,1690"
+                },
+                "text": "while"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "898,1691 898,1751 960,1751 960,1691"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "987,1691 987,1751 1239,1751 1239,1691"
+                },
+                "text": "subtropical"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1260,1691 1260,1751 1326,1751 1326,1691"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1358,1691 1358,1751 1419,1751 1419,1691"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1446,1691 1446,1751 1646,1751 1646,1691"
+                },
+                "text": "Antarctic"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1673,1691 1673,1751 1821,1751 1821,1691"
+                },
+                "text": "species"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1848,1691 1848,1751 1889,1751 1889,1691"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1910,1691 1910,1751 1992,1751 1992,1691"
+                },
+                "text": "rays"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "2024,1691 2024,1751 2080,1751 2080,1691"
+                },
+                "text": "did"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "2111,1691 2111,1751 2198,1751 2198,1691"
+                },
+                "text": "not."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "280,1871 2229,1864 2229,1795 2114,1766 2009,1803 1653,1766 1403,1800 1324,1758 1133,1800 907,1761 836,1795 280,1781"
+            },
+            "baseline": {
+              "points": "292,1829 389,1829 486,1829 583,1829 680,1829 777,1829 874,1829 972,1829 1069,1829 1166,1830 1263,1831 1360,1832 1457,1832 1554,1831 1652,1829 1749,1829 1846,1829 1943,1829 2040,1829 2137,1832 2235,1829"
+            },
+            "text": "The deduced amino acid sequences of the shark enzymes exhibited different regions",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "280,1789 280,1849 353,1849 353,1789"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "380,1789 380,1849 565,1849 565,1789"
+                },
+                "text": "deduced"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "597,1789 597,1849 724,1849 724,1789"
+                },
+                "text": "amino"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "756,1789 756,1849 835,1849 835,1789"
+                },
+                "text": "acid"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "867,1789 867,1849 1089,1849 1089,1789"
+                },
+                "text": "sequences"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1116,1789 1116,1849 1158,1849 1158,1789"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1174,1790 1174,1850 1237,1850 1237,1790"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1264,1791 1264,1851 1375,1851 1375,1791"
+                },
+                "text": "shark"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1407,1791 1407,1851 1597,1851 1597,1791"
+                },
+                "text": "enzymes"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1624,1789 1624,1849 1819,1849 1819,1789"
+                },
+                "text": "exhibited"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1852,1789 1852,1849 2047,1849 2047,1789"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "2069,1791 2069,1851 2227,1851 2227,1791"
+                },
+                "text": "regions"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "272,1964 2195,1952 2195,1866 2146,1898 1729,1854 1663,1898 272,1866"
+            },
+            "baseline": {
+              "points": "286,1928 381,1928 477,1928 573,1928 669,1928 765,1928 860,1931 956,1931 1052,1928 1148,1931 1244,1930 1339,1931 1435,1931 1531,1931 1627,1928 1723,1931 1818,1931 1914,1931 2010,1929 2106,1928 2202,1928"
+            },
+            "text": "of variability than the LDH's of teleosts previously studied, while the sequences of",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "278,1888 278,1948 315,1948 315,1888"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "337,1888 337,1948 559,1948 559,1888"
+                },
+                "text": "variability"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "587,1888 587,1948 673,1948 673,1888"
+                },
+                "text": "than"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "706,1888 706,1948 765,1948 765,1888"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "793,1891 793,1951 933,1951 933,1891"
+                },
+                "text": "LDH's"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "961,1890 961,1950 1004,1950 1004,1890"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1021,1889 1021,1949 1183,1949 1183,1889"
+                },
+                "text": "teleosts"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1211,1890 1211,1950 1438,1950 1438,1890"
+                },
+                "text": "previously"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1466,1890 1466,1950 1650,1950 1650,1890"
+                },
+                "text": "studied,"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1672,1891 1672,1951 1786,1951 1786,1891"
+                },
+                "text": "while"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1813,1891 1813,1951 1872,1951 1872,1891"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1900,1888 1900,1948 2122,1948 2122,1888"
+                },
+                "text": "sequences"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "2150,1888 2150,1948 2187,1948 2187,1888"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "272,2060 665,2045 851,2099 1077,2040 1153,2075 1415,2043 1525,2092 1579,2043 1682,2080 1933,2043 2232,2075 2232,1987 2107,1962 1771,1999 1351,1955 1187,1994 272,1982"
+            },
+            "baseline": {
+              "points": "286,2029 383,2029 480,2029 578,2029 675,2029 773,2029 870,2032 968,2030 1065,2032 1163,2033 1260,2032 1357,2032 1455,2029 1552,2030 1650,2032 1747,2032 1845,2032 1942,2029 2040,2032 2137,2032 2235,2032"
+            },
+            "text": "the ray enzymes exhibited similar regions of variability to those of teleost orthologs.",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "278,1989 278,2049 331,2049 331,1989"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "365,1989 365,2049 424,2049 424,1989"
+                },
+                "text": "ray"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "451,1989 451,2049 647,2049 647,1989"
+                },
+                "text": "enzymes"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "675,1989 675,2049 870,2049 870,1989"
+                },
+                "text": "exhibited"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "903,1990 903,2050 1054,2050 1054,1990"
+                },
+                "text": "similar"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1077,1992 1077,2052 1234,2052 1234,1992"
+                },
+                "text": "regions"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1262,1992 1262,2052 1305,2052 1305,1992"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1327,1989 1327,2049 1544,2049 1544,1989"
+                },
+                "text": "variability"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1577,1990 1577,2050 1604,2050 1604,1990"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1637,1992 1637,2052 1746,2052 1746,1992"
+                },
+                "text": "those"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1779,1992 1779,2052 1822,2052 1822,1992"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1839,1989 1839,2049 1985,2049 1985,1989"
+                },
+                "text": "teleost"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "2002,1992 2002,2052 2235,2052 2235,1992"
+                },
+                "text": "orthologs."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "272,2143 581,2175 650,2141 1047,2173 2136,2141 2136,2094 2082,2080 851,2099 704,2053 647,2092 272,2085"
+            },
+            "baseline": {
+              "points": "286,2127 378,2127 471,2130 564,2130 657,2130 750,2130 842,2130 935,2131 1028,2131 1121,2131 1214,2130 1306,2130 1399,2130 1492,2130 1585,2133 1678,2130 1770,2130 1863,2130 1956,2131 2049,2132 2142,2130"
+            },
+            "text": "It was concluded that there may a limited number of sites at which temperature",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "272,2087 272,2147 302,2147 302,2087"
+                },
+                "text": "It"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "324,2087 324,2147 401,2147 401,2087"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "427,2090 427,2150 650,2150 650,2090"
+                },
+                "text": "concluded"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "681,2090 681,2150 769,2150 769,2090"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "791,2090 791,2150 894,2150 894,2090"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "926,2091 926,2151 1008,2151 1008,2091"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1040,2091 1040,2151 1054,2151 1054,2091"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1081,2090 1081,2150 1226,2150 1226,2090"
+                },
+                "text": "limited"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1263,2090 1263,2150 1433,2150 1433,2090"
+                },
+                "text": "number"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1460,2090 1460,2150 1501,2150 1501,2090"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1522,2092 1522,2152 1610,2152 1610,2092"
+                },
+                "text": "sites"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1636,2090 1636,2150 1678,2150 1678,2090"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1699,2090 1699,2150 1823,2150 1823,2090"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "1855,2091 1855,2151 2123,2151 2123,2091"
+                },
+                "text": "temperature"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "272,2224 385,2259 853,2229 925,2281 1052,2246 1731,2273 1817,2232 2087,2276 2087,2168 2038,2151 272,2183"
+            },
+            "baseline": {
+              "points": "286,2214 376,2217 466,2214 556,2214 647,2214 737,2214 827,2214 918,2214 1008,2217 1098,2217 1189,2214 1279,2214 1369,2214 1459,2214 1550,2214 1640,2214 1730,2215 1821,2215 1911,2215 2001,2216 2092,2214"
+            },
+            "text": "adaptation in AA-LDH occurs, and that even closely related organisms do not",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "278,2176 278,2236 506,2236 506,2176"
+                },
+                "text": "adaptation"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "540,2174 540,2234 572,2234 572,2174"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "605,2174 605,2234 774,2234 774,2174"
+                },
+                "text": "AA-LDH"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "818,2174 818,2234 976,2234 976,2174"
+                },
+                "text": "occurs,"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "993,2177 993,2237 1063,2237 1063,2177"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1097,2175 1097,2235 1184,2235 1184,2175"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1206,2174 1206,2234 1298,2234 1298,2174"
+                },
+                "text": "even"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1332,2174 1332,2234 1467,2234 1467,2174"
+                },
+                "text": "closely"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1501,2174 1501,2234 1643,2234 1643,2174"
+                },
+                "text": "related"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1676,2175 1676,2235 1904,2235 1904,2175"
+                },
+                "text": "organisms"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1932,2175 1932,2235 1975,2235 1975,2175"
+                },
+                "text": "do"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "2003,2175 2003,2235 2073,2235 2073,2175"
+                },
+                "text": "not"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "272,2347 628,2354 692,2403 777,2354 846,2394 1047,2349 1334,2403 1548,2340 1847,2347 1847,2278 1592,2300 1518,2256 1430,2293 1253,2256 969,2298 876,2256 748,2296 444,2264 272,2296"
+            },
+            "baseline": {
+              "points": "286,2330 364,2328 442,2330 521,2330 599,2327 677,2330 756,2330 834,2330 912,2330 991,2330 1069,2332 1147,2330 1226,2330 1304,2330 1382,2330 1461,2330 1539,2330 1617,2330 1696,2332 1774,2331 1853,2330"
+            },
+            "text": "necessarily use the same sequence changes to adapt to temperature.",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "271,2288 271,2348 509,2348 509,2288"
+                },
+                "text": "necessarily"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "539,2288 539,2348 604,2348 604,2288"
+                },
+                "text": "use"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "634,2289 634,2349 693,2349 693,2289"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "718,2290 718,2350 827,2350 827,2290"
+                },
+                "text": "same"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "852,2290 852,2350 1051,2350 1051,2290"
+                },
+                "text": "sequence"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1081,2290 1081,2350 1255,2350 1255,2290"
+                },
+                "text": "changes"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1280,2290 1280,2350 1309,2350 1309,2290"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1344,2290 1344,2350 1468,2350 1468,2290"
+                },
+                "text": "adapt"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1493,2290 1493,2350 1522,2350 1522,2290"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1553,2291 1553,2351 1850,2351 1850,2291"
+                },
+                "text": "temperature."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "267,2558 316,2548 383,2565 490,2541 591,2565 633,2551 719,2585 719,2482 670,2457 598,2457 579,2477 483,2457 444,2482 383,2450 267,2457"
+            },
+            "baseline": {
+              "points": "280,2530 306,2530 332,2530 358,2530 384,2530 410,2530 436,2530 462,2530 488,2530 514,2530 540,2530 566,2530 592,2530 618,2530 644,2530 670,2528 696,2529 722,2533"
+            },
+            "text": "INTRODUCTION",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "270,2490 270,2550 693,2550 693,2490"
+                },
+                "text": "INTRODUCTION"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "272,2732 513,2771 1131,2742 1319,2788 1467,2742 1952,2739 2170,2781 2170,2651 2033,2690 1790,2649 1636,2698 1516,2651 1280,2654 1226,2698 929,2634 532,2683 272,2646"
+            },
+            "baseline": {
+              "points": "286,2730 380,2730 474,2730 569,2730 663,2730 758,2730 852,2732 947,2730 1041,2730 1136,2730 1230,2730 1324,2730 1419,2730 1513,2730 1608,2730 1702,2730 1797,2730 1891,2730 1986,2730 2080,2727 2175,2733"
+            },
+            "text": "Life occurs at a wide range of temperatures, from below zero to above 100 degrees",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "277,2690 277,2750 349,2750 349,2690"
+                },
+                "text": "Life"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "375,2690 375,2750 509,2750 509,2690"
+                },
+                "text": "occurs"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "541,2690 541,2750 577,2750 577,2690"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "593,2690 593,2750 608,2750 608,2690"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "634,2690 634,2750 737,2750 737,2690"
+                },
+                "text": "wide"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "764,2691 764,2751 878,2751 878,2691"
+                },
+                "text": "range"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "904,2690 904,2750 945,2750 945,2690"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "966,2690 966,2750 1282,2750 1282,2690"
+                },
+                "text": "temperatures,"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1298,2690 1298,2750 1375,2750 1375,2690"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1422,2690 1422,2750 1530,2750 1530,2690"
+                },
+                "text": "below"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1578,2690 1578,2750 1660,2750 1660,2690"
+                },
+                "text": "zero"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1692,2690 1692,2750 1717,2750 1717,2690"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "1749,2690 1749,2750 1873,2750 1873,2690"
+                },
+                "text": "above"
+              },
+              {
+                "id": "tr_1_tl_22_w14",
+                "coords": {
+                  "points": "1904,2690 1904,2750 1966,2750 1966,2690"
+                },
+                "text": "100"
+              },
+              {
+                "id": "tr_1_tl_22_w15",
+                "coords": {
+                  "points": "1992,2687 1992,2747 2157,2747 2157,2687"
+                },
+                "text": "degrees"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "272,2842 380,2877 466,2842 574,2894 839,2842 998,2891 1131,2840 1207,2884 2124,2857 2124,2796 2004,2771 1827,2803 272,2784"
+            },
+            "baseline": {
+              "points": "286,2829 378,2829 470,2832 562,2829 654,2832 747,2830 839,2829 931,2829 1023,2829 1115,2829 1208,2829 1300,2829 1392,2831 1484,2829 1576,2832 1669,2832 1761,2832 1853,2832 1945,2832 2037,2832 2130,2832"
+            },
+            "text": "Celsius. Because life processes including development, mitosis, and membrane",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "272,2789 272,2849 447,2849 447,2789"
+                },
+                "text": "Celsius."
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "469,2789 469,2849 644,2849 644,2789"
+                },
+                "text": "Because"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "671,2790 671,2850 734,2850 734,2790"
+                },
+                "text": "life"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "761,2789 761,2849 973,2849 973,2789"
+                },
+                "text": "processes"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "1000,2789 1000,2849 1207,2849 1207,2789"
+                },
+                "text": "including"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1240,2790 1240,2850 1558,2850 1558,2790"
+                },
+                "text": "development,"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1575,2792 1575,2852 1755,2852 1755,2792"
+                },
+                "text": "mitosis,"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1777,2792 1777,2852 1846,2852 1846,2792"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1878,2792 1878,2852 2116,2852 2116,2792"
+                },
+                "text": "membrane"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "270,2970 392,2945 478,2995 584,2943 647,2987 687,2958 846,2995 949,2955 1064,2997 1202,2948 1582,3009 1766,2955 1984,3004 2080,2960 2193,2977 2193,2889 2072,2877 270,2884"
+            },
+            "baseline": {
+              "points": "283,2930 378,2933 474,2933 569,2933 665,2933 761,2933 856,2932 952,2933 1048,2933 1143,2933 1239,2933 1335,2933 1430,2933 1526,2932 1622,2933 1717,2933 1813,2933 1909,2934 2004,2935 2100,2933 2196,2936"
+            },
+            "text": "function are affected by the thermal environment in which they occur, organisms",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "270,2892 270,2952 451,2952 451,2892"
+                },
+                "text": "function"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "483,2893 483,2953 541,2953 541,2893"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "574,2893 574,2953 739,2953 739,2893"
+                },
+                "text": "affected"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "777,2892 777,2952 819,2952 819,2892"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "851,2892 851,2952 910,2952 910,2892"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "943,2893 943,2953 1118,2953 1118,2893"
+                },
+                "text": "thermal"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1140,2893 1140,2953 1433,2953 1433,2893"
+                },
+                "text": "environment"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1455,2892 1455,2952 1486,2952 1486,2892"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1519,2892 1519,2952 1647,2952 1647,2892"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1679,2893 1679,2953 1764,2953 1764,2893"
+                },
+                "text": "they"
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "1802,2893 1802,2953 1940,2953 1940,2893"
+                },
+                "text": "occur,"
+              },
+              {
+                "id": "tr_1_tl_24_w12",
+                "coords": {
+                  "points": "1957,2893 1957,2953 2185,2953 2185,2893"
+                },
+                "text": "organisms"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

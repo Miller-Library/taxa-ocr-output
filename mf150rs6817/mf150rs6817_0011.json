@@ -1,0 +1,1369 @@
+{
+  "processId": 10340548,
+  "status": "FINISHED",
+  "content": {
+    "text": "(Table 1). As the alignment indicates, the most variation among all sequences\noccurs between aa 10 and aa 30 and between aa 40 and aa 90, while the rest of\nthe sequence region has a high level of homology. Hydrophilicity profiles reflect\nthis overall high level of homology among amphioxus, shark, blue marlin\n(fishRyR1), and frog alpha (Figure 4).\nFigure 5 is a parsimony tree including the same species shown in the\nalignment (Figure 3). The tree was resampled by bootstrapping 500 times and\nthe numbers at each node represent the percentage of trees in which this node\noccurred. In 45.2% of the trees, rabbit cardiac, rabbit brain, and frog beta\nsequences were further separated into their own clade. Since this bootstrap value\nwas less that 50%, this node was collapsed back. A distance tree based on the\nnumber and types of amino acid changes among sequences was derived for these\nspecies as well (Figure 6). The lengths of the branches correlate to distance in an\nevolutionary time scale.",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "307,294 307,1661 2234,1661 2234,294"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "296,357 2162,357 2162,284 296,289"
+            },
+            "baseline": {
+              "points": "310,340 402,349 495,349 588,348 681,346 774,348 866,346 959,346 1052,345 1145,346 1238,346 1330,344 1423,346 1516,346 1609,346 1702,343 1794,343 1887,346 1980,345 2073,346 2166,343"
+            },
+            "text": "(Table 1). As the alignment indicates, the most variation among all sequences",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "297,305 297,365 436,365 436,305"
+                },
+                "text": "(Table"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "472,308 472,368 529,368 529,308"
+                },
+                "text": "1)."
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "559,308 559,368 616,368 616,308"
+                },
+                "text": "As"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "640,306 640,366 698,366 698,306"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "733,306 733,366 965,366 965,306"
+                },
+                "text": "alignment"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "983,305 983,365 1204,365 1204,305"
+                },
+                "text": "indicates,"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1222,305 1222,365 1280,365 1280,305"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1310,304 1310,364 1426,364 1426,304"
+                },
+                "text": "most"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1444,306 1444,366 1635,366 1635,306"
+                },
+                "text": "variation"
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1671,303 1671,363 1815,363 1815,303"
+                },
+                "text": "among"
+              },
+              {
+                "id": "tr_1_tl_1_w11",
+                "coords": {
+                  "points": "1845,305 1845,365 1902,365 1902,305"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_1_w12",
+                "coords": {
+                  "points": "1921,305 1921,365 2147,365 2147,305"
+                },
+                "text": "sequences"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "304,458 2169,468 2169,376 304,412"
+            },
+            "baseline": {
+              "points": "316,444 408,442 501,441 594,443 687,443 780,444 872,444 965,444 1058,444 1151,443 1244,441 1336,442 1429,441 1522,444 1615,444 1708,440 1800,441 1893,441 1986,441 2079,444 2172,438"
+            },
+            "text": "occurs between aa 10 and aa 30 and between aa 40 and aa 90, while the rest of",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "305,402 305,462 446,462 446,402"
+                },
+                "text": "occurs"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "475,402 475,462 655,462 655,402"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "685,403 685,463 724,463 724,403"
+                },
+                "text": "aa"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "759,403 759,463 798,463 798,403"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "833,404 833,464 900,464 900,404"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "929,404 929,464 968,464 968,404"
+                },
+                "text": "aa"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "997,404 997,464 1042,464 1042,404"
+                },
+                "text": "30"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1071,403 1071,463 1139,463 1139,403"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1173,401 1173,461 1348,461 1348,401"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1383,401 1383,461 1422,461 1422,401"
+                },
+                "text": "aa"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1452,402 1452,462 1496,462 1496,402"
+                },
+                "text": "40"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1525,404 1525,464 1593,464 1593,404"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "1627,402 1627,462 1661,462 1661,402"
+                },
+                "text": "aa"
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "1690,400 1690,460 1763,460 1763,400"
+                },
+                "text": "90,"
+              },
+              {
+                "id": "tr_1_tl_2_w15",
+                "coords": {
+                  "points": "1780,401 1780,461 1899,461 1899,401"
+                },
+                "text": "while"
+              },
+              {
+                "id": "tr_1_tl_2_w16",
+                "coords": {
+                  "points": "1928,401 1928,461 1984,461 1984,401"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w17",
+                "coords": {
+                  "points": "2013,403 2013,463 2098,463 2098,403"
+                },
+                "text": "rest"
+              },
+              {
+                "id": "tr_1_tl_2_w18",
+                "coords": {
+                  "points": "2115,400 2115,460 2154,460 2154,400"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "294,566 2227,557 2227,496 2099,480 294,496"
+            },
+            "baseline": {
+              "points": "307,543 403,543 499,543 596,542 692,541 788,543 885,546 981,543 1077,543 1174,543 1270,545 1366,544 1463,540 1559,546 1655,543 1752,543 1848,539 1944,542 2041,543 2137,543 2234,543"
+            },
+            "text": "the sequence region has a high level of homology. Hydrophilicity profiles reflect",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "296,503 296,563 355,563 355,503"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "386,503 386,563 586,563 586,503"
+                },
+                "text": "sequence"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "617,501 617,561 755,561 755,501"
+                },
+                "text": "region"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "786,503 786,563 852,563 852,503"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "877,505 877,565 895,565 895,505"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "920,503 920,563 1010,563 1010,503"
+                },
+                "text": "high"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1042,503 1042,563 1150,563 1150,503"
+                },
+                "text": "level"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1175,503 1175,563 1216,563 1216,503"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1235,504 1235,564 1489,564 1489,504"
+                },
+                "text": "homology."
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1514,503 1514,563 1853,563 1853,503"
+                },
+                "text": "Hydrophilicity"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1884,502 1884,562 2053,562 2053,502"
+                },
+                "text": "profiles"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "2078,503 2078,563 2223,563 2223,503"
+                },
+                "text": "reflect"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "294,651 1219,684 2056,656 2056,595 2008,586 294,602"
+            },
+            "baseline": {
+              "points": "307,644 394,644 482,644 570,644 657,641 745,644 833,644 920,644 1008,644 1096,643 1184,647 1271,644 1359,644 1447,644 1534,644 1622,646 1710,644 1797,644 1885,644 1973,644 2061,641"
+            },
+            "text": "this overall high level of homology among amphioxus, shark, blue marlin",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "296,604 296,664 374,664 374,604"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "399,604 399,664 562,664 562,604"
+                },
+                "text": "overall"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "575,602 575,662 665,662 665,602"
+                },
+                "text": "high"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "703,604 703,664 811,664 811,604"
+                },
+                "text": "level"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "830,604 830,664 872,664 872,604"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "892,604 892,664 1122,664 1122,604"
+                },
+                "text": "homology"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1153,605 1153,665 1298,665 1298,605"
+                },
+                "text": "among"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1329,604 1329,664 1602,664 1602,604"
+                },
+                "text": "amphioxus,"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1621,604 1621,664 1760,664 1760,604"
+                },
+                "text": "shark,"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1779,604 1779,664 1864,664 1864,604"
+                },
+                "text": "blue"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1895,604 1895,664 2034,664 2034,604"
+                },
+                "text": "marlin"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "299,752 487,776 745,754 776,786 824,757 1217,769 1198,696 299,696"
+            },
+            "baseline": {
+              "points": "313,742 358,745 404,745 449,742 495,742 540,745 586,745 631,745 677,745 722,745 768,742 813,743 859,745 904,745 950,744 995,743 1041,745 1086,745 1132,744 1177,742 1223,745"
+            },
+            "text": "(fishRyR1), and frog alpha (Figure 4).",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "302,702 302,762 586,762 586,702"
+                },
+                "text": "(fishRyR1),"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "601,705 601,765 669,765 669,705"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "705,703 705,763 787,763 787,703"
+                },
+                "text": "frog"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "823,705 823,765 933,765 933,705"
+                },
+                "text": "alpha"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "962,705 962,765 1128,765 1128,705"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1157,702 1157,762 1218,762 1218,702"
+                },
+                "text": "4)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "451,856 2087,863 2044,776 1603,810 451,783"
+            },
+            "baseline": {
+              "points": "465,841 546,841 627,844 709,844 790,847 872,847 953,844 1035,844 1116,844 1198,846 1279,847 1360,844 1442,844 1523,844 1605,844 1686,844 1768,844 1849,841 1931,843 2012,841 2094,844"
+            },
+            "text": "Figure 5 is a parsimony tree including the same species shown in the",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "452,801 452,861 591,861 591,801"
+                },
+                "text": "Figure"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "627,804 627,864 637,864 637,804"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "667,804 667,864 696,864 696,804"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "726,804 726,864 737,864 737,804"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "767,806 767,866 999,866 999,806"
+                },
+                "text": "parsimony"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1029,804 1029,864 1104,864 1104,804"
+                },
+                "text": "tree"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1134,806 1134,866 1343,866 1343,806"
+                },
+                "text": "including"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1373,804 1373,864 1431,864 1431,804"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1461,804 1461,864 1565,864 1565,804"
+                },
+                "text": "same"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1600,804 1600,864 1757,864 1757,804"
+                },
+                "text": "species"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1787,801 1787,861 1921,861 1921,801"
+                },
+                "text": "shown"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1956,802 1956,862 1985,862 1985,802"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "2014,802 2014,862 2072,862 2072,802"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "299,950 2167,962 2167,892 1901,884 299,909"
+            },
+            "baseline": {
+              "points": "313,942 410,942 508,942 606,939 704,940 802,940 900,945 997,942 1095,942 1193,945 1291,941 1389,943 1487,938 1584,942 1682,939 1780,939 1878,940 1976,942 2074,940 2172,939"
+            },
+            "text": "alignment (Figure 3). The tree was resampled by bootstrapping 500 times and",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "295,902 295,962 531,962 531,902"
+                },
+                "text": "alignment"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "550,899 550,959 709,959 709,899"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "740,900 740,960 806,960 806,900"
+                },
+                "text": "3)."
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "838,903 838,963 911,963 911,903"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "942,902 942,962 1020,962 1020,902"
+                },
+                "text": "tree"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1046,902 1046,962 1131,962 1131,902"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1156,901 1156,961 1387,961 1387,901"
+                },
+                "text": "resampled"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1419,900 1419,960 1461,960 1461,900"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1492,900 1492,960 1803,960 1803,900"
+                },
+                "text": "bootstrapping"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1834,899 1834,959 1907,959 1907,899"
+                },
+                "text": "500"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1938,901 1938,961 2059,961 2059,901"
+                },
+                "text": "times"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "2084,899 2084,959 2151,959 2151,899"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "299,1046 2135,1065 2135,993 1991,983 299,995"
+            },
+            "baseline": {
+              "points": "313,1041 404,1041 495,1041 587,1041 678,1041 770,1041 861,1041 953,1040 1044,1044 1136,1044 1227,1042 1318,1044 1410,1044 1501,1041 1593,1041 1684,1038 1776,1039 1867,1041 1959,1041 2050,1041 2142,1038"
+            },
+            "text": "the numbers at each node represent the percentage of trees in which this node",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "300,1001 300,1061 360,1061 360,1001"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "388,1001 388,1061 582,1061 582,1001"
+                },
+                "text": "numbers"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "611,1001 611,1061 643,1061 643,1001"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "666,1001 666,1061 760,1061 760,1001"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "788,1001 788,1061 888,1061 888,1001"
+                },
+                "text": "node"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "922,1003 922,1063 1132,1063 1132,1003"
+                },
+                "text": "represent"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1149,1003 1149,1063 1210,1063 1210,1003"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1238,1004 1238,1064 1482,1064 1482,1004"
+                },
+                "text": "percentage"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1511,1001 1511,1061 1554,1061 1554,1001"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1572,999 1572,1059 1677,1059 1677,999"
+                },
+                "text": "trees"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1699,998 1699,1058 1727,1058 1727,998"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1761,1000 1761,1060 1888,1060 1888,1000"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1922,1001 1922,1061 1999,1061 1999,1001"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "2022,1000 2022,1060 2121,1060 2121,1000"
+                },
+                "text": "node"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "304,1166 2056,1152 2056,1080 304,1106"
+            },
+            "baseline": {
+              "points": "316,1139 403,1139 490,1139 577,1139 665,1139 752,1140 839,1139 926,1142 1014,1141 1101,1140 1188,1139 1275,1142 1363,1142 1450,1141 1537,1139 1624,1140 1712,1139 1799,1139 1886,1139 1973,1139 2061,1142"
+            },
+            "text": "occurred. In 45.2% of the trees, rabbit cardiac, rabbit brain, and frog beta",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "305,1099 305,1159 525,1159 525,1099"
+                },
+                "text": "occurred."
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "560,1099 560,1159 595,1159 595,1099"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "625,1099 625,1159 746,1159 746,1099"
+                },
+                "text": "45.2%"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "793,1099 793,1159 838,1159 838,1099"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "856,1100 856,1160 914,1160 914,1100"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "944,1101 944,1161 1071,1161 1071,1101"
+                },
+                "text": "trees,"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1089,1099 1089,1159 1222,1159 1222,1099"
+                },
+                "text": "rabbit"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1240,1102 1240,1162 1419,1162 1419,1102"
+                },
+                "text": "cardiac,"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1437,1099 1437,1159 1571,1159 1571,1099"
+                },
+                "text": "rabbit"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1595,1099 1595,1159 1727,1159 1727,1099"
+                },
+                "text": "brain,"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1745,1099 1745,1159 1815,1159 1815,1099"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1845,1099 1845,1159 1925,1159 1925,1099"
+                },
+                "text": "frog"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1955,1099 1955,1159 2041,1159 2041,1099"
+                },
+                "text": "beta"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "299,1265 2227,1248 2227,1193 2140,1166 1904,1205 299,1205"
+            },
+            "baseline": {
+              "points": "313,1238 409,1238 505,1240 601,1238 697,1239 793,1240 889,1241 985,1241 1081,1241 1177,1241 1273,1241 1369,1238 1465,1241 1561,1241 1657,1241 1753,1240 1849,1238 1945,1238 2041,1238 2137,1237 2234,1238"
+            },
+            "text": "sequences were further separated into their own clade. Since this bootstrap value",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "299,1198 299,1258 527,1258 527,1198"
+                },
+                "text": "sequences"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "550,1198 550,1258 653,1258 653,1198"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "681,1199 681,1259 839,1259 839,1199"
+                },
+                "text": "further"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "861,1201 861,1261 1068,1261 1068,1201"
+                },
+                "text": "separated"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1101,1201 1101,1261 1177,1261 1177,1201"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1205,1201 1205,1261 1308,1261 1308,1201"
+                },
+                "text": "their"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1330,1198 1330,1258 1417,1258 1417,1198"
+                },
+                "text": "own"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1445,1201 1445,1261 1586,1261 1586,1201"
+                },
+                "text": "clade."
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1620,1200 1620,1260 1733,1260 1733,1200"
+                },
+                "text": "Since"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1767,1198 1767,1258 1842,1258 1842,1198"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1865,1198 1865,1258 2072,1258 2072,1198"
+                },
+                "text": "bootstrap"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "2105,1197 2105,1257 2213,1257 2213,1197"
+                },
+                "text": "value"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "306,1342 2164,1352 2164,1301 2089,1275 306,1297"
+            },
+            "baseline": {
+              "points": "319,1330 411,1336 504,1336 596,1338 689,1339 781,1337 874,1339 966,1338 1059,1338 1151,1339 1244,1339 1336,1339 1429,1339 1521,1339 1614,1339 1706,1336 1799,1336 1891,1336 1984,1336 2076,1335 2169,1333"
+            },
+            "text": "was less that 50%, this node was collapsed back. A distance tree based on the",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "307,1291 307,1351 384,1351 384,1291"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "407,1296 407,1356 484,1356 484,1296"
+                },
+                "text": "less"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "513,1297 513,1357 601,1357 601,1297"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "618,1298 618,1358 740,1358 740,1298"
+                },
+                "text": "50%,"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "758,1297 758,1357 829,1357 829,1297"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "858,1298 858,1358 958,1358 958,1298"
+                },
+                "text": "node"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "992,1298 992,1358 1069,1358 1069,1298"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1098,1299 1098,1359 1303,1359 1303,1299"
+                },
+                "text": "collapsed"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1332,1299 1332,1359 1459,1359 1459,1299"
+                },
+                "text": "back."
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1487,1299 1487,1359 1509,1359 1509,1299"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1549,1298 1549,1358 1727,1358 1727,1298"
+                },
+                "text": "distance"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1761,1296 1761,1356 1833,1356 1833,1296"
+                },
+                "text": "tree"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1861,1296 1861,1356 1983,1356 1983,1296"
+                },
+                "text": "based"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "2011,1295 2011,1355 2055,1355 2055,1295"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_11_w15",
+                "coords": {
+                  "points": "2084,1294 2084,1354 2144,1354 2144,1294"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "304,1453 2222,1453 2222,1386 2123,1357 2068,1400 304,1403"
+            },
+            "baseline": {
+              "points": "316,1438 411,1438 507,1438 602,1436 698,1437 794,1438 889,1438 985,1438 1080,1438 1176,1437 1272,1436 1367,1438 1463,1435 1558,1438 1654,1437 1750,1435 1845,1435 1941,1435 2036,1435 2132,1435 2228,1435"
+            },
+            "text": "number and types of amino acid changes among sequences was derived for these",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "305,1398 305,1458 476,1458 476,1398"
+                },
+                "text": "number"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "499,1397 499,1457 571,1457 571,1397"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "599,1396 599,1456 716,1456 716,1396"
+                },
+                "text": "types"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "739,1397 739,1457 783,1457 783,1397"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "806,1398 806,1458 938,1458 938,1398"
+                },
+                "text": "amino"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "972,1398 972,1458 1050,1458 1050,1398"
+                },
+                "text": "acid"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1084,1397 1084,1457 1261,1457 1261,1397"
+                },
+                "text": "changes"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1284,1397 1284,1457 1434,1457 1434,1397"
+                },
+                "text": "among"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1463,1397 1463,1457 1696,1457 1696,1397"
+                },
+                "text": "sequences"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1719,1395 1719,1455 1801,1455 1801,1395"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1830,1395 1830,1455 1991,1455 1991,1395"
+                },
+                "text": "derived"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "2020,1395 2020,1455 2080,1455 2080,1395"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "2103,1395 2103,1455 2208,1455 2208,1395"
+                },
+                "text": "these"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "311,1550 2227,1559 2227,1487 1952,1473 311,1499"
+            },
+            "baseline": {
+              "points": "325,1527 420,1536 515,1539 611,1536 706,1537 802,1536 897,1536 993,1539 1088,1539 1184,1539 1279,1538 1374,1538 1470,1539 1565,1539 1661,1536 1756,1536 1852,1536 1947,1536 2043,1536 2138,1536 2234,1539"
+            },
+            "text": "species as well (Figure 6). The lengths of the branches correlate to distance in an",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "312,1493 312,1553 466,1553 466,1493"
+                },
+                "text": "species"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "496,1498 496,1558 531,1558 531,1498"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "561,1496 561,1556 656,1556 656,1496"
+                },
+                "text": "well"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "675,1496 675,1556 834,1556 834,1496"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "864,1496 864,1556 929,1556 929,1496"
+                },
+                "text": "6)."
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "948,1498 948,1558 1024,1558 1024,1498"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1054,1499 1054,1559 1214,1559 1214,1499"
+                },
+                "text": "lengths"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1238,1498 1238,1558 1280,1558 1280,1498"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1304,1498 1304,1558 1357,1558 1357,1498"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1387,1499 1387,1559 1588,1559 1588,1499"
+                },
+                "text": "branches"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1613,1496 1613,1556 1808,1556 1808,1496"
+                },
+                "text": "correlate"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1838,1496 1838,1556 1867,1556 1867,1496"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1897,1496 1897,1556 2075,1556 2075,1496"
+                },
+                "text": "distance"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "2111,1496 2111,1556 2134,1556 2134,1496"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w15",
+                "coords": {
+                  "points": "2171,1497 2171,1557 2205,1557 2205,1497"
+                },
+                "text": "an"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "304,1646 359,1665 602,1663 627,1641 670,1665 742,1646 892,1653 892,1595 829,1581 803,1603 656,1583 513,1603 415,1579 304,1603"
+            },
+            "baseline": {
+              "points": "316,1635 346,1637 376,1638 407,1638 437,1638 468,1638 498,1638 529,1638 559,1638 590,1638 620,1638 651,1638 681,1638 712,1638 742,1638 773,1638 803,1638 834,1638 864,1638 895,1638"
+            },
+            "text": "evolutionary time scale.",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "304,1598 304,1658 596,1658 596,1598"
+                },
+                "text": "evolutionary"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "630,1598 630,1658 723,1658 723,1598"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "758,1598 758,1658 889,1658 889,1598"
+                },
+                "text": "scale."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

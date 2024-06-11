@@ -1,0 +1,2028 @@
+{
+  "processId": 10334858,
+  "status": "FINISHED",
+  "content": {
+    "text": "Abstract\nCyclic 3',5'-guanosine monophosphate (cGMP) and 1,4,5-inositol\ntrisphosphate (IP3) both act as secondary messengers in odor transduction,\nactivating ion channels in Pagurus samuelis olfactory receptor neurons. Two\ndifferent cGMP-gated ion channels were observed in inside-out patches in\nsymmetrical Na\u201c solutions: one with a conductance of 22 pS, and the other with\n\u00e0 more varied conductance of approximately 86 pS. Unlike cGMP-gated\nchannels in vertebrate olfactory receptors which are blocked by divalent cations.\nthese cGMP channels were not blocked by 60 mM Mg++. They were however\ncompletely blocked by the addition of Ca+t to the inner face of the patch. An\n1P3-gated ion channel with a conductance of 13 pS was observed that was also\nnot blocked by Mg\u201c\u201c. There was also suggestion of two additional IP3 channels\nwith larger conductances. This study is the first to demonstrate the presence of\ncGMP- and IP3-gated ion channels in Pagurus olfactory receptor neurons. This\ndual signal transduction pathway, mediated by cGMP and IP3, may allow for the\nintegration of a broader range of information representing a blend of odors.\nIntroduction\nOdorants are thought to activate olfactory receptor neurons by binding to\nG-protein coupled receptors that modulate the production of at least two kinds\nof intracellular second messengers, cyclic nucleotides (cyclic 3\u2019,5'-adenosine\nmonophosphate (cAMP) or cyclic 3\u2019,5'-guanosine monophosphate (cGMP)), and\ninositol 1,4,5-trisphosphate (IP3). These second messengers then activate\nmultiple channels resulting in either activation or inactivation of the receptor\nneuron (Boekhoff et al. 1994). Cyclic nucleotide and IP3 olfactory transduction",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "322,284 322,2950 2149,2950 2149,284"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "1135,363 1201,354 1226,370 1239,363 1289,370 1323,345 1355,352 1353,293 1328,288 1321,295 1301,279 1287,291 1264,268 1253,275 1235,270 1205,286 1192,279 1169,295 1158,286 1133,295"
+            },
+            "baseline": {
+              "points": "1146,334 1172,336 1199,337 1225,337 1252,337 1278,337 1305,337 1331,337 1358,337"
+            },
+            "text": "Abstract",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "1134,297 1134,357 1340,357 1340,297"
+                },
+                "text": "Abstract"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "488,540 2143,554 2143,459 2041,499 1918,461 1830,499 1664,463 1158,495 1026,452 854,493 488,479"
+            },
+            "baseline": {
+              "points": "501,528 583,528 665,529 748,529 830,529 913,534 995,534 1077,531 1160,534 1242,535 1325,536 1407,534 1489,534 1572,534 1654,536 1737,534 1819,537 1901,537 1984,534 2066,534 2149,534"
+            },
+            "text": "Cyclic 3',5'-guanosine monophosphate (cGMP) and 1,4,5-inositol",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "495,488 495,548 631,548 631,488"
+                },
+                "text": "Cyclic"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "673,490 673,550 1033,550 1033,490"
+                },
+                "text": "3',5'-guanosine"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "1075,495 1075,555 1441,555 1441,495"
+                },
+                "text": "monophosphate"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "1489,494 1489,554 1672,554 1672,494"
+                },
+                "text": "(cGMP)"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1708,494 1708,554 1784,554 1784,494"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1838,494 1838,554 2139,554 2139,494"
+                },
+                "text": "1,4,5-inositol"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "334,638 2138,656 2138,579 2050,568 1827,595 1591,554 1353,595 334,554"
+            },
+            "baseline": {
+              "points": "346,614 435,617 525,614 615,617 705,617 795,620 885,620 974,623 1064,623 1154,623 1244,626 1334,623 1424,623 1514,623 1603,623 1693,626 1783,626 1873,626 1963,626 2053,626 2143,629"
+            },
+            "text": "trisphosphate (IP3) both act as secondary messengers in odor transduction,",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "336,575 336,635 638,635 638,575"
+                },
+                "text": "trisphosphate"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "671,577 671,637 780,637 780,577"
+                },
+                "text": "(IP3)"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "800,580 800,640 889,640 889,580"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "929,582 929,642 992,642 992,582"
+                },
+                "text": "act"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "1019,583 1019,643 1057,643 1057,583"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1090,584 1090,644 1308,644 1308,584"
+                },
+                "text": "secondary"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1341,583 1341,643 1605,643 1605,583"
+                },
+                "text": "messengers"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1638,584 1638,644 1663,644 1663,584"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1702,586 1702,646 1811,646 1811,586"
+                },
+                "text": "odor"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1838,586 1838,646 2139,646 2139,586"
+                },
+                "text": "transduction,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "325,754 2141,763 2141,690 1594,697 1557,665 325,699"
+            },
+            "baseline": {
+              "points": "337,719 427,722 517,722 608,725 698,725 789,728 879,728 970,728 1060,728 1151,731 1241,731 1331,731 1422,731 1512,731 1603,731 1693,732 1784,734 1874,734 1965,734 2055,734 2146,731"
+            },
+            "text": "activating ion channels in Pagurus samuelis olfactory receptor neurons. Two",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "327,682 327,742 539,742 539,682"
+                },
+                "text": "activating"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "576,684 576,744 630,744 630,684"
+                },
+                "text": "ion"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "667,687 667,747 861,747 861,687"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "886,688 886,748 916,748 916,688"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "953,688 953,748 1122,748 1122,688"
+                },
+                "text": "Pagurus"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1153,691 1153,751 1335,751 1335,691"
+                },
+                "text": "samuelis"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1372,691 1372,751 1566,751 1566,691"
+                },
+                "text": "olfactory"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1597,691 1597,751 1779,751 1779,691"
+                },
+                "text": "receptor"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1804,694 1804,754 1998,754 1998,694"
+                },
+                "text": "neurons."
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "2035,693 2035,753 2125,753 2125,693"
+                },
+                "text": "Two"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "334,829 656,872 840,833 2141,874 2141,785 2052,776 1927,806 1539,765 1351,799 334,772"
+            },
+            "baseline": {
+              "points": "346,823 436,820 526,820 616,823 706,823 796,826 886,826 976,826 1066,829 1156,826 1246,829 1336,829 1426,829 1516,829 1606,832 1696,832 1786,832 1876,832 1966,832 2056,832 2146,832"
+            },
+            "text": "different cGMP-gated ion channels were observed in inside-out patches in",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "336,780 336,840 537,840 537,780"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "563,783 563,843 839,843 839,783"
+                },
+                "text": "cGMP-gated"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "878,786 878,846 934,846 934,786"
+                },
+                "text": "ion"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "972,788 972,848 1167,848 1167,788"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "1199,789 1199,849 1299,849 1299,789"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1332,789 1332,849 1526,849 1526,789"
+                },
+                "text": "observed"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1565,791 1565,851 1595,851 1595,791"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1634,792 1634,852 1866,852 1866,792"
+                },
+                "text": "inside-out"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1892,792 1892,852 2062,852 2062,792"
+                },
+                "text": "patches"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "2094,792 2094,852 2125,852 2125,792"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "327,938 2000,978 2141,947 2138,874 325,890"
+            },
+            "baseline": {
+              "points": "340,919 430,922 520,922 610,922 701,922 791,925 881,925 972,928 1062,928 1152,928 1243,931 1333,931 1423,931 1513,932 1604,934 1694,932 1784,934 1875,934 1965,934 2055,934 2146,934"
+            },
+            "text": "symmetrical Na\u201c solutions: one with a conductance of 22 pS, and the other with",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "328,882 328,942 604,942 604,882"
+                },
+                "text": "symmetrical"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "624,882 624,942 716,942 716,882"
+                },
+                "text": "Na\u201c"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "737,885 737,945 954,945 954,885"
+                },
+                "text": "solutions:"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "974,888 974,948 1039,948 1039,888"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1067,888 1067,948 1152,948 1152,888"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1179,889 1179,949 1192,949 1192,889"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1219,891 1219,951 1489,951 1489,891"
+                },
+                "text": "conductance"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1516,892 1516,952 1555,952 1555,892"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1576,893 1576,953 1614,953 1614,893"
+                },
+                "text": "22"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1641,892 1641,952 1707,952 1707,892"
+                },
+                "text": "pS,"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1721,893 1721,953 1793,953 1793,893"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1827,894 1827,954 1879,954 1879,894"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1906,894 1906,954 2017,954 2017,894"
+                },
+                "text": "other"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "2038,894 2038,954 2122,954 2122,894"
+                },
+                "text": "with"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "327,1035 799,1035 844,1069 922,1035 2141,1049 2141,987 2013,967 1843,1017 1718,960 1457,1003 1035,965 327,1001"
+            },
+            "baseline": {
+              "points": "340,1020 430,1020 520,1020 610,1023 701,1023 791,1023 881,1026 972,1026 1062,1029 1152,1029 1243,1029 1333,1030 1423,1032 1513,1031 1604,1032 1694,1032 1784,1032 1875,1034 1965,1032 2055,1035 2146,1038"
+            },
+            "text": "\u00e0 more varied conductance of approximately 86 pS. Unlike cGMP-gated",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "330,980 330,1040 343,1040 343,980"
+                },
+                "text": "\u00e0"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "379,980 379,1040 496,1040 496,980"
+                },
+                "text": "more"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "531,982 531,1042 669,1042 669,982"
+                },
+                "text": "varied"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "712,985 712,1045 996,1045 996,985"
+                },
+                "text": "conductance"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1031,988 1031,1048 1073,1048 1073,988"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1101,989 1101,1049 1420,1049 1420,989"
+                },
+                "text": "approximately"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1463,991 1463,1051 1503,1051 1503,991"
+                },
+                "text": "86"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1539,991 1539,1051 1614,1051 1614,991"
+                },
+                "text": "pS."
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1664,992 1664,1052 1809,1052 1809,992"
+                },
+                "text": "Unlike"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1845,992 1845,1052 2121,1052 2121,992"
+                },
+                "text": "cGMP-gated"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "325,1137 2138,1153 2138,1096 2029,1065 1907,1105 1680,1069 1460,1099 1389,1053 1267,1099 325,1076"
+            },
+            "baseline": {
+              "points": "337,1119 427,1122 517,1119 607,1122 698,1125 788,1125 878,1128 969,1128 1059,1128 1149,1128 1240,1128 1330,1131 1420,1131 1510,1131 1601,1131 1691,1131 1781,1132 1872,1134 1962,1134 2052,1134 2143,1137"
+            },
+            "text": "channels in vertebrate olfactory receptors which are blocked by divalent cations.",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "328,1081 328,1141 524,1141 524,1081"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "546,1080 546,1140 572,1140 572,1080"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "607,1085 607,1145 825,1145 825,1085"
+                },
+                "text": "vertebrate"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "853,1088 853,1148 1035,1148 1035,1088"
+                },
+                "text": "olfactory"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1064,1088 1064,1148 1254,1148 1254,1088"
+                },
+                "text": "receptors"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1275,1091 1275,1151 1397,1151 1397,1091"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1425,1091 1425,1151 1485,1151 1485,1091"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1513,1091 1513,1151 1669,1151 1669,1091"
+                },
+                "text": "blocked"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1698,1091 1698,1151 1745,1151 1745,1091"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1773,1093 1773,1153 1949,1153 1949,1093"
+                },
+                "text": "divalent"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1963,1094 1963,1154 2139,1154 2139,1094"
+                },
+                "text": "cations."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "325,1276 568,1233 2134,1255 2134,1192 1968,1174 325,1187"
+            },
+            "baseline": {
+              "points": "337,1221 427,1218 517,1221 607,1224 697,1224 787,1224 877,1224 968,1226 1058,1226 1148,1226 1238,1229 1328,1226 1418,1229 1508,1231 1599,1226 1689,1230 1779,1229 1869,1232 1959,1232 2049,1232 2140,1232"
+            },
+            "text": "these cGMP channels were not blocked by 60 mM Mg++. They were however",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "328,1179 328,1239 432,1239 432,1179"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "465,1181 465,1241 589,1241 589,1181"
+                },
+                "text": "cGMP"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "624,1184 624,1244 813,1244 813,1184"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "840,1184 840,1244 939,1244 939,1184"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "966,1186 966,1246 1037,1246 1037,1186"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1058,1186 1058,1246 1214,1246 1214,1186"
+                },
+                "text": "blocked"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1249,1188 1249,1248 1287,1248 1287,1188"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1321,1186 1321,1246 1359,1246 1359,1186"
+                },
+                "text": "60"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1386,1188 1386,1248 1445,1248 1445,1188"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1491,1187 1491,1247 1649,1247 1649,1187"
+                },
+                "text": "Mg++."
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1683,1189 1683,1249 1780,1249 1780,1189"
+                },
+                "text": "They"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1814,1191 1814,1251 1912,1251 1912,1191"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1939,1192 1939,1252 2129,1252 2129,1192"
+                },
+                "text": "however"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "327,1346 2134,1360 2111,1278 327,1292"
+            },
+            "baseline": {
+              "points": "340,1322 430,1325 520,1322 610,1322 700,1325 790,1325 880,1325 970,1328 1060,1328 1150,1328 1240,1328 1330,1328 1420,1331 1510,1334 1600,1334 1690,1331 1780,1334 1870,1332 1960,1335 2050,1337 2140,1337"
+            },
+            "text": "completely blocked by the addition of Ca+t to the inner face of the patch. An",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "330,1284 330,1344 571,1344 571,1284"
+                },
+                "text": "completely"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "607,1284 607,1344 765,1344 765,1284"
+                },
+                "text": "blocked"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "801,1285 801,1345 841,1345 841,1285"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "870,1285 870,1345 931,1345 931,1285"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "960,1288 960,1348 1132,1348 1132,1288"
+                },
+                "text": "addition"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1160,1288 1160,1348 1201,1348 1201,1288"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1222,1288 1222,1348 1333,1348 1333,1288"
+                },
+                "text": "Ca+t"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1361,1289 1361,1349 1395,1349 1395,1289"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1423,1292 1423,1352 1478,1352 1478,1292"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1506,1294 1506,1354 1623,1354 1623,1294"
+                },
+                "text": "inner"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1644,1291 1644,1351 1720,1351 1720,1291"
+                },
+                "text": "face"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1749,1293 1749,1353 1796,1353 1796,1293"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1811,1292 1811,1352 1872,1352 1872,1292"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "1901,1295 1901,1355 2031,1355 2031,1295"
+                },
+                "text": "patch."
+              },
+              {
+                "id": "tr_1_tl_10_w15",
+                "coords": {
+                  "points": "2067,1297 2067,1357 2121,1357 2121,1297"
+                },
+                "text": "An"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "318,1432 429,1469 515,1430 906,1426 1510,1471 2041,1432 2122,1466 2136,1360 1789,1394 1430,1357 960,1385 686,1342 642,1385 316,1369"
+            },
+            "baseline": {
+              "points": "331,1409 421,1406 512,1418 602,1418 693,1418 784,1418 874,1418 965,1421 1055,1421 1146,1422 1237,1422 1327,1424 1418,1424 1508,1426 1599,1426 1690,1426 1780,1424 1871,1425 1961,1427 2052,1429 2143,1427"
+            },
+            "text": "1P3-gated ion channel with a conductance of 13 pS was observed that was also",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "319,1366 319,1426 528,1426 528,1366"
+                },
+                "text": "1P3-gated"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "557,1378 557,1438 618,1438 618,1378"
+                },
+                "text": "ion"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "647,1378 647,1438 828,1438 828,1378"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "842,1378 842,1438 932,1438 932,1378"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "968,1381 968,1441 981,1441 981,1381"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1003,1381 1003,1441 1274,1441 1274,1381"
+                },
+                "text": "conductance"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1303,1383 1303,1443 1344,1443 1344,1383"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1366,1384 1366,1444 1400,1444 1400,1384"
+                },
+                "text": "13"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1428,1384 1428,1444 1476,1444 1476,1384"
+                },
+                "text": "pS"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1505,1386 1505,1446 1588,1446 1588,1386"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1610,1385 1610,1445 1804,1445 1804,1385"
+                },
+                "text": "observed"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1833,1385 1833,1445 1916,1445 1916,1385"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1937,1387 1937,1447 2020,1447 2020,1387"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "2042,1388 2042,1448 2118,1448 2118,1388"
+                },
+                "text": "also"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "322,1535 835,1525 983,1564 1203,1530 1303,1573 1362,1532 1578,1571 2138,1541 2138,1464 2097,1457 1614,1496 822,1455 322,1482"
+            },
+            "baseline": {
+              "points": "334,1516 424,1516 514,1516 605,1516 695,1513 786,1513 876,1516 967,1519 1057,1519 1148,1522 1238,1519 1328,1522 1419,1525 1509,1525 1600,1522 1690,1522 1781,1525 1871,1525 1962,1525 2052,1528 2143,1528"
+            },
+            "text": "not blocked by Mg\u201c\u201c. There was also suggestion of two additional IP3 channels",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "325,1476 325,1536 398,1536 398,1476"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "419,1476 419,1536 578,1536 578,1476"
+                },
+                "text": "blocked"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "606,1475 606,1535 652,1535 652,1475"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "680,1473 680,1533 833,1533 833,1473"
+                },
+                "text": "Mg\u201c\u201c."
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "860,1477 860,1537 974,1537 974,1477"
+                },
+                "text": "There"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1002,1479 1002,1539 1081,1539 1081,1479"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1102,1481 1102,1541 1175,1541 1175,1481"
+                },
+                "text": "also"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1202,1481 1202,1541 1422,1541 1422,1481"
+                },
+                "text": "suggestion"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1457,1485 1457,1545 1496,1545 1496,1485"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1510,1483 1510,1543 1584,1543 1584,1483"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1611,1483 1611,1543 1838,1543 1838,1483"
+                },
+                "text": "additional"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1859,1485 1859,1545 1918,1545 1918,1485"
+                },
+                "text": "IP3"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1939,1487 1939,1547 2126,1547 2126,1487"
+                },
+                "text": "channels"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "325,1653 2138,1664 2138,1594 1843,1571 325,1575"
+            },
+            "baseline": {
+              "points": "337,1621 427,1624 517,1624 607,1624 698,1627 788,1627 878,1627 969,1627 1059,1630 1149,1630 1240,1631 1330,1632 1420,1633 1510,1633 1601,1633 1691,1633 1781,1633 1872,1633 1962,1634 2052,1635 2143,1638"
+            },
+            "text": "with larger conductances. This study is the first to demonstrate the presence of",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "328,1582 328,1642 414,1642 414,1582"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "448,1584 448,1644 575,1644 575,1584"
+                },
+                "text": "larger"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "602,1587 602,1647 916,1647 916,1587"
+                },
+                "text": "conductances."
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "943,1587 943,1647 1036,1647 1036,1587"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "1057,1590 1057,1650 1170,1650 1170,1590"
+                },
+                "text": "study"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1198,1590 1198,1650 1223,1650 1223,1590"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1251,1591 1251,1651 1304,1651 1304,1591"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1331,1592 1331,1652 1417,1652 1417,1592"
+                },
+                "text": "first"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1438,1593 1438,1653 1464,1653 1464,1593"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1499,1593 1499,1653 1765,1653 1765,1593"
+                },
+                "text": "demonstrate"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1793,1593 1793,1653 1852,1653 1852,1593"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1880,1594 1880,1654 2060,1654 2060,1594"
+                },
+                "text": "presence"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "2087,1596 2087,1656 2127,1656 2127,1596"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "322,1752 2138,1743 2138,1689 2059,1675 322,1680"
+            },
+            "baseline": {
+              "points": "334,1713 424,1716 514,1713 605,1719 695,1719 786,1719 876,1719 967,1719 1057,1722 1148,1722 1238,1723 1328,1725 1419,1723 1509,1725 1600,1725 1690,1725 1781,1725 1871,1725 1962,1728 2052,1728 2143,1728"
+            },
+            "text": "cGMP- and IP3-gated ion channels in Pagurus olfactory receptor neurons. This",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "325,1675 325,1735 484,1735 484,1675"
+                },
+                "text": "cGMP-"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "505,1674 505,1734 581,1734 581,1674"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "609,1679 609,1739 816,1739 816,1679"
+                },
+                "text": "IP3-gated"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "845,1679 845,1739 900,1739 900,1679"
+                },
+                "text": "ion"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "935,1681 935,1741 1121,1741 1121,1681"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1143,1682 1143,1742 1170,1742 1170,1682"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1205,1684 1205,1744 1378,1744 1378,1684"
+                },
+                "text": "Pagurus"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1399,1684 1399,1744 1585,1744 1585,1684"
+                },
+                "text": "olfactory"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1614,1685 1614,1745 1793,1745 1793,1685"
+                },
+                "text": "receptor"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1815,1686 1815,1746 2008,1746 2008,1686"
+                },
+                "text": "neurons."
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "2037,1688 2037,1748 2126,1748 2126,1688"
+                },
+                "text": "This"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "325,1825 763,1873 969,1830 1085,1868 1239,1830 1796,1870 1975,1830 2084,1861 2132,1848 2129,1780 322,1771"
+            },
+            "baseline": {
+              "points": "337,1815 427,1818 517,1818 607,1818 697,1818 787,1818 877,1818 967,1821 1057,1821 1147,1824 1237,1824 1327,1824 1417,1824 1507,1824 1597,1824 1687,1827 1777,1827 1867,1827 1957,1827 2047,1827 2137,1827"
+            },
+            "text": "dual signal transduction pathway, mediated by cGMP and IP3, may allow for the",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "331,1776 331,1836 426,1836 426,1776"
+                },
+                "text": "dual"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "446,1778 446,1838 575,1838 575,1778"
+                },
+                "text": "signal"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "595,1778 595,1838 865,1838 865,1778"
+                },
+                "text": "transduction"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "891,1781 891,1841 1097,1841 1097,1781"
+                },
+                "text": "pathway,"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1110,1784 1110,1844 1296,1844 1296,1784"
+                },
+                "text": "mediated"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1329,1784 1329,1844 1367,1844 1367,1784"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1400,1784 1400,1844 1522,1844 1522,1784"
+                },
+                "text": "cGMP"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1548,1784 1548,1844 1619,1844 1619,1784"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1645,1787 1645,1847 1734,1847 1734,1787"
+                },
+                "text": "IP3,"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1748,1787 1748,1847 1831,1847 1831,1787"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1857,1787 1857,1847 1954,1847 1954,1787"
+                },
+                "text": "allow"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1993,1787 1993,1847 2050,1847 2050,1787"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "2064,1787 2064,1847 2121,1847 2121,1787"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "316,1968 2004,1959 2004,1886 1925,1877 316,1884"
+            },
+            "baseline": {
+              "points": "328,1925 412,1925 496,1925 580,1925 664,1925 748,1928 832,1928 916,1928 1000,1928 1084,1928 1168,1931 1252,1931 1336,1931 1420,1931 1504,1932 1588,1934 1672,1934 1756,1934 1840,1934 1924,1936 2009,1937"
+            },
+            "text": "integration of a broader range of information representing a blend of odors.",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "318,1885 318,1945 554,1945 554,1885"
+                },
+                "text": "integration"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "586,1885 586,1945 622,1945 622,1885"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "642,1885 642,1945 653,1945 653,1885"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "679,1888 679,1948 847,1948 847,1888"
+                },
+                "text": "broader"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "873,1888 873,1948 984,1948 984,1888"
+                },
+                "text": "range"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1009,1888 1009,1948 1046,1948 1046,1888"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1066,1891 1066,1951 1308,1951 1308,1891"
+                },
+                "text": "information"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1340,1891 1340,1951 1607,1951 1607,1891"
+                },
+                "text": "representing"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1633,1894 1633,1954 1645,1954 1645,1894"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1670,1894 1670,1954 1782,1954 1782,1894"
+                },
+                "text": "blend"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1814,1894 1814,1954 1850,1954 1850,1894"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1870,1896 1870,1956 2006,1956 2006,1896"
+                },
+                "text": "odors."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "1076,2170 1133,2175 1151,2156 1165,2166 1194,2141 1235,2138 1335,2168 1353,2159 1382,2168 1382,2082 1310,2084 1283,2068 1262,2088 1208,2088 1142,2034 1076,2052"
+            },
+            "baseline": {
+              "points": "1089,2128 1116,2130 1143,2131 1170,2131 1197,2131 1224,2131 1252,2131 1279,2131 1306,2131 1333,2131 1360,2131 1388,2134"
+            },
+            "text": "Introduction",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "1082,2091 1082,2151 1362,2151 1362,2091"
+                },
+                "text": "Introduction"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "477,2347 2132,2377 2132,2279 1948,2261 1773,2304 1403,2297 1332,2252 1035,2293 949,2240 735,2297 477,2254"
+            },
+            "baseline": {
+              "points": "489,2319 571,2325 653,2325 736,2325 818,2325 901,2325 983,2325 1065,2328 1148,2330 1230,2331 1313,2331 1395,2331 1477,2331 1560,2331 1642,2332 1725,2334 1807,2333 1889,2332 1972,2334 2054,2337 2137,2334"
+            },
+            "text": "Odorants are thought to activate olfactory receptor neurons by binding to",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "479,2285 479,2345 678,2345 678,2285"
+                },
+                "text": "Odorants"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "704,2285 704,2345 761,2345 761,2285"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "788,2285 788,2345 962,2345 962,2285"
+                },
+                "text": "thought"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "982,2285 982,2345 1013,2345 1013,2285"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1040,2289 1040,2349 1193,2349 1193,2289"
+                },
+                "text": "activate"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1220,2291 1220,2351 1406,2351 1406,2291"
+                },
+                "text": "olfactory"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1433,2291 1433,2351 1612,2351 1612,2291"
+                },
+                "text": "receptor"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1632,2293 1632,2353 1806,2353 1806,2293"
+                },
+                "text": "neurons"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1832,2292 1832,2352 1876,2352 1876,2292"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1903,2294 1903,2354 2056,2354 2056,2294"
+                },
+                "text": "binding"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "2089,2295 2089,2355 2114,2355 2114,2295"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "318,2443 708,2474 774,2443 908,2483 960,2443 1074,2477 2138,2456 2138,2402 2079,2381 318,2381"
+            },
+            "baseline": {
+              "points": "331,2421 421,2424 512,2424 602,2424 693,2424 784,2427 874,2424 965,2427 1055,2428 1146,2430 1237,2430 1327,2430 1418,2431 1508,2430 1599,2430 1690,2433 1780,2433 1871,2433 1961,2433 2052,2434 2143,2433"
+            },
+            "text": "G-protein coupled receptors that modulate the production of at least two kinds",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "319,2384 319,2444 532,2444 532,2384"
+                },
+                "text": "G-protein"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "563,2384 563,2444 735,2444 735,2384"
+                },
+                "text": "coupled"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "765,2384 765,2444 967,2444 967,2384"
+                },
+                "text": "receptors"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "992,2387 992,2447 1074,2447 1074,2387"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1093,2390 1093,2450 1289,2450 1289,2390"
+                },
+                "text": "modulate"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1319,2390 1319,2450 1379,2450 1379,2390"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1409,2390 1409,2450 1641,2450 1641,2390"
+                },
+                "text": "production"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1677,2393 1677,2453 1718,2453 1718,2393"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1736,2393 1736,2453 1771,2453 1771,2393"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1796,2393 1796,2453 1897,2453 1897,2393"
+                },
+                "text": "least"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1915,2393 1915,2453 1986,2453 1986,2393"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "2010,2393 2010,2453 2128,2453 2128,2393"
+                },
+                "text": "kinds"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "316,2563 2134,2554 2134,2488 1741,2458 1616,2499 1244,2463 681,2497 599,2458 533,2495 316,2458"
+            },
+            "baseline": {
+              "points": "328,2525 418,2525 509,2525 599,2525 690,2525 781,2525 871,2528 962,2525 1052,2528 1143,2529 1234,2531 1324,2531 1415,2531 1505,2531 1596,2531 1687,2529 1777,2533 1868,2534 1958,2534 2049,2534 2140,2534"
+            },
+            "text": "of intracellular second messengers, cyclic nucleotides (cyclic 3\u2019,5'-adenosine",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "317,2485 317,2545 363,2545 363,2485"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "393,2485 393,2545 671,2545 671,2485"
+                },
+                "text": "intracellular"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "701,2485 701,2545 845,2545 845,2485"
+                },
+                "text": "second"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "881,2486 881,2546 1159,2546 1159,2486"
+                },
+                "text": "messengers,"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "1183,2491 1183,2551 1299,2551 1299,2491"
+                },
+                "text": "cyclic"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1329,2491 1329,2551 1590,2551 1590,2491"
+                },
+                "text": "nucleotides"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1620,2489 1620,2549 1758,2549 1758,2489"
+                },
+                "text": "(cyclic"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1788,2494 1788,2554 2119,2554 2119,2494"
+                },
+                "text": "3\u2019,5'-adenosine"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "318,2638 2036,2665 2132,2649 2129,2576 1446,2606 488,2558 316,2597"
+            },
+            "baseline": {
+              "points": "331,2624 421,2624 511,2627 601,2627 691,2627 781,2630 871,2630 962,2630 1052,2630 1142,2633 1232,2633 1322,2633 1412,2633 1502,2633 1593,2633 1683,2633 1773,2633 1863,2636 1953,2636 2043,2638 2134,2636"
+            },
+            "text": "monophosphate (cAMP) or cyclic 3\u2019,5'-guanosine monophosphate (cGMP)), and",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "318,2586 318,2646 679,2646 679,2586"
+                },
+                "text": "monophosphate"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "706,2590 706,2650 880,2650 880,2590"
+                },
+                "text": "(cAMP)"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "893,2590 893,2650 938,2650 938,2590"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "958,2590 958,2650 1073,2650 1073,2590"
+                },
+                "text": "cyclic"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1100,2593 1100,2653 1423,2653 1423,2593"
+                },
+                "text": "3\u2019,5'-guanosine"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1450,2593 1450,2653 1804,2653 1804,2593"
+                },
+                "text": "monophosphate"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1831,2596 1831,2656 2030,2656 2030,2596"
+                },
+                "text": "(cGMP)),"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "2044,2597 2044,2657 2114,2657 2114,2597"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "316,2781 695,2731 931,2785 1183,2722 1298,2776 1516,2733 1573,2769 2134,2742 2107,2683 1932,2665 316,2681"
+            },
+            "baseline": {
+              "points": "328,2716 418,2716 509,2716 599,2719 690,2719 781,2719 871,2719 962,2719 1052,2720 1143,2721 1234,2722 1324,2723 1415,2723 1505,2725 1596,2725 1687,2723 1777,2721 1868,2725 1958,2725 2049,2725 2140,2725"
+            },
+            "text": "inositol 1,4,5-trisphosphate (IP3). These second messengers then activate",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "318,2676 318,2736 499,2736 499,2676"
+                },
+                "text": "inositol"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "530,2679 530,2739 972,2739 972,2679"
+                },
+                "text": "1,4,5-trisphosphate"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "1015,2680 1015,2740 1142,2740 1142,2680"
+                },
+                "text": "(IP3)."
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "1185,2682 1185,2742 1305,2742 1305,2682"
+                },
+                "text": "These"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1342,2683 1342,2743 1487,2743 1487,2683"
+                },
+                "text": "second"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1531,2683 1531,2743 1791,2743 1791,2683"
+                },
+                "text": "messengers"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1822,2684 1822,2744 1912,2744 1912,2684"
+                },
+                "text": "then"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1949,2685 1949,2745 2118,2745 2118,2685"
+                },
+                "text": "activate"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "309,2847 2129,2847 2129,2797 2054,2783 309,2781"
+            },
+            "baseline": {
+              "points": "322,2824 412,2824 503,2827 593,2827 684,2827 775,2827 865,2827 956,2827 1046,2830 1137,2830 1228,2830 1318,2830 1409,2830 1499,2833 1590,2833 1681,2833 1771,2833 1862,2833 1952,2833 2043,2833 2134,2833"
+            },
+            "text": "multiple channels resulting in either activation or inactivation of the receptor",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "310,2784 310,2844 491,2844 491,2784"
+                },
+                "text": "multiple"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "527,2787 527,2847 719,2847 719,2787"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "749,2787 749,2847 936,2847 936,2787"
+                },
+                "text": "resulting"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "972,2788 972,2848 1001,2848 1001,2788"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "1036,2790 1036,2850 1159,2850 1159,2790"
+                },
+                "text": "either"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1183,2790 1183,2850 1393,2850 1393,2790"
+                },
+                "text": "activation"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1423,2791 1423,2851 1469,2851 1469,2791"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1493,2793 1493,2853 1751,2853 1751,2793"
+                },
+                "text": "inactivation"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1787,2793 1787,2853 1827,2853 1827,2793"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1851,2793 1851,2853 1909,2853 1909,2793"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1939,2793 1939,2853 2119,2853 2119,2793"
+                },
+                "text": "receptor"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "316,2942 726,2969 917,2926 1028,2969 1321,2931 1687,2962 1741,2928 2141,2969 2141,2885 1952,2865 316,2881"
+            },
+            "baseline": {
+              "points": "328,2913 418,2916 509,2916 600,2916 691,2919 781,2916 872,2916 963,2917 1054,2919 1144,2920 1235,2920 1326,2922 1417,2922 1507,2922 1598,2922 1689,2922 1780,2923 1870,2922 1961,2925 2052,2925 2143,2928"
+            },
+            "text": "neuron (Boekhoff et al. 1994). Cyclic nucleotide and IP3 olfactory transduction",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "319,2875 319,2935 466,2935 466,2875"
+                },
+                "text": "neuron"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "500,2876 500,2936 715,2936 715,2876"
+                },
+                "text": "(Boekhoff"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "736,2876 736,2936 769,2936 769,2876"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "790,2876 790,2936 836,2936 836,2876"
+                },
+                "text": "al."
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "857,2876 857,2936 991,2936 991,2876"
+                },
+                "text": "1994)."
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "1019,2879 1019,2939 1146,2939 1146,2879"
+                },
+                "text": "Cyclic"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1173,2881 1173,2941 1395,2941 1395,2881"
+                },
+                "text": "nucleotide"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1423,2882 1423,2942 1489,2942 1489,2882"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1530,2882 1530,2942 1597,2942 1597,2882"
+                },
+                "text": "IP3"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1631,2882 1631,2942 1819,2942 1819,2882"
+                },
+                "text": "olfactory"
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "1847,2885 1847,2945 2122,2945 2122,2885"
+                },
+                "text": "transduction"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

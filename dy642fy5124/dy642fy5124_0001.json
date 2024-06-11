@@ -1,0 +1,714 @@
+{
+  "processId": 10311210,
+  "status": "FINISHED",
+  "content": {
+    "text": "ABSTRACT\nThis model of primary production in Monterey Bay predicts weekly\nphytoplankton growth under given environmental conditions. Growth values are\nthen combined with equations for fallout, advection, and nutrient recycling to\ncalculate each week's phytoplankton biomass. The model's predictions,\nespecially for production, compare well to actual measurements for the bay. The\nmodel also predicts a small winter phytoplankton bloom resulting from nitrate\naccumulation. This bloom has been observed in the field. With additional\ncomplexity, this simulation could provide input terms for future bay models.",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "477,330 477,1304 2215,1304 2215,330"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "1194,409 1248,414 1267,401 1302,414 1321,399 1367,429 1421,403 1495,416 1495,303 1473,310 1393,292 1380,305 1330,305 1285,334 1194,327"
+            },
+            "baseline": {
+              "points": "1206,388 1232,384 1259,382 1286,382 1313,382 1340,382 1366,382 1393,382 1420,382 1447,382 1474,382 1501,388"
+            },
+            "text": "ABSTRACT",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "1200,342 1200,402 1479,402 1479,342"
+                },
+                "text": "ABSTRACT"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "617,583 2071,596 2071,516 1252,544 914,483 799,537 617,524"
+            },
+            "baseline": {
+              "points": "629,576 701,576 773,576 846,576 918,577 991,576 1063,579 1135,576 1208,576 1280,576 1353,576 1425,576 1497,579 1570,576 1642,576 1715,576 1787,579 1859,576 1932,576 2004,578 2077,576"
+            },
+            "text": "This model of primary production in Monterey Bay predicts weekly",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "617,536 617,596 699,596 699,536"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "722,536 722,596 852,596 852,536"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "869,536 869,596 907,596 907,536"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "924,536 924,596 1082,596 1082,536"
+                },
+                "text": "primary"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1105,536 1105,596 1329,596 1329,536"
+                },
+                "text": "production"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1357,536 1357,596 1384,596 1384,536"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1412,538 1412,598 1614,598 1614,538"
+                },
+                "text": "Monterey"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1642,536 1642,596 1712,596 1712,536"
+                },
+                "text": "Bay"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1735,537 1735,597 1898,597 1898,537"
+                },
+                "text": "predicts"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1921,537 1921,597 2057,597 2057,537"
+                },
+                "text": "weekly"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "474,717 2210,693 2210,641 2038,615 1980,646 474,628"
+            },
+            "baseline": {
+              "points": "486,683 572,677 658,677 745,676 831,671 918,677 1004,677 1091,677 1177,676 1264,677 1350,677 1436,677 1523,677 1609,677 1696,677 1782,677 1869,677 1955,677 2042,677 2128,677 2215,677"
+            },
+            "text": "phytoplankton growth under given environmental conditions. Growth values are",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "474,637 474,697 771,697 771,637"
+                },
+                "text": "phytoplankton"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "799,633 799,693 931,693 931,633"
+                },
+                "text": "growth"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "958,637 958,697 1080,697 1080,637"
+                },
+                "text": "under"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "1096,636 1096,696 1197,696 1197,636"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "1224,637 1224,697 1538,697 1538,637"
+                },
+                "text": "environmental"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1554,637 1554,697 1788,697 1788,637"
+                },
+                "text": "conditions."
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1815,637 1815,697 1963,697 1963,637"
+                },
+                "text": "Growth"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1991,637 1991,697 2117,697 2117,637"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "2134,637 2134,697 2192,697 2192,637"
+                },
+                "text": "are"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "477,789 711,819 834,786 947,830 1326,784 2132,804 2132,721 477,737"
+            },
+            "baseline": {
+              "points": "489,773 571,776 653,776 736,776 818,776 901,776 983,776 1065,779 1148,776 1230,777 1313,776 1395,776 1477,776 1560,779 1642,777 1725,777 1807,776 1889,778 1972,776 2054,776 2137,779"
+            },
+            "text": "then combined with equations for fallout, advection, and nutrient recycling to",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "477,734 477,794 561,794 561,734"
+                },
+                "text": "then"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "588,736 588,796 783,796 783,736"
+                },
+                "text": "combined"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "810,736 810,796 888,796 888,736"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "915,737 915,797 1116,797 1116,737"
+                },
+                "text": "equations"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "1137,736 1137,796 1190,796 1190,736"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1211,736 1211,796 1358,796 1358,736"
+                },
+                "text": "fallout,"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1375,736 1375,796 1591,796 1591,736"
+                },
+                "text": "advection,"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1608,737 1608,797 1676,797 1676,737"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1703,736 1703,796 1866,796 1866,736"
+                },
+                "text": "nutrient"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1882,736 1882,796 2061,796 2061,736"
+                },
+                "text": "recycling"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "2088,737 2088,797 2114,797 2114,737"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "481,908 2019,912 2019,841 1913,815 1820,847 481,838"
+            },
+            "baseline": {
+              "points": "492,874 568,877 645,876 721,874 798,874 875,877 951,874 1028,877 1104,877 1181,877 1258,877 1334,877 1411,877 1487,877 1564,877 1641,877 1717,877 1794,874 1870,877 1947,877 2024,880"
+            },
+            "text": "calculate each week's phytoplankton biomass. The model's predictions,",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "487,836 487,896 659,896 659,836"
+                },
+                "text": "calculate"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "687,834 687,894 772,894 772,834"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "795,836 795,896 935,896 935,836"
+                },
+                "text": "week's"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "952,837 952,897 1249,897 1249,837"
+                },
+                "text": "phytoplankton"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "1277,837 1277,897 1459,897 1459,837"
+                },
+                "text": "biomass."
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1487,837 1487,897 1562,897 1562,837"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1584,837 1584,897 1746,897 1746,837"
+                },
+                "text": "model's"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1769,837 1769,897 2011,897 2011,837"
+                },
+                "text": "predictions,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "470,1009 2212,992 2171,901 2099,942 1885,910 470,942"
+            },
+            "baseline": {
+              "points": "483,970 569,976 656,976 742,976 829,975 916,976 1002,979 1089,979 1175,976 1262,976 1349,976 1435,976 1522,977 1608,976 1695,976 1782,976 1868,976 1955,976 2041,978 2128,979 2215,976"
+            },
+            "text": "especially for production, compare well to actual measurements for the bay. The",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "475,936 475,996 671,996 671,936"
+                },
+                "text": "especially"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "697,936 697,996 748,996 748,936"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "770,935 770,995 1017,995 1017,935"
+                },
+                "text": "production,"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "1033,937 1033,997 1203,997 1203,937"
+                },
+                "text": "compare"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1235,936 1235,996 1317,996 1317,936"
+                },
+                "text": "well"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1333,936 1333,996 1358,996 1358,936"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1390,936 1390,996 1513,996 1513,936"
+                },
+                "text": "actual"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1529,936 1529,996 1838,996 1838,936"
+                },
+                "text": "measurements"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1860,936 1860,996 1911,996 1911,936"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1932,936 1932,996 1983,996 1983,936"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "2010,938 2010,998 2097,998 2097,938"
+                },
+                "text": "bay."
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "2123,937 2123,997 2195,997 2195,937"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "466,1100 1133,1096 1235,1131 1391,1096 1525,1135 2149,1090 2149,1040 2067,1014 466,1035"
+            },
+            "baseline": {
+              "points": "477,1074 560,1077 644,1077 728,1075 812,1077 896,1077 980,1077 1064,1077 1148,1077 1232,1074 1316,1075 1399,1077 1483,1077 1567,1076 1651,1077 1735,1077 1819,1077 1903,1077 1987,1077 2071,1077 2155,1077"
+            },
+            "text": "model also predicts a small winter phytoplankton bloom resulting from nitrate",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "466,1036 466,1096 601,1096 601,1036"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "617,1036 617,1096 684,1096 684,1036"
+                },
+                "text": "also"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "716,1036 716,1096 876,1096 876,1036"
+                },
+                "text": "predicts"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "898,1037 898,1097 907,1097 907,1037"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "934,1037 934,1097 1049,1097 1049,1037"
+                },
+                "text": "small"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1060,1037 1060,1097 1189,1097 1189,1037"
+                },
+                "text": "winter"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1210,1036 1210,1096 1512,1096 1512,1036"
+                },
+                "text": "phytoplankton"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1538,1036 1538,1096 1653,1096 1653,1036"
+                },
+                "text": "bloom"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1695,1037 1695,1097 1866,1097 1866,1037"
+                },
+                "text": "resulting"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1893,1037 1893,1097 1965,1097 1965,1037"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "2007,1037 2007,1097 2136,1097 2136,1037"
+                },
+                "text": "nitrate"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "474,1215 2071,1200 2071,1131 1991,1116 474,1131"
+            },
+            "baseline": {
+              "points": "486,1176 565,1176 645,1178 724,1178 804,1179 883,1176 963,1176 1042,1177 1122,1176 1201,1176 1281,1177 1361,1176 1440,1176 1520,1179 1599,1176 1679,1176 1758,1176 1838,1176 1917,1176 1997,1176 2077,1179"
+            },
+            "text": "accumulation. This bloom has been observed in the field. With additional",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "480,1137 480,1197 776,1197 776,1137"
+                },
+                "text": "accumulation."
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "804,1137 804,1197 890,1197 890,1137"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "907,1136 907,1196 1014,1196 1014,1136"
+                },
+                "text": "bloom"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "1058,1136 1058,1196 1123,1196 1123,1136"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1140,1136 1140,1196 1231,1196 1231,1136"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1258,1136 1258,1196 1442,1196 1442,1136"
+                },
+                "text": "observed"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1469,1137 1469,1197 1490,1197 1490,1137"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1518,1137 1518,1197 1577,1197 1577,1137"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1599,1136 1599,1196 1707,1196 1707,1136"
+                },
+                "text": "field."
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1734,1136 1734,1196 1826,1196 1826,1136"
+                },
+                "text": "With"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1853,1136 1853,1196 2064,1196 2064,1136"
+                },
+                "text": "additional"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "474,1328 910,1289 1044,1328 1155,1287 2099,1295 2084,1215 1835,1246 474,1217"
+            },
+            "baseline": {
+              "points": "486,1277 566,1277 647,1277 728,1279 809,1277 890,1277 971,1277 1052,1277 1133,1277 1214,1277 1295,1277 1375,1277 1456,1277 1537,1277 1618,1277 1699,1277 1780,1274 1861,1277 1942,1277 2023,1277 2104,1280"
+            },
+            "text": "complexity, this simulation could provide input terms for future bay models.",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "479,1237 479,1297 721,1297 721,1237"
+                },
+                "text": "complexity,"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "737,1237 737,1297 804,1297 804,1237"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "825,1237 825,1297 1032,1297 1032,1237"
+                },
+                "text": "simulation"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "1064,1237 1064,1297 1161,1297 1161,1237"
+                },
+                "text": "could"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "1193,1237 1193,1297 1342,1297 1342,1237"
+                },
+                "text": "provide"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1368,1237 1368,1297 1476,1297 1476,1237"
+                },
+                "text": "input"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1492,1237 1492,1297 1606,1297 1606,1237"
+                },
+                "text": "terms"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1627,1237 1627,1297 1684,1297 1684,1237"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1705,1234 1705,1294 1823,1294 1823,1234"
+                },
+                "text": "future"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1850,1237 1850,1297 1911,1297 1911,1237"
+                },
+                "text": "bay"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1937,1237 1937,1297 2097,1297 2097,1237"
+                },
+                "text": "models."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

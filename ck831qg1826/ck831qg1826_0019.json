@@ -1,0 +1,2976 @@
+{
+  "processId": 10308221,
+  "status": "FINISHED",
+  "content": {
+    "text": "Figure Legend:\nFig. 1) The maps of sites 1 and 2, showing all locations observed of all limpets.\nEach limpet is color coded, and the lines delineate boundaries of grazing\nranges. The areas within each range that show a high density of points\nindicates home scars.\nFig. 2) The maps of sites 3 and 4, showing all locations observed of all limpets.\nEach limpet is color coded, and the lines delineate boundaries of\ngrazing ranges. The areas within each range that show a high density of\npoints indicates home scars.\nFig. 3) Histogram distribution of limpet shell sizes.\nmean = 1638.8 mm2, standard deviation = 409.8 mm2\nrange = 956.1 - 3165.8 mm2\nn =51\nFig. 4) Territory size (log transformed) regressed against limpet size (log\ntransformed).\nR =0.489, p \u00ab 0.001, n = 51\nTerritory size shows a significant positive correlation with limpet\nsize. Territory size increases as limpets get larger.\nFig. 5) Limpet size regressed against home scar height.\nR = 0.373, p \u00ab 0.01, n =51\nLimpet size is negatively correlated with height of home scar. Larger\nlimpets form home scars lower on the rock, closed to the water.\nFig. 6) Average displacement of limpets recorded at any given observation\nsession regressed against the percentage of the limpets that moved at\nthat session.\nR = 0.580, p \u00ab 0.001, n = 98\nThere was a positive correlation between average displacement of\nlimpets and the fraction of limpets displaced at a given observation\nsession. Under favorable environmental conditions, when more limpets\nmove, they move greater distances.\nFig. 7) The ratio of average displacement to territory size regressed against the\nfraction of times a limpet was found displaced.\nR =0.573, p \u00ab 0.001, n = 51\nSince the average displacement for a limpet depended on territory\nsize, the ratio of the two provided a normalized measure that could be\ncompared to the frequency of limpet displacements. A significant\nnegative relationship was found. A limpet that moved more frequently\ncovered less distance in its territory each time compared to a limpet that\nmoved infrequently, but traveled greater distances when it did move.\nPage 20",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "358,290 358,3130 2191,3130 2191,290"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "1053,331 1128,347 1157,336 1173,350 1209,329 1267,350 1301,334 1321,347 1484,338 1484,273 1441,266 1360,284 1297,259 1258,289 1202,257 1053,275"
+            },
+            "baseline": {
+              "points": "1065,322 1091,320 1118,319 1144,319 1171,319 1197,319 1224,319 1250,319 1277,319 1303,319 1330,319 1356,320 1383,322 1409,322 1436,322 1462,322 1489,322"
+            },
+            "text": "Figure Legend:",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "1061,279 1061,339 1206,339 1206,279"
+                },
+                "text": "Figure"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "1262,280 1262,340 1474,340 1474,280"
+                },
+                "text": "Legend:"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "350,449 2158,451 2095,386 350,388"
+            },
+            "baseline": {
+              "points": "361,435 451,432 541,432 631,435 721,435 811,432 901,432 992,432 1082,435 1172,435 1262,435 1352,438 1442,435 1532,438 1623,438 1713,435 1803,435 1893,438 1983,438 2073,437 2164,441"
+            },
+            "text": "Fig. 1) The maps of sites 1 and 2, showing all locations observed of all limpets.",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "351,393 351,453 436,453 436,393"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "453,392 453,452 492,452 492,392"
+                },
+                "text": "1)"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "522,392 522,452 595,452 595,392"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "630,395 630,455 737,455 737,395"
+                },
+                "text": "maps"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "766,392 766,452 806,452 806,392"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "829,392 829,452 919,452 919,392"
+                },
+                "text": "sites"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "949,392 949,452 965,452 965,392"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "988,393 988,453 1062,453 1062,393"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1091,395 1091,455 1130,455 1130,395"
+                },
+                "text": "2,"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1148,395 1148,455 1318,455 1318,395"
+                },
+                "text": "showing"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1353,397 1353,457 1398,457 1398,397"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1415,397 1415,457 1603,457 1603,397"
+                },
+                "text": "locations"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "1632,395 1632,455 1825,455 1825,395"
+                },
+                "text": "observed"
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "1859,397 1859,457 1899,457 1899,397"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w15",
+                "coords": {
+                  "points": "1916,398 1916,458 1967,458 1967,398"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_2_w16",
+                "coords": {
+                  "points": "1979,397 1979,457 2155,457 2155,397"
+                },
+                "text": "limpets."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "507,507 2185,528 2185,465 2120,453 507,451"
+            },
+            "baseline": {
+              "points": "519,495 602,495 686,492 769,492 853,492 937,492 1020,494 1104,495 1187,495 1271,495 1355,495 1438,495 1522,495 1605,495 1689,498 1773,498 1856,498 1940,498 2023,501 2107,501 2191,501"
+            },
+            "text": "Each limpet is color coded, and the lines delineate boundaries of grazing",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "513,455 513,515 612,515 612,455"
+                },
+                "text": "Each"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "640,452 640,512 778,512 778,452"
+                },
+                "text": "limpet"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "796,452 796,512 823,512 823,452"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "852,452 852,512 956,512 956,452"
+                },
+                "text": "color"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "979,454 979,514 1128,514 1128,454"
+                },
+                "text": "coded,"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1151,455 1151,515 1217,515 1217,455"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1251,455 1251,515 1306,515 1306,455"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1334,455 1334,515 1428,515 1428,455"
+                },
+                "text": "lines"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1456,455 1456,515 1650,515 1650,455"
+                },
+                "text": "delineate"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1684,458 1684,518 1922,518 1922,458"
+                },
+                "text": "boundaries"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1950,459 1950,519 1994,519 1994,459"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "2011,461 2011,521 2165,521 2165,461"
+                },
+                "text": "grazing"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "510,564 2142,598 2126,516 510,510"
+            },
+            "baseline": {
+              "points": "522,552 603,550 684,552 766,552 847,552 928,552 1010,552 1091,553 1172,555 1254,555 1335,555 1416,555 1498,557 1579,557 1660,558 1742,558 1823,558 1904,555 1986,556 2067,558 2149,555"
+            },
+            "text": "ranges. The areas within each range that show a high density of points",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "510,510 510,570 678,570 678,510"
+                },
+                "text": "ranges."
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "716,512 716,572 785,572 785,512"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "817,512 817,572 933,572 933,512"
+                },
+                "text": "areas"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "960,512 960,572 1076,572 1076,512"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "1108,514 1108,574 1197,574 1197,514"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1230,515 1230,575 1346,575 1346,515"
+                },
+                "text": "range"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1373,515 1373,575 1457,575 1457,515"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1473,517 1473,577 1568,577 1568,517"
+                },
+                "text": "show"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1611,517 1611,577 1621,577 1621,517"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1654,518 1654,578 1732,578 1732,518"
+                },
+                "text": "high"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1765,517 1765,577 1912,577 1912,517"
+                },
+                "text": "density"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1945,515 1945,575 1981,575 1981,515"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1998,517 1998,577 2124,577 2124,517"
+                },
+                "text": "points"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "510,652 591,656 620,634 676,645 733,620 832,652 884,627 967,654 1026,625 1026,591 981,575 877,589 749,564 719,580 510,571"
+            },
+            "baseline": {
+              "points": "522,614 547,612 572,611 598,611 623,611 648,611 674,611 699,611 724,611 750,611 775,611 800,611 826,611 851,611 876,611 902,611 927,611 952,611 978,612 1003,613 1029,614"
+            },
+            "text": "indicates home scars.",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "514,571 514,631 704,631 704,571"
+                },
+                "text": "indicates"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "735,571 735,631 849,631 849,571"
+                },
+                "text": "home"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "885,571 885,631 1019,631 1019,571"
+                },
+                "text": "scars."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "352,755 2147,755 2147,697 1996,670 352,679"
+            },
+            "baseline": {
+              "points": "364,728 453,728 542,728 632,728 721,728 811,728 900,728 989,728 1079,728 1168,731 1258,728 1347,731 1436,728 1526,731 1615,731 1705,731 1794,728 1883,731 1973,734 2062,731 2152,731"
+            },
+            "text": "Fig. 2) The maps of sites 3 and 4, showing all locations observed of all limpets.",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "358,688 358,748 440,748 440,688"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "458,688 458,748 501,748 501,688"
+                },
+                "text": "2)"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "519,688 519,748 590,748 590,688"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "624,688 624,748 735,748 735,688"
+                },
+                "text": "maps"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "763,688 763,748 801,748 801,688"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "818,688 818,748 912,748 912,688"
+                },
+                "text": "sites"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "940,688 940,748 951,748 951,688"
+                },
+                "text": "3"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "985,688 985,748 1051,748 1051,688"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1085,688 1085,748 1123,748 1123,688"
+                },
+                "text": "4,"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1140,689 1140,749 1312,749 1312,689"
+                },
+                "text": "showing"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1340,690 1340,750 1390,750 1390,690"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1407,690 1407,750 1595,750 1595,690"
+                },
+                "text": "locations"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1623,690 1623,750 1817,750 1817,690"
+                },
+                "text": "observed"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1845,690 1845,750 1889,750 1889,690"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w15",
+                "coords": {
+                  "points": "1907,692 1907,752 1956,752 1956,692"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_6_w16",
+                "coords": {
+                  "points": "1968,691 1968,751 2144,751 2144,691"
+                },
+                "text": "limpets."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "507,810 1998,805 1984,744 507,737"
+            },
+            "baseline": {
+              "points": "519,785 593,788 667,788 741,785 815,785 890,788 964,788 1038,790 1112,788 1186,791 1261,791 1335,789 1409,788 1483,790 1557,790 1632,788 1706,788 1780,788 1854,788 1928,787 2003,785"
+            },
+            "text": "Each limpet is color coded, and the lines delineate boundaries of",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "512,746 512,806 609,806 609,746"
+                },
+                "text": "Each"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "641,746 641,806 780,806 780,746"
+                },
+                "text": "limpet"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "796,745 796,805 822,805 822,745"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "848,748 848,808 956,808 956,748"
+                },
+                "text": "color"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "977,749 977,809 1127,809 1127,749"
+                },
+                "text": "coded,"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1148,750 1148,810 1215,810 1215,750"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1247,750 1247,810 1303,810 1303,750"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1334,748 1334,808 1427,808 1427,748"
+                },
+                "text": "lines"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1454,750 1454,810 1644,810 1644,750"
+                },
+                "text": "delineate"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1681,748 1681,808 1918,808 1918,748"
+                },
+                "text": "boundaries"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1950,745 1950,805 1991,805 1991,745"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "510,866 1434,857 1549,893 1790,848 1917,893 2176,861 2176,807 2077,796 510,810"
+            },
+            "baseline": {
+              "points": "522,853 605,845 688,845 771,846 854,846 937,847 1020,847 1103,847 1186,847 1269,847 1352,847 1435,847 1518,850 1601,850 1684,847 1767,849 1850,850 1933,850 2016,850 2099,847 2182,847"
+            },
+            "text": "grazing ranges. The areas within each range that show a high density of",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "510,806 510,866 661,866 661,806"
+                },
+                "text": "grazing"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "695,806 695,866 862,866 862,806"
+                },
+                "text": "ranges."
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "895,806 895,866 965,866 965,806"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "998,807 998,867 1111,867 1111,807"
+                },
+                "text": "areas"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1139,807 1139,867 1252,867 1252,807"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1285,807 1285,867 1382,867 1382,807"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1410,808 1410,868 1523,868 1523,808"
+                },
+                "text": "range"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1556,810 1556,870 1642,870 1642,810"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1659,807 1659,867 1751,867 1751,807"
+                },
+                "text": "show"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1795,809 1795,869 1805,869 1805,809"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1838,810 1838,870 1919,870 1919,810"
+                },
+                "text": "high"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1946,809 1946,869 2097,869 2097,809"
+                },
+                "text": "density"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "2131,807 2131,867 2168,867 2168,807"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "507,925 681,943 861,918 900,938 1028,911 1170,936 1170,857 507,868"
+            },
+            "baseline": {
+              "points": "519,910 551,904 584,904 617,904 650,904 683,904 716,904 748,904 781,904 814,904 847,904 880,904 913,904 946,904 978,904 1011,904 1044,904 1077,904 1110,904 1143,905 1176,907"
+            },
+            "text": "points indicates home scars.",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "507,864 507,924 630,924 630,864"
+                },
+                "text": "points"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "661,864 661,924 853,924 853,864"
+                },
+                "text": "indicates"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "884,864 884,924 997,924 997,864"
+                },
+                "text": "home"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "1035,864 1035,924 1168,924 1168,864"
+                },
+                "text": "scars."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "350,1031 1497,1042 1497,967 1425,938 988,985 934,954 350,970"
+            },
+            "baseline": {
+              "points": "361,1020 418,1020 475,1020 532,1018 589,1020 646,1020 703,1020 761,1017 818,1019 875,1017 932,1019 989,1020 1046,1023 1103,1023 1161,1023 1218,1023 1275,1023 1332,1023 1389,1023 1446,1022 1504,1020"
+            },
+            "text": "Fig. 3) Histogram distribution of limpet shell sizes.",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "357,980 357,1040 441,1040 441,980"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "459,979 459,1039 498,1039 498,979"
+                },
+                "text": "3)"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "516,980 516,1040 720,1040 720,980"
+                },
+                "text": "Histogram"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "772,977 772,1037 999,1037 999,977"
+                },
+                "text": "distribution"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1034,983 1034,1043 1073,1043 1073,983"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1091,983 1091,1043 1227,1043 1227,983"
+                },
+                "text": "limpet"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1245,983 1245,1043 1346,1043 1346,983"
+                },
+                "text": "shell"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1364,982 1364,1042 1489,1042 1489,982"
+                },
+                "text": "sizes."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "507,1094 1723,1105 1723,1035 658,1060 507,1026"
+            },
+            "baseline": {
+              "points": "519,1080 579,1080 639,1078 700,1074 760,1075 821,1079 881,1080 942,1080 1002,1080 1063,1083 1123,1083 1183,1081 1244,1083 1304,1083 1365,1083 1425,1080 1486,1080 1546,1080 1607,1081 1667,1081 1728,1080"
+            },
+            "text": "mean = 1638.8 mm2, standard deviation = 409.8 mm2",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "512,1040 512,1100 628,1100 628,1040"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "660,1036 660,1096 670,1096 670,1036"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "708,1036 708,1096 844,1096 844,1036"
+                },
+                "text": "1638.8"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "876,1040 876,1100 987,1100 987,1040"
+                },
+                "text": "mm2,"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1008,1043 1008,1103 1188,1103 1188,1043"
+                },
+                "text": "standard"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1220,1043 1220,1103 1404,1103 1404,1043"
+                },
+                "text": "deviation"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1436,1040 1436,1100 1446,1100 1446,1040"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1479,1040 1479,1100 1594,1100 1594,1040"
+                },
+                "text": "409.8"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1621,1040 1621,1100 1715,1100 1715,1040"
+                },
+                "text": "mm2"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "510,1159 649,1150 697,1173 868,1139 1155,1170 1155,1094 510,1103"
+            },
+            "baseline": {
+              "points": "522,1140 555,1138 589,1137 622,1136 656,1134 690,1132 723,1131 757,1132 791,1134 824,1134 858,1134 891,1134 925,1134 959,1136 992,1138 1026,1140 1060,1140 1093,1140 1127,1140 1161,1140"
+            },
+            "text": "range = 956.1 - 3165.8 mm2",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "511,1097 511,1157 622,1157 622,1097"
+                },
+                "text": "range"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "657,1093 657,1153 667,1153 667,1093"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "702,1092 702,1152 820,1152 820,1092"
+                },
+                "text": "956.1"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "849,1094 849,1154 859,1154 859,1094"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "882,1095 882,1155 1023,1155 1023,1095"
+                },
+                "text": "3165.8"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1057,1100 1057,1160 1152,1160 1152,1100"
+                },
+                "text": "mm2"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "501,1222 519,1227 523,1222 550,1227 568,1222 577,1227 591,1213 622,1218 667,1211 670,1155 647,1155 638,1148 627,1157 595,1159 584,1170 559,1168 541,1155 503,1168"
+            },
+            "baseline": {
+              "points": "513,1197 539,1194 565,1192 592,1191 618,1191 644,1192 671,1194"
+            },
+            "text": "n =51",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "508,1156 508,1216 519,1216 519,1156"
+                },
+                "text": "n"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "549,1151 549,1211 654,1211 654,1151"
+                },
+                "text": "=51"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "352,1317 2014,1353 2011,1256 1905,1222 1849,1261 1612,1231 1482,1276 1373,1236 1103,1279 859,1233 737,1283 352,1254"
+            },
+            "baseline": {
+              "points": "364,1313 446,1310 529,1312 612,1312 694,1311 777,1312 860,1310 942,1313 1025,1313 1108,1313 1191,1313 1273,1314 1356,1313 1439,1313 1521,1316 1604,1314 1687,1316 1769,1316 1852,1316 1935,1316 2018,1322"
+            },
+            "text": "Fig. 4) Territory size (log transformed) regressed against limpet size (log",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "353,1271 353,1331 436,1331 436,1271"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "455,1270 455,1330 495,1330 495,1270"
+                },
+                "text": "4)"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "520,1272 520,1332 693,1332 693,1272"
+                },
+                "text": "Territory"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "723,1271 723,1331 800,1331 800,1271"
+                },
+                "text": "size"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "830,1270 830,1330 901,1330 901,1270"
+                },
+                "text": "(log"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "931,1273 931,1333 1217,1333 1217,1273"
+                },
+                "text": "transformed)"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1236,1273 1236,1333 1450,1333 1450,1273"
+                },
+                "text": "regressed"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1480,1275 1480,1335 1640,1335 1640,1275"
+                },
+                "text": "against"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1659,1276 1659,1336 1796,1336 1796,1276"
+                },
+                "text": "limpet"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1809,1276 1809,1336 1885,1336 1885,1276"
+                },
+                "text": "size"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1922,1277 1922,1337 1992,1337 1992,1277"
+                },
+                "text": "(log"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "501,1373 582,1396 649,1380 719,1382 758,1400 785,1391 825,1403 825,1337 807,1330 699,1337 643,1326 584,1337 566,1328 501,1339"
+            },
+            "baseline": {
+              "points": "513,1373 539,1373 566,1373 592,1373 619,1372 645,1370 672,1370 699,1370 725,1370 752,1371 778,1373 805,1373 832,1373"
+            },
+            "text": "transformed).",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "501,1330 501,1390 822,1390 822,1330"
+                },
+                "text": "transformed)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "501,1434 789,1457 848,1439 999,1457 1082,1432 1152,1448 1152,1362 1067,1389 1010,1371 884,1398 859,1378 803,1405 690,1380 501,1391"
+            },
+            "baseline": {
+              "points": "513,1429 545,1429 577,1429 609,1429 641,1429 673,1429 705,1429 737,1429 769,1427 801,1427 834,1430 866,1432 898,1432 930,1431 962,1429 994,1429 1026,1429 1058,1428 1090,1426 1122,1428 1155,1432"
+            },
+            "text": "R =0.489, p \u00ab 0.001, n = 51",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "502,1389 502,1449 520,1449 520,1389"
+                },
+                "text": "R"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "556,1389 556,1449 747,1449 747,1389"
+                },
+                "text": "=0.489,"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "760,1387 760,1447 777,1447 777,1387"
+                },
+                "text": "p"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "808,1388 808,1448 819,1448 819,1388"
+                },
+                "text": "\u00ab"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "850,1391 850,1451 993,1451 993,1391"
+                },
+                "text": "0.001,"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1011,1389 1011,1449 1023,1449 1023,1389"
+                },
+                "text": "n"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1053,1387 1053,1447 1064,1447 1064,1387"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1095,1387 1095,1447 1142,1447 1142,1387"
+                },
+                "text": "51"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "516,1497 1962,1502 1962,1452 1840,1434 516,1443"
+            },
+            "baseline": {
+              "points": "528,1489 603,1488 679,1488 755,1489 830,1488 906,1489 982,1489 1058,1489 1133,1492 1209,1492 1285,1489 1361,1489 1436,1489 1512,1489 1588,1489 1664,1489 1739,1492 1815,1491 1891,1492 1967,1495"
+            },
+            "text": "Territory size shows a significant positive correlation with limpet",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "522,1448 522,1508 694,1508 694,1448"
+                },
+                "text": "Territory"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "722,1448 722,1508 798,1508 798,1448"
+                },
+                "text": "size"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "831,1448 831,1508 961,1508 961,1448"
+                },
+                "text": "shows"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "988,1449 988,1509 1004,1509 1004,1449"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "1032,1452 1032,1512 1259,1512 1259,1452"
+                },
+                "text": "significant"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1276,1449 1276,1509 1433,1509 1433,1449"
+                },
+                "text": "positive"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1466,1449 1466,1509 1688,1509 1688,1449"
+                },
+                "text": "correlation"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1722,1451 1722,1511 1791,1511 1791,1451"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1825,1452 1825,1512 1959,1512 1959,1452"
+                },
+                "text": "limpet"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "510,1581 1669,1572 1646,1500 510,1509"
+            },
+            "baseline": {
+              "points": "522,1549 579,1547 637,1547 694,1549 752,1549 810,1548 867,1548 925,1549 982,1548 1040,1548 1098,1549 1155,1549 1213,1549 1270,1551 1328,1549 1386,1549 1443,1549 1501,1549 1558,1552 1616,1550 1674,1552"
+            },
+            "text": "size. Territory size increases as limpets get larger.",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "515,1507 515,1567 615,1567 615,1507"
+                },
+                "text": "size."
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "648,1509 648,1569 828,1569 828,1509"
+                },
+                "text": "Territory"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "855,1508 855,1568 929,1568 929,1508"
+                },
+                "text": "size"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "961,1508 961,1568 1168,1568 1168,1508"
+                },
+                "text": "increases"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1195,1509 1195,1569 1237,1569 1237,1509"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1264,1509 1264,1569 1412,1569 1412,1509"
+                },
+                "text": "limpets"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1439,1509 1439,1569 1508,1569 1508,1509"
+                },
+                "text": "get"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1524,1510 1524,1570 1667,1570 1667,1510"
+                },
+                "text": "larger."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "352,1675 1635,1687 1610,1588 1367,1635 1288,1594 1121,1628 607,1626 555,1585 352,1612"
+            },
+            "baseline": {
+              "points": "364,1662 427,1663 491,1665 555,1663 618,1665 682,1662 746,1663 809,1665 873,1664 937,1664 1001,1667 1064,1667 1128,1668 1192,1667 1255,1665 1319,1665 1383,1665 1446,1665 1510,1665 1574,1665 1638,1668"
+            },
+            "text": "Fig. 5) Limpet size regressed against home scar height.",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "353,1622 353,1682 441,1682 441,1622"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "458,1624 458,1684 502,1684 502,1624"
+                },
+                "text": "5)"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "520,1624 520,1684 669,1684 669,1624"
+                },
+                "text": "Limpet"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "692,1622 692,1682 764,1682 764,1622"
+                },
+                "text": "size"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "798,1624 798,1684 1009,1684 1009,1624"
+                },
+                "text": "regressed"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1043,1627 1043,1687 1204,1687 1204,1627"
+                },
+                "text": "against"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1221,1625 1221,1685 1332,1685 1332,1625"
+                },
+                "text": "home"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1366,1625 1366,1685 1454,1685 1454,1625"
+                },
+                "text": "scar"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1477,1625 1477,1685 1627,1685 1627,1625"
+                },
+                "text": "height."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "503,1734 1114,1739 1116,1682 1024,1698 911,1675 801,1700 692,1675 593,1698 505,1675"
+            },
+            "baseline": {
+              "points": "516,1722 546,1720 576,1720 606,1722 636,1724 666,1725 696,1725 727,1723 757,1722 787,1722 817,1722 847,1723 877,1725 907,1725 938,1724 968,1722 998,1720 1028,1719 1058,1719 1088,1719 1119,1722"
+            },
+            "text": "R = 0.373, p \u00ab 0.01, n =51",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "510,1681 510,1741 528,1741 528,1681"
+                },
+                "text": "R"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "564,1680 564,1740 575,1740 575,1680"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "612,1685 612,1745 748,1745 748,1685"
+                },
+                "text": "0.373,"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "761,1682 761,1742 778,1742 778,1682"
+                },
+                "text": "p"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "809,1682 809,1742 820,1742 820,1682"
+                },
+                "text": "\u00ab"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "850,1685 850,1745 963,1745 963,1685"
+                },
+                "text": "0.01,"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "982,1680 982,1740 993,1740 993,1680"
+                },
+                "text": "n"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1017,1679 1017,1739 1112,1739 1112,1679"
+                },
+                "text": "=51"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "501,1793 2081,1818 2081,1734 501,1736"
+            },
+            "baseline": {
+              "points": "513,1782 591,1780 670,1781 748,1782 827,1779 906,1782 984,1782 1063,1782 1142,1782 1220,1783 1299,1782 1378,1779 1456,1782 1535,1782 1614,1782 1692,1782 1771,1782 1850,1785 1928,1785 2007,1784 2086,1782"
+            },
+            "text": "Limpet size is negatively correlated with height of home scar. Larger",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "501,1740 501,1800 650,1800 650,1740"
+                },
+                "text": "Limpet"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "666,1741 666,1801 740,1801 740,1741"
+                },
+                "text": "size"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "773,1740 773,1800 799,1800 799,1740"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "826,1742 826,1802 1044,1802 1044,1742"
+                },
+                "text": "negatively"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1077,1742 1077,1802 1284,1802 1284,1742"
+                },
+                "text": "correlated"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1317,1739 1317,1799 1391,1799 1391,1739"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1424,1742 1424,1802 1562,1802 1562,1742"
+                },
+                "text": "height"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1578,1742 1578,1802 1620,1802 1620,1742"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1637,1742 1637,1802 1748,1802 1748,1742"
+                },
+                "text": "home"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1781,1744 1781,1804 1892,1804 1892,1744"
+                },
+                "text": "scar."
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1925,1744 1925,1804 2068,1804 2068,1744"
+                },
+                "text": "Larger"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "510,1865 1955,1860 1942,1797 510,1790"
+            },
+            "baseline": {
+              "points": "522,1841 597,1838 673,1838 749,1838 824,1841 900,1838 976,1838 1052,1838 1127,1840 1203,1841 1279,1841 1355,1841 1430,1841 1506,1841 1582,1841 1658,1841 1733,1841 1809,1841 1885,1841 1961,1844"
+            },
+            "text": "limpets form home scars lower on the rock, closed to the water.",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "510,1798 510,1858 660,1858 660,1798"
+                },
+                "text": "limpets"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "691,1798 691,1858 762,1858 762,1798"
+                },
+                "text": "form"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "807,1799 807,1859 918,1859 918,1799"
+                },
+                "text": "home"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "949,1798 949,1858 1059,1858 1059,1798"
+                },
+                "text": "scars"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1085,1800 1085,1860 1201,1860 1201,1800"
+                },
+                "text": "lower"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1221,1801 1221,1861 1262,1861 1262,1801"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1292,1801 1292,1861 1347,1861 1347,1801"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1378,1801 1378,1861 1484,1861 1484,1801"
+                },
+                "text": "rock,"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1505,1801 1505,1861 1635,1861 1635,1801"
+                },
+                "text": "closed"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1666,1801 1666,1861 1691,1861 1691,1801"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1727,1801 1727,1861 1787,1861 1787,1801"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1818,1801 1818,1861 1953,1861 1953,1801"
+                },
+                "text": "water."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "345,1978 2059,1971 2059,1921 1957,1928 1908,1885 1768,1926 1558,1890 345,1905"
+            },
+            "baseline": {
+              "points": "358,1955 443,1955 528,1955 614,1957 699,1956 784,1957 870,1955 955,1955 1040,1955 1126,1958 1211,1958 1296,1958 1382,1958 1467,1958 1552,1959 1638,1958 1723,1960 1808,1958 1894,1958 1979,1958 2065,1958"
+            },
+            "text": "Fig. 6) Average displacement of limpets recorded at any given observation",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "350,1915 350,1975 435,1975 435,1915"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "451,1915 451,1975 493,1975 493,1915"
+                },
+                "text": "6)"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "510,1916 510,1976 690,1976 690,1916"
+                },
+                "text": "Average"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "722,1915 722,1975 1020,1975 1020,1915"
+                },
+                "text": "displacement"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "1042,1915 1042,1975 1078,1975 1078,1915"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1095,1918 1095,1978 1243,1978 1243,1918"
+                },
+                "text": "limpets"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1276,1918 1276,1978 1461,1978 1461,1918"
+                },
+                "text": "recorded"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1494,1918 1494,1978 1530,1978 1530,1918"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1552,1918 1552,1978 1620,1978 1620,1918"
+                },
+                "text": "any"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1648,1919 1648,1979 1754,1979 1754,1919"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1786,1918 1786,1978 2035,1978 2035,1918"
+                },
+                "text": "observation"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "501,2027 1076,2032 1148,2068 1285,2027 1689,2059 2117,2030 2117,1973 501,1966"
+            },
+            "baseline": {
+              "points": "513,2012 593,2012 673,2013 754,2012 834,2012 915,2015 995,2016 1076,2015 1156,2016 1237,2017 1317,2015 1397,2018 1478,2018 1558,2018 1639,2018 1719,2018 1800,2018 1880,2018 1961,2018 2041,2018 2122,2021"
+            },
+            "text": "session regressed against the percentage of the limpets that moved at",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "512,1972 512,2032 674,2032 674,1972"
+                },
+                "text": "session"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "706,1972 706,2032 917,2032 917,1972"
+                },
+                "text": "regressed"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "949,1975 949,2035 1107,2035 1107,1975"
+                },
+                "text": "against"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "1124,1975 1124,2035 1181,2035 1181,1975"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "1208,1975 1208,2035 1445,2035 1445,1975"
+                },
+                "text": "percentage"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "1477,1978 1477,2038 1518,2038 1518,1978"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1535,1978 1535,2038 1588,2038 1588,1978"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1620,1978 1620,2038 1767,2038 1767,1978"
+                },
+                "text": "limpets"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1799,1978 1799,2038 1883,2038 1883,1978"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1899,1978 1899,2038 2036,2038 2036,1978"
+                },
+                "text": "moved"
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "2068,1979 2068,2039 2104,2039 2104,1979"
+                },
+                "text": "at"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "510,2095 539,2086 564,2102 591,2084 629,2093 704,2081 715,2093 746,2097 764,2086 812,2104 810,2052 731,2032 713,2041 699,2027 672,2041 575,2027 507,2034"
+            },
+            "baseline": {
+              "points": "519,2068 545,2070 572,2071 599,2071 626,2071 653,2071 679,2069 706,2068 733,2068 760,2070 787,2074 814,2074"
+            },
+            "text": "that session.",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "512,2030 512,2090 599,2090 599,2030"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "615,2028 615,2088 805,2088 805,2028"
+                },
+                "text": "session."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_26",
+            "coords": {
+              "points": "507,2142 652,2163 690,2142 776,2163 807,2140 1159,2149 1159,2068 983,2095 897,2070 846,2104 753,2108 704,2084 600,2106 507,2093"
+            },
+            "baseline": {
+              "points": "519,2128 551,2128 583,2128 615,2128 648,2128 680,2130 712,2131 744,2131 777,2129 809,2129 841,2131 873,2131 906,2131 938,2131 970,2131 1002,2131 1035,2131 1067,2130 1099,2128 1131,2130 1164,2131"
+            },
+            "text": "R = 0.580, p \u00ab 0.001, n = 98",
+            "words": [
+              {
+                "id": "tr_1_tl_26_w1",
+                "coords": {
+                  "points": "508,2088 508,2148 525,2148 525,2088"
+                },
+                "text": "R"
+              },
+              {
+                "id": "tr_1_tl_26_w2",
+                "coords": {
+                  "points": "561,2088 561,2148 572,2148 572,2088"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_26_w3",
+                "coords": {
+                  "points": "609,2089 609,2149 749,2149 749,2089"
+                },
+                "text": "0.580,"
+              },
+              {
+                "id": "tr_1_tl_26_w4",
+                "coords": {
+                  "points": "768,2089 768,2149 779,2149 779,2089"
+                },
+                "text": "p"
+              },
+              {
+                "id": "tr_1_tl_26_w5",
+                "coords": {
+                  "points": "809,2089 809,2149 826,2149 826,2089"
+                },
+                "text": "\u00ab"
+              },
+              {
+                "id": "tr_1_tl_26_w6",
+                "coords": {
+                  "points": "850,2091 850,2151 991,2151 991,2091"
+                },
+                "text": "0.001,"
+              },
+              {
+                "id": "tr_1_tl_26_w7",
+                "coords": {
+                  "points": "1009,2091 1009,2151 1020,2151 1020,2091"
+                },
+                "text": "n"
+              },
+              {
+                "id": "tr_1_tl_26_w8",
+                "coords": {
+                  "points": "1051,2090 1051,2150 1062,2150 1062,2090"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_26_w9",
+                "coords": {
+                  "points": "1098,2089 1098,2149 1138,2149 1138,2089"
+                },
+                "text": "98"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_27",
+            "coords": {
+              "points": "512,2205 2032,2210 2032,2133 512,2142"
+            },
+            "baseline": {
+              "points": "525,2188 600,2187 676,2188 751,2188 827,2188 902,2188 978,2188 1053,2191 1129,2191 1204,2191 1280,2191 1355,2191 1431,2191 1506,2191 1582,2194 1657,2192 1733,2191 1808,2191 1884,2191 1959,2191 2035,2188"
+            },
+            "text": "There was a positive correlation between average displacement of",
+            "words": [
+              {
+                "id": "tr_1_tl_27_w1",
+                "coords": {
+                  "points": "517,2147 517,2207 631,2207 631,2147"
+                },
+                "text": "There"
+              },
+              {
+                "id": "tr_1_tl_27_w2",
+                "coords": {
+                  "points": "667,2148 667,2208 742,2208 742,2148"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_27_w3",
+                "coords": {
+                  "points": "773,2148 773,2208 788,2208 788,2148"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_27_w4",
+                "coords": {
+                  "points": "818,2148 818,2208 973,2208 973,2148"
+                },
+                "text": "positive"
+              },
+              {
+                "id": "tr_1_tl_27_w5",
+                "coords": {
+                  "points": "1004,2151 1004,2211 1225,2211 1225,2151"
+                },
+                "text": "correlation"
+              },
+              {
+                "id": "tr_1_tl_27_w6",
+                "coords": {
+                  "points": "1261,2151 1261,2211 1437,2211 1437,2151"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_27_w7",
+                "coords": {
+                  "points": "1467,2152 1467,2212 1638,2212 1638,2152"
+                },
+                "text": "average"
+              },
+              {
+                "id": "tr_1_tl_27_w8",
+                "coords": {
+                  "points": "1669,2151 1669,2211 1965,2211 1965,2151"
+                },
+                "text": "displacement"
+              },
+              {
+                "id": "tr_1_tl_27_w9",
+                "coords": {
+                  "points": "1986,2149 1986,2209 2025,2209 2025,2149"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_28",
+            "coords": {
+              "points": "512,2260 2039,2260 2039,2212 1896,2201 512,2205"
+            },
+            "baseline": {
+              "points": "525,2250 604,2247 684,2246 764,2246 844,2247 924,2247 1004,2247 1084,2250 1164,2250 1244,2247 1324,2250 1404,2250 1484,2250 1564,2250 1644,2250 1724,2250 1804,2250 1884,2247 1964,2250 2044,2250"
+            },
+            "text": "limpets and the fraction of limpets displaced at a given observation",
+            "words": [
+              {
+                "id": "tr_1_tl_28_w1",
+                "coords": {
+                  "points": "512,2207 512,2267 661,2267 661,2207"
+                },
+                "text": "limpets"
+              },
+              {
+                "id": "tr_1_tl_28_w2",
+                "coords": {
+                  "points": "693,2206 693,2266 765,2266 765,2206"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_28_w3",
+                "coords": {
+                  "points": "796,2206 796,2266 847,2266 847,2206"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_28_w4",
+                "coords": {
+                  "points": "879,2207 879,2267 1033,2267 1033,2207"
+                },
+                "text": "fraction"
+              },
+              {
+                "id": "tr_1_tl_28_w5",
+                "coords": {
+                  "points": "1065,2210 1065,2270 1106,2270 1106,2210"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_28_w6",
+                "coords": {
+                  "points": "1122,2208 1122,2268 1271,2268 1271,2208"
+                },
+                "text": "limpets"
+              },
+              {
+                "id": "tr_1_tl_28_w7",
+                "coords": {
+                  "points": "1298,2210 1298,2270 1499,2270 1499,2210"
+                },
+                "text": "displaced"
+              },
+              {
+                "id": "tr_1_tl_28_w8",
+                "coords": {
+                  "points": "1531,2210 1531,2270 1566,2270 1566,2210"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_28_w9",
+                "coords": {
+                  "points": "1588,2210 1588,2270 1597,2270 1597,2210"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_28_w10",
+                "coords": {
+                  "points": "1629,2210 1629,2270 1737,2270 1737,2210"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_28_w11",
+                "coords": {
+                  "points": "1769,2207 1769,2267 2016,2267 2016,2207"
+                },
+                "text": "observation"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_29",
+            "coords": {
+              "points": "510,2325 2154,2334 2154,2269 2041,2250 510,2273"
+            },
+            "baseline": {
+              "points": "522,2304 603,2304 685,2306 767,2307 849,2304 931,2307 1012,2307 1094,2307 1176,2307 1258,2310 1340,2310 1421,2310 1503,2310 1585,2310 1667,2308 1749,2310 1830,2310 1912,2310 1994,2310 2076,2310 2158,2310"
+            },
+            "text": "session. Under favorable environmental conditions, when more limpets",
+            "words": [
+              {
+                "id": "tr_1_tl_29_w1",
+                "coords": {
+                  "points": "510,2264 510,2324 691,2324 691,2264"
+                },
+                "text": "session."
+              },
+              {
+                "id": "tr_1_tl_29_w2",
+                "coords": {
+                  "points": "732,2265 732,2325 863,2325 863,2265"
+                },
+                "text": "Under"
+              },
+              {
+                "id": "tr_1_tl_29_w3",
+                "coords": {
+                  "points": "884,2267 884,2327 1080,2327 1080,2267"
+                },
+                "text": "favorable"
+              },
+              {
+                "id": "tr_1_tl_29_w4",
+                "coords": {
+                  "points": "1111,2270 1111,2330 1434,2330 1434,2270"
+                },
+                "text": "environmental"
+              },
+              {
+                "id": "tr_1_tl_29_w5",
+                "coords": {
+                  "points": "1450,2270 1450,2330 1692,2330 1692,2270"
+                },
+                "text": "conditions,"
+              },
+              {
+                "id": "tr_1_tl_29_w6",
+                "coords": {
+                  "points": "1713,2270 1713,2330 1819,2330 1819,2270"
+                },
+                "text": "when"
+              },
+              {
+                "id": "tr_1_tl_29_w7",
+                "coords": {
+                  "points": "1849,2270 1849,2330 1950,2330 1950,2270"
+                },
+                "text": "more"
+              },
+              {
+                "id": "tr_1_tl_29_w8",
+                "coords": {
+                  "points": "1981,2270 1981,2330 2132,2330 2132,2270"
+                },
+                "text": "limpets"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_30",
+            "coords": {
+              "points": "514,2399 613,2381 658,2411 728,2390 873,2415 902,2388 943,2415 1161,2379 1292,2413 1330,2395 1328,2327 512,2336"
+            },
+            "baseline": {
+              "points": "525,2364 565,2364 605,2364 646,2366 686,2365 727,2364 767,2364 808,2364 848,2364 889,2364 929,2367 969,2364 1010,2367 1050,2365 1091,2364 1131,2366 1172,2367 1212,2367 1253,2367 1293,2367 1334,2370"
+            },
+            "text": "move, they move greater distances.",
+            "words": [
+              {
+                "id": "tr_1_tl_30_w1",
+                "coords": {
+                  "points": "517,2324 517,2384 651,2384 651,2324"
+                },
+                "text": "move,"
+              },
+              {
+                "id": "tr_1_tl_30_w2",
+                "coords": {
+                  "points": "667,2324 667,2384 754,2384 754,2324"
+                },
+                "text": "they"
+              },
+              {
+                "id": "tr_1_tl_30_w3",
+                "coords": {
+                  "points": "780,2324 780,2384 888,2384 888,2324"
+                },
+                "text": "move"
+              },
+              {
+                "id": "tr_1_tl_30_w4",
+                "coords": {
+                  "points": "921,2326 921,2386 1080,2386 1080,2326"
+                },
+                "text": "greater"
+              },
+              {
+                "id": "tr_1_tl_30_w5",
+                "coords": {
+                  "points": "1096,2327 1096,2387 1323,2387 1323,2327"
+                },
+                "text": "distances."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_31",
+            "coords": {
+              "points": "354,2492 2167,2501 2167,2447 2115,2424 1146,2413 985,2451 616,2388 460,2451 354,2424"
+            },
+            "baseline": {
+              "points": "367,2483 457,2483 547,2480 637,2480 727,2480 817,2480 907,2480 998,2480 1088,2483 1178,2483 1268,2483 1358,2483 1448,2483 1538,2483 1629,2485 1719,2483 1809,2483 1899,2484 1989,2485 2079,2483 2170,2483"
+            },
+            "text": "Fig. 7) The ratio of average displacement to territory size regressed against the",
+            "words": [
+              {
+                "id": "tr_1_tl_31_w1",
+                "coords": {
+                  "points": "359,2443 359,2503 443,2503 443,2443"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_31_w2",
+                "coords": {
+                  "points": "460,2442 460,2502 501,2502 501,2442"
+                },
+                "text": "7)"
+              },
+              {
+                "id": "tr_1_tl_31_w3",
+                "coords": {
+                  "points": "534,2440 534,2500 607,2500 607,2440"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_31_w4",
+                "coords": {
+                  "points": "639,2440 639,2500 723,2500 723,2440"
+                },
+                "text": "ratio"
+              },
+              {
+                "id": "tr_1_tl_31_w5",
+                "coords": {
+                  "points": "755,2440 755,2500 792,2500 792,2440"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_31_w6",
+                "coords": {
+                  "points": "813,2440 813,2500 977,2500 977,2440"
+                },
+                "text": "average"
+              },
+              {
+                "id": "tr_1_tl_31_w7",
+                "coords": {
+                  "points": "1009,2443 1009,2503 1304,2503 1304,2443"
+                },
+                "text": "displacement"
+              },
+              {
+                "id": "tr_1_tl_31_w8",
+                "coords": {
+                  "points": "1320,2443 1320,2503 1346,2503 1346,2443"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_31_w9",
+                "coords": {
+                  "points": "1378,2443 1378,2503 1536,2503 1536,2443"
+                },
+                "text": "territory"
+              },
+              {
+                "id": "tr_1_tl_31_w10",
+                "coords": {
+                  "points": "1563,2444 1563,2504 1642,2504 1642,2444"
+                },
+                "text": "size"
+              },
+              {
+                "id": "tr_1_tl_31_w11",
+                "coords": {
+                  "points": "1674,2443 1674,2503 1879,2503 1879,2443"
+                },
+                "text": "regressed"
+              },
+              {
+                "id": "tr_1_tl_31_w12",
+                "coords": {
+                  "points": "1912,2444 1912,2504 2075,2504 2075,2444"
+                },
+                "text": "against"
+              },
+              {
+                "id": "tr_1_tl_31_w13",
+                "coords": {
+                  "points": "2091,2443 2091,2503 2149,2503 2149,2443"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_32",
+            "coords": {
+              "points": "510,2553 1139,2555 1215,2586 1569,2559 1569,2490 510,2501"
+            },
+            "baseline": {
+              "points": "522,2540 574,2540 627,2539 680,2537 732,2537 785,2540 838,2537 890,2538 943,2540 996,2540 1049,2538 1101,2543 1154,2543 1207,2543 1259,2543 1312,2543 1365,2543 1417,2540 1470,2542 1523,2541 1576,2543"
+            },
+            "text": "fraction of times a limpet was found displaced.",
+            "words": [
+              {
+                "id": "tr_1_tl_32_w1",
+                "coords": {
+                  "points": "515,2499 515,2559 668,2559 668,2499"
+                },
+                "text": "fraction"
+              },
+              {
+                "id": "tr_1_tl_32_w2",
+                "coords": {
+                  "points": "700,2497 700,2557 737,2557 737,2497"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_32_w3",
+                "coords": {
+                  "points": "753,2498 753,2558 864,2558 864,2498"
+                },
+                "text": "times"
+              },
+              {
+                "id": "tr_1_tl_32_w4",
+                "coords": {
+                  "points": "896,2498 896,2558 906,2558 906,2498"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_32_w5",
+                "coords": {
+                  "points": "939,2499 939,2559 1070,2559 1070,2499"
+                },
+                "text": "limpet"
+              },
+              {
+                "id": "tr_1_tl_32_w6",
+                "coords": {
+                  "points": "1087,2503 1087,2563 1165,2563 1165,2503"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_32_w7",
+                "coords": {
+                  "points": "1192,2503 1192,2563 1308,2563 1308,2503"
+                },
+                "text": "found"
+              },
+              {
+                "id": "tr_1_tl_32_w8",
+                "coords": {
+                  "points": "1335,2501 1335,2561 1562,2561 1562,2501"
+                },
+                "text": "displaced."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_33",
+            "coords": {
+              "points": "516,2614 1146,2614 1132,2553 997,2573 938,2553 810,2568 656,2550 589,2573 516,2557"
+            },
+            "baseline": {
+              "points": "528,2597 559,2599 590,2599 621,2597 652,2597 684,2597 715,2598 746,2600 777,2598 808,2597 840,2597 871,2599 902,2600 933,2600 964,2600 996,2600 1027,2600 1058,2597 1089,2597 1120,2597 1152,2597"
+            },
+            "text": "R =0.573, p \u00ab 0.001, n = 51",
+            "words": [
+              {
+                "id": "tr_1_tl_33_w1",
+                "coords": {
+                  "points": "517,2557 517,2617 522,2617 522,2557"
+                },
+                "text": "R"
+              },
+              {
+                "id": "tr_1_tl_33_w2",
+                "coords": {
+                  "points": "558,2557 558,2617 746,2617 746,2557"
+                },
+                "text": "=0.573,"
+              },
+              {
+                "id": "tr_1_tl_33_w3",
+                "coords": {
+                  "points": "759,2558 759,2618 777,2618 777,2558"
+                },
+                "text": "p"
+              },
+              {
+                "id": "tr_1_tl_33_w4",
+                "coords": {
+                  "points": "807,2557 807,2617 824,2617 824,2557"
+                },
+                "text": "\u00ab"
+              },
+              {
+                "id": "tr_1_tl_33_w5",
+                "coords": {
+                  "points": "848,2560 848,2620 989,2620 989,2560"
+                },
+                "text": "0.001,"
+              },
+              {
+                "id": "tr_1_tl_33_w6",
+                "coords": {
+                  "points": "1007,2560 1007,2620 1018,2620 1018,2560"
+                },
+                "text": "n"
+              },
+              {
+                "id": "tr_1_tl_33_w7",
+                "coords": {
+                  "points": "1049,2557 1049,2617 1060,2617 1060,2557"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_33_w8",
+                "coords": {
+                  "points": "1090,2557 1090,2617 1142,2617 1142,2557"
+                },
+                "text": "51"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_34",
+            "coords": {
+              "points": "512,2688 2027,2672 2027,2623 1942,2600 512,2618"
+            },
+            "baseline": {
+              "points": "525,2653 600,2653 675,2654 751,2656 826,2656 902,2655 977,2656 1052,2659 1128,2656 1203,2659 1279,2659 1354,2657 1429,2658 1505,2659 1580,2657 1656,2658 1731,2656 1806,2656 1882,2656 1957,2656 2033,2656"
+            },
+            "text": "Since the average displacement for a limpet depended on territory",
+            "words": [
+              {
+                "id": "tr_1_tl_34_w1",
+                "coords": {
+                  "points": "512,2613 512,2673 620,2673 620,2613"
+                },
+                "text": "Since"
+              },
+              {
+                "id": "tr_1_tl_34_w2",
+                "coords": {
+                  "points": "652,2614 652,2674 708,2674 708,2614"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_34_w3",
+                "coords": {
+                  "points": "745,2615 745,2675 910,2675 910,2615"
+                },
+                "text": "average"
+              },
+              {
+                "id": "tr_1_tl_34_w4",
+                "coords": {
+                  "points": "942,2617 942,2677 1242,2677 1242,2617"
+                },
+                "text": "displacement"
+              },
+              {
+                "id": "tr_1_tl_34_w5",
+                "coords": {
+                  "points": "1263,2618 1263,2678 1315,2678 1315,2618"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_34_w6",
+                "coords": {
+                  "points": "1336,2617 1336,2677 1351,2677 1351,2617"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_34_w7",
+                "coords": {
+                  "points": "1378,2618 1378,2678 1517,2678 1517,2618"
+                },
+                "text": "limpet"
+              },
+              {
+                "id": "tr_1_tl_34_w8",
+                "coords": {
+                  "points": "1533,2617 1533,2677 1745,2677 1745,2617"
+                },
+                "text": "depended"
+              },
+              {
+                "id": "tr_1_tl_34_w9",
+                "coords": {
+                  "points": "1777,2616 1777,2676 1817,2676 1817,2616"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_34_w10",
+                "coords": {
+                  "points": "1849,2616 1849,2676 2014,2676 2014,2616"
+                },
+                "text": "territory"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_35",
+            "coords": {
+              "points": "503,2724 2102,2729 2102,2672 2036,2668 503,2686"
+            },
+            "baseline": {
+              "points": "516,2716 595,2716 674,2716 754,2713 833,2716 913,2714 992,2716 1071,2716 1151,2717 1230,2718 1310,2717 1389,2719 1468,2719 1548,2716 1627,2716 1707,2719 1786,2716 1865,2716 1945,2716 2024,2716 2104,2713"
+            },
+            "text": "size, the ratio of the two provided a normalized measure that could be",
+            "words": [
+              {
+                "id": "tr_1_tl_35_w1",
+                "coords": {
+                  "points": "503,2676 503,2736 601,2736 601,2676"
+                },
+                "text": "size,"
+              },
+              {
+                "id": "tr_1_tl_35_w2",
+                "coords": {
+                  "points": "622,2676 622,2736 674,2736 674,2676"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_35_w3",
+                "coords": {
+                  "points": "711,2673 711,2733 793,2733 793,2673"
+                },
+                "text": "ratio"
+              },
+              {
+                "id": "tr_1_tl_35_w4",
+                "coords": {
+                  "points": "825,2675 825,2735 866,2735 866,2675"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_35_w5",
+                "coords": {
+                  "points": "882,2674 882,2734 939,2734 939,2674"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_35_w6",
+                "coords": {
+                  "points": "966,2676 966,2736 1033,2736 1033,2676"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_35_w7",
+                "coords": {
+                  "points": "1065,2677 1065,2737 1246,2737 1246,2677"
+                },
+                "text": "provided"
+              },
+              {
+                "id": "tr_1_tl_35_w8",
+                "coords": {
+                  "points": "1278,2677 1278,2737 1288,2737 1288,2677"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_35_w9",
+                "coords": {
+                  "points": "1320,2679 1320,2739 1553,2739 1553,2679"
+                },
+                "text": "normalized"
+              },
+              {
+                "id": "tr_1_tl_35_w10",
+                "coords": {
+                  "points": "1586,2677 1586,2737 1767,2737 1767,2677"
+                },
+                "text": "measure"
+              },
+              {
+                "id": "tr_1_tl_35_w11",
+                "coords": {
+                  "points": "1799,2676 1799,2736 1881,2736 1881,2676"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_35_w12",
+                "coords": {
+                  "points": "1903,2676 1903,2736 2011,2736 2011,2676"
+                },
+                "text": "could"
+              },
+              {
+                "id": "tr_1_tl_35_w13",
+                "coords": {
+                  "points": "2038,2674 2038,2734 2079,2734 2079,2674"
+                },
+                "text": "be"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_36",
+            "coords": {
+              "points": "507,2785 1998,2803 1998,2733 1944,2729 507,2733"
+            },
+            "baseline": {
+              "points": "519,2776 593,2776 667,2773 741,2770 815,2775 890,2773 964,2776 1038,2775 1112,2773 1186,2776 1261,2776 1335,2776 1409,2776 1483,2776 1557,2775 1632,2776 1706,2776 1780,2776 1854,2776 1928,2773 2003,2776"
+            },
+            "text": "compared to the frequency of limpet displacements. A significant",
+            "words": [
+              {
+                "id": "tr_1_tl_36_w1",
+                "coords": {
+                  "points": "512,2735 512,2795 723,2795 723,2735"
+                },
+                "text": "compared"
+              },
+              {
+                "id": "tr_1_tl_36_w2",
+                "coords": {
+                  "points": "754,2731 754,2791 779,2791 779,2731"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_36_w3",
+                "coords": {
+                  "points": "811,2734 811,2794 867,2794 867,2734"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_36_w4",
+                "coords": {
+                  "points": "899,2735 899,2795 1110,2795 1110,2735"
+                },
+                "text": "frequency"
+              },
+              {
+                "id": "tr_1_tl_36_w5",
+                "coords": {
+                  "points": "1136,2734 1136,2794 1177,2794 1177,2734"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_36_w6",
+                "coords": {
+                  "points": "1193,2736 1193,2796 1326,2796 1326,2736"
+                },
+                "text": "limpet"
+              },
+              {
+                "id": "tr_1_tl_36_w7",
+                "coords": {
+                  "points": "1342,2735 1342,2795 1682,2795 1682,2735"
+                },
+                "text": "displacements."
+              },
+              {
+                "id": "tr_1_tl_36_w8",
+                "coords": {
+                  "points": "1714,2736 1714,2796 1728,2796 1728,2736"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_36_w9",
+                "coords": {
+                  "points": "1760,2735 1760,2795 1986,2795 1986,2735"
+                },
+                "text": "significant"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_37",
+            "coords": {
+              "points": "501,2846 2102,2850 2068,2789 501,2792"
+            },
+            "baseline": {
+              "points": "513,2833 592,2834 672,2833 752,2833 831,2833 911,2833 991,2833 1070,2833 1150,2833 1230,2833 1310,2833 1389,2833 1469,2834 1549,2833 1628,2833 1708,2833 1788,2833 1867,2833 1947,2833 2027,2833 2107,2836"
+            },
+            "text": "negative relationship was found. A limpet that moved more frequently",
+            "words": [
+              {
+                "id": "tr_1_tl_37_w1",
+                "coords": {
+                  "points": "506,2793 506,2853 682,2853 682,2793"
+                },
+                "text": "negative"
+              },
+              {
+                "id": "tr_1_tl_37_w2",
+                "coords": {
+                  "points": "718,2793 718,2853 961,2853 961,2793"
+                },
+                "text": "relationship"
+              },
+              {
+                "id": "tr_1_tl_37_w3",
+                "coords": {
+                  "points": "997,2793 997,2853 1072,2853 1072,2793"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_37_w4",
+                "coords": {
+                  "points": "1098,2793 1098,2853 1239,2853 1239,2793"
+                },
+                "text": "found."
+              },
+              {
+                "id": "tr_1_tl_37_w5",
+                "coords": {
+                  "points": "1270,2793 1270,2853 1285,2853 1285,2793"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_37_w6",
+                "coords": {
+                  "points": "1321,2793 1321,2853 1457,2853 1457,2793"
+                },
+                "text": "limpet"
+              },
+              {
+                "id": "tr_1_tl_37_w7",
+                "coords": {
+                  "points": "1473,2793 1473,2853 1558,2853 1558,2793"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_37_w8",
+                "coords": {
+                  "points": "1574,2793 1574,2853 1716,2853 1716,2793"
+                },
+                "text": "moved"
+              },
+              {
+                "id": "tr_1_tl_37_w9",
+                "coords": {
+                  "points": "1741,2793 1741,2853 1842,2853 1842,2793"
+                },
+                "text": "more"
+              },
+              {
+                "id": "tr_1_tl_37_w10",
+                "coords": {
+                  "points": "1878,2793 1878,2853 2090,2853 2090,2793"
+                },
+                "text": "frequently"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_38",
+            "coords": {
+              "points": "507,2902 2147,2909 2147,2853 2050,2844 507,2859"
+            },
+            "baseline": {
+              "points": "519,2892 600,2890 682,2889 763,2889 845,2889 927,2889 1008,2889 1090,2890 1172,2892 1253,2890 1335,2892 1417,2892 1498,2889 1580,2892 1662,2890 1743,2889 1825,2889 1907,2892 1988,2892 2070,2892 2152,2892"
+            },
+            "text": "covered less distance in its territory each time compared to a limpet that",
+            "words": [
+              {
+                "id": "tr_1_tl_38_w1",
+                "coords": {
+                  "points": "512,2850 512,2910 677,2910 677,2850"
+                },
+                "text": "covered"
+              },
+              {
+                "id": "tr_1_tl_38_w2",
+                "coords": {
+                  "points": "708,2849 708,2909 788,2909 788,2849"
+                },
+                "text": "less"
+              },
+              {
+                "id": "tr_1_tl_38_w3",
+                "coords": {
+                  "points": "814,2849 814,2909 990,2909 990,2849"
+                },
+                "text": "distance"
+              },
+              {
+                "id": "tr_1_tl_38_w4",
+                "coords": {
+                  "points": "1021,2849 1021,2909 1045,2909 1045,2849"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_38_w5",
+                "coords": {
+                  "points": "1072,2850 1072,2910 1111,2910 1111,2850"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_38_w6",
+                "coords": {
+                  "points": "1137,2850 1137,2910 1298,2910 1298,2850"
+                },
+                "text": "territory"
+              },
+              {
+                "id": "tr_1_tl_38_w7",
+                "coords": {
+                  "points": "1329,2852 1329,2912 1419,2912 1419,2852"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_38_w8",
+                "coords": {
+                  "points": "1450,2849 1450,2909 1530,2909 1530,2849"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_38_w9",
+                "coords": {
+                  "points": "1561,2849 1561,2909 1772,2909 1772,2849"
+                },
+                "text": "compared"
+              },
+              {
+                "id": "tr_1_tl_38_w10",
+                "coords": {
+                  "points": "1803,2849 1803,2909 1832,2909 1832,2849"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_38_w11",
+                "coords": {
+                  "points": "1863,2850 1863,2910 1873,2910 1873,2850"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_38_w12",
+                "coords": {
+                  "points": "1904,2852 1904,2912 2039,2912 2039,2852"
+                },
+                "text": "limpet"
+              },
+              {
+                "id": "tr_1_tl_38_w13",
+                "coords": {
+                  "points": "2055,2852 2055,2912 2140,2912 2140,2852"
+                },
+                "text": "that"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_39",
+            "coords": {
+              "points": "501,2986 2068,2974 2068,2913 1899,2898 501,2916"
+            },
+            "baseline": {
+              "points": "513,2949 591,2949 669,2949 747,2949 825,2949 903,2949 981,2947 1059,2949 1137,2949 1215,2951 1293,2952 1371,2949 1449,2949 1527,2949 1605,2949 1683,2949 1761,2949 1839,2949 1917,2949 1995,2949 2074,2949"
+            },
+            "text": "moved infrequently, but traveled greater distances when it did move.",
+            "words": [
+              {
+                "id": "tr_1_tl_39_w1",
+                "coords": {
+                  "points": "506,2909 506,2969 645,2969 645,2909"
+                },
+                "text": "moved"
+              },
+              {
+                "id": "tr_1_tl_39_w2",
+                "coords": {
+                  "points": "677,2909 677,2969 951,2969 951,2909"
+                },
+                "text": "infrequently,"
+              },
+              {
+                "id": "tr_1_tl_39_w3",
+                "coords": {
+                  "points": "973,2907 973,2967 1039,2967 1039,2907"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_39_w4",
+                "coords": {
+                  "points": "1056,2909 1056,2969 1226,2969 1226,2909"
+                },
+                "text": "traveled"
+              },
+              {
+                "id": "tr_1_tl_39_w5",
+                "coords": {
+                  "points": "1257,2910 1257,2970 1413,2970 1413,2910"
+                },
+                "text": "greater"
+              },
+              {
+                "id": "tr_1_tl_39_w6",
+                "coords": {
+                  "points": "1434,2909 1434,2969 1635,2969 1635,2909"
+                },
+                "text": "distances"
+              },
+              {
+                "id": "tr_1_tl_39_w7",
+                "coords": {
+                  "points": "1667,2909 1667,2969 1771,2969 1771,2909"
+                },
+                "text": "when"
+              },
+              {
+                "id": "tr_1_tl_39_w8",
+                "coords": {
+                  "points": "1802,2909 1802,2969 1828,2969 1828,2909"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_39_w9",
+                "coords": {
+                  "points": "1849,2909 1849,2969 1900,2969 1900,2909"
+                },
+                "text": "did"
+              },
+              {
+                "id": "tr_1_tl_39_w10",
+                "coords": {
+                  "points": "1932,2909 1932,2969 2066,2969 2066,2909"
+                },
+                "text": "move."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_40",
+            "coords": {
+              "points": "1166,3128 1200,3123 1258,3141 1267,3134 1299,3139 1310,3148 1346,3141 1382,3146 1382,3069 1353,3071 1337,3058 1319,3058 1297,3074 1279,3069 1265,3080 1218,3069 1166,3071"
+            },
+            "baseline": {
+              "points": "1179,3116 1205,3114 1231,3114 1257,3115 1283,3116 1309,3116 1335,3115 1361,3113 1388,3116"
+            },
+            "text": "Page 20",
+            "words": [
+              {
+                "id": "tr_1_tl_40_w1",
+                "coords": {
+                  "points": "1174,3074 1174,3134 1278,3134 1278,3074"
+                },
+                "text": "Page"
+              },
+              {
+                "id": "tr_1_tl_40_w2",
+                "coords": {
+                  "points": "1311,3075 1311,3135 1359,3135 1359,3075"
+                },
+                "text": "20"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

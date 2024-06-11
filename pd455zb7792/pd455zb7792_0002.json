@@ -1,0 +1,2046 @@
+{
+  "processId": 10342734,
+  "status": "FINISHED",
+  "content": {
+    "text": "Introduction\nThe effect of heat shock has been shown to have lasting effects within the cells of\norganisms across species. For poikilothermic organisms, this is of particular significance\nas their body temperatures are dictated by daily vacillating ambient temperature. Most\nresearch on heat shock has focused on the expression and distribution of heat shock\nproteins and how that expression and distribution affects cellular function. Oddly\nenough, the effect of heat shock in relationship to the nervous system has only recently\nbeen explored (Ramierez et al 1999). In particular, the effect of heat shock on the\nmechanisms of neural exitability is yet to be uncovered.\nIn light of this, I examined the effect of heat shock on Doriopsilla albopunctata, a\nlow intertidal poikilotherm. Due to its fluctuating temperature environment and large\nhead ganglia, this animal was ideal for studying the effect of heat shock on neurological\nfunction.\nTo examine the effect of heat shock on the head ganglia of Doriopsilla, I created a\nprotocol that allowed for constant dual electrode voltage clamp recording pre and post\nheat shock without ever removing the electrodes from the cell. Here I report an increase\nin potassium conductance post heat shock due to the recruitment of a slow inactivating\nchannel. The expression of the channel increased with increasing time post heat shock.\nThis effect, however, was not observed in all cells.\nMethods\nSpecimens were collected from Monterey Bay and kept in a tank at Hopkins\nMarine Station. Each Doriopsilla was dissected and its head ganglia excised. The",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "364,260 364,2874 2192,2874 2192,260"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "1134,353 1170,355 1199,337 1247,344 1301,324 1358,348 1407,344 1407,260 1376,265 1355,253 1321,278 1299,256 1258,256 1206,235 1181,249 1134,242"
+            },
+            "baseline": {
+              "points": "1145,316 1171,318 1198,319 1225,319 1252,319 1279,319 1306,319 1333,319 1360,319 1387,319 1414,319"
+            },
+            "text": "Introduction",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "1140,279 1140,339 1388,339 1388,279"
+                },
+                "text": "Introduction"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "509,441 638,484 1000,448 1382,486 1577,443 1643,489 1955,491 2172,446 2172,387 509,376"
+            },
+            "baseline": {
+              "points": "522,432 604,432 687,432 770,432 853,432 936,432 1018,432 1101,432 1184,434 1267,433 1350,435 1432,435 1515,435 1598,435 1681,435 1764,435 1846,435 1929,435 2012,435 2095,435 2178,432"
+            },
+            "text": "The effect of heat shock has been shown to have lasting effects within the cells of",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "509,392 509,452 570,452 570,392"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "597,392 597,452 710,452 710,392"
+                },
+                "text": "effect"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "726,392 726,452 762,452 762,392"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "783,392 783,452 860,452 860,392"
+                },
+                "text": "heat"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "876,392 876,452 979,452 979,392"
+                },
+                "text": "shock"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1006,392 1006,452 1067,452 1067,392"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1088,392 1088,452 1171,452 1171,392"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1197,393 1197,453 1310,453 1310,393"
+                },
+                "text": "shown"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1343,395 1343,455 1368,455 1368,395"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1394,395 1394,455 1476,455 1476,395"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1503,395 1503,455 1621,455 1621,395"
+                },
+                "text": "lasting"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1648,395 1648,455 1777,455 1777,395"
+                },
+                "text": "effects"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "1798,395 1798,455 1911,455 1911,395"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "1943,395 1943,455 1989,455 1989,395"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w15",
+                "coords": {
+                  "points": "2015,395 2015,455 2103,455 2103,395"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_2_w16",
+                "coords": {
+                  "points": "2124,393 2124,453 2160,453 2160,393"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "357,575 1267,566 1337,604 1466,566 1876,597 2172,566 2172,498 357,498"
+            },
+            "baseline": {
+              "points": "369,546 459,546 549,546 640,546 730,543 821,546 911,546 1002,546 1092,548 1183,548 1273,548 1363,548 1454,548 1544,550 1635,548 1725,551 1816,551 1906,551 1997,551 2087,551 2178,551"
+            },
+            "text": "organisms across species. For poikilothermic organisms, this is of particular significance",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "362,506 362,566 557,566 557,506"
+                },
+                "text": "organisms"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "584,506 584,566 696,566 696,506"
+                },
+                "text": "across"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "718,505 718,565 877,565 877,505"
+                },
+                "text": "species."
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "903,506 903,566 970,566 970,506"
+                },
+                "text": "For"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "986,508 986,568 1274,568 1274,508"
+                },
+                "text": "poikilothermic"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1295,508 1295,568 1511,568 1511,508"
+                },
+                "text": "organisms,"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1527,509 1527,569 1593,569 1593,509"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1615,508 1615,568 1640,568 1640,508"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1661,509 1661,569 1701,569 1701,509"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1718,511 1718,571 1903,571 1903,511"
+                },
+                "text": "particular"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1924,511 1924,571 2155,571 2155,511"
+                },
+                "text": "significance"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "351,674 437,706 1100,674 1477,722 1611,676 1704,715 2131,715 2115,611 733,627 566,575 351,624"
+            },
+            "baseline": {
+              "points": "364,659 452,659 541,659 629,659 718,662 807,662 895,662 984,662 1072,662 1161,662 1250,662 1338,664 1427,665 1515,665 1604,665 1693,665 1781,665 1870,665 1958,665 2047,665 2136,665"
+            },
+            "text": "as their body temperatures are dictated by daily vacillating ambient temperature. Most",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "356,619 356,679 392,679 392,619"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "413,619 413,679 496,679 496,619"
+                },
+                "text": "their"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "517,619 517,679 605,679 605,619"
+                },
+                "text": "body"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "631,622 631,682 886,682 886,622"
+                },
+                "text": "temperatures"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "907,622 907,682 959,682 959,622"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "980,622 980,682 1125,682 1125,622"
+                },
+                "text": "dictated"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1157,622 1157,682 1192,682 1192,622"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1219,622 1219,682 1307,682 1307,622"
+                },
+                "text": "daily"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1334,625 1334,685 1536,685 1536,625"
+                },
+                "text": "vacillating"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1563,625 1563,685 1723,685 1723,625"
+                },
+                "text": "ambient"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1739,625 1739,685 1994,685 1994,625"
+                },
+                "text": "temperature."
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "2020,625 2020,685 2124,685 2124,625"
+                },
+                "text": "Most"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "357,826 606,785 1122,837 1317,787 1846,801 1923,842 2059,812 2059,735 1953,717 357,724"
+            },
+            "baseline": {
+              "points": "369,772 453,775 538,775 623,775 708,775 792,776 877,778 962,778 1047,778 1131,778 1216,778 1301,778 1386,778 1470,778 1555,778 1640,778 1725,778 1809,778 1894,778 1979,781 2064,781"
+            },
+            "text": "research on heat shock has focused on the expression and distribution of heat shock",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "362,734 362,794 516,794 516,734"
+                },
+                "text": "research"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "543,735 543,795 578,795 578,735"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "605,735 605,795 687,795 687,735"
+                },
+                "text": "heat"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "703,735 703,795 806,795 806,735"
+                },
+                "text": "shock"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "832,737 832,797 888,797 888,737"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "915,738 915,798 1054,798 1054,738"
+                },
+                "text": "focused"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1080,738 1080,798 1116,798 1116,738"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1142,738 1142,798 1193,798 1193,738"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1220,738 1220,798 1421,798 1421,738"
+                },
+                "text": "expression"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1448,738 1448,798 1509,798 1509,738"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1536,738 1536,798 1752,798 1752,738"
+                },
+                "text": "distribution"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1784,738 1784,798 1819,798 1819,738"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1840,738 1840,798 1917,798 1917,738"
+                },
+                "text": "heat"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "1934,741 1934,801 2041,801 2041,741"
+                },
+                "text": "shock"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "362,923 1455,907 1860,950 2023,912 2002,815 1858,873 1667,826 1520,862 1256,821 1081,857 362,848"
+            },
+            "baseline": {
+              "points": "375,892 457,891 540,890 622,889 705,890 787,892 870,892 952,892 1035,892 1117,892 1200,892 1282,893 1365,895 1447,895 1530,895 1612,892 1695,894 1777,895 1860,894 1942,892 2025,892"
+            },
+            "text": "proteins and how that expression and distribution affects cellular function. Oddly",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "362,851 362,911 517,911 517,851"
+                },
+                "text": "proteins"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "543,849 543,909 598,909 598,849"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "624,849 624,909 689,909 689,849"
+                },
+                "text": "how"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "724,851 724,911 800,911 800,851"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "816,852 816,912 1017,912 1017,852"
+                },
+                "text": "expression"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1048,852 1048,912 1103,912 1103,852"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1128,852 1128,912 1350,912 1350,852"
+                },
+                "text": "distribution"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1376,855 1376,915 1501,915 1501,855"
+                },
+                "text": "affects"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1522,852 1522,912 1668,912 1668,852"
+                },
+                "text": "cellular"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1689,854 1689,914 1870,914 1870,854"
+                },
+                "text": "function."
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1896,852 1896,912 2011,912 2011,852"
+                },
+                "text": "Oddly"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "357,1061 697,1018 760,1057 1256,1059 1317,1014 1891,1043 1991,1086 2050,1036 2115,1057 2115,964 2016,941 1482,980 1235,932 1075,975 357,950"
+            },
+            "baseline": {
+              "points": "369,1005 456,1005 544,1005 631,1005 719,1005 807,1007 894,1008 982,1008 1069,1008 1157,1008 1245,1008 1332,1008 1420,1008 1507,1008 1595,1008 1683,1006 1770,1008 1858,1008 1945,1008 2033,1009 2121,1008"
+            },
+            "text": "enough, the effect of heat shock in relationship to the nervous system has only recently",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "357,965 357,1025 512,1025 512,965"
+                },
+                "text": "enough,"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "528,965 528,1025 578,1025 578,965"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "604,965 604,1025 714,1025 714,965"
+                },
+                "text": "effect"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "730,965 730,1025 770,1025 770,965"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "786,967 786,1027 866,1027 866,967"
+                },
+                "text": "heat"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "882,968 882,1028 987,1028 987,968"
+                },
+                "text": "shock"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1013,968 1013,1028 1037,1028 1037,968"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1063,968 1063,1028 1290,1028 1290,968"
+                },
+                "text": "relationship"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1316,968 1316,1028 1341,1028 1341,968"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1367,968 1367,1028 1422,1028 1422,968"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1442,968 1442,1028 1593,1028 1593,968"
+                },
+                "text": "nervous"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1619,966 1619,1026 1730,1026 1730,966"
+                },
+                "text": "system"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1771,968 1771,1028 1830,1028 1830,968"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_7_w14",
+                "coords": {
+                  "points": "1851,968 1851,1028 1931,1028 1931,968"
+                },
+                "text": "only"
+              },
+              {
+                "id": "tr_1_tl_7_w15",
+                "coords": {
+                  "points": "1957,968 1957,1028 2108,1028 2108,968"
+                },
+                "text": "recently"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "353,1124 912,1172 966,1138 1172,1170 2025,1136 2011,1072 353,1061"
+            },
+            "baseline": {
+              "points": "366,1118 449,1118 532,1118 615,1118 699,1121 782,1121 865,1121 948,1121 1032,1115 1115,1120 1198,1121 1281,1124 1365,1122 1448,1124 1531,1124 1614,1121 1698,1122 1781,1124 1864,1124 1947,1124 2031,1124"
+            },
+            "text": "been explored (Ramierez et al 1999). In particular, the effect of heat shock on the",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "353,1078 353,1138 437,1138 437,1078"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "465,1078 465,1138 629,1138 629,1078"
+                },
+                "text": "explored"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "656,1081 656,1141 853,1141 853,1081"
+                },
+                "text": "(Ramierez"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "880,1081 880,1141 911,1141 911,1081"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "928,1081 928,1141 964,1141 964,1081"
+                },
+                "text": "al"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "981,1075 981,1135 1108,1135 1108,1075"
+                },
+                "text": "1999)."
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1135,1080 1135,1140 1166,1140 1166,1080"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1193,1083 1193,1143 1395,1143 1395,1083"
+                },
+                "text": "particular,"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1412,1083 1412,1143 1459,1143 1459,1083"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1486,1083 1486,1143 1597,1143 1597,1083"
+                },
+                "text": "effect"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1614,1081 1614,1141 1656,1141 1656,1081"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1672,1082 1672,1142 1751,1142 1751,1082"
+                },
+                "text": "heat"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1768,1084 1768,1144 1874,1144 1874,1084"
+                },
+                "text": "shock"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1901,1084 1901,1144 1938,1144 1938,1084"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "1965,1084 1965,1144 2012,1144 2012,1084"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "353,1272 1493,1274 1475,1190 353,1183"
+            },
+            "baseline": {
+              "points": "366,1235 422,1235 479,1235 536,1235 592,1235 649,1236 706,1236 762,1235 819,1238 876,1236 933,1236 989,1235 1046,1236 1103,1237 1159,1237 1216,1238 1273,1238 1329,1238 1386,1238 1443,1238 1500,1238"
+            },
+            "text": "mechanisms of neural exitability is yet to be uncovered.",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "352,1195 352,1255 599,1255 599,1195"
+                },
+                "text": "mechanisms"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "620,1195 620,1255 659,1255 659,1195"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "674,1195 674,1255 798,1255 798,1195"
+                },
+                "text": "neural"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "818,1196 818,1256 1011,1256 1011,1196"
+                },
+                "text": "exitability"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "1036,1196 1036,1256 1060,1256 1060,1196"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1081,1197 1081,1257 1140,1257 1140,1197"
+                },
+                "text": "yet"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1160,1197 1160,1257 1184,1257 1184,1197"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1210,1198 1210,1258 1244,1258 1244,1198"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1269,1198 1269,1258 1491,1258 1491,1198"
+                },
+                "text": "uncovered."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "495,1380 2181,1398 2181,1294 2145,1281 2023,1324 495,1303"
+            },
+            "baseline": {
+              "points": "507,1348 595,1351 683,1351 772,1351 860,1351 948,1351 1037,1351 1125,1351 1213,1351 1302,1353 1390,1354 1479,1353 1567,1354 1655,1354 1744,1354 1832,1354 1920,1354 2009,1354 2097,1357 2186,1357"
+            },
+            "text": "In light of this, I examined the effect of heat shock on Doriopsilla albopunctata, a",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "496,1308 496,1368 529,1368 529,1308"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "553,1311 553,1371 643,1371 643,1311"
+                },
+                "text": "light"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "661,1311 661,1371 695,1371 695,1311"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "713,1311 713,1371 797,1371 797,1311"
+                },
+                "text": "this,"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "815,1311 815,1371 826,1371 826,1311"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "844,1311 844,1371 1025,1371 1025,1311"
+                },
+                "text": "examined"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1055,1311 1055,1371 1105,1371 1105,1311"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1129,1311 1129,1371 1242,1371 1242,1311"
+                },
+                "text": "effect"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1254,1312 1254,1372 1293,1372 1293,1312"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1311,1313 1311,1373 1391,1373 1391,1313"
+                },
+                "text": "heat"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1409,1313 1409,1373 1511,1373 1511,1313"
+                },
+                "text": "shock"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1540,1313 1540,1373 1579,1373 1579,1313"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1603,1314 1603,1374 1830,1374 1830,1314"
+                },
+                "text": "Doriopsilla"
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "1853,1314 1853,1374 2138,1374 2138,1314"
+                },
+                "text": "albopunctata,"
+              },
+              {
+                "id": "tr_1_tl_10_w15",
+                "coords": {
+                  "points": "2150,1317 2150,1377 2161,1377 2161,1317"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "353,1477 1045,1511 1210,1477 1459,1532 1620,1493 2100,1511 2100,1434 1767,1398 1593,1437 1419,1400 993,1400 885,1439 353,1410"
+            },
+            "baseline": {
+              "points": "366,1461 453,1464 540,1464 627,1464 714,1464 801,1464 888,1464 975,1464 1062,1464 1149,1467 1236,1467 1323,1467 1410,1467 1497,1467 1584,1467 1671,1467 1758,1467 1845,1467 1932,1467 2019,1470 2106,1470"
+            },
+            "text": "low intertidal poikilotherm. Due to its fluctuating temperature environment and large",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "359,1421 359,1481 407,1481 407,1421"
+                },
+                "text": "low"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "446,1424 446,1484 624,1484 624,1424"
+                },
+                "text": "intertidal"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "641,1424 641,1484 912,1484 912,1424"
+                },
+                "text": "poikilotherm."
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "940,1424 940,1484 1010,1484 1010,1424"
+                },
+                "text": "Due"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1038,1424 1038,1484 1064,1484 1064,1424"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1087,1425 1087,1485 1130,1485 1130,1425"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1152,1427 1152,1487 1358,1487 1358,1427"
+                },
+                "text": "fluctuating"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1386,1427 1386,1487 1614,1487 1614,1427"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1636,1427 1636,1487 1891,1487 1891,1427"
+                },
+                "text": "environment"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1913,1427 1913,1487 1967,1487 1967,1427"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1995,1430 1995,1490 2086,1490 2086,1430"
+                },
+                "text": "large"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "351,1634 516,1658 649,1588 882,1640 1161,1593 1299,1631 2147,1618 2147,1534 1941,1554 1885,1516 1305,1552 1256,1518 1140,1552 1102,1520 545,1552 351,1520"
+            },
+            "baseline": {
+              "points": "364,1578 453,1581 542,1581 632,1581 721,1581 810,1581 900,1581 989,1581 1078,1581 1168,1581 1257,1581 1346,1581 1436,1581 1525,1581 1614,1584 1704,1584 1793,1584 1882,1584 1972,1584 2061,1584 2151,1584"
+            },
+            "text": "head ganglia, this animal was ideal for studying the effect of heat shock on neurological",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "356,1539 356,1599 435,1599 435,1539"
+                },
+                "text": "head"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "463,1541 463,1601 621,1601 621,1541"
+                },
+                "text": "ganglia,"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "638,1541 638,1601 701,1601 701,1541"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "723,1541 723,1601 860,1601 860,1541"
+                },
+                "text": "animal"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "877,1541 877,1601 945,1601 945,1541"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "967,1541 967,1601 1062,1601 1062,1541"
+                },
+                "text": "ideal"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1078,1541 1078,1601 1131,1601 1131,1541"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1147,1541 1147,1601 1311,1601 1311,1541"
+                },
+                "text": "studying"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1338,1541 1338,1601 1386,1601 1386,1541"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1413,1541 1413,1601 1524,1601 1524,1541"
+                },
+                "text": "effect"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1540,1542 1540,1602 1577,1602 1577,1542"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1593,1544 1593,1604 1677,1604 1677,1544"
+                },
+                "text": "heat"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1689,1544 1689,1604 1794,1604 1794,1544"
+                },
+                "text": "shock"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "1821,1544 1821,1604 1858,1604 1858,1544"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_12_w15",
+                "coords": {
+                  "points": "1885,1544 1885,1604 2139,1604 2139,1544"
+                },
+                "text": "neurological"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "360,1740 410,1740 425,1751 439,1742 450,1751 495,1731 511,1747 529,1742 552,1753 552,1654 514,1658 500,1645 466,1647 453,1636 425,1652 398,1645 360,1649"
+            },
+            "baseline": {
+              "points": "372,1694 398,1696 424,1697 451,1697 477,1696 504,1694 530,1696 557,1697"
+            },
+            "text": "function.",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "360,1656 360,1716 550,1716 550,1656"
+                },
+                "text": "function."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "509,1824 756,1871 912,1826 996,1880 1167,1819 1604,1862 1921,1830 2050,1876 2124,1837 2186,1873 2186,1758 2138,1753 509,1772"
+            },
+            "baseline": {
+              "points": "522,1808 605,1811 689,1811 772,1809 856,1810 939,1811 1023,1810 1106,1811 1190,1811 1273,1811 1357,1811 1440,1811 1524,1814 1607,1814 1691,1814 1774,1814 1858,1814 1941,1814 2025,1814 2108,1814 2192,1814"
+            },
+            "text": "To examine the effect of heat shock on the head ganglia of Doriopsilla, I created a",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "509,1768 509,1828 547,1828 547,1768"
+                },
+                "text": "To"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "575,1771 575,1831 737,1831 737,1771"
+                },
+                "text": "examine"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "759,1769 759,1829 807,1829 807,1769"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "835,1770 835,1830 944,1830 944,1770"
+                },
+                "text": "effect"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "961,1770 961,1830 998,1830 998,1770"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1015,1770 1015,1830 1096,1830 1096,1770"
+                },
+                "text": "heat"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1113,1771 1113,1831 1215,1831 1215,1771"
+                },
+                "text": "shock"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1243,1771 1243,1831 1280,1831 1280,1771"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1308,1771 1308,1831 1357,1831 1357,1771"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1385,1771 1385,1831 1466,1831 1466,1771"
+                },
+                "text": "head"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1494,1774 1494,1834 1629,1834 1629,1774"
+                },
+                "text": "ganglia"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1657,1774 1657,1834 1694,1834 1694,1774"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1711,1774 1711,1834 1955,1834 1955,1774"
+                },
+                "text": "Doriopsilla,"
+              },
+              {
+                "id": "tr_1_tl_14_w14",
+                "coords": {
+                  "points": "1972,1774 1972,1834 1982,1834 1982,1774"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_14_w15",
+                "coords": {
+                  "points": "1999,1774 1999,1834 2134,1834 2134,1774"
+                },
+                "text": "created"
+              },
+              {
+                "id": "tr_1_tl_14_w16",
+                "coords": {
+                  "points": "2162,1774 2162,1834 2172,1834 2172,1774"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "362,1948 758,1941 799,1982 998,1939 1416,1975 2113,1948 2113,1885 2023,1867 943,1894 864,1853 362,1896"
+            },
+            "baseline": {
+              "points": "375,1927 462,1924 549,1924 636,1924 723,1921 810,1923 897,1924 985,1924 1072,1924 1159,1926 1246,1924 1333,1924 1420,1927 1507,1927 1595,1927 1682,1927 1769,1927 1856,1930 1943,1927 2030,1927 2118,1930"
+            },
+            "text": "protocol that allowed for constant dual electrode voltage clamp recording pre and post",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "367,1884 367,1944 532,1944 532,1884"
+                },
+                "text": "protocol"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "547,1884 547,1944 617,1944 617,1884"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "633,1881 633,1941 778,1941 778,1881"
+                },
+                "text": "allowed"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "809,1883 809,1943 859,1943 859,1883"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "880,1884 880,1944 1040,1944 1040,1884"
+                },
+                "text": "constant"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1061,1884 1061,1944 1140,1944 1140,1884"
+                },
+                "text": "dual"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1156,1884 1156,1944 1332,1944 1332,1884"
+                },
+                "text": "electrode"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1358,1887 1358,1947 1493,1947 1493,1887"
+                },
+                "text": "voltage"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1513,1887 1513,1947 1623,1947 1623,1887"
+                },
+                "text": "clamp"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1654,1887 1654,1947 1835,1947 1835,1887"
+                },
+                "text": "recording"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1861,1888 1861,1948 1910,1948 1910,1888"
+                },
+                "text": "pre"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1941,1887 1941,1947 1996,1947 1996,1887"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "2021,1888 2021,1948 2106,1948 2106,1888"
+                },
+                "text": "post"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "351,2088 453,2118 570,2070 1016,2057 1174,2102 1274,2052 2079,2086 2154,2052 2154,2014 1914,1973 1539,2007 1432,1966 1321,2011 351,1973"
+            },
+            "baseline": {
+              "points": "364,2037 453,2040 543,2037 633,2037 723,2037 813,2037 902,2040 992,2040 1082,2040 1172,2040 1262,2040 1351,2040 1441,2040 1531,2040 1621,2043 1711,2040 1800,2040 1890,2043 1980,2043 2070,2043 2160,2043"
+            },
+            "text": "heat shock without ever removing the electrodes from the cell. Here I report an increase",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "356,1998 356,2058 433,2058 433,1998"
+                },
+                "text": "heat"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "454,1998 454,2058 557,2058 557,1998"
+                },
+                "text": "shock"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "584,1997 584,2057 733,2057 733,1997"
+                },
+                "text": "without"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "750,1997 750,2057 832,2057 832,1997"
+                },
+                "text": "ever"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "848,2000 848,2060 1029,2060 1029,2000"
+                },
+                "text": "removing"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1060,2000 1060,2060 1106,2060 1106,2000"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1133,2000 1133,2060 1329,2060 1329,2000"
+                },
+                "text": "electrodes"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1350,2000 1350,2060 1417,2060 1417,2000"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1459,2000 1459,2060 1510,2060 1510,2000"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1532,2001 1532,2061 1619,2061 1619,2001"
+                },
+                "text": "cell."
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1646,2000 1646,2060 1733,2060 1733,2000"
+                },
+                "text": "Here"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1760,2000 1760,2060 1769,2060 1769,2000"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1785,2001 1785,2061 1904,2061 1904,2001"
+                },
+                "text": "report"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "1925,2003 1925,2063 1956,2063 1956,2003"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_16_w15",
+                "coords": {
+                  "points": "1982,2003 1982,2063 2137,2063 2137,2003"
+                },
+                "text": "increase"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "360,2167 686,2204 968,2165 1050,2210 2009,2177 2118,2210 2118,2111 2063,2106 360,2104"
+            },
+            "baseline": {
+              "points": "372,2151 459,2154 547,2154 634,2154 722,2156 810,2157 897,2154 985,2157 1072,2157 1160,2157 1248,2157 1335,2157 1423,2157 1510,2157 1598,2157 1686,2157 1773,2157 1861,2157 1948,2157 2036,2158 2124,2163"
+            },
+            "text": "in potassium conductance post heat shock due to the recruitment of a slow inactivating",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "365,2111 365,2171 386,2171 386,2111"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "413,2114 413,2174 592,2174 592,2114"
+                },
+                "text": "potassium"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "629,2116 629,2176 871,2176 871,2116"
+                },
+                "text": "conductance"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "898,2115 898,2175 977,2175 977,2115"
+                },
+                "text": "post"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "993,2117 993,2177 1072,2177 1072,2117"
+                },
+                "text": "heat"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1088,2117 1088,2177 1193,2177 1193,2117"
+                },
+                "text": "shock"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1220,2117 1220,2177 1277,2177 1277,2117"
+                },
+                "text": "due"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1304,2117 1304,2177 1330,2177 1330,2117"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1357,2117 1357,2177 1404,2177 1404,2117"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1431,2117 1431,2177 1657,2177 1657,2117"
+                },
+                "text": "recruitment"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1674,2117 1674,2177 1715,2177 1715,2117"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1732,2117 1732,2177 1742,2177 1742,2117"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1763,2117 1763,2177 1837,2177 1837,2117"
+                },
+                "text": "slow"
+              },
+              {
+                "id": "tr_1_tl_17_w14",
+                "coords": {
+                  "points": "1874,2117 1874,2177 2100,2177 2100,2117"
+                },
+                "text": "inactivating"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "360,2281 742,2330 871,2294 1081,2328 1199,2283 1471,2335 1627,2287 2134,2305 2134,2229 2086,2206 1923,2242 360,2224"
+            },
+            "baseline": {
+              "points": "372,2270 460,2270 548,2270 636,2270 724,2270 813,2270 901,2270 989,2270 1077,2270 1165,2270 1254,2270 1342,2270 1430,2270 1518,2270 1606,2270 1695,2273 1783,2270 1871,2273 1959,2273 2047,2273 2136,2276"
+            },
+            "text": "channel. The expression of the channel increased with increasing time post heat shock.",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "360,2230 360,2290 526,2290 526,2230"
+                },
+                "text": "channel."
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "552,2230 552,2290 622,2290 622,2230"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "649,2230 649,2290 850,2290 850,2230"
+                },
+                "text": "expression"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "876,2230 876,2290 911,2290 911,2230"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "932,2230 932,2290 982,2290 982,2230"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1003,2230 1003,2290 1159,2290 1159,2230"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1175,2230 1175,2290 1352,2290 1352,2230"
+                },
+                "text": "increased"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1378,2230 1378,2290 1453,2290 1453,2230"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1484,2230 1484,2290 1676,2290 1676,2230"
+                },
+                "text": "increasing"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1707,2231 1707,2291 1783,2291 1783,2231"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1808,2232 1808,2292 1889,2292 1889,2232"
+                },
+                "text": "post"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1910,2233 1910,2293 1991,2293 1991,2233"
+                },
+                "text": "heat"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "2006,2233 2006,2293 2132,2293 2132,2233"
+                },
+                "text": "shock."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "357,2419 676,2391 785,2430 1149,2432 1391,2396 1346,2330 357,2330"
+            },
+            "baseline": {
+              "points": "369,2380 420,2383 471,2383 523,2383 574,2385 625,2384 677,2383 728,2383 779,2383 831,2383 882,2383 933,2383 985,2383 1036,2383 1087,2383 1139,2383 1190,2384 1241,2386 1293,2386 1344,2386 1396,2389"
+            },
+            "text": "This effect, however, was not observed in all cells.",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "357,2341 357,2401 434,2401 434,2341"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "461,2343 461,2403 585,2403 585,2343"
+                },
+                "text": "effect,"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "602,2343 602,2403 784,2403 784,2343"
+                },
+                "text": "however,"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "800,2343 800,2403 873,2403 873,2343"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "894,2343 894,2403 956,2403 956,2343"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "972,2343 972,2403 1139,2403 1139,2343"
+                },
+                "text": "observed"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1171,2343 1171,2403 1191,2403 1191,2343"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1223,2346 1223,2406 1269,2406 1269,2346"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1280,2346 1280,2406 1389,2406 1389,2346"
+                },
+                "text": "cells."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "1174,2629 1217,2627 1226,2634 1238,2627 1256,2636 1281,2629 1317,2645 1344,2629 1369,2636 1364,2561 1353,2566 1333,2559 1299,2575 1287,2566 1276,2572 1256,2566 1247,2557 1217,2570 1174,2561"
+            },
+            "baseline": {
+              "points": "1187,2613 1213,2615 1240,2616 1267,2616 1294,2615 1321,2613 1348,2613 1375,2613"
+            },
+            "text": "Methods",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "1175,2576 1175,2636 1355,2636 1355,2576"
+                },
+                "text": "Methods"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "507,2756 1038,2787 1163,2747 1781,2781 2061,2744 2061,2649 1848,2688 1801,2652 1733,2686 1536,2663 1502,2697 1260,2656 1143,2697 1052,2645 676,2695 584,2643 507,2688"
+            },
+            "baseline": {
+              "points": "519,2727 596,2727 673,2727 751,2727 828,2727 906,2727 983,2729 1060,2730 1138,2730 1215,2730 1293,2730 1370,2727 1447,2730 1525,2730 1602,2730 1680,2730 1757,2730 1834,2730 1912,2730 1989,2730 2067,2730"
+            },
+            "text": "Specimens were collected from Monterey Bay and kept in a tank at Hopkins",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "512,2687 512,2747 718,2747 718,2687"
+                },
+                "text": "Specimens"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "744,2687 744,2747 830,2747 830,2687"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "855,2687 855,2747 1022,2747 1022,2687"
+                },
+                "text": "collected"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "1053,2690 1053,2750 1118,2750 1118,2690"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1159,2690 1159,2750 1346,2750 1346,2690"
+                },
+                "text": "Monterey"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1372,2688 1372,2748 1437,2748 1437,2688"
+                },
+                "text": "Bay"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1468,2690 1468,2750 1523,2750 1523,2690"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1549,2690 1549,2750 1635,2750 1635,2690"
+                },
+                "text": "kept"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1650,2690 1650,2750 1675,2750 1675,2690"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1706,2690 1706,2750 1715,2750 1715,2690"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1741,2690 1741,2750 1811,2750 1811,2690"
+                },
+                "text": "tank"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1842,2690 1842,2750 1872,2750 1872,2690"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "1888,2690 1888,2750 2054,2750 2054,2690"
+                },
+                "text": "Hopkins"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "351,2867 839,2910 1066,2855 1172,2903 1477,2855 1774,2912 2041,2869 2041,2812 1971,2796 670,2817 351,2774"
+            },
+            "baseline": {
+              "points": "364,2843 448,2843 532,2843 616,2843 700,2843 784,2843 868,2843 952,2843 1036,2843 1120,2843 1205,2843 1289,2843 1373,2843 1457,2844 1541,2846 1625,2846 1709,2846 1793,2846 1877,2846 1961,2846 2046,2846"
+            },
+            "text": "Marine Station. Each Doriopsilla was dissected and its head ganglia excised. The",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "351,2803 351,2863 485,2863 485,2803"
+                },
+                "text": "Marine"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "512,2803 512,2863 662,2863 662,2803"
+                },
+                "text": "Station."
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "694,2803 694,2863 781,2863 781,2803"
+                },
+                "text": "Each"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "808,2803 808,2863 1026,2863 1026,2803"
+                },
+                "text": "Doriopsilla"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1058,2803 1058,2863 1124,2863 1124,2803"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1146,2803 1146,2863 1317,2863 1317,2803"
+                },
+                "text": "dissected"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1348,2803 1348,2863 1405,2863 1405,2803"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1431,2803 1431,2863 1467,2863 1467,2803"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1494,2805 1494,2865 1572,2865 1572,2805"
+                },
+                "text": "head"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1603,2806 1603,2866 1738,2866 1738,2806"
+                },
+                "text": "ganglia"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1764,2806 1764,2866 1930,2866 1930,2806"
+                },
+                "text": "excised."
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1956,2806 1956,2866 2023,2866 2023,2806"
+                },
+                "text": "The"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

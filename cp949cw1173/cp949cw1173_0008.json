@@ -1,0 +1,2282 @@
+{
+  "processId": 10307396,
+  "status": "FINISHED",
+  "content": {
+    "text": "variability plot (Wu and Kabat, 1970) shows that amino acid substitutions are found\nacross the whole protein, but concentrated at the C-terminus (Fig. 5).\nDISCUSSION\nDnaJ is a highly polymorphic gene, at both the nucleotide and amino acid level.\nThe amount of polymorphism found in DnaJ is similar to the amount of polymorphism\nfound in the allorecognition genes, fuhc and fester, which have been shown to be highly\npolymorphic (De Tomaso et al., 2005; Nyholm et al., 2006). On average, Dna shows a\nmean pairwise difference of 33.35 +4.77. For fuhc, the mean pairwise difference was 45\nfor Woods Hole and 37 for California, and for fester, the mean pairwise difference was\n23 for Woods Hole and 34 for California (unpublished data). In contrast, COI, which is\nevolving neutrally, has a mean pairwise difference of 1.4 for Woods Hole populations\nand 2 for California populations (McKitrick, unpublished). The total number of\npolymorphic sites is also unexpectedly high. In Monterey alone, nearly 10% of the locus\nis polymorphic, with twelve alleles having 127 polymorphic sites. On average, DnaJ had\n82.6 polymorphic sites over all alleles sequenced.\nAlthough this gene has a considerable amount of genetic diversity within\npopulations, it lacks population structure, as indicated by the AMOVA tests. This lack of\npopulation structure is reflected in the phylogenic protein and nucleotide trees, which\nshow a mixed California-Woods Hole clade. This observation could be explained by\nthree processes, either incomplete lineage sorting in which the gene may not be evolving\nfast enough to show any differentiation, linkage disequilibrium and genetic hitchhiking to\nthe fuhc or balancing selection. As a comparison, fuhc (ectodomain) and COl, a neutral\ngene, show population structure between California and Woods Hole (Fsr-0.29176,",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "366,286 366,2915 2204,2915 2204,286"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "363,369 649,399 1074,358 1207,397 1567,358 1880,404 2070,365 2070,275 1141,308 1037,264 971,312 363,266"
+            },
+            "baseline": {
+              "points": "375,346 459,346 544,346 629,346 714,344 799,346 884,346 969,346 1054,340 1139,343 1224,343 1308,343 1393,346 1478,343 1563,344 1648,343 1733,343 1818,343 1903,343 1988,343 2073,343"
+            },
+            "text": "variability plot (Wu and Kabat, 1970) shows that amino acid substitutions are found",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "363,306 363,366 563,366 563,306"
+                },
+                "text": "variability"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "585,306 585,366 660,366 660,306"
+                },
+                "text": "plot"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "677,304 677,364 752,364 752,304"
+                },
+                "text": "(Wu"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "780,306 780,366 839,366 839,306"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "861,306 861,366 996,366 996,306"
+                },
+                "text": "Kabat,"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "1013,300 1013,360 1126,360 1126,300"
+                },
+                "text": "1970)"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1143,303 1143,363 1261,363 1261,303"
+                },
+                "text": "shows"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1284,303 1284,363 1353,363 1353,303"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1370,304 1370,364 1483,364 1483,304"
+                },
+                "text": "amino"
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1506,303 1506,363 1575,363 1575,303"
+                },
+                "text": "acid"
+              },
+              {
+                "id": "tr_1_tl_1_w11",
+                "coords": {
+                  "points": "1603,303 1603,363 1851,363 1851,303"
+                },
+                "text": "substitutions"
+              },
+              {
+                "id": "tr_1_tl_1_w12",
+                "coords": {
+                  "points": "1874,303 1874,363 1922,363 1922,303"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_1_w13",
+                "coords": {
+                  "points": "1950,303 1950,363 2052,363 2052,303"
+                },
+                "text": "found"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "363,493 454,526 711,480 785,528 907,482 1760,491 1760,411 1641,399 363,431"
+            },
+            "baseline": {
+              "points": "375,459 444,462 514,459 583,459 653,459 722,459 792,456 861,456 931,456 1000,456 1070,456 1140,456 1209,456 1279,456 1348,456 1418,456 1487,459 1557,459 1626,459 1696,462 1766,462"
+            },
+            "text": "across the whole protein, but concentrated at the C-terminus (Fig. 5).",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "368,421 368,481 486,481 486,421"
+                },
+                "text": "across"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "507,419 507,479 558,479 558,419"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "585,419 585,479 693,479 693,419"
+                },
+                "text": "whole"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "720,416 720,476 869,476 869,416"
+                },
+                "text": "protein,"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "885,416 885,476 946,476 946,416"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "962,416 962,476 1210,476 1210,416"
+                },
+                "text": "concentrated"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1237,416 1237,476 1267,476 1267,416"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1283,416 1283,476 1334,476 1334,416"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1360,418 1360,478 1577,478 1577,418"
+                },
+                "text": "C-terminus"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1599,419 1599,479 1691,479 1691,419"
+                },
+                "text": "(Fig."
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1707,422 1707,482 1763,482 1763,422"
+                },
+                "text": "5)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "353,592 406,606 422,592 470,594 519,622 544,608 578,620 629,588 675,592 677,521 633,530 606,509 574,507 516,532 445,519 374,537 356,530"
+            },
+            "baseline": {
+              "points": "366,575 392,575 418,575 444,573 470,571 496,569 523,569 549,568 575,569 601,569 627,569 653,568 680,566"
+            },
+            "text": "DISCUSSION",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "356,529 356,589 651,589 651,529"
+                },
+                "text": "DISCUSSION"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "507,746 686,702 881,750 994,711 2137,711 2137,643 2075,627 507,643"
+            },
+            "baseline": {
+              "points": "519,692 600,692 681,692 762,692 843,692 924,692 1005,692 1087,692 1168,692 1249,692 1330,689 1411,689 1492,691 1573,689 1655,689 1736,689 1817,689 1898,689 1979,689 2060,687 2142,692"
+            },
+            "text": "DnaJ is a highly polymorphic gene, at both the nucleotide and amino acid level.",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "512,652 512,712 608,712 608,652"
+                },
+                "text": "DnaJ"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "630,652 630,712 656,712 656,652"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "678,652 678,712 688,712 688,652"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "710,652 710,712 827,712 827,652"
+                },
+                "text": "highly"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "854,652 854,712 1104,712 1104,652"
+                },
+                "text": "polymorphic"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1126,652 1126,712 1238,712 1238,652"
+                },
+                "text": "gene,"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1254,651 1254,711 1286,711 1286,651"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1297,649 1297,709 1377,709 1377,649"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1404,649 1404,709 1451,709 1451,649"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1479,649 1479,709 1676,709 1676,649"
+                },
+                "text": "nucleotide"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1703,649 1703,709 1761,709 1761,649"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1788,649 1788,709 1905,709 1905,649"
+                },
+                "text": "amino"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1933,649 1933,709 2001,709 2001,649"
+                },
+                "text": "acid"
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "2029,648 2029,708 2135,708 2135,648"
+                },
+                "text": "level."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "363,854 672,826 822,877 973,826 1574,817 1746,858 2130,826 2130,739 363,755"
+            },
+            "baseline": {
+              "points": "375,805 463,804 551,805 639,805 727,805 815,805 903,805 991,805 1079,805 1167,805 1255,805 1343,805 1431,805 1519,805 1607,805 1695,805 1783,805 1871,802 1959,805 2047,802 2136,802"
+            },
+            "text": "The amount of polymorphism found in DnaJ is similar to the amount of polymorphism",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "363,764 363,824 426,824 426,764"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "453,764 453,824 601,824 601,764"
+                },
+                "text": "amount"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "618,765 618,825 654,825 654,765"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "671,765 671,825 942,825 942,765"
+                },
+                "text": "polymorphism"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "985,765 985,825 1086,825 1086,765"
+                },
+                "text": "found"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1113,765 1113,825 1139,825 1139,765"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1166,765 1166,825 1266,825 1266,765"
+                },
+                "text": "DnaJ"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1288,765 1288,825 1314,825 1314,765"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1336,765 1336,825 1469,825 1469,765"
+                },
+                "text": "similar"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1491,765 1491,825 1516,825 1516,765"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1544,765 1544,825 1591,825 1591,765"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1618,765 1618,825 1766,825 1766,765"
+                },
+                "text": "amount"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1783,764 1783,824 1820,824 1820,764"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "1842,764 1842,824 2101,824 2101,764"
+                },
+                "text": "polymorphism"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "356,946 1088,980 1448,943 1499,975 1609,932 2139,946 2102,854 1756,893 1652,858 356,870"
+            },
+            "baseline": {
+              "points": "369,921 457,918 546,918 635,921 724,921 813,921 901,921 990,921 1079,921 1168,919 1257,921 1345,921 1434,921 1523,918 1612,918 1701,918 1789,918 1878,918 1967,918 2056,918 2145,912"
+            },
+            "text": "found in the allorecognition genes, fuhc and fester, which have been shown to be highly",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "362,879 362,939 467,939 467,879"
+                },
+                "text": "found"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "490,878 490,938 517,938 517,878"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "546,878 546,938 595,938 595,878"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "618,881 618,941 907,941 907,881"
+                },
+                "text": "allorecognition"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "935,881 935,941 1062,941 1062,881"
+                },
+                "text": "genes,"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1080,880 1080,940 1157,940 1157,880"
+                },
+                "text": "fuhc"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1180,879 1180,939 1240,939 1240,879"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1264,881 1264,941 1385,941 1385,881"
+                },
+                "text": "fester,"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1403,880 1403,940 1513,940 1513,880"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1536,878 1536,938 1619,938 1619,878"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1647,878 1647,938 1730,938 1730,878"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1759,878 1759,938 1875,938 1875,878"
+                },
+                "text": "shown"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1903,878 1903,938 1930,938 1930,878"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1959,878 1959,938 1992,938 1992,878"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_6_w15",
+                "coords": {
+                  "points": "2014,876 2014,936 2130,936 2130,876"
+                },
+                "text": "highly"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "360,1079 952,1047 2137,1074 2137,989 2033,975 360,996"
+            },
+            "baseline": {
+              "points": "372,1047 460,1038 548,1037 637,1035 725,1035 813,1036 902,1036 990,1038 1078,1036 1167,1037 1255,1035 1343,1035 1432,1038 1520,1035 1608,1035 1697,1035 1785,1035 1873,1035 1962,1035 2050,1032 2139,1035"
+            },
+            "text": "polymorphic (De Tomaso et al., 2005; Nyholm et al., 2006). On average, Dna shows a",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "367,997 367,1057 609,1057 609,997"
+                },
+                "text": "polymorphic"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "639,995 639,1055 699,1055 699,995"
+                },
+                "text": "(De"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "723,995 723,1055 870,1055 870,995"
+                },
+                "text": "Tomaso"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "900,996 900,1056 929,1056 929,996"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "949,997 949,1057 1007,1057 1007,997"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1025,996 1025,1056 1137,1056 1137,996"
+                },
+                "text": "2005;"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1156,995 1156,1055 1292,1055 1292,995"
+                },
+                "text": "Nyholm"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1328,995 1328,1055 1363,1055 1363,995"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1381,997 1381,1057 1440,1057 1440,997"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1452,995 1452,1055 1582,1055 1582,995"
+                },
+                "text": "2006)."
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1595,995 1595,1055 1647,1055 1647,995"
+                },
+                "text": "On"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1672,995 1672,1055 1843,1055 1843,995"
+                },
+                "text": "average,"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1862,995 1862,1055 1932,1055 1932,995"
+                },
+                "text": "Dna"
+              },
+              {
+                "id": "tr_1_tl_7_w14",
+                "coords": {
+                  "points": "1980,992 1980,1052 2098,1052 2098,992"
+                },
+                "text": "shows"
+              },
+              {
+                "id": "tr_1_tl_7_w15",
+                "coords": {
+                  "points": "2116,994 2116,1054 2127,1054 2127,994"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "360,1189 1464,1203 1579,1166 1882,1205 1981,1164 2183,1196 2183,1102 1960,1088 360,1115"
+            },
+            "baseline": {
+              "points": "372,1148 462,1151 553,1151 644,1151 735,1151 826,1151 917,1151 1007,1151 1098,1149 1189,1151 1280,1151 1371,1151 1462,1151 1553,1151 1643,1151 1734,1150 1825,1148 1916,1148 2007,1148 2098,1148 2189,1148"
+            },
+            "text": "mean pairwise difference of 33.35 +4.77. For fuhc, the mean pairwise difference was 45",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "365,1109 365,1169 460,1169 460,1109"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "487,1111 487,1171 645,1171 645,1111"
+                },
+                "text": "pairwise"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "672,1111 672,1171 862,1171 862,1111"
+                },
+                "text": "difference"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "889,1111 889,1171 925,1171 925,1111"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "953,1111 953,1171 1058,1171 1058,1111"
+                },
+                "text": "33.35"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1080,1110 1080,1170 1222,1170 1222,1110"
+                },
+                "text": "+4.77."
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1250,1111 1250,1171 1312,1171 1312,1111"
+                },
+                "text": "For"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1334,1111 1334,1171 1429,1171 1429,1111"
+                },
+                "text": "fuhc,"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1445,1111 1445,1171 1492,1171 1492,1111"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1519,1111 1519,1171 1615,1171 1615,1111"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1642,1110 1642,1170 1800,1170 1800,1110"
+                },
+                "text": "pairwise"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1827,1108 1827,1168 2017,1168 2017,1108"
+                },
+                "text": "difference"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "2044,1108 2044,1168 2112,1168 2112,1108"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "2134,1108 2134,1168 2170,1168 2170,1108"
+                },
+                "text": "45"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "353,1274 620,1322 1150,1285 2130,1320 2130,1230 1962,1200 353,1230"
+            },
+            "baseline": {
+              "points": "366,1265 454,1265 542,1263 631,1268 719,1268 807,1268 896,1268 984,1268 1072,1268 1161,1268 1249,1268 1337,1268 1426,1268 1514,1268 1602,1265 1691,1268 1779,1265 1867,1265 1956,1265 2044,1262 2133,1262"
+            },
+            "text": "for Woods Hole and 37 for California, and for fester, the mean pairwise difference was",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "358,1225 358,1285 411,1285 411,1225"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "433,1223 433,1283 566,1283 566,1223"
+                },
+                "text": "Woods"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "588,1227 588,1287 672,1287 672,1227"
+                },
+                "text": "Hole"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "694,1228 694,1288 757,1288 757,1228"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "779,1228 779,1288 821,1288 821,1228"
+                },
+                "text": "37"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "849,1228 849,1288 896,1288 896,1228"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "918,1228 918,1288 1136,1288 1136,1228"
+                },
+                "text": "California,"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1153,1228 1153,1288 1211,1288 1211,1228"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1238,1228 1238,1288 1291,1288 1291,1228"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1307,1228 1307,1288 1429,1288 1429,1228"
+                },
+                "text": "fester,"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1446,1228 1446,1288 1498,1288 1498,1228"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1520,1226 1520,1286 1616,1286 1616,1226"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1643,1226 1643,1286 1808,1286 1808,1226"
+                },
+                "text": "pairwise"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1835,1225 1835,1285 2026,1285 2026,1225"
+                },
+                "text": "difference"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "2048,1222 2048,1282 2117,1282 2117,1222"
+                },
+                "text": "was"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "363,1448 661,1395 748,1430 1308,1407 1448,1450 1554,1405 2141,1418 2141,1331 2095,1317 363,1320"
+            },
+            "baseline": {
+              "points": "375,1381 463,1381 552,1381 640,1381 729,1381 818,1381 906,1381 995,1381 1084,1381 1172,1382 1261,1381 1350,1381 1438,1381 1527,1381 1616,1381 1704,1381 1793,1381 1882,1378 1970,1378 2059,1381 2148,1378"
+            },
+            "text": "23 for Woods Hole and 34 for California (unpublished data). In contrast, COI, which is",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "364,1341 364,1401 396,1401 396,1341"
+                },
+                "text": "23"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "430,1341 430,1401 480,1401 480,1341"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "502,1341 502,1401 629,1401 629,1341"
+                },
+                "text": "Woods"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "653,1341 653,1401 741,1401 741,1341"
+                },
+                "text": "Hole"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "764,1341 764,1401 825,1401 825,1341"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "847,1341 847,1401 886,1401 886,1341"
+                },
+                "text": "34"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "914,1341 914,1401 964,1401 964,1341"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "987,1341 987,1401 1181,1401 1181,1341"
+                },
+                "text": "California"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1204,1341 1204,1401 1454,1401 1454,1341"
+                },
+                "text": "(unpublished"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1482,1341 1482,1401 1593,1401 1593,1341"
+                },
+                "text": "data)."
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1622,1341 1622,1401 1649,1401 1649,1341"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1677,1341 1677,1401 1849,1401 1849,1341"
+                },
+                "text": "contrast,"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1867,1338 1867,1398 1966,1398 1966,1338"
+                },
+                "text": "COI,"
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "1978,1340 1978,1400 2082,1400 2082,1340"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_10_w15",
+                "coords": {
+                  "points": "2111,1338 2111,1398 2138,1398 2138,1338"
+                },
+                "text": "is"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "360,1524 604,1556 913,1512 1244,1547 1402,1503 2114,1528 2114,1453 1932,1432 360,1453"
+            },
+            "baseline": {
+              "points": "372,1497 459,1497 546,1497 633,1497 721,1497 808,1497 895,1498 983,1499 1070,1497 1157,1497 1245,1497 1332,1497 1419,1497 1506,1494 1594,1494 1681,1495 1768,1496 1856,1497 1943,1494 2030,1494 2118,1494"
+            },
+            "text": "evolving neutrally, has a mean pairwise difference of 1.4 for Woods Hole populations",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "360,1457 360,1517 529,1517 529,1457"
+                },
+                "text": "evolving"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "556,1457 556,1517 741,1517 741,1457"
+                },
+                "text": "neutrally,"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "757,1457 757,1517 815,1517 815,1457"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "837,1457 837,1517 846,1517 846,1457"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "874,1458 874,1518 968,1518 968,1458"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "995,1457 995,1517 1153,1517 1153,1457"
+                },
+                "text": "pairwise"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1181,1457 1181,1517 1370,1517 1370,1457"
+                },
+                "text": "difference"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1398,1457 1398,1517 1434,1517 1434,1457"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1456,1454 1456,1514 1503,1514 1503,1454"
+                },
+                "text": "1.4"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1530,1454 1530,1514 1582,1514 1582,1454"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1604,1454 1604,1514 1736,1514 1736,1454"
+                },
+                "text": "Woods"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1758,1456 1758,1516 1847,1516 1847,1456"
+                },
+                "text": "Hole"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1869,1454 1869,1514 2096,1514 2096,1454"
+                },
+                "text": "populations"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "360,1629 1990,1655 1990,1538 1792,1581 1641,1549 360,1563"
+            },
+            "baseline": {
+              "points": "372,1614 453,1613 534,1611 615,1611 696,1611 778,1611 859,1612 940,1611 1021,1611 1102,1611 1184,1611 1265,1613 1346,1611 1427,1611 1508,1611 1590,1611 1671,1611 1752,1611 1833,1611 1914,1608 1996,1608"
+            },
+            "text": "and 2 for California populations (McKitrick, unpublished). The total number of",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "366,1573 366,1633 427,1633 427,1573"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "455,1572 455,1632 466,1632 466,1572"
+                },
+                "text": "2"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "494,1571 494,1631 543,1631 543,1571"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "566,1571 566,1631 756,1631 756,1571"
+                },
+                "text": "California"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "779,1571 779,1631 1006,1631 1006,1571"
+                },
+                "text": "populations"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1030,1571 1030,1631 1268,1631 1268,1571"
+                },
+                "text": "(McKitrick,"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1285,1571 1285,1631 1564,1631 1564,1571"
+                },
+                "text": "unpublished)."
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1575,1571 1575,1631 1641,1631 1641,1571"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1664,1571 1664,1631 1753,1631 1753,1571"
+                },
+                "text": "total"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1771,1570 1771,1630 1920,1630 1920,1570"
+                },
+                "text": "number"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1943,1568 1943,1628 1976,1628 1976,1568"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "360,1779 617,1740 1659,1786 1740,1746 2160,1756 2160,1678 1997,1652 1510,1694 360,1687"
+            },
+            "baseline": {
+              "points": "372,1733 461,1727 551,1727 641,1727 730,1727 820,1727 910,1727 999,1727 1089,1727 1179,1727 1269,1727 1358,1727 1448,1727 1538,1727 1627,1727 1717,1727 1807,1724 1896,1724 1986,1724 2076,1724 2166,1724"
+            },
+            "text": "polymorphic sites is also unexpectedly high. In Monterey alone, nearly 10% of the locus",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "367,1687 367,1747 610,1747 610,1687"
+                },
+                "text": "polymorphic"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "633,1687 633,1747 717,1747 717,1687"
+                },
+                "text": "sites"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "735,1687 735,1747 763,1747 763,1687"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "786,1687 786,1747 853,1747 853,1687"
+                },
+                "text": "also"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "877,1687 877,1747 1137,1747 1137,1687"
+                },
+                "text": "unexpectedly"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1160,1687 1160,1747 1261,1747 1261,1687"
+                },
+                "text": "high."
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1279,1687 1279,1747 1307,1747 1307,1687"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1330,1687 1330,1747 1511,1747 1511,1687"
+                },
+                "text": "Monterey"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1540,1687 1540,1747 1658,1747 1658,1687"
+                },
+                "text": "alone,"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1676,1686 1676,1746 1788,1746 1788,1686"
+                },
+                "text": "nearly"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1817,1684 1817,1744 1879,1744 1879,1684"
+                },
+                "text": "10%"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1925,1684 1925,1744 1958,1744 1958,1684"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1976,1684 1976,1744 2026,1744 2026,1684"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "2050,1684 2050,1744 2145,1744 2145,1684"
+                },
+                "text": "locus"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "356,1891 542,1857 828,1905 932,1866 1033,1907 1127,1850 1402,1900 2173,1873 2157,1781 356,1799"
+            },
+            "baseline": {
+              "points": "369,1840 459,1840 549,1840 640,1843 730,1840 821,1840 911,1840 1002,1840 1092,1840 1183,1841 1273,1843 1363,1840 1454,1841 1544,1840 1635,1840 1725,1840 1816,1840 1906,1840 1997,1840 2087,1840 2178,1840"
+            },
+            "text": "is polymorphic, with twelve alleles having 127 polymorphic sites. On average, DnaJ had",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "356,1800 356,1860 383,1860 383,1800"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "405,1800 405,1860 671,1860 671,1800"
+                },
+                "text": "polymorphic,"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "693,1800 693,1860 763,1860 763,1800"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "791,1800 791,1860 915,1860 915,1800"
+                },
+                "text": "twelve"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "938,1800 938,1860 1062,1860 1062,1800"
+                },
+                "text": "alleles"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1085,1800 1085,1860 1209,1860 1209,1800"
+                },
+                "text": "having"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1237,1802 1237,1862 1301,1862 1301,1802"
+                },
+                "text": "127"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1324,1800 1324,1860 1568,1860 1568,1800"
+                },
+                "text": "polymorphic"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1596,1800 1596,1860 1693,1860 1693,1800"
+                },
+                "text": "sites."
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1710,1800 1710,1860 1758,1860 1758,1800"
+                },
+                "text": "On"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1786,1800 1786,1860 1954,1860 1954,1800"
+                },
+                "text": "average,"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1971,1800 1971,1860 2068,1860 2068,1800"
+                },
+                "text": "DnaJ"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "2090,1800 2090,1860 2149,1860 2149,1800"
+                },
+                "text": "had"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "356,2013 422,1981 633,2010 728,1976 902,2008 1375,1985 1375,1914 356,1898"
+            },
+            "baseline": {
+              "points": "369,1957 419,1957 470,1954 520,1955 571,1957 622,1957 672,1957 723,1957 773,1957 824,1957 875,1957 925,1957 976,1957 1026,1957 1077,1957 1128,1957 1178,1957 1229,1957 1279,1957 1330,1957 1381,1957"
+            },
+            "text": "82.6 polymorphic sites over all alleles sequenced.",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "361,1917 361,1977 439,1977 439,1917"
+                },
+                "text": "82.6"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "465,1917 465,1977 715,1977 715,1917"
+                },
+                "text": "polymorphic"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "737,1917 737,1977 820,1977 820,1917"
+                },
+                "text": "sites"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "841,1917 841,1977 924,1977 924,1917"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "945,1917 945,1977 992,1977 992,1917"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1008,1917 1008,1977 1133,1977 1133,1917"
+                },
+                "text": "alleles"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1154,1917 1154,1977 1378,1977 1378,1917"
+                },
+                "text": "sequenced."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "507,2098 1170,2093 1235,2132 1388,2082 1767,2123 2192,2093 2192,2001 2146,1992 1836,2045 1774,2001 1487,2029 1400,1992 1308,2036 1026,1999 826,2043 755,2004 507,2006"
+            },
+            "baseline": {
+              "points": "519,2073 607,2070 695,2072 784,2071 872,2073 960,2073 1049,2073 1137,2072 1225,2073 1314,2073 1402,2072 1491,2070 1579,2073 1667,2070 1756,2070 1844,2070 1932,2070 2021,2067 2109,2067 2198,2064"
+            },
+            "text": "Although this gene has a considerable amount of genetic diversity within",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "508,2030 508,2090 685,2090 685,2030"
+                },
+                "text": "Although"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "725,2031 725,2091 797,2091 797,2031"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "831,2033 831,2093 919,2093 919,2033"
+                },
+                "text": "gene"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "959,2033 959,2093 1025,2093 1025,2033"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "1059,2032 1059,2092 1075,2092 1075,2032"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1115,2033 1115,2093 1365,2093 1365,2033"
+                },
+                "text": "considerable"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1404,2030 1404,2090 1554,2090 1554,2030"
+                },
+                "text": "amount"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1588,2031 1588,2091 1632,2091 1632,2031"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1666,2030 1666,2090 1805,2090 1805,2030"
+                },
+                "text": "genetic"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1844,2030 1844,2090 2011,2090 2011,2030"
+                },
+                "text": "diversity"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "2056,2026 2056,2086 2172,2086 2172,2026"
+                },
+                "text": "within"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "356,2210 2201,2226 2201,2134 356,2130"
+            },
+            "baseline": {
+              "points": "369,2195 460,2187 552,2187 644,2187 736,2187 827,2187 919,2187 1011,2187 1103,2187 1194,2187 1286,2187 1378,2187 1470,2186 1561,2184 1653,2185 1745,2184 1837,2184 1928,2184 2020,2184 2112,2184 2204,2184"
+            },
+            "text": "populations, it lacks population structure, as indicated by the AMOVA tests. This lack of",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "358,2147 358,2207 611,2207 611,2147"
+                },
+                "text": "populations,"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "624,2147 624,2207 647,2207 647,2147"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "666,2147 666,2207 762,2207 762,2147"
+                },
+                "text": "lacks"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "787,2147 787,2207 986,2207 986,2147"
+                },
+                "text": "population"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "1017,2147 1017,2207 1204,2207 1204,2147"
+                },
+                "text": "structure,"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1223,2147 1223,2207 1253,2207 1253,2147"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1278,2147 1278,2207 1446,2207 1446,2147"
+                },
+                "text": "indicated"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1477,2145 1477,2205 1513,2205 1513,2145"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1538,2144 1538,2204 1592,2204 1592,2144"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1617,2144 1617,2204 1785,2204 1785,2144"
+                },
+                "text": "AMOVA"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1822,2144 1822,2204 1925,2204 1925,2144"
+                },
+                "text": "tests."
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1943,2144 1943,2204 2021,2204 2021,2144"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "2046,2144 2046,2204 2112,2204 2112,2144"
+                },
+                "text": "lack"
+              },
+              {
+                "id": "tr_1_tl_17_w14",
+                "coords": {
+                  "points": "2143,2144 2143,2204 2179,2204 2179,2144"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "356,2341 2192,2327 2144,2240 2043,2272 1873,2233 1368,2270 1189,2226 1122,2267 356,2256"
+            },
+            "baseline": {
+              "points": "369,2312 460,2303 551,2303 643,2303 734,2303 826,2303 917,2303 1009,2301 1100,2301 1192,2303 1283,2303 1374,2301 1466,2303 1557,2300 1649,2301 1740,2300 1832,2300 1923,2300 2015,2300 2106,2300 2198,2300"
+            },
+            "text": "population structure is reflected in the phylogenic protein and nucleotide trees, which",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "357,2263 357,2323 565,2323 565,2263"
+                },
+                "text": "population"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "601,2263 601,2323 763,2323 763,2263"
+                },
+                "text": "structure"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "793,2263 793,2323 821,2323 821,2263"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "851,2262 851,2322 1014,2322 1014,2262"
+                },
+                "text": "reflected"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1049,2261 1049,2321 1078,2321 1078,2261"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1113,2261 1113,2321 1165,2321 1165,2261"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1194,2262 1194,2322 1409,2322 1409,2262"
+                },
+                "text": "phylogenic"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1439,2261 1439,2321 1572,2321 1572,2261"
+                },
+                "text": "protein"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1608,2260 1608,2320 1671,2320 1671,2260"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1701,2260 1701,2320 1904,2320 1904,2260"
+                },
+                "text": "nucleotide"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1934,2260 1934,2320 2043,2320 2043,2260"
+                },
+                "text": "trees,"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "2067,2260 2067,2320 2177,2320 2177,2260"
+                },
+                "text": "which"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "363,2451 1453,2440 1664,2476 1841,2426 1997,2463 2187,2440 2162,2355 1258,2385 778,2336 640,2382 363,2382"
+            },
+            "baseline": {
+              "points": "375,2416 465,2416 556,2417 647,2416 738,2416 829,2417 920,2416 1010,2416 1101,2416 1192,2416 1283,2416 1374,2416 1465,2416 1556,2416 1646,2416 1737,2416 1828,2413 1919,2416 2010,2416 2101,2413 2192,2410"
+            },
+            "text": "show a mixed California-Woods Hole clade. This observation could be explained by",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "363,2376 363,2436 444,2436 444,2376"
+                },
+                "text": "show"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "488,2376 488,2436 504,2436 504,2376"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "532,2376 532,2436 650,2436 650,2376"
+                },
+                "text": "mixed"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "684,2376 684,2436 1042,2436 1042,2376"
+                },
+                "text": "California-Woods"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1070,2376 1070,2436 1162,2436 1162,2376"
+                },
+                "text": "Hole"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1195,2376 1195,2436 1314,2436 1314,2376"
+                },
+                "text": "clade."
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1337,2376 1337,2436 1417,2436 1417,2376"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1451,2376 1451,2436 1673,2436 1673,2376"
+                },
+                "text": "observation"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1712,2375 1712,2435 1814,2435 1814,2375"
+                },
+                "text": "could"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1848,2374 1848,2434 1886,2434 1886,2374"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1919,2375 1919,2435 2103,2435 2103,2375"
+                },
+                "text": "explained"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "2136,2371 2136,2431 2173,2431 2173,2371"
+                },
+                "text": "by"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "365,2573 789,2545 1145,2598 1441,2541 1680,2586 2192,2570 2192,2483 2040,2497 1951,2453 1696,2502 365,2485"
+            },
+            "baseline": {
+              "points": "378,2533 469,2530 560,2533 651,2533 742,2533 833,2533 924,2533 1015,2533 1106,2533 1197,2533 1288,2533 1379,2533 1470,2533 1561,2533 1652,2533 1743,2533 1834,2530 1925,2530 2016,2530 2107,2530 2198,2533"
+            },
+            "text": "three processes, either incomplete lineage sorting in which the gene may not be evolving",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "365,2491 365,2551 459,2551 459,2491"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "485,2493 485,2553 686,2553 686,2493"
+                },
+                "text": "processes,"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "707,2493 707,2553 812,2553 812,2493"
+                },
+                "text": "either"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "832,2493 832,2553 1048,2553 1048,2493"
+                },
+                "text": "incomplete"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "1074,2493 1074,2553 1209,2553 1209,2493"
+                },
+                "text": "lineage"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1235,2493 1235,2553 1360,2553 1360,2493"
+                },
+                "text": "sorting"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1391,2493 1391,2553 1416,2553 1416,2493"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1441,2493 1441,2553 1551,2553 1551,2493"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1582,2493 1582,2553 1632,2553 1632,2493"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1658,2493 1658,2553 1743,2553 1743,2493"
+                },
+                "text": "gene"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1768,2490 1768,2550 1843,2550 1843,2490"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1874,2490 1874,2550 1934,2550 1934,2490"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1954,2490 1954,2550 1989,2550 1989,2490"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "2010,2490 2010,2550 2175,2550 2175,2490"
+                },
+                "text": "evolving"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "353,2664 1216,2697 1595,2658 1942,2704 2187,2669 2187,2603 2109,2584 353,2600"
+            },
+            "baseline": {
+              "points": "366,2646 457,2649 548,2647 639,2646 731,2646 822,2646 913,2646 1005,2646 1096,2646 1187,2646 1279,2648 1370,2646 1461,2646 1552,2646 1644,2646 1735,2646 1826,2646 1918,2643 2009,2643 2100,2646 2192,2643"
+            },
+            "text": "fast enough to show any differentiation, linkage disequilibrium and genetic hitchhiking to",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "359,2606 359,2666 423,2666 423,2606"
+                },
+                "text": "fast"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "441,2607 441,2667 576,2667 576,2607"
+                },
+                "text": "enough"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "604,2606 604,2666 630,2666 630,2606"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "658,2606 658,2666 739,2666 739,2606"
+                },
+                "text": "show"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "778,2606 778,2666 838,2666 838,2606"
+                },
+                "text": "any"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "866,2606 866,2666 1170,2666 1170,2606"
+                },
+                "text": "differentiation,"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1187,2607 1187,2667 1323,2667 1323,2607"
+                },
+                "text": "linkage"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1346,2606 1346,2666 1617,2666 1617,2606"
+                },
+                "text": "disequilibrium"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1656,2606 1656,2666 1721,2666 1721,2606"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1744,2606 1744,2666 1885,2666 1885,2606"
+                },
+                "text": "genetic"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1907,2603 1907,2663 2124,2663 2124,2603"
+                },
+                "text": "hitchhiking"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "2152,2603 2152,2663 2179,2663 2179,2603"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "360,2814 560,2770 728,2818 1111,2786 1219,2821 1308,2779 1480,2825 1703,2784 1921,2821 2196,2775 2162,2697 360,2720"
+            },
+            "baseline": {
+              "points": "372,2759 463,2762 554,2762 646,2762 737,2762 829,2762 920,2762 1012,2762 1103,2762 1195,2762 1286,2762 1377,2763 1469,2762 1560,2760 1652,2762 1743,2762 1835,2759 1926,2759 2018,2759 2109,2759 2201,2759"
+            },
+            "text": "the fuhc or balancing selection. As a comparison, fuhc (ectodomain) and COl, a neutral",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "360,2719 360,2779 413,2779 413,2719"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "445,2722 445,2782 519,2782 519,2722"
+                },
+                "text": "fuhc"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "546,2722 546,2782 582,2782 582,2722"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "610,2722 610,2782 790,2782 790,2722"
+                },
+                "text": "balancing"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "822,2722 822,2782 1013,2782 1013,2722"
+                },
+                "text": "selection."
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1030,2722 1030,2782 1077,2782 1077,2722"
+                },
+                "text": "As"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1104,2722 1104,2782 1120,2782 1120,2722"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1147,2722 1147,2782 1391,2782 1391,2722"
+                },
+                "text": "comparison,"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1413,2722 1413,2782 1486,2782 1486,2722"
+                },
+                "text": "fuhc"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1519,2721 1519,2781 1784,2781 1784,2721"
+                },
+                "text": "(ectodomain)"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1806,2719 1806,2779 1869,2779 1869,2719"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1897,2719 1897,2779 1997,2779 1997,2719"
+                },
+                "text": "COl,"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "2014,2719 2014,2779 2029,2779 2029,2719"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_22_w14",
+                "coords": {
+                  "points": "2056,2719 2056,2779 2188,2779 2188,2719"
+                },
+                "text": "neutral"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "360,2938 750,2954 854,2908 1102,2947 1345,2905 1721,2938 2006,2880 2194,2940 2169,2811 360,2841"
+            },
+            "baseline": {
+              "points": "372,2888 463,2880 554,2879 645,2881 737,2879 828,2879 919,2879 1011,2877 1102,2876 1193,2876 1285,2879 1376,2877 1467,2879 1558,2879 1650,2876 1741,2878 1832,2876 1924,2879 2015,2876 2106,2876 2198,2882"
+            },
+            "text": "gene, show population structure between California and Woods Hole (Fsr-0.29176,",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "361,2844 361,2904 470,2904 470,2844"
+                },
+                "text": "gene,"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "500,2839 500,2899 581,2899 581,2839"
+                },
+                "text": "show"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "628,2839 628,2899 836,2899 836,2839"
+                },
+                "text": "population"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "872,2838 872,2898 1040,2898 1040,2838"
+                },
+                "text": "structure"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "1075,2836 1075,2896 1238,2896 1238,2836"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1273,2837 1273,2897 1470,2897 1470,2837"
+                },
+                "text": "California"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1506,2839 1506,2899 1563,2899 1563,2839"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1604,2836 1604,2896 1743,2896 1743,2836"
+                },
+                "text": "Woods"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1773,2836 1773,2896 1865,2896 1865,2836"
+                },
+                "text": "Hole"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1901,2836 1901,2896 2190,2896 2190,2836"
+                },
+                "text": "(Fsr-0.29176,"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

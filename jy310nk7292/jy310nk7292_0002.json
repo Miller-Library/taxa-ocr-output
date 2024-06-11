@@ -1,0 +1,2481 @@
+{
+  "processId": 10334555,
+  "status": "FINISHED",
+  "content": {
+    "text": "INTRODUCTION\nThe cell is a very complex environment, but in vitro biochemistry is usually carried out in\ndilute buffer solutions with the components of interest highly purified (Garner & Burg,\n1994). While this type of simplification is often necessary, it can yield an inaccurate view\nof cellular processes. A very dilute solution is thermodynamically ideal, but the cytoplasm\nof the cell deviates greatly from ideality (Garner & Burg, 1994). Proteins and small\nmolecules in solution affect one another\u2019s activities, and while this situation can be modeled\nby multicomponent thermodynamics, it is difficult to predict how the activity of a given\nmacromolecule will be affected (Garner & Burg, 1994).\nWhen a significant part of a solution is taken up by macromolecules, the spaces between\nthem are no longer large compared to the size of the macromolecules. In such a case,\ncreating a space for another large molecule is entropically unfavorable because of the higher\norder of the resulting solution (Garner and Burg, 1994). Because proteins are flexible and\ncan sample many possible configurations, this crowding effect may favor a more compact\nprotein structure. When proteins are exposed to heat, they denature. Because denatured\nproteins occupy a greater volume than native proteins, it is plausible that macromolecular\ncrowding enhances protein stability.\nThe protein concentration of the cytoplasm is very high, about 20% (Fulton, 1982). The\nmitochondrial protein concentration is even higher, about 56% (Srere, 1981). This is\nsimilar to the concentration found in protein crystals, which have been used to model the\nmitochondrial environment (Srere, 1981). In addition to having a higher protein\nconcentration than the cytoplasm, the mitochondrion contains its own genetic code. Some\nenzymes have separate mitochondrial and cytoplasmic isoforms. Malate dehydrogenase\n(MDH), which mediates the conversion of oxaloacetic acid and NADH to malate and\nNAD+ in the Krebs cycle, is one such enzyme. The mitochondrial isoform, mMDH, has",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "349,267 349,3004 2180,3004 2180,267"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "336,322 388,349 418,333 484,352 502,336 587,365 637,342 708,361 737,338 797,352 797,276 719,272 689,244 600,267 509,233 447,265 336,281"
+            },
+            "baseline": {
+              "points": "349,319 374,317 399,316 424,318 449,319 475,319 500,319 525,319 550,319 576,319 601,319 626,319 651,319 676,318 702,316 727,316 752,316 777,318 803,319"
+            },
+            "text": "INTRODUCTION",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "339,279 339,339 766,339 766,279"
+                },
+                "text": "INTRODUCTION"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "342,511 746,482 918,532 1166,484 1338,518 1591,484 1867,523 2123,482 2123,393 2029,358 1780,436 342,425"
+            },
+            "baseline": {
+              "points": "355,468 443,468 532,468 621,468 709,468 798,471 887,471 975,471 1064,471 1153,469 1242,471 1330,470 1419,468 1508,469 1596,471 1685,470 1774,471 1862,471 1951,469 2040,470 2129,471"
+            },
+            "text": "The cell is a very complex environment, but in vitro biochemistry is usually carried out in",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "341,428 341,488 405,488 405,428"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "431,428 431,488 499,488 499,428"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "510,428 510,488 534,488 534,428"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "559,428 559,488 569,488 569,428"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "589,428 589,488 668,488 668,428"
+                },
+                "text": "very"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "688,430 688,490 851,490 851,430"
+                },
+                "text": "complex"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "877,431 877,491 1144,491 1144,431"
+                },
+                "text": "environment,"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1160,429 1160,489 1219,489 1219,429"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1234,430 1234,490 1258,490 1258,430"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1284,430 1284,490 1362,490 1362,430"
+                },
+                "text": "vitro"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1388,429 1388,489 1636,489 1636,429"
+                },
+                "text": "biochemistry"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1661,430 1661,490 1685,490 1685,430"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "1706,430 1706,490 1839,490 1839,430"
+                },
+                "text": "usually"
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "1864,429 1864,489 1988,489 1988,429"
+                },
+                "text": "carried"
+              },
+              {
+                "id": "tr_1_tl_2_w15",
+                "coords": {
+                  "points": "2013,430 2013,490 2072,490 2072,430"
+                },
+                "text": "out"
+              },
+              {
+                "id": "tr_1_tl_2_w16",
+                "coords": {
+                  "points": "2087,430 2087,490 2111,490 2111,430"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "345,591 2082,625 2082,530 1979,509 345,530"
+            },
+            "baseline": {
+              "points": "358,570 444,570 530,570 617,570 703,572 790,570 876,572 963,571 1049,570 1136,573 1222,570 1308,571 1395,570 1481,573 1568,570 1654,573 1741,573 1827,571 1914,570 2000,570 2087,576"
+            },
+            "text": "dilute buffer solutions with the components of interest highly purified (Garner & Burg,",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "350,530 350,590 456,590 456,530"
+                },
+                "text": "dilute"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "478,530 478,590 594,590 594,530"
+                },
+                "text": "buffer"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "610,531 610,591 785,591 785,531"
+                },
+                "text": "solutions"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "807,531 807,591 880,591 880,531"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "902,531 902,591 954,591 954,531"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "976,531 976,591 1215,591 1215,531"
+                },
+                "text": "components"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1237,530 1237,590 1268,590 1268,530"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1285,530 1285,590 1427,590 1427,530"
+                },
+                "text": "interest"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1444,532 1444,592 1560,592 1560,532"
+                },
+                "text": "highly"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1587,533 1587,593 1729,593 1729,533"
+                },
+                "text": "purified"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1757,530 1757,590 1905,590 1905,530"
+                },
+                "text": "(Garner"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1926,530 1926,590 1958,590 1958,530"
+                },
+                "text": "&"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1974,532 1974,592 2085,592 2085,532"
+                },
+                "text": "Burg,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "349,717 534,682 874,685 970,726 1105,685 2139,696 2116,625 1723,605 1484,644 1338,607 1210,641 986,607 781,637 726,598 347,619"
+            },
+            "baseline": {
+              "points": "361,668 450,665 539,668 628,671 717,671 806,671 895,671 984,671 1073,671 1162,671 1251,671 1340,671 1429,671 1518,671 1607,671 1696,671 1785,671 1874,671 1963,671 2052,671 2141,671"
+            },
+            "text": "1994). While this type of simplification is often necessary, it can yield an inaccurate view",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "347,626 347,686 471,686 471,626"
+                },
+                "text": "1994)."
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "498,628 498,688 606,688 606,628"
+                },
+                "text": "While"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "628,631 628,691 689,691 689,631"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "711,631 711,691 789,691 789,631"
+                },
+                "text": "type"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "810,631 810,691 846,691 846,631"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "862,631 862,691 1127,691 1127,631"
+                },
+                "text": "simplification"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1153,631 1153,691 1179,691 1179,631"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1200,631 1200,691 1289,691 1289,631"
+                },
+                "text": "often"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1315,631 1315,691 1517,691 1517,631"
+                },
+                "text": "necessary,"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1528,631 1528,691 1554,691 1554,631"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1570,631 1570,691 1627,691 1627,631"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1653,631 1653,691 1742,691 1742,631"
+                },
+                "text": "yield"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1763,631 1763,691 1799,691 1799,631"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "1820,631 1820,691 2017,691 2017,631"
+                },
+                "text": "inaccurate"
+              },
+              {
+                "id": "tr_1_tl_4_w15",
+                "coords": {
+                  "points": "2044,631 2044,691 2116,691 2116,631"
+                },
+                "text": "view"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "345,794 2157,806 2157,728 2050,717 1383,742 1160,701 778,746 445,708 345,751"
+            },
+            "baseline": {
+              "points": "358,770 448,770 538,770 628,770 718,770 809,773 899,770 989,773 1079,773 1169,773 1260,773 1350,773 1440,773 1530,773 1620,772 1711,773 1801,772 1891,773 1981,771 2071,772 2162,773"
+            },
+            "text": "of cellular processes. A very dilute solution is thermodynamically ideal, but the cytoplasm",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "344,730 344,790 379,790 379,730"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "394,730 394,790 537,790 537,730"
+                },
+                "text": "cellular"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "558,730 558,790 761,790 761,730"
+                },
+                "text": "processes."
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "781,732 781,792 795,792 795,732"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "831,731 831,791 905,791 905,731"
+                },
+                "text": "very"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "930,732 930,792 1034,792 1034,732"
+                },
+                "text": "dilute"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1054,733 1054,793 1202,793 1202,733"
+                },
+                "text": "solution"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1228,733 1228,793 1252,793 1252,733"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1273,733 1273,793 1654,793 1654,733"
+                },
+                "text": "thermodynamically"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1679,732 1679,792 1788,792 1788,732"
+                },
+                "text": "ideal,"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1804,732 1804,792 1863,792 1863,732"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1878,732 1878,792 1927,792 1927,732"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1948,731 1948,791 2126,791 2126,731"
+                },
+                "text": "cytoplasm"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "342,886 486,931 698,883 911,929 1340,883 1454,934 1653,890 1892,934 2025,890 2025,815 1684,799 1429,840 342,822"
+            },
+            "baseline": {
+              "points": "355,869 438,869 522,870 606,872 690,872 773,871 857,875 941,872 1025,875 1108,872 1192,873 1276,873 1360,872 1443,872 1527,869 1611,872 1695,872 1778,872 1862,872 1946,872 2030,875"
+            },
+            "text": "of the cell deviates greatly from ideality (Garner & Burg, 1994). Proteins and small",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "342,829 342,889 374,889 374,829"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "390,829 390,889 443,889 443,829"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "465,829 465,889 534,889 534,829"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "551,832 551,892 710,892 710,832"
+                },
+                "text": "deviates"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "733,832 733,892 856,892 856,832"
+                },
+                "text": "greatly"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "883,832 883,892 952,892 952,832"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "990,833 990,893 1128,893 1128,833"
+                },
+                "text": "ideality"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1156,833 1156,893 1305,893 1305,833"
+                },
+                "text": "(Garner"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1327,832 1327,892 1359,892 1359,832"
+                },
+                "text": "&"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1375,832 1375,892 1487,892 1487,832"
+                },
+                "text": "Burg,"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1504,830 1504,890 1632,890 1632,830"
+                },
+                "text": "1994)."
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1654,832 1654,892 1809,892 1809,832"
+                },
+                "text": "Proteins"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1831,832 1831,892 1889,892 1889,832"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1916,832 1916,892 2022,892 2022,832"
+                },
+                "text": "small"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "342,984 641,1016 922,981 1091,1016 2178,993 2178,931 2045,904 1990,943 1520,906 1438,943 1274,904 1116,943 988,906 342,920"
+            },
+            "baseline": {
+              "points": "355,970 446,973 537,970 628,973 720,973 811,973 902,973 993,973 1085,973 1176,973 1267,973 1358,973 1450,973 1541,973 1632,973 1723,973 1815,973 1906,973 1997,973 2088,973 2180,976"
+            },
+            "text": "molecules in solution affect one another\u2019s activities, and while this situation can be modeled",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "341,932 341,992 534,992 534,932"
+                },
+                "text": "molecules"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "554,930 554,990 578,990 578,930"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "603,933 603,993 752,993 752,933"
+                },
+                "text": "solution"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "782,933 782,993 888,993 888,933"
+                },
+                "text": "affect"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "903,933 903,993 966,993 966,933"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "991,933 991,993 1159,993 1159,933"
+                },
+                "text": "another\u2019s"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1179,933 1179,993 1372,993 1372,933"
+                },
+                "text": "activities,"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1387,933 1387,993 1445,993 1445,933"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1470,933 1470,993 1571,993 1571,933"
+                },
+                "text": "while"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1596,933 1596,993 1659,993 1659,933"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1679,933 1679,993 1838,993 1838,933"
+                },
+                "text": "situation"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1867,933 1867,993 1920,993 1920,933"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1945,933 1945,993 1978,993 1978,933"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_7_w14",
+                "coords": {
+                  "points": "2003,933 2003,993 2162,993 2162,933"
+                },
+                "text": "modeled"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "342,1091 457,1130 648,1089 849,1123 890,1086 1280,1123 1500,1091 1694,1146 1821,1084 2086,1107 2086,1036 1888,1016 342,1039"
+            },
+            "baseline": {
+              "points": "355,1069 441,1072 528,1072 615,1073 702,1072 788,1072 875,1073 962,1075 1049,1075 1135,1075 1222,1073 1309,1073 1396,1072 1482,1072 1569,1072 1656,1072 1743,1072 1829,1072 1916,1075 2003,1073 2090,1072"
+            },
+            "text": "by multicomponent thermodynamics, it is difficult to predict how the activity of a given",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "346,1029 346,1089 385,1089 385,1029"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "410,1032 410,1092 736,1092 736,1032"
+                },
+                "text": "multicomponent"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "751,1034 751,1094 1092,1094 1092,1034"
+                },
+                "text": "thermodynamics,"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "1107,1035 1107,1095 1131,1095 1131,1035"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1147,1034 1147,1094 1171,1094 1171,1034"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1191,1033 1191,1093 1343,1093 1343,1033"
+                },
+                "text": "difficult"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1364,1032 1364,1092 1388,1092 1388,1032"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1413,1032 1413,1092 1546,1092 1546,1032"
+                },
+                "text": "predict"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1562,1032 1562,1092 1620,1092 1620,1032"
+                },
+                "text": "how"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1656,1032 1656,1092 1704,1092 1704,1032"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1730,1032 1730,1092 1867,1092 1867,1032"
+                },
+                "text": "activity"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1893,1034 1893,1094 1926,1094 1926,1034"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1942,1034 1942,1094 1951,1094 1951,1034"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1976,1032 1976,1092 2070,1092 2070,1032"
+                },
+                "text": "given"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "345,1207 1048,1187 1112,1242 1258,1198 1465,1221 1465,1123 1326,1107 824,1144 664,1100 470,1130 345,1102"
+            },
+            "baseline": {
+              "points": "358,1170 413,1173 469,1173 525,1173 580,1173 636,1173 692,1173 747,1173 803,1170 859,1173 915,1173 970,1173 1026,1173 1082,1173 1137,1173 1193,1175 1249,1173 1304,1175 1360,1171 1416,1173 1472,1176"
+            },
+            "text": "macromolecule will be affected (Garner & Burg, 1994).",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "345,1133 345,1193 644,1193 644,1133"
+                },
+                "text": "macromolecule"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "671,1133 671,1193 743,1193 743,1133"
+                },
+                "text": "will"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "760,1131 760,1191 796,1191 796,1131"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "818,1133 818,1193 969,1193 969,1133"
+                },
+                "text": "affected"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "996,1133 996,1193 1148,1193 1148,1133"
+                },
+                "text": "(Garner"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1169,1134 1169,1194 1200,1194 1200,1134"
+                },
+                "text": "&"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1217,1133 1217,1193 1326,1193 1326,1133"
+                },
+                "text": "Burg,"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1343,1132 1343,1192 1468,1192 1468,1132"
+                },
+                "text": "1994)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "345,1388 2104,1404 2104,1340 2013,1299 1904,1344 1785,1287 1452,1347 1128,1296 1064,1331 799,1299 753,1338 345,1301"
+            },
+            "baseline": {
+              "points": "358,1370 445,1373 533,1373 620,1373 708,1373 796,1373 883,1373 971,1373 1059,1373 1146,1373 1234,1373 1322,1373 1409,1373 1497,1373 1585,1371 1672,1373 1760,1373 1848,1373 1935,1372 2023,1372 2111,1376"
+            },
+            "text": "When a significant part of a solution is taken up by macromolecules, the spaces between",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "349,1331 349,1391 452,1391 452,1331"
+                },
+                "text": "When"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "478,1333 478,1393 487,1393 487,1333"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "512,1333 512,1393 724,1393 724,1333"
+                },
+                "text": "significant"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "740,1333 740,1393 808,1393 808,1333"
+                },
+                "text": "part"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "828,1333 828,1393 862,1393 862,1333"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "878,1333 878,1393 887,1393 887,1333"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "912,1333 912,1393 1060,1393 1060,1333"
+                },
+                "text": "solution"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1086,1333 1086,1393 1110,1393 1110,1333"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1130,1333 1130,1393 1223,1393 1223,1333"
+                },
+                "text": "taken"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1248,1333 1248,1393 1282,1393 1282,1333"
+                },
+                "text": "up"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1312,1333 1312,1393 1346,1393 1346,1333"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1372,1331 1372,1391 1712,1391 1712,1331"
+                },
+                "text": "macromolecules,"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1727,1333 1727,1393 1777,1393 1777,1333"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "1797,1332 1797,1392 1920,1392 1920,1332"
+                },
+                "text": "spaces"
+              },
+              {
+                "id": "tr_1_tl_10_w15",
+                "coords": {
+                  "points": "1940,1332 1940,1392 2093,1392 2093,1332"
+                },
+                "text": "between"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "349,1502 1614,1518 1744,1479 2052,1513 2052,1431 1974,1420 349,1433"
+            },
+            "baseline": {
+              "points": "361,1472 445,1475 530,1473 615,1475 700,1475 785,1475 869,1475 954,1477 1039,1475 1124,1475 1209,1475 1293,1474 1378,1475 1463,1475 1548,1474 1633,1473 1717,1473 1802,1475 1887,1475 1972,1475 2057,1478"
+            },
+            "text": "them are no longer large compared to the size of the macromolecules. In such a case,",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "348,1432 348,1492 415,1492 415,1432"
+                },
+                "text": "them"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "459,1434 459,1494 507,1494 507,1434"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "532,1433 532,1493 565,1493 565,1433"
+                },
+                "text": "no"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "595,1435 595,1495 715,1495 715,1435"
+                },
+                "text": "longer"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "735,1435 735,1495 821,1495 821,1435"
+                },
+                "text": "large"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "846,1436 846,1496 1030,1496 1030,1436"
+                },
+                "text": "compared"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1059,1435 1059,1495 1083,1495 1083,1435"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1108,1435 1108,1495 1156,1495 1156,1435"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1180,1434 1180,1494 1247,1494 1247,1434"
+                },
+                "text": "size"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1272,1434 1272,1494 1305,1494 1305,1434"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1321,1434 1321,1494 1373,1494 1373,1434"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1398,1433 1398,1493 1741,1493 1741,1433"
+                },
+                "text": "macromolecules."
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1761,1434 1761,1494 1794,1494 1794,1434"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "1819,1435 1819,1495 1896,1495 1896,1435"
+                },
+                "text": "such"
+              },
+              {
+                "id": "tr_1_tl_11_w15",
+                "coords": {
+                  "points": "1921,1435 1921,1495 1930,1495 1930,1435"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_11_w16",
+                "coords": {
+                  "points": "1955,1436 1955,1496 2051,1496 2051,1436"
+                },
+                "text": "case,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "342,1595 799,1634 1114,1584 1568,1627 2162,1584 2127,1525 342,1529"
+            },
+            "baseline": {
+              "points": "355,1573 445,1573 536,1573 626,1576 717,1573 808,1576 898,1576 989,1576 1080,1576 1170,1576 1261,1576 1352,1575 1442,1576 1533,1574 1624,1574 1714,1573 1805,1574 1896,1573 1986,1575 2077,1573 2168,1573"
+            },
+            "text": "creating a space for another large molecule is entropically unfavorable because of the higher",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "341,1533 341,1593 485,1593 485,1533"
+                },
+                "text": "creating"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "510,1533 510,1593 519,1593 519,1533"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "545,1534 545,1594 644,1594 644,1534"
+                },
+                "text": "space"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "665,1533 665,1593 718,1593 718,1533"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "734,1535 734,1595 878,1595 878,1535"
+                },
+                "text": "another"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "898,1536 898,1596 982,1596 982,1536"
+                },
+                "text": "large"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1007,1536 1007,1596 1181,1596 1181,1536"
+                },
+                "text": "molecule"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1202,1536 1202,1596 1226,1596 1226,1536"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1246,1535 1246,1595 1474,1595 1474,1535"
+                },
+                "text": "entropically"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1500,1534 1500,1594 1728,1594 1728,1534"
+                },
+                "text": "unfavorable"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1749,1533 1749,1593 1897,1593 1897,1533"
+                },
+                "text": "because"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1923,1533 1923,1593 1957,1593 1957,1533"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1972,1534 1972,1594 2021,1594 2021,1534"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "2042,1533 2042,1593 2165,1593 2165,1533"
+                },
+                "text": "higher"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "349,1723 504,1696 564,1728 644,1684 792,1726 1109,1687 1276,1721 2152,1705 2152,1637 1981,1616 349,1632"
+            },
+            "baseline": {
+              "points": "361,1675 450,1675 540,1675 630,1675 720,1678 810,1678 900,1678 990,1678 1080,1678 1170,1678 1260,1675 1349,1675 1439,1675 1529,1675 1619,1675 1709,1678 1799,1675 1889,1675 1979,1675 2069,1675 2159,1678"
+            },
+            "text": "order of the resulting solution (Garner and Burg, 1994). Because proteins are flexible and",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "354,1635 354,1695 454,1695 454,1635"
+                },
+                "text": "order"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "475,1635 475,1695 504,1695 504,1635"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "525,1635 525,1695 575,1695 575,1635"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "596,1636 596,1696 762,1696 762,1636"
+                },
+                "text": "resulting"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "788,1638 788,1698 933,1698 933,1638"
+                },
+                "text": "solution"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "959,1638 959,1698 1110,1698 1110,1638"
+                },
+                "text": "(Garner"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1126,1638 1126,1698 1186,1698 1186,1638"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1212,1635 1212,1695 1323,1695 1323,1635"
+                },
+                "text": "Burg,"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1338,1635 1338,1695 1464,1695 1464,1635"
+                },
+                "text": "1994)."
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1485,1635 1485,1695 1646,1695 1646,1635"
+                },
+                "text": "Because"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1666,1636 1666,1696 1822,1696 1822,1636"
+                },
+                "text": "proteins"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1843,1635 1843,1695 1893,1695 1893,1635"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1914,1635 1914,1695 2054,1695 2054,1635"
+                },
+                "text": "flexible"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "2080,1636 2080,1696 2140,1696 2140,1636"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "349,1794 625,1837 740,1794 927,1828 1244,1792 1303,1835 1495,1799 1776,1826 1844,1787 2139,1810 2139,1742 2004,1707 1833,1746 1550,1712 349,1739"
+            },
+            "baseline": {
+              "points": "361,1773 450,1776 539,1776 628,1776 717,1776 806,1776 895,1776 985,1776 1074,1776 1163,1776 1252,1776 1341,1776 1430,1776 1519,1776 1609,1776 1698,1776 1787,1776 1876,1776 1965,1776 2054,1776 2144,1773"
+            },
+            "text": "can sample many possible configurations, this crowding effect may favor a more compact",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "353,1733 353,1793 405,1793 405,1733"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "435,1736 435,1796 564,1796 564,1736"
+                },
+                "text": "sample"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "588,1736 588,1796 684,1796 684,1736"
+                },
+                "text": "many"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "709,1736 709,1796 863,1796 863,1736"
+                },
+                "text": "possible"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "887,1736 887,1796 1185,1796 1185,1736"
+                },
+                "text": "configurations,"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1200,1736 1200,1796 1262,1796 1262,1736"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1282,1736 1282,1796 1459,1796 1459,1736"
+                },
+                "text": "crowding"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1484,1736 1484,1796 1594,1796 1594,1736"
+                },
+                "text": "effect"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1609,1736 1609,1796 1681,1796 1681,1736"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1710,1736 1710,1796 1806,1796 1806,1736"
+                },
+                "text": "favor"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1826,1736 1826,1796 1835,1796 1835,1736"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1859,1736 1859,1796 1950,1796 1950,1736"
+                },
+                "text": "more"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1970,1736 1970,1796 2138,1796 2138,1736"
+                },
+                "text": "compact"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "352,1913 2114,1901 2114,1835 1965,1817 1098,1851 758,1801 689,1849 352,1801"
+            },
+            "baseline": {
+              "points": "364,1881 451,1876 539,1875 627,1875 715,1875 803,1872 890,1876 978,1875 1066,1875 1154,1878 1242,1875 1329,1875 1417,1875 1505,1875 1593,1875 1681,1876 1768,1875 1856,1878 1944,1875 2032,1875 2120,1878"
+            },
+            "text": "protein structure. When proteins are exposed to heat, they denature. Because denatured",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "351,1838 351,1898 476,1898 476,1838"
+                },
+                "text": "protein"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "505,1835 505,1895 688,1895 688,1835"
+                },
+                "text": "structure."
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "717,1833 717,1893 822,1893 822,1833"
+                },
+                "text": "When"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "847,1835 847,1895 1000,1895 1000,1835"
+                },
+                "text": "proteins"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1020,1835 1020,1895 1068,1895 1068,1835"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1093,1837 1093,1897 1246,1897 1246,1837"
+                },
+                "text": "exposed"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1271,1835 1271,1895 1294,1895 1294,1835"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1319,1835 1319,1895 1415,1895 1415,1835"
+                },
+                "text": "heat,"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1425,1835 1425,1895 1501,1895 1501,1835"
+                },
+                "text": "they"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1526,1835 1526,1895 1708,1895 1708,1835"
+                },
+                "text": "denature."
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1733,1836 1733,1896 1891,1896 1891,1836"
+                },
+                "text": "Because"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1916,1835 1916,1895 2098,1895 2098,1835"
+                },
+                "text": "denatured"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "352,2011 1509,2025 1689,1983 1812,2027 1883,1986 2118,1988 2118,1940 1767,1913 352,1940"
+            },
+            "baseline": {
+              "points": "364,1979 456,1976 549,1973 641,1976 734,1974 826,1976 919,1974 1012,1976 1104,1976 1197,1976 1289,1974 1382,1974 1474,1976 1567,1976 1660,1976 1752,1976 1845,1976 1937,1976 2030,1976 2123,1979"
+            },
+            "text": "proteins occupy a greater volume than native proteins, it is plausible that macromolecular",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "351,1936 351,1996 500,1996 500,1936"
+                },
+                "text": "proteins"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "520,1934 520,1994 650,1994 650,1934"
+                },
+                "text": "occupy"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "674,1935 674,1995 684,1995 684,1935"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "708,1934 708,1994 842,1994 842,1934"
+                },
+                "text": "greater"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "858,1934 858,1994 997,1994 997,1934"
+                },
+                "text": "volume"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1017,1936 1017,1996 1089,1996 1089,1936"
+                },
+                "text": "than"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1113,1936 1113,1996 1224,1996 1224,1936"
+                },
+                "text": "native"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1249,1934 1249,1994 1422,1994 1422,1934"
+                },
+                "text": "proteins,"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1432,1935 1432,1995 1455,1995 1455,1935"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1471,1936 1471,1996 1494,1996 1494,1936"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1514,1936 1514,1996 1683,1996 1683,1936"
+                },
+                "text": "plausible"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1707,1936 1707,1996 1779,1996 1779,1936"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1794,1936 1794,1996 2112,1996 2112,1936"
+                },
+                "text": "macromolecular"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "352,2120 447,2141 607,2100 662,2130 744,2098 874,2146 965,2091 1082,2100 1082,2043 911,2011 726,2045 349,2015"
+            },
+            "baseline": {
+              "points": "361,2075 397,2077 433,2076 469,2076 506,2078 542,2078 578,2078 615,2078 651,2078 687,2078 724,2078 760,2078 796,2078 832,2078 869,2078 905,2078 941,2078 978,2078 1014,2078 1050,2078 1087,2078"
+            },
+            "text": "crowding enhances protein stability.",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "353,2036 353,2096 533,2096 533,2036"
+                },
+                "text": "crowding"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "559,2038 559,2098 734,2098 734,2038"
+                },
+                "text": "enhances"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "755,2038 755,2098 885,2098 885,2038"
+                },
+                "text": "protein"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "910,2038 910,2098 1085,2098 1085,2038"
+                },
+                "text": "stability."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "354,2317 1780,2282 2120,2314 2120,2237 1931,2184 1710,2230 1545,2207 1484,2251 1258,2196 1171,2244 354,2187"
+            },
+            "baseline": {
+              "points": "367,2275 459,2275 552,2275 644,2275 737,2276 829,2278 922,2276 1015,2278 1107,2278 1200,2278 1292,2275 1385,2276 1477,2278 1570,2278 1663,2278 1755,2275 1848,2275 1940,2278 2033,2277 2126,2278"
+            },
+            "text": "The protein concentration of the cytoplasm is very high, about 20% (Fulton, 1982). The",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "354,2235 354,2295 416,2295 416,2235"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "442,2235 442,2295 571,2295 571,2235"
+                },
+                "text": "protein"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "593,2235 593,2295 857,2295 857,2235"
+                },
+                "text": "concentration"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "883,2236 883,2296 919,2296 919,2236"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "935,2236 935,2296 986,2296 986,2236"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1008,2238 1008,2298 1189,2298 1189,2238"
+                },
+                "text": "cytoplasm"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1231,2236 1231,2296 1251,2296 1251,2236"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1273,2235 1273,2295 1350,2295 1350,2235"
+                },
+                "text": "very"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1376,2236 1376,2296 1474,2296 1474,2236"
+                },
+                "text": "high,"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1490,2238 1490,2298 1599,2298 1599,2238"
+                },
+                "text": "about"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1615,2238 1615,2298 1677,2298 1677,2238"
+                },
+                "text": "20%"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1719,2235 1719,2295 1874,2295 1874,2235"
+                },
+                "text": "(Fulton,"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1895,2237 1895,2297 2019,2297 2019,2237"
+                },
+                "text": "1982)."
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "2041,2237 2041,2297 2107,2297 2107,2237"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "349,2417 1134,2387 1166,2419 1607,2392 1744,2424 2059,2385 2036,2317 349,2317"
+            },
+            "baseline": {
+              "points": "361,2377 446,2374 531,2374 616,2377 701,2375 786,2377 871,2376 956,2375 1041,2377 1126,2377 1212,2377 1297,2374 1382,2377 1467,2377 1552,2375 1637,2376 1722,2374 1807,2374 1892,2377 1977,2377 2063,2374"
+            },
+            "text": "mitochondrial protein concentration is even higher, about 56% (Srere, 1981). This is",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "349,2334 349,2394 630,2394 630,2334"
+                },
+                "text": "mitochondrial"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "647,2335 647,2395 771,2395 771,2335"
+                },
+                "text": "protein"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "798,2335 798,2395 1064,2395 1064,2335"
+                },
+                "text": "concentration"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "1091,2337 1091,2397 1111,2397 1111,2337"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1133,2337 1133,2397 1216,2397 1216,2337"
+                },
+                "text": "even"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1242,2334 1242,2394 1383,2394 1383,2334"
+                },
+                "text": "higher,"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1399,2337 1399,2397 1503,2397 1503,2337"
+                },
+                "text": "about"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1519,2335 1519,2395 1587,2395 1587,2335"
+                },
+                "text": "56%"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1629,2334 1629,2394 1759,2394 1759,2334"
+                },
+                "text": "(Srere,"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1775,2335 1775,2395 1906,2395 1906,2335"
+                },
+                "text": "1981)."
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1927,2337 1927,2397 2005,2397 2005,2337"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "2026,2334 2026,2394 2052,2394 2052,2334"
+                },
+                "text": "is"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "345,2502 2111,2506 2111,2431 1936,2449 1869,2410 1787,2447 1481,2415 1422,2447 345,2440"
+            },
+            "baseline": {
+              "points": "358,2472 450,2475 543,2475 635,2475 728,2477 820,2478 913,2475 1006,2478 1098,2478 1191,2476 1283,2476 1376,2477 1468,2477 1561,2478 1654,2475 1746,2475 1839,2475 1931,2475 2024,2475 2117,2475"
+            },
+            "text": "similar to the concentration found in protein crystals, which have been used to model the",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "344,2433 344,2493 475,2493 475,2433"
+                },
+                "text": "similar"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "490,2435 490,2495 517,2495 517,2435"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "542,2435 542,2495 588,2495 588,2435"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "612,2437 612,2497 876,2497 876,2437"
+                },
+                "text": "concentration"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "900,2436 900,2496 1003,2496 1003,2436"
+                },
+                "text": "found"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1031,2438 1031,2498 1055,2498 1055,2438"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1079,2437 1079,2497 1210,2497 1210,2437"
+                },
+                "text": "protein"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1234,2436 1234,2496 1398,2496 1398,2436"
+                },
+                "text": "crystals,"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1414,2437 1414,2497 1521,2497 1521,2437"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1545,2437 1545,2497 1629,2497 1629,2437"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1654,2435 1654,2495 1733,2495 1733,2435"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1762,2435 1762,2495 1837,2495 1837,2435"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1866,2435 1866,2495 1889,2495 1889,2435"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "1913,2435 1913,2495 2035,2495 2035,2435"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_20_w15",
+                "coords": {
+                  "points": "2049,2435 2049,2495 2101,2495 2101,2435"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "349,2618 726,2627 861,2586 1703,2645 1963,2593 1940,2518 349,2545"
+            },
+            "baseline": {
+              "points": "361,2577 441,2577 521,2577 602,2577 682,2577 762,2577 843,2577 923,2579 1003,2579 1084,2577 1164,2577 1244,2578 1325,2577 1405,2577 1485,2577 1566,2577 1646,2577 1726,2577 1807,2577 1887,2577 1968,2577"
+            },
+            "text": "mitochondrial environment (Srere, 1981). In addition to having a higher protein",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "349,2537 349,2597 635,2597 635,2537"
+                },
+                "text": "mitochondrial"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "646,2537 646,2597 902,2597 902,2537"
+                },
+                "text": "environment"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "918,2539 918,2599 1048,2599 1048,2539"
+                },
+                "text": "(Srere,"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "1064,2537 1064,2597 1194,2597 1194,2537"
+                },
+                "text": "1981)."
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1215,2537 1215,2597 1246,2597 1246,2537"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1267,2537 1267,2597 1418,2597 1418,2537"
+                },
+                "text": "addition"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1445,2537 1445,2597 1471,2597 1471,2537"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1497,2537 1497,2597 1622,2597 1622,2537"
+                },
+                "text": "having"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1649,2537 1649,2597 1658,2597 1658,2537"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1680,2537 1680,2597 1804,2597 1804,2537"
+                },
+                "text": "higher"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1821,2537 1821,2597 1950,2597 1950,2537"
+                },
+                "text": "protein"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "352,2707 502,2739 794,2698 988,2746 1239,2689 1445,2732 1666,2698 2148,2723 2148,2636 1920,2602 1703,2645 352,2620"
+            },
+            "baseline": {
+              "points": "364,2678 453,2678 542,2678 632,2678 721,2678 811,2678 900,2681 990,2678 1079,2678 1169,2678 1258,2678 1347,2678 1437,2678 1526,2678 1616,2678 1705,2678 1795,2678 1884,2678 1974,2678 2063,2678 2153,2678"
+            },
+            "text": "concentration than the cytoplasm, the mitochondrion contains its own genetic code. Some",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "351,2638 351,2698 609,2698 609,2638"
+                },
+                "text": "concentration"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "633,2638 633,2698 708,2698 708,2638"
+                },
+                "text": "than"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "732,2638 732,2698 783,2698 783,2638"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "802,2640 802,2700 1023,2700 1023,2640"
+                },
+                "text": "cytoplasm,"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1037,2638 1037,2698 1084,2698 1084,2638"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1108,2638 1108,2698 1390,2698 1390,2638"
+                },
+                "text": "mitochondrion"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1419,2638 1419,2698 1573,2698 1573,2638"
+                },
+                "text": "contains"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1592,2638 1592,2698 1634,2698 1634,2638"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1654,2638 1654,2698 1724,2698 1724,2638"
+                },
+                "text": "own"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1753,2638 1753,2698 1883,2698 1883,2638"
+                },
+                "text": "genetic"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1908,2638 1908,2698 2016,2698 2016,2638"
+                },
+                "text": "code."
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "2035,2638 2035,2698 2138,2698 2138,2638"
+                },
+                "text": "Some"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "352,2798 1020,2789 1137,2826 1335,2787 1643,2823 2102,2791 2102,2744 1863,2716 352,2723"
+            },
+            "baseline": {
+              "points": "364,2777 451,2777 538,2780 625,2780 712,2780 800,2780 887,2780 974,2780 1061,2780 1148,2780 1236,2780 1323,2780 1410,2780 1497,2780 1584,2780 1672,2780 1759,2780 1846,2780 1933,2780 2020,2780 2108,2777"
+            },
+            "text": "enzymes have separate mitochondrial and cytoplasmic isoforms. Malate dehydrogenase",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "356,2737 356,2797 523,2797 523,2737"
+                },
+                "text": "enzymes"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "543,2740 543,2800 624,2800 624,2740"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "648,2740 648,2800 796,2800 796,2740"
+                },
+                "text": "separate"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "821,2740 821,2800 1098,2800 1098,2740"
+                },
+                "text": "mitochondrial"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "1113,2740 1113,2800 1170,2800 1170,2740"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1195,2740 1195,2800 1425,2800 1425,2740"
+                },
+                "text": "cytoplasmic"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1445,2740 1445,2800 1631,2800 1631,2740"
+                },
+                "text": "isoforms."
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1651,2740 1651,2800 1780,2800 1780,2740"
+                },
+                "text": "Malate"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1804,2740 1804,2800 2091,2800 2091,2740"
+                },
+                "text": "dehydrogenase"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "352,2896 468,2931 584,2894 1175,2892 1221,2926 1637,2885 1780,2892 1847,2944 2038,2894 2038,2837 1897,2805 1155,2849 1068,2807 904,2849 858,2812 662,2851 352,2798"
+            },
+            "baseline": {
+              "points": "364,2878 448,2876 532,2878 616,2878 700,2878 784,2878 868,2878 952,2878 1036,2876 1120,2878 1204,2878 1288,2878 1372,2878 1456,2878 1540,2878 1624,2878 1708,2878 1792,2878 1876,2878 1960,2878 2045,2875"
+            },
+            "text": "(MDH), which mediates the conversion of oxaloacetic acid and NADH to malate and",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "347,2836 347,2896 508,2896 508,2836"
+                },
+                "text": "(MDH),"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "524,2838 524,2898 630,2898 630,2838"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "656,2838 656,2898 823,2898 823,2838"
+                },
+                "text": "mediates"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "844,2838 844,2898 894,2898 894,2838"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "915,2836 915,2896 1122,2896 1122,2836"
+                },
+                "text": "conversion"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "1148,2838 1148,2898 1183,2898 1183,2838"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1200,2838 1200,2898 1417,2898 1417,2838"
+                },
+                "text": "oxaloacetic"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1443,2838 1443,2898 1508,2898 1508,2838"
+                },
+                "text": "acid"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1534,2838 1534,2898 1594,2898 1594,2838"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1615,2838 1615,2898 1737,2898 1737,2838"
+                },
+                "text": "NADH"
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "1773,2838 1773,2898 1798,2898 1798,2838"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_24_w12",
+                "coords": {
+                  "points": "1824,2838 1824,2898 1945,2898 1945,2838"
+                },
+                "text": "malate"
+              },
+              {
+                "id": "tr_1_tl_24_w13",
+                "coords": {
+                  "points": "1971,2836 1971,2896 2026,2896 2026,2836"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "340,3040 539,3045 623,2992 908,3033 1086,2992 1164,3045 1283,2986 1420,3056 1589,2992 1897,3033 2130,3008 2130,2924 2059,2908 1910,2947 1662,2910 1557,2949 1349,2912 1134,2949 340,2938"
+            },
+            "baseline": {
+              "points": "352,2980 441,2977 530,2977 619,2978 708,2980 797,2978 886,2980 975,2978 1064,2980 1153,2980 1242,2977 1331,2980 1420,2977 1509,2980 1598,2980 1687,2980 1776,2980 1865,2980 1954,2977 2043,2980 2132,2977"
+            },
+            "text": "NAD+ in the Krebs cycle, is one such enzyme. The mitochondrial isoform, mMDH, has",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "340,2938 340,2998 465,2998 465,2938"
+                },
+                "text": "NAD+"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "491,2937 491,2997 511,2997 511,2937"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "538,2937 538,2997 590,2997 590,2937"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_25_w4",
+                "coords": {
+                  "points": "612,2939 612,2999 726,2999 726,2939"
+                },
+                "text": "Krebs"
+              },
+              {
+                "id": "tr_1_tl_25_w5",
+                "coords": {
+                  "points": "748,2938 748,2998 868,2998 868,2938"
+                },
+                "text": "cycle,"
+              },
+              {
+                "id": "tr_1_tl_25_w6",
+                "coords": {
+                  "points": "879,2939 879,2999 904,2999 904,2939"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_25_w7",
+                "coords": {
+                  "points": "926,2938 926,2998 988,2998 988,2938"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_25_w8",
+                "coords": {
+                  "points": "1009,2939 1009,2999 1087,2999 1087,2939"
+                },
+                "text": "such"
+              },
+              {
+                "id": "tr_1_tl_25_w9",
+                "coords": {
+                  "points": "1114,2938 1114,2998 1286,2998 1286,2938"
+                },
+                "text": "enzyme."
+              },
+              {
+                "id": "tr_1_tl_25_w10",
+                "coords": {
+                  "points": "1307,2939 1307,2999 1380,2999 1380,2939"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_25_w11",
+                "coords": {
+                  "points": "1402,2940 1402,3000 1684,3000 1684,2940"
+                },
+                "text": "mitochondrial"
+              },
+              {
+                "id": "tr_1_tl_25_w12",
+                "coords": {
+                  "points": "1700,2940 1700,3000 1871,3000 1871,2940"
+                },
+                "text": "isoform,"
+              },
+              {
+                "id": "tr_1_tl_25_w13",
+                "coords": {
+                  "points": "1883,2937 1883,2997 2055,2997 2055,2937"
+                },
+                "text": "mMDH,"
+              },
+              {
+                "id": "tr_1_tl_25_w14",
+                "coords": {
+                  "points": "2066,2938 2066,2998 2123,2998 2123,2938"
+                },
+                "text": "has"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3182 @@
+{
+  "processId": 10313901,
+  "status": "FINISHED",
+  "content": {
+    "text": "Chlorophyll concentration was quantified using acetone extractions and a Turner\nfluorometer (Holm Hansen et al. 1965). Absorption was measured with a 10 cm cuvette\nand a diffusing plate close to the detector of a diode array spectrophotometer (Shibada\n1954; Mitchell 1988). Attenuation was measured using a 1 cm cuvette far from the\ndetector (Bricaud 1983). Fluorescence was measured using a Sea Tech strobe stimulated\nfluorometer. PAR was measured with a photodiode callibrated to detect quanta of light.\nOver a 48 hour time series, fluorescence was measured 22 times, chlorophyll was\nmeasured 11 times, and spectra were measured 5 times. The sampeling rate was not\nconstant.\nFluorescence, absorbtion and attenuation were normalized to chlorophyll and\nanalyzed on a UNIX workstation. The spectra were smoothed and integrated.\nA Sea Tech fluorometer and a Sea Tech transmissometer have been recording data\nat 15 minute intervals from a mooring in Moneterey Bay since January 16, 1992. The\nfluorometer is the same instrument as used with the cultures. The transmissometer\nopperates at 660 nm and returns a voltage. Voltage is converted into beam c by the\nfollowing equation:\nC =-4*log(VDC/5)\nThe mooring also has a PAR sensor which samples every 10 minutes. However, there is\nno instrument to measure chlorophyll on the mooring.\nResults:\nThe mooring fluorometer shows long term (3- 15 day) events which are\nhypothesized to represent spring phytoplankton blooms. (Figure 1) There is a short\nterm (1 day) signal superimposed on this signal. (Figure 2). The diel cycle has a\nmaximum at night (usually either one hour after sun set or one hour before sunrise) and a\nminimum near noon.\nThe amplitude of the diel cycle correlates with the mean fluorescence value; when\nthe mean signal is high, the variations (the difference between daily maximum and\nminimum) are large e.g. the value of the mean correlates with the envelope of the raw -\nmean timeseries (Figure 3). The minimum value is consistently half the maximum value\nfor each day (+- 10%). This is true even when the daily oscillations grow larger during\nthe phytoplankton bloomes e.g. the envelope for the raw/mean time series is nearly\nconstant (Figure 3)\nThe raw/mean fluorescence timeseries has an inverse functional relationship with\nPAR both within days and between days (Figure 4). The raw/mean timeseries is\nhypothesized to represent f* in situ, because mean fluorescence has been shown to",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "322,299 322,3008 2143,3008 2143,299"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "480,360 2102,364 2102,276 480,287"
+            },
+            "baseline": {
+              "points": "492,334 572,338 653,339 734,339 815,337 895,337 976,340 1057,339 1138,340 1218,340 1299,343 1380,342 1461,341 1541,340 1622,339 1703,340 1784,340 1864,340 1945,343 2026,343 2107,340"
+            },
+            "text": "Chlorophyll concentration was quantified using acetone extractions and a Turner",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "485,298 485,358 720,358 720,298"
+                },
+                "text": "Chlorophyll"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "736,297 736,357 991,357 991,297"
+                },
+                "text": "concentration"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "1017,299 1017,359 1086,359 1086,299"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "1107,300 1107,360 1292,360 1292,300"
+                },
+                "text": "quantified"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "1318,302 1318,362 1413,362 1413,302"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "1438,300 1438,360 1578,360 1578,300"
+                },
+                "text": "acetone"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1604,300 1604,360 1809,360 1809,300"
+                },
+                "text": "extractions"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1830,300 1830,360 1889,360 1889,300"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1925,302 1925,362 1935,362 1935,302"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1960,303 1960,363 2090,363 2090,303"
+                },
+                "text": "Turner"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "321,425 2140,437 2140,380 2075,355 1989,394 321,369"
+            },
+            "baseline": {
+              "points": "334,412 424,412 514,414 605,412 695,414 786,414 876,414 967,414 1057,412 1148,414 1238,417 1328,415 1419,416 1509,415 1600,416 1690,414 1781,415 1871,417 1962,417 2052,417 2143,417"
+            },
+            "text": "fluorometer (Holm Hansen et al. 1965). Absorption was measured with a 10 cm cuvette",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "326,372 326,432 553,432 553,372"
+                },
+                "text": "fluorometer"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "574,372 574,432 678,432 678,372"
+                },
+                "text": "(Holm"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "714,374 714,434 853,434 853,374"
+                },
+                "text": "Hansen"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "880,374 880,434 910,434 910,374"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "927,374 927,434 978,434 978,374"
+                },
+                "text": "al."
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1004,372 1004,432 1133,432 1133,372"
+                },
+                "text": "1965)."
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1170,376 1170,436 1382,436 1382,376"
+                },
+                "text": "Absorption"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1408,375 1408,435 1480,435 1480,375"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1497,375 1497,435 1677,435 1677,375"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1703,374 1703,434 1781,434 1781,374"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1818,375 1818,435 1833,435 1833,375"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1859,377 1859,437 1890,437 1890,377"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "1916,377 1916,437 1952,437 1952,377"
+                },
+                "text": "cm"
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "1989,377 1989,437 2122,437 2122,377"
+                },
+                "text": "cuvette"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "321,514 2052,520 2052,441 2016,439 321,466"
+            },
+            "baseline": {
+              "points": "334,486 420,489 506,489 592,489 678,489 764,492 850,491 937,492 1023,491 1109,492 1195,492 1281,492 1367,492 1453,492 1540,492 1626,492 1712,492 1798,494 1884,493 1970,494 2057,495"
+            },
+            "text": "and a diffusing plate close to the detector of a diode array spectrophotometer (Shibada",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "326,446 326,506 384,506 384,446"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "411,448 411,508 421,508 421,448"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "443,449 443,509 607,509 607,449"
+                },
+                "text": "diffusing"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "634,449 634,509 718,509 718,449"
+                },
+                "text": "plate"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "740,451 740,511 829,511 829,451"
+                },
+                "text": "close"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "856,451 856,511 882,511 882,451"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "910,451 910,511 957,511 957,451"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "979,451 979,511 1137,511 1137,451"
+                },
+                "text": "detector"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1164,452 1164,512 1201,512 1201,452"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1223,452 1223,512 1233,512 1233,452"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1255,452 1255,512 1355,512 1355,452"
+                },
+                "text": "diode"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1377,452 1377,512 1466,512 1466,452"
+                },
+                "text": "array"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1494,452 1494,512 1859,512 1859,452"
+                },
+                "text": "spectrophotometer"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "1876,453 1876,513 2039,513 2039,453"
+                },
+                "text": "(Shibada"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "330,579 2043,586 2043,541 1953,516 330,525"
+            },
+            "baseline": {
+              "points": "343,558 428,561 513,563 598,566 684,559 769,563 854,565 939,567 1025,566 1110,567 1195,567 1280,567 1366,567 1451,565 1536,569 1621,569 1707,567 1792,567 1877,567 1962,567 2048,567"
+            },
+            "text": "1954; Mitchell 1988). Attenuation was measured using a 1 cm cuvette far from the",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "330,519 330,579 438,579 438,519"
+                },
+                "text": "1954;"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "466,524 466,584 628,584 628,524"
+                },
+                "text": "Mitchell"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "645,520 645,580 770,580 770,520"
+                },
+                "text": "1988)."
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "808,526 808,586 1030,586 1030,526"
+                },
+                "text": "Attenuation"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "1069,526 1069,586 1139,586 1139,526"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1161,527 1161,587 1340,587 1340,527"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1362,525 1362,585 1459,585 1459,525"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1487,526 1487,586 1497,586 1497,526"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1520,528 1520,588 1535,588 1535,528"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1552,529 1552,589 1590,589 1590,529"
+                },
+                "text": "cm"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1628,527 1628,587 1763,587 1763,527"
+                },
+                "text": "cuvette"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1797,527 1797,587 1845,587 1845,527"
+                },
+                "text": "far"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1867,527 1867,587 1937,587 1937,527"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "1976,527 1976,587 2024,587 2024,527"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "321,663 2113,681 2113,606 2039,586 321,609"
+            },
+            "baseline": {
+              "points": "334,638 423,635 512,638 601,638 691,638 780,641 869,641 958,641 1048,641 1137,641 1226,644 1315,644 1405,644 1494,641 1583,644 1672,641 1762,644 1851,644 1940,644 2029,644 2119,644"
+            },
+            "text": "detector (Bricaud 1983). Fluorescence was measured using a Sea Tech strobe stimulated",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "326,595 326,655 480,655 480,595"
+                },
+                "text": "detector"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "507,598 507,658 672,658 672,598"
+                },
+                "text": "(Bricaud"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "699,600 699,660 827,660 827,600"
+                },
+                "text": "1983)."
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "848,601 848,661 1102,661 1102,601"
+                },
+                "text": "Fluorescence"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "1128,601 1128,661 1195,661 1195,601"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1222,604 1222,664 1397,664 1397,604"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1423,601 1423,661 1521,661 1521,601"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1548,602 1548,662 1557,662 1557,602"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1579,603 1579,663 1640,663 1640,603"
+                },
+                "text": "Sea"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1667,602 1667,662 1749,662 1749,602"
+                },
+                "text": "Tech"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1775,604 1775,664 1889,664 1889,604"
+                },
+                "text": "strobe"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1910,604 1910,664 2106,664 2106,604"
+                },
+                "text": "stimulated"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "328,735 2106,738 2106,679 1973,665 328,663"
+            },
+            "baseline": {
+              "points": "340,716 428,713 517,716 605,716 694,716 783,718 871,716 960,716 1049,716 1137,719 1226,719 1315,719 1403,719 1492,719 1581,718 1669,718 1758,719 1847,719 1935,719 2024,719 2113,722"
+            },
+            "text": "fluorometer. PAR was measured with a photodiode callibrated to detect quanta of light.",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "328,673 328,733 570,733 570,673"
+                },
+                "text": "fluorometer."
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "597,676 597,736 674,736 674,676"
+                },
+                "text": "PAR"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "706,677 706,737 773,737 773,677"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "794,676 794,736 974,736 974,676"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1001,676 1001,736 1078,736 1078,676"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1105,678 1105,738 1115,738 1115,678"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1141,679 1141,739 1353,739 1353,679"
+                },
+                "text": "photodiode"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1374,679 1374,739 1570,739 1570,679"
+                },
+                "text": "callibrated"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1597,678 1597,738 1622,738 1622,678"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1659,678 1659,738 1778,738 1778,678"
+                },
+                "text": "detect"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1805,679 1805,739 1928,739 1928,679"
+                },
+                "text": "quanta"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1949,679 1949,739 1990,739 1990,679"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "2006,680 2006,740 2109,740 2109,680"
+                },
+                "text": "light."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "321,812 1993,821 1993,747 1785,735 1249,772 1007,731 882,776 321,738"
+            },
+            "baseline": {
+              "points": "334,788 417,788 500,790 583,791 666,791 749,792 832,794 916,794 999,794 1082,794 1165,794 1248,797 1331,796 1414,794 1498,794 1581,794 1664,796 1747,795 1830,794 1913,794 1997,794"
+            },
+            "text": "Over a 48 hour time series, fluorescence was measured 22 times, chlorophyll was",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "326,748 326,808 419,808 419,748"
+                },
+                "text": "Over"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "440,748 440,808 450,808 450,748"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "477,749 477,809 512,809 512,749"
+                },
+                "text": "48"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "539,750 539,810 622,810 622,750"
+                },
+                "text": "hour"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "643,751 643,811 721,811 721,751"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "742,753 742,813 872,813 872,753"
+                },
+                "text": "series,"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "899,754 899,814 1143,814 1143,754"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1164,755 1164,815 1236,815 1236,755"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1257,755 1257,815 1439,815 1439,755"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1466,754 1466,814 1501,814 1501,754"
+                },
+                "text": "22"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1529,754 1529,814 1647,814 1647,754"
+                },
+                "text": "times,"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1674,754 1674,814 1903,814 1903,754"
+                },
+                "text": "chlorophyll"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1919,754 1919,814 1991,814 1991,754"
+                },
+                "text": "was"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "319,882 1468,882 1665,921 1715,887 1821,928 2027,891 2009,828 1815,821 319,842"
+            },
+            "baseline": {
+              "points": "331,868 416,865 501,865 586,867 671,866 756,871 841,868 926,868 1011,867 1096,871 1182,871 1267,868 1352,869 1437,870 1522,871 1607,871 1692,869 1777,871 1862,871 1947,871 2033,874"
+            },
+            "text": "measured 11 times, and spectra were measured 5 times. The sampeling rate was not",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "318,825 318,885 496,885 496,825"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "526,826 526,886 565,886 565,826"
+                },
+                "text": "11"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "581,826 581,886 704,886 704,826"
+                },
+                "text": "times,"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "729,830 729,890 788,890 788,830"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "814,828 814,888 947,888 947,828"
+                },
+                "text": "spectra"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "972,827 972,887 1056,887 1056,827"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1081,831 1081,891 1263,891 1263,831"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1289,828 1289,888 1298,888 1298,828"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1324,829 1324,889 1447,889 1447,829"
+                },
+                "text": "times."
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1472,830 1472,890 1541,890 1541,830"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1561,829 1561,889 1759,889 1759,829"
+                },
+                "text": "sampeling"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1784,831 1784,891 1848,891 1848,831"
+                },
+                "text": "rate"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1873,831 1873,891 1942,891 1942,831"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1962,832 1962,892 2021,892 2021,832"
+                },
+                "text": "not"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "321,955 353,957 376,977 394,964 405,975 412,968 428,971 441,957 471,973 495,957 516,957 516,907 475,910 437,894 425,905 367,905 337,889 321,894"
+            },
+            "baseline": {
+              "points": "334,943 360,943 387,943 414,943 441,943 468,943 495,945 522,943"
+            },
+            "text": "constant.",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "324,903 324,963 516,963 516,903"
+                },
+                "text": "constant."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "477,1032 2054,1050 2023,948 1862,982 1597,980 1548,937 1358,986 943,948 477,975"
+            },
+            "baseline": {
+              "points": "489,1018 567,1018 646,1018 724,1021 803,1021 881,1022 960,1021 1038,1021 1117,1021 1195,1022 1274,1022 1353,1024 1431,1021 1510,1024 1588,1024 1667,1021 1745,1024 1824,1024 1902,1023 1981,1024 2060,1021"
+            },
+            "text": "Fluorescence, absorbtion and attenuation were normalized to chlorophyll and",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "476,978 476,1038 747,1038 747,978"
+                },
+                "text": "Fluorescence,"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "772,981 772,1041 968,1041 968,981"
+                },
+                "text": "absorbtion"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "999,981 999,1041 1052,1041 1052,981"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "1082,981 1082,1041 1289,1041 1289,981"
+                },
+                "text": "attenuation"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1314,983 1314,1043 1402,1043 1402,983"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1437,984 1437,1044 1648,1044 1648,984"
+                },
+                "text": "normalized"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1674,981 1674,1041 1698,1041 1698,981"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1723,983 1723,1043 1954,1043 1954,983"
+                },
+                "text": "chlorophyll"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1979,982 1979,1042 2038,1042 2038,982"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "314,1104 466,1136 1901,1109 1882,1054 1681,1045 314,1063"
+            },
+            "baseline": {
+              "points": "328,1092 411,1092 494,1091 577,1092 660,1092 743,1095 826,1095 909,1095 992,1095 1075,1097 1159,1095 1242,1098 1325,1094 1408,1095 1491,1095 1574,1095 1657,1095 1740,1093 1823,1098 1907,1098"
+            },
+            "text": "analyzed on a UNIX workstation. The spectra were smoothed and integrated.",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "314,1052 314,1112 475,1112 475,1052"
+                },
+                "text": "analyzed"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "502,1051 502,1111 537,1111 537,1051"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "564,1051 564,1111 579,1111 579,1051"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "601,1052 601,1112 704,1112 704,1052"
+                },
+                "text": "UNIX"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "741,1055 741,1115 991,1115 991,1055"
+                },
+                "text": "workstation."
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1028,1056 1028,1116 1095,1116 1095,1056"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1123,1056 1123,1116 1258,1116 1258,1056"
+                },
+                "text": "spectra"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1279,1054 1279,1114 1367,1114 1367,1054"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1389,1055 1389,1115 1576,1115 1576,1055"
+                },
+                "text": "smoothed"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1602,1055 1602,1115 1659,1115 1659,1055"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1686,1056 1686,1116 1899,1116 1899,1056"
+                },
+                "text": "integrated."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "473,1201 2124,1195 2124,1124 2005,1104 1781,1143 1084,1111 473,1145"
+            },
+            "baseline": {
+              "points": "486,1161 568,1167 650,1170 732,1170 815,1171 897,1173 979,1173 1061,1173 1144,1173 1226,1173 1308,1173 1390,1176 1473,1173 1555,1173 1637,1173 1719,1173 1802,1173 1884,1173 1966,1176 2048,1176 2131,1176"
+            },
+            "text": "A Sea Tech fluorometer and a Sea Tech transmissometer have been recording data",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "479,1121 479,1181 490,1181 490,1121"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "525,1126 525,1186 586,1186 586,1126"
+                },
+                "text": "Sea"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "610,1130 610,1190 694,1190 694,1130"
+                },
+                "text": "Tech"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "717,1131 717,1191 949,1191 949,1131"
+                },
+                "text": "fluorometer"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "978,1133 978,1193 1034,1193 1034,1133"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1063,1133 1063,1193 1073,1193 1073,1133"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1097,1133 1097,1193 1158,1193 1158,1133"
+                },
+                "text": "Sea"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1182,1133 1182,1193 1266,1193 1266,1133"
+                },
+                "text": "Tech"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1289,1133 1289,1193 1611,1193 1611,1133"
+                },
+                "text": "transmissometer"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1629,1133 1629,1193 1707,1193 1707,1133"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1731,1133 1731,1193 1809,1193 1809,1133"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1838,1134 1838,1194 2013,1194 2013,1134"
+                },
+                "text": "recording"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "2042,1136 2042,1196 2109,1196 2109,1136"
+                },
+                "text": "data"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "319,1258 2106,1276 2106,1204 2066,1190 2005,1224 1649,1188 319,1219"
+            },
+            "baseline": {
+              "points": "331,1244 420,1244 509,1244 598,1244 687,1247 776,1247 865,1247 954,1250 1043,1250 1132,1250 1222,1250 1311,1250 1400,1244 1489,1250 1578,1250 1667,1250 1756,1248 1845,1249 1934,1250 2023,1248 2113,1250"
+            },
+            "text": "at 15 minute intervals from a mooring in Moneterey Bay since January 16, 1992. The",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "319,1204 319,1264 350,1264 350,1204"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "367,1204 367,1264 398,1264 398,1204"
+                },
+                "text": "15"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "425,1204 425,1264 552,1264 552,1204"
+                },
+                "text": "minute"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "580,1206 580,1266 738,1266 738,1206"
+                },
+                "text": "intervals"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "771,1207 771,1267 845,1267 845,1207"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "888,1207 888,1267 898,1267 898,1207"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "920,1210 920,1270 1078,1270 1078,1210"
+                },
+                "text": "mooring"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1106,1210 1106,1270 1132,1270 1132,1210"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1169,1210 1169,1270 1371,1270 1371,1210"
+                },
+                "text": "Moneterey"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1398,1206 1398,1266 1466,1266 1466,1206"
+                },
+                "text": "Bay"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1504,1210 1504,1270 1594,1270 1594,1210"
+                },
+                "text": "since"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1632,1209 1632,1269 1775,1269 1775,1209"
+                },
+                "text": "January"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1807,1208 1807,1268 1865,1268 1865,1208"
+                },
+                "text": "16,"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "1882,1209 1882,1269 1987,1269 1987,1209"
+                },
+                "text": "1992."
+              },
+              {
+                "id": "tr_1_tl_13_w15",
+                "coords": {
+                  "points": "2025,1208 2025,1268 2094,1268 2094,1208"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "319,1339 1998,1346 1998,1287 1934,1265 319,1292"
+            },
+            "baseline": {
+              "points": "331,1316 414,1319 498,1319 581,1319 665,1323 749,1324 832,1325 916,1325 999,1325 1083,1325 1167,1325 1250,1325 1334,1325 1417,1325 1501,1325 1585,1325 1668,1325 1752,1325 1835,1325 1919,1325 2003,1322"
+            },
+            "text": "fluorometer is the same instrument as used with the cultures. The transmissometer",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "323,1279 323,1339 553,1339 553,1279"
+                },
+                "text": "fluorometer"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "568,1279 568,1339 591,1339 591,1279"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "611,1281 611,1341 663,1341 663,1281"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "688,1283 688,1343 778,1343 778,1283"
+                },
+                "text": "same"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "798,1285 798,1345 1013,1345 1013,1285"
+                },
+                "text": "instrument"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1038,1285 1038,1345 1071,1345 1071,1285"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1095,1285 1095,1345 1176,1345 1176,1285"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1201,1285 1201,1345 1277,1345 1277,1285"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1302,1285 1302,1345 1349,1345 1349,1285"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1374,1285 1374,1345 1546,1345 1546,1285"
+                },
+                "text": "cultures."
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1585,1285 1585,1345 1646,1345 1646,1285"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1671,1285 1671,1345 1992,1345 1992,1285"
+                },
+                "text": "transmissometer"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "321,1412 1199,1450 1606,1412 1699,1457 1821,1412 1982,1425 1950,1355 321,1367"
+            },
+            "baseline": {
+              "points": "334,1397 416,1400 499,1397 582,1400 664,1400 747,1401 830,1400 912,1403 995,1403 1078,1403 1161,1403 1243,1403 1326,1403 1409,1403 1491,1403 1574,1403 1657,1403 1739,1403 1822,1403 1905,1400 1988,1403"
+            },
+            "text": "opperates at 660 nm and returns a voltage. Voltage is converted into beam c by the",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "326,1360 326,1420 506,1420 506,1360"
+                },
+                "text": "opperates"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "527,1358 527,1418 557,1418 557,1358"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "572,1360 572,1420 638,1420 638,1360"
+                },
+                "text": "660"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "659,1360 659,1420 698,1420 698,1360"
+                },
+                "text": "nm"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "749,1360 749,1420 809,1420 809,1360"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "835,1362 835,1422 966,1422 966,1362"
+                },
+                "text": "returns"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "987,1363 987,1423 996,1423 996,1363"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1022,1363 1022,1423 1178,1423 1178,1363"
+                },
+                "text": "voltage."
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1194,1363 1194,1423 1339,1423 1339,1363"
+                },
+                "text": "Voltage"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1360,1363 1360,1423 1385,1423 1385,1363"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1405,1363 1405,1423 1587,1423 1587,1363"
+                },
+                "text": "converted"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1618,1363 1618,1423 1677,1423 1677,1363"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1703,1363 1703,1423 1784,1423 1784,1363"
+                },
+                "text": "beam"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "1825,1362 1825,1422 1834,1422 1834,1362"
+                },
+                "text": "c"
+              },
+              {
+                "id": "tr_1_tl_15_w15",
+                "coords": {
+                  "points": "1860,1360 1860,1420 1900,1420 1900,1360"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_15_w16",
+                "coords": {
+                  "points": "1920,1361 1920,1421 1970,1421 1970,1361"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "321,1496 369,1507 407,1491 439,1507 491,1496 536,1529 581,1511 620,1523 654,1496 719,1500 719,1441 697,1432 441,1430 419,1441 321,1428"
+            },
+            "baseline": {
+              "points": "334,1471 360,1473 386,1474 412,1474 438,1474 464,1474 490,1474 516,1474 542,1474 568,1474 594,1474 620,1474 646,1474 672,1476 698,1476 725,1474"
+            },
+            "text": "following equation:",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "326,1434 326,1494 508,1494 508,1434"
+                },
+                "text": "following"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "535,1434 535,1494 717,1494 717,1434"
+                },
+                "text": "equation:"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "921,1557 1048,1577 1100,1563 1134,1579 1190,1561 1272,1584 1317,1575 1317,1502 1276,1480 1260,1491 1238,1471 1213,1468 1186,1498 1161,1489 1136,1516 1102,1520 1066,1484 1020,1484 973,1516 921,1511"
+            },
+            "baseline": {
+              "points": "934,1552 959,1550 985,1549 1011,1547 1037,1546 1063,1546 1089,1546 1115,1546 1140,1548 1166,1549 1192,1549 1218,1550 1244,1552 1270,1552 1296,1552 1322,1555"
+            },
+            "text": "C =-4*log(VDC/5)",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "929,1511 929,1571 940,1571 940,1511"
+                },
+                "text": "C"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "959,1507 959,1567 1319,1567 1319,1507"
+                },
+                "text": "=-4*log(VDC/5)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "314,1652 2134,1643 2134,1591 2059,1552 1912,1597 314,1579"
+            },
+            "baseline": {
+              "points": "328,1615 418,1624 508,1627 599,1627 689,1627 780,1624 870,1624 961,1627 1051,1624 1142,1627 1232,1627 1322,1626 1413,1624 1503,1625 1594,1627 1684,1627 1775,1627 1865,1625 1956,1628 2046,1630 2137,1627"
+            },
+            "text": "The mooring also has a PAR sensor which samples every 10 minutes. However, there is",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "314,1576 314,1636 377,1636 377,1576"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "399,1586 399,1646 559,1646 559,1586"
+                },
+                "text": "mooring"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "586,1587 586,1647 649,1647 649,1587"
+                },
+                "text": "also"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "676,1586 676,1646 734,1646 734,1586"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "756,1584 756,1644 772,1644 772,1584"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "794,1584 794,1644 873,1644 873,1584"
+                },
+                "text": "PAR"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "906,1586 906,1646 1028,1646 1028,1586"
+                },
+                "text": "sensor"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1061,1586 1061,1646 1172,1646 1172,1586"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1199,1586 1199,1646 1353,1646 1353,1586"
+                },
+                "text": "samples"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1375,1584 1375,1644 1476,1644 1476,1584"
+                },
+                "text": "every"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1503,1585 1503,1645 1540,1645 1540,1585"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1562,1587 1562,1647 1737,1647 1737,1587"
+                },
+                "text": "minutes."
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1759,1585 1759,1645 1961,1645 1961,1585"
+                },
+                "text": "However,"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "1988,1589 1988,1649 2078,1649 2078,1589"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_18_w15",
+                "coords": {
+                  "points": "2100,1587 2100,1647 2126,1647 2126,1587"
+                },
+                "text": "is"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "314,1713 683,1747 778,1715 887,1744 1104,1708 1215,1749 1432,1722 1430,1652 314,1672"
+            },
+            "baseline": {
+              "points": "328,1698 383,1698 438,1699 494,1701 549,1701 605,1701 660,1701 715,1701 771,1701 826,1698 882,1701 937,1701 992,1701 1048,1701 1103,1704 1159,1704 1214,1702 1269,1704 1325,1702 1380,1705 1436,1707"
+            },
+            "text": "no instrument to measure chlorophyll on the mooring.",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "319,1658 319,1718 354,1718 354,1658"
+                },
+                "text": "no"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "380,1660 380,1720 593,1720 593,1660"
+                },
+                "text": "instrument"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "619,1661 619,1721 644,1721 644,1661"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "670,1661 670,1721 828,1721 828,1661"
+                },
+                "text": "measure"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "854,1661 854,1721 1084,1721 1084,1661"
+                },
+                "text": "chlorophyll"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1110,1664 1110,1724 1150,1724 1150,1664"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1176,1662 1176,1722 1226,1722 1226,1662"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1253,1663 1253,1723 1435,1723 1435,1663"
+                },
+                "text": "mooring."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "321,1876 339,1871 364,1882 396,1864 410,1871 425,1862 473,1882 495,1878 493,1815 480,1815 464,1803 443,1803 430,1790 407,1790 394,1778 353,1808 319,1808"
+            },
+            "baseline": {
+              "points": "331,1848 358,1850 386,1851 414,1851 442,1851 470,1851 498,1854"
+            },
+            "text": "Results:",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "325,1811 325,1871 492,1871 492,1811"
+                },
+                "text": "Results:"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "477,1943 1973,1941 1948,1882 1729,1862 475,1885"
+            },
+            "baseline": {
+              "points": "489,1925 563,1925 638,1926 712,1925 787,1925 861,1925 936,1928 1010,1928 1085,1925 1159,1928 1234,1928 1308,1928 1383,1925 1457,1927 1532,1928 1606,1928 1681,1928 1755,1925 1830,1928 1904,1928 1979,1928"
+            },
+            "text": "The mooring fluorometer shows long term (3- 15 day) events which are",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "480,1885 480,1945 545,1945 545,1885"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "566,1885 566,1945 721,1945 721,1885"
+                },
+                "text": "mooring"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "747,1885 747,1945 980,1945 980,1885"
+                },
+                "text": "fluorometer"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "1011,1885 1011,1945 1131,1945 1131,1885"
+                },
+                "text": "shows"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1162,1888 1162,1948 1238,1948 1238,1888"
+                },
+                "text": "long"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1269,1888 1269,1948 1329,1948 1329,1888"
+                },
+                "text": "term"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1370,1885 1370,1945 1435,1945 1435,1885"
+                },
+                "text": "(3-"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1456,1887 1456,1947 1491,1947 1491,1887"
+                },
+                "text": "15"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1516,1888 1516,1948 1602,1948 1602,1888"
+                },
+                "text": "day)"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1618,1888 1618,1948 1739,1948 1739,1888"
+                },
+                "text": "events"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1770,1887 1770,1947 1880,1947 1880,1887"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1906,1888 1906,1948 1956,1948 1956,1888"
+                },
+                "text": "are"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "312,2005 2059,2020 2059,1966 1756,1941 1654,1975 756,1977 405,1934 312,1971"
+            },
+            "baseline": {
+              "points": "325,2000 412,1997 499,2003 586,2002 673,2000 760,2000 847,2003 934,2003 1021,2000 1108,2003 1195,2006 1282,2006 1369,2006 1456,2006 1543,2003 1630,2003 1717,2003 1804,2003 1891,2006 1978,2006 2065,2006"
+            },
+            "text": "hypothesized to represent spring phytoplankton blooms. (Figure 1) There is a short",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "312,1958 312,2018 566,2018 566,1958"
+                },
+                "text": "hypothesized"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "604,1961 604,2021 630,2021 630,1961"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "658,1960 658,2020 838,2020 838,1960"
+                },
+                "text": "represent"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "865,1963 865,2023 981,2023 981,1963"
+                },
+                "text": "spring"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1009,1964 1009,2024 1285,2024 1285,1964"
+                },
+                "text": "phytoplankton"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1312,1966 1312,2026 1472,2026 1472,1966"
+                },
+                "text": "blooms."
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1488,1963 1488,2023 1626,2023 1626,1963"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1663,1963 1663,2023 1700,2023 1700,1963"
+                },
+                "text": "1)"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1728,1963 1728,2023 1833,2023 1833,1963"
+                },
+                "text": "There"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1855,1965 1855,2025 1881,2025 1881,1965"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1914,1966 1914,2026 1929,2026 1929,1966"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1962,1966 1962,2026 2062,2026 2062,1966"
+                },
+                "text": "short"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "321,2106 1982,2102 1982,2043 1735,2016 1480,2054 321,2029"
+            },
+            "baseline": {
+              "points": "334,2074 416,2077 499,2077 581,2077 664,2078 746,2079 829,2077 911,2077 994,2079 1076,2080 1159,2080 1242,2080 1324,2077 1407,2080 1489,2080 1572,2077 1654,2078 1737,2080 1819,2080 1902,2080 1985,2083"
+            },
+            "text": "term (1 day) signal superimposed on this signal. (Figure 2). The diel cycle has a",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "327,2034 327,2094 387,2094 387,2034"
+                },
+                "text": "term"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "432,2037 432,2097 459,2097 459,2037"
+                },
+                "text": "(1"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "482,2037 482,2097 570,2097 570,2037"
+                },
+                "text": "day)"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "582,2037 582,2097 698,2097 698,2037"
+                },
+                "text": "signal"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "715,2037 715,2097 981,2097 981,2037"
+                },
+                "text": "superimposed"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1009,2039 1009,2099 1047,2099 1047,2039"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1070,2040 1070,2100 1136,2100 1136,2040"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1165,2040 1165,2100 1302,2100 1302,2040"
+                },
+                "text": "signal."
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1314,2039 1314,2099 1453,2099 1453,2039"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1487,2039 1487,2099 1541,2099 1541,2039"
+                },
+                "text": "2)."
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1564,2037 1564,2097 1635,2097 1635,2037"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_23_w12",
+                "coords": {
+                  "points": "1669,2039 1669,2099 1741,2099 1741,2039"
+                },
+                "text": "diel"
+              },
+              {
+                "id": "tr_1_tl_23_w13",
+                "coords": {
+                  "points": "1758,2040 1758,2100 1852,2100 1852,2040"
+                },
+                "text": "cycle"
+              },
+              {
+                "id": "tr_1_tl_23_w14",
+                "coords": {
+                  "points": "1875,2040 1875,2100 1935,2100 1935,2040"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_23_w15",
+                "coords": {
+                  "points": "1952,2042 1952,2102 1968,2102 1968,2042"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "319,2172 1414,2210 1860,2170 1993,2217 2131,2172 2091,2091 1896,2131 1731,2100 319,2124"
+            },
+            "baseline": {
+              "points": "331,2152 421,2152 511,2152 601,2155 692,2155 782,2152 872,2155 963,2155 1053,2155 1143,2155 1234,2158 1324,2156 1414,2157 1504,2156 1595,2156 1685,2155 1775,2155 1866,2158 1956,2160 2046,2161 2137,2161"
+            },
+            "text": "maximum at night (usually either one hour after sun set or one hour before sunrise) and a",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "324,2112 324,2172 500,2172 500,2112"
+                },
+                "text": "maximum"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "541,2113 541,2173 571,2173 571,2113"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "587,2115 587,2175 687,2175 687,2115"
+                },
+                "text": "night"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "713,2112 713,2172 864,2172 864,2112"
+                },
+                "text": "(usually"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "890,2115 890,2175 996,2175 996,2115"
+                },
+                "text": "either"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "1017,2115 1017,2175 1077,2175 1077,2115"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1098,2115 1098,2175 1188,2175 1188,2115"
+                },
+                "text": "hour"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1204,2117 1204,2177 1289,2177 1289,2117"
+                },
+                "text": "after"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1310,2116 1310,2176 1366,2176 1366,2116"
+                },
+                "text": "sun"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1391,2116 1391,2176 1446,2176 1446,2116"
+                },
+                "text": "set"
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "1457,2116 1457,2176 1497,2176 1497,2116"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_24_w12",
+                "coords": {
+                  "points": "1513,2116 1513,2176 1573,2176 1573,2116"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_24_w13",
+                "coords": {
+                  "points": "1598,2115 1598,2175 1684,2175 1684,2115"
+                },
+                "text": "hour"
+              },
+              {
+                "id": "tr_1_tl_24_w14",
+                "coords": {
+                  "points": "1705,2115 1705,2175 1821,2175 1821,2115"
+                },
+                "text": "before"
+              },
+              {
+                "id": "tr_1_tl_24_w15",
+                "coords": {
+                  "points": "1841,2119 1841,2179 1998,2179 1998,2119"
+                },
+                "text": "sunrise)"
+              },
+              {
+                "id": "tr_1_tl_24_w16",
+                "coords": {
+                  "points": "2029,2121 2029,2181 2084,2181 2084,2121"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_24_w17",
+                "coords": {
+                  "points": "2115,2121 2115,2181 2124,2181 2124,2121"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "314,2244 362,2260 434,2244 505,2260 543,2249 606,2274 688,2247 753,2260 753,2192 667,2201 652,2188 561,2206 434,2201 421,2188 403,2204 380,2190 314,2195"
+            },
+            "baseline": {
+              "points": "328,2230 353,2228 378,2227 403,2229 429,2230 454,2230 479,2230 505,2230 530,2230 555,2230 580,2230 606,2230 631,2230 656,2230 682,2230 707,2231 732,2233 758,2233"
+            },
+            "text": "minimum near noon.",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "313,2188 313,2248 489,2248 489,2188"
+                },
+                "text": "minimum"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "533,2190 533,2250 618,2250 618,2190"
+                },
+                "text": "near"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "638,2190 638,2250 752,2250 752,2190"
+                },
+                "text": "noon."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_26",
+            "coords": {
+              "points": "468,2328 2111,2324 2111,2249 1977,2244 1740,2281 1464,2229 1414,2265 1192,2229 1093,2267 468,2265"
+            },
+            "baseline": {
+              "points": "480,2301 561,2306 643,2307 725,2307 807,2307 889,2307 970,2310 1052,2309 1134,2310 1216,2310 1298,2309 1379,2307 1461,2310 1543,2310 1625,2310 1707,2310 1788,2307 1870,2310 1952,2310 2034,2309 2116,2310"
+            },
+            "text": "The amplitude of the diel cycle correlates with the mean fluorescence value; when",
+            "words": [
+              {
+                "id": "tr_1_tl_26_w1",
+                "coords": {
+                  "points": "473,2262 473,2322 535,2322 535,2262"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_26_w2",
+                "coords": {
+                  "points": "556,2267 556,2327 742,2327 742,2267"
+                },
+                "text": "amplitude"
+              },
+              {
+                "id": "tr_1_tl_26_w3",
+                "coords": {
+                  "points": "768,2267 768,2327 804,2327 804,2267"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_26_w4",
+                "coords": {
+                  "points": "820,2267 820,2327 866,2327 866,2267"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_26_w5",
+                "coords": {
+                  "points": "893,2268 893,2328 965,2328 965,2268"
+                },
+                "text": "diel"
+              },
+              {
+                "id": "tr_1_tl_26_w6",
+                "coords": {
+                  "points": "981,2269 981,2329 1073,2329 1073,2269"
+                },
+                "text": "cycle"
+              },
+              {
+                "id": "tr_1_tl_26_w7",
+                "coords": {
+                  "points": "1095,2270 1095,2330 1281,2330 1281,2270"
+                },
+                "text": "correlates"
+              },
+              {
+                "id": "tr_1_tl_26_w8",
+                "coords": {
+                  "points": "1302,2268 1302,2328 1374,2328 1374,2268"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_26_w9",
+                "coords": {
+                  "points": "1400,2268 1400,2328 1452,2328 1452,2268"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_26_w10",
+                "coords": {
+                  "points": "1473,2270 1473,2330 1571,2330 1571,2270"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_26_w11",
+                "coords": {
+                  "points": "1592,2269 1592,2329 1830,2329 1830,2269"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_26_w12",
+                "coords": {
+                  "points": "1856,2270 1856,2330 1975,2330 1975,2270"
+                },
+                "text": "value;"
+              },
+              {
+                "id": "tr_1_tl_26_w13",
+                "coords": {
+                  "points": "2001,2269 2001,2329 2094,2329 2094,2269"
+                },
+                "text": "when"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_27",
+            "coords": {
+              "points": "314,2410 1998,2401 1998,2339 1928,2330 314,2351"
+            },
+            "baseline": {
+              "points": "328,2379 411,2379 495,2381 579,2384 663,2382 746,2382 830,2384 914,2382 998,2385 1081,2382 1165,2382 1249,2385 1333,2383 1416,2382 1500,2384 1584,2385 1668,2382 1751,2385 1835,2385 1919,2385 2003,2385"
+            },
+            "text": "the mean signal is high, the variations (the difference between daily maximum and",
+            "words": [
+              {
+                "id": "tr_1_tl_27_w1",
+                "coords": {
+                  "points": "319,2339 319,2399 369,2399 369,2339"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_27_w2",
+                "coords": {
+                  "points": "389,2339 389,2399 485,2399 485,2339"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_27_w3",
+                "coords": {
+                  "points": "511,2343 511,2403 627,2403 627,2343"
+                },
+                "text": "signal"
+              },
+              {
+                "id": "tr_1_tl_27_w4",
+                "coords": {
+                  "points": "638,2342 638,2402 663,2402 663,2342"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_27_w5",
+                "coords": {
+                  "points": "684,2342 684,2402 784,2402 784,2342"
+                },
+                "text": "high,"
+              },
+              {
+                "id": "tr_1_tl_27_w6",
+                "coords": {
+                  "points": "811,2343 811,2403 861,2403 861,2343"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_27_w7",
+                "coords": {
+                  "points": "897,2344 897,2404 1084,2404 1084,2344"
+                },
+                "text": "variations"
+              },
+              {
+                "id": "tr_1_tl_27_w8",
+                "coords": {
+                  "points": "1110,2342 1110,2402 1175,2402 1175,2342"
+                },
+                "text": "(the"
+              },
+              {
+                "id": "tr_1_tl_27_w9",
+                "coords": {
+                  "points": "1196,2343 1196,2403 1388,2403 1388,2343"
+                },
+                "text": "difference"
+              },
+              {
+                "id": "tr_1_tl_27_w10",
+                "coords": {
+                  "points": "1414,2343 1414,2403 1566,2403 1566,2343"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_27_w11",
+                "coords": {
+                  "points": "1591,2343 1591,2403 1677,2403 1677,2343"
+                },
+                "text": "daily"
+              },
+              {
+                "id": "tr_1_tl_27_w12",
+                "coords": {
+                  "points": "1703,2345 1703,2405 1880,2405 1880,2345"
+                },
+                "text": "maximum"
+              },
+              {
+                "id": "tr_1_tl_27_w13",
+                "coords": {
+                  "points": "1921,2345 1921,2405 1981,2405 1981,2345"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_28",
+            "coords": {
+              "points": "319,2473 2077,2482 2052,2425 1919,2407 319,2425"
+            },
+            "baseline": {
+              "points": "331,2454 418,2457 506,2457 593,2460 681,2457 769,2459 856,2458 944,2459 1031,2460 1119,2460 1207,2460 1294,2460 1382,2460 1469,2460 1557,2461 1645,2460 1732,2460 1820,2460 1907,2461 1995,2460 2083,2454"
+            },
+            "text": "minimum) are large e.g. the value of the mean correlates with the envelope of the raw -",
+            "words": [
+              {
+                "id": "tr_1_tl_28_w1",
+                "coords": {
+                  "points": "323,2417 323,2477 528,2477 528,2417"
+                },
+                "text": "minimum)"
+              },
+              {
+                "id": "tr_1_tl_28_w2",
+                "coords": {
+                  "points": "557,2419 557,2479 605,2479 605,2419"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_28_w3",
+                "coords": {
+                  "points": "629,2417 629,2477 715,2477 715,2417"
+                },
+                "text": "large"
+              },
+              {
+                "id": "tr_1_tl_28_w4",
+                "coords": {
+                  "points": "739,2418 739,2478 811,2478 811,2418"
+                },
+                "text": "e.g."
+              },
+              {
+                "id": "tr_1_tl_28_w5",
+                "coords": {
+                  "points": "826,2418 826,2478 873,2478 873,2418"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_28_w6",
+                "coords": {
+                  "points": "908,2419 908,2479 1007,2479 1007,2419"
+                },
+                "text": "value"
+              },
+              {
+                "id": "tr_1_tl_28_w7",
+                "coords": {
+                  "points": "1032,2420 1032,2480 1065,2480 1065,2420"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_28_w8",
+                "coords": {
+                  "points": "1085,2420 1085,2480 1132,2480 1132,2420"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_28_w9",
+                "coords": {
+                  "points": "1157,2420 1157,2480 1252,2480 1252,2420"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_28_w10",
+                "coords": {
+                  "points": "1281,2420 1281,2480 1462,2480 1462,2420"
+                },
+                "text": "correlates"
+              },
+              {
+                "id": "tr_1_tl_28_w11",
+                "coords": {
+                  "points": "1487,2420 1487,2480 1559,2480 1559,2420"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_28_w12",
+                "coords": {
+                  "points": "1588,2420 1588,2480 1635,2480 1635,2420"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_28_w13",
+                "coords": {
+                  "points": "1660,2420 1660,2480 1827,2480 1827,2420"
+                },
+                "text": "envelope"
+              },
+              {
+                "id": "tr_1_tl_28_w14",
+                "coords": {
+                  "points": "1851,2420 1851,2480 1889,2480 1889,2420"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_28_w15",
+                "coords": {
+                  "points": "1904,2420 1904,2480 1951,2480 1951,2420"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_28_w16",
+                "coords": {
+                  "points": "1976,2419 1976,2479 2028,2479 2028,2419"
+                },
+                "text": "raw"
+              },
+              {
+                "id": "tr_1_tl_28_w17",
+                "coords": {
+                  "points": "2062,2414 2062,2474 2076,2474 2076,2414"
+                },
+                "text": "-"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_29",
+            "coords": {
+              "points": "314,2552 2111,2554 2084,2477 314,2514"
+            },
+            "baseline": {
+              "points": "328,2531 417,2528 506,2534 596,2531 685,2528 775,2534 864,2534 953,2534 1043,2537 1132,2534 1222,2537 1311,2534 1400,2534 1490,2534 1579,2534 1669,2534 1758,2534 1847,2537 1937,2537 2026,2537 2116,2537"
+            },
+            "text": "mean timeseries (Figure 3). The minimum value is consistently half the maximum value",
+            "words": [
+              {
+                "id": "tr_1_tl_29_w1",
+                "coords": {
+                  "points": "319,2489 319,2549 412,2549 412,2489"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_29_w2",
+                "coords": {
+                  "points": "448,2492 448,2552 639,2552 639,2492"
+                },
+                "text": "timeseries"
+              },
+              {
+                "id": "tr_1_tl_29_w3",
+                "coords": {
+                  "points": "661,2490 661,2550 795,2550 795,2490"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_29_w4",
+                "coords": {
+                  "points": "821,2494 821,2554 872,2554 872,2494"
+                },
+                "text": "3)."
+              },
+              {
+                "id": "tr_1_tl_29_w5",
+                "coords": {
+                  "points": "888,2494 888,2554 955,2554 955,2494"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_29_w6",
+                "coords": {
+                  "points": "976,2496 976,2556 1141,2556 1141,2496"
+                },
+                "text": "minimum"
+              },
+              {
+                "id": "tr_1_tl_29_w7",
+                "coords": {
+                  "points": "1189,2496 1189,2556 1281,2556 1281,2496"
+                },
+                "text": "value"
+              },
+              {
+                "id": "tr_1_tl_29_w8",
+                "coords": {
+                  "points": "1303,2494 1303,2554 1328,2554 1328,2494"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_29_w9",
+                "coords": {
+                  "points": "1360,2494 1360,2554 1587,2554 1587,2494"
+                },
+                "text": "consistently"
+              },
+              {
+                "id": "tr_1_tl_29_w10",
+                "coords": {
+                  "points": "1624,2494 1624,2554 1695,2554 1695,2494"
+                },
+                "text": "half"
+              },
+              {
+                "id": "tr_1_tl_29_w11",
+                "coords": {
+                  "points": "1712,2494 1712,2554 1763,2554 1763,2494"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_29_w12",
+                "coords": {
+                  "points": "1784,2497 1784,2557 1959,2557 1959,2497"
+                },
+                "text": "maximum"
+              },
+              {
+                "id": "tr_1_tl_29_w13",
+                "coords": {
+                  "points": "2001,2497 2001,2557 2099,2557 2099,2497"
+                },
+                "text": "value"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_30",
+            "coords": {
+              "points": "321,2636 2079,2634 2079,2570 2007,2543 1787,2586 321,2570"
+            },
+            "baseline": {
+              "points": "334,2606 421,2609 509,2609 596,2606 684,2606 772,2609 859,2611 947,2612 1034,2612 1122,2612 1210,2612 1297,2612 1385,2613 1472,2612 1560,2612 1648,2615 1735,2612 1823,2614 1910,2612 1998,2612 2086,2618"
+            },
+            "text": "for each day (+- 10%). This is true even when the daily oscillations grow larger during",
+            "words": [
+              {
+                "id": "tr_1_tl_30_w1",
+                "coords": {
+                  "points": "328,2566 328,2626 379,2626 379,2566"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_30_w2",
+                "coords": {
+                  "points": "397,2569 397,2629 472,2629 472,2569"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_30_w3",
+                "coords": {
+                  "points": "501,2568 501,2628 558,2628 558,2568"
+                },
+                "text": "day"
+              },
+              {
+                "id": "tr_1_tl_30_w4",
+                "coords": {
+                  "points": "582,2566 582,2626 651,2626 651,2566"
+                },
+                "text": "(+-"
+              },
+              {
+                "id": "tr_1_tl_30_w5",
+                "coords": {
+                  "points": "669,2567 669,2627 790,2627 790,2567"
+                },
+                "text": "10%)."
+              },
+              {
+                "id": "tr_1_tl_30_w6",
+                "coords": {
+                  "points": "814,2570 814,2630 894,2630 894,2570"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_30_w7",
+                "coords": {
+                  "points": "918,2571 918,2631 941,2631 941,2571"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_30_w8",
+                "coords": {
+                  "points": "965,2572 965,2632 1027,2632 1027,2572"
+                },
+                "text": "true"
+              },
+              {
+                "id": "tr_1_tl_30_w9",
+                "coords": {
+                  "points": "1051,2572 1051,2632 1137,2632 1137,2572"
+                },
+                "text": "even"
+              },
+              {
+                "id": "tr_1_tl_30_w10",
+                "coords": {
+                  "points": "1161,2572 1161,2632 1259,2632 1259,2572"
+                },
+                "text": "when"
+              },
+              {
+                "id": "tr_1_tl_30_w11",
+                "coords": {
+                  "points": "1283,2572 1283,2632 1335,2632 1335,2572"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_30_w12",
+                "coords": {
+                  "points": "1359,2572 1359,2632 1445,2632 1445,2572"
+                },
+                "text": "daily"
+              },
+              {
+                "id": "tr_1_tl_30_w13",
+                "coords": {
+                  "points": "1468,2572 1468,2632 1688,2632 1688,2572"
+                },
+                "text": "oscillations"
+              },
+              {
+                "id": "tr_1_tl_30_w14",
+                "coords": {
+                  "points": "1712,2572 1712,2632 1792,2632 1792,2572"
+                },
+                "text": "grow"
+              },
+              {
+                "id": "tr_1_tl_30_w15",
+                "coords": {
+                  "points": "1828,2572 1828,2632 1937,2632 1937,2572"
+                },
+                "text": "larger"
+              },
+              {
+                "id": "tr_1_tl_30_w16",
+                "coords": {
+                  "points": "1955,2572 1955,2632 2070,2632 2070,2572"
+                },
+                "text": "during"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_31",
+            "coords": {
+              "points": "321,2715 1998,2706 1998,2658 1837,2636 321,2636"
+            },
+            "baseline": {
+              "points": "334,2680 417,2680 500,2683 584,2686 667,2686 751,2686 834,2686 918,2686 1001,2686 1085,2687 1168,2686 1251,2688 1335,2689 1418,2689 1502,2686 1585,2689 1669,2689 1752,2689 1836,2689 1919,2689 2003,2686"
+            },
+            "text": "the phytoplankton bloomes e.g. the envelope for the raw/mean time series is nearly",
+            "words": [
+              {
+                "id": "tr_1_tl_31_w1",
+                "coords": {
+                  "points": "326,2640 326,2700 370,2700 370,2640"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_31_w2",
+                "coords": {
+                  "points": "396,2644 396,2704 668,2704 668,2644"
+                },
+                "text": "phytoplankton"
+              },
+              {
+                "id": "tr_1_tl_31_w3",
+                "coords": {
+                  "points": "694,2646 694,2706 855,2706 855,2646"
+                },
+                "text": "bloomes"
+              },
+              {
+                "id": "tr_1_tl_31_w4",
+                "coords": {
+                  "points": "886,2646 886,2706 961,2706 961,2646"
+                },
+                "text": "e.g."
+              },
+              {
+                "id": "tr_1_tl_31_w5",
+                "coords": {
+                  "points": "977,2646 977,2706 1027,2706 1027,2646"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_31_w6",
+                "coords": {
+                  "points": "1047,2646 1047,2706 1219,2706 1219,2646"
+                },
+                "text": "envelope"
+              },
+              {
+                "id": "tr_1_tl_31_w7",
+                "coords": {
+                  "points": "1245,2648 1245,2708 1295,2708 1295,2648"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_31_w8",
+                "coords": {
+                  "points": "1315,2649 1315,2709 1365,2709 1365,2649"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_31_w9",
+                "coords": {
+                  "points": "1386,2646 1386,2706 1572,2706 1572,2646"
+                },
+                "text": "raw/mean"
+              },
+              {
+                "id": "tr_1_tl_31_w10",
+                "coords": {
+                  "points": "1598,2649 1598,2709 1673,2709 1673,2649"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_31_w11",
+                "coords": {
+                  "points": "1699,2649 1699,2709 1804,2709 1804,2649"
+                },
+                "text": "series"
+              },
+              {
+                "id": "tr_1_tl_31_w12",
+                "coords": {
+                  "points": "1825,2649 1825,2709 1850,2709 1850,2649"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_31_w13",
+                "coords": {
+                  "points": "1871,2648 1871,2708 1981,2708 1981,2648"
+                },
+                "text": "nearly"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_32",
+            "coords": {
+              "points": "314,2776 391,2769 437,2803 548,2783 570,2801 611,2772 719,2785 719,2715 701,2708 645,2724 618,2706 600,2722 541,2706 466,2729 421,2708 391,2724 314,2722"
+            },
+            "baseline": {
+              "points": "328,2758 354,2760 380,2761 406,2761 433,2761 459,2761 485,2761 511,2761 538,2759 564,2759 590,2761 616,2761 643,2761 669,2761 695,2762 722,2764"
+            },
+            "text": "constant (Figure 3)",
+            "words": [
+              {
+                "id": "tr_1_tl_32_w1",
+                "coords": {
+                  "points": "320,2721 320,2781 487,2781 487,2721"
+                },
+                "text": "constant"
+              },
+              {
+                "id": "tr_1_tl_32_w2",
+                "coords": {
+                  "points": "504,2719 504,2779 643,2779 643,2719"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_32_w3",
+                "coords": {
+                  "points": "672,2721 672,2781 710,2781 710,2721"
+                },
+                "text": "3)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_33",
+            "coords": {
+              "points": "473,2851 2102,2860 2102,2778 2054,2765 1998,2799 1880,2760 1453,2794 1369,2760 1253,2810 473,2790"
+            },
+            "baseline": {
+              "points": "486,2830 567,2835 648,2836 729,2836 810,2836 891,2839 972,2839 1053,2839 1134,2839 1215,2839 1296,2839 1377,2839 1458,2839 1539,2839 1620,2839 1701,2839 1782,2839 1863,2839 1944,2840 2025,2839 2107,2839"
+            },
+            "text": "The raw/mean fluorescence timeseries has an inverse functional relationship with",
+            "words": [
+              {
+                "id": "tr_1_tl_33_w1",
+                "coords": {
+                  "points": "478,2791 478,2851 537,2851 537,2791"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_33_w2",
+                "coords": {
+                  "points": "563,2796 563,2856 744,2856 744,2796"
+                },
+                "text": "raw/mean"
+              },
+              {
+                "id": "tr_1_tl_33_w3",
+                "coords": {
+                  "points": "770,2798 770,2858 1006,2858 1006,2798"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_33_w4",
+                "coords": {
+                  "points": "1032,2799 1032,2859 1228,2859 1228,2799"
+                },
+                "text": "timeseries"
+              },
+              {
+                "id": "tr_1_tl_33_w5",
+                "coords": {
+                  "points": "1259,2799 1259,2859 1319,2859 1319,2799"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_33_w6",
+                "coords": {
+                  "points": "1340,2799 1340,2859 1370,2859 1370,2799"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_33_w7",
+                "coords": {
+                  "points": "1395,2799 1395,2859 1531,2859 1531,2799"
+                },
+                "text": "inverse"
+              },
+              {
+                "id": "tr_1_tl_33_w8",
+                "coords": {
+                  "points": "1552,2799 1552,2859 1752,2859 1752,2799"
+                },
+                "text": "functional"
+              },
+              {
+                "id": "tr_1_tl_33_w9",
+                "coords": {
+                  "points": "1768,2799 1768,2859 1984,2859 1984,2799"
+                },
+                "text": "relationship"
+              },
+              {
+                "id": "tr_1_tl_33_w10",
+                "coords": {
+                  "points": "2015,2799 2015,2859 2085,2859 2085,2799"
+                },
+                "text": "with"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_34",
+            "coords": {
+              "points": "310,2912 1769,2953 1971,2923 1968,2860 308,2876"
+            },
+            "baseline": {
+              "points": "322,2904 404,2909 487,2910 569,2910 652,2911 734,2910 817,2913 899,2907 982,2910 1064,2913 1147,2910 1230,2911 1312,2913 1395,2913 1477,2913 1560,2913 1642,2913 1725,2913 1807,2913 1890,2913 1973,2913"
+            },
+            "text": "PAR both within days and between days (Figure 4). The raw/mean timeseries is",
+            "words": [
+              {
+                "id": "tr_1_tl_34_w1",
+                "coords": {
+                  "points": "314,2865 314,2925 390,2925 390,2865"
+                },
+                "text": "PAR"
+              },
+              {
+                "id": "tr_1_tl_34_w2",
+                "coords": {
+                  "points": "424,2869 424,2929 500,2929 500,2869"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_34_w3",
+                "coords": {
+                  "points": "528,2870 528,2930 642,2930 642,2870"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_34_w4",
+                "coords": {
+                  "points": "665,2870 665,2930 752,2930 752,2870"
+                },
+                "text": "days"
+              },
+              {
+                "id": "tr_1_tl_34_w5",
+                "coords": {
+                  "points": "774,2872 774,2932 834,2932 834,2872"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_34_w6",
+                "coords": {
+                  "points": "857,2868 857,2928 1015,2928 1015,2868"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_34_w7",
+                "coords": {
+                  "points": "1038,2872 1038,2932 1125,2932 1125,2872"
+                },
+                "text": "days"
+              },
+              {
+                "id": "tr_1_tl_34_w8",
+                "coords": {
+                  "points": "1169,2871 1169,2931 1311,2931 1311,2871"
+                },
+                "text": "(Figure"
+              },
+              {
+                "id": "tr_1_tl_34_w9",
+                "coords": {
+                  "points": "1334,2873 1334,2933 1388,2933 1388,2873"
+                },
+                "text": "4)."
+              },
+              {
+                "id": "tr_1_tl_34_w10",
+                "coords": {
+                  "points": "1416,2873 1416,2933 1481,2933 1481,2873"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_34_w11",
+                "coords": {
+                  "points": "1504,2873 1504,2933 1695,2933 1695,2873"
+                },
+                "text": "raw/mean"
+              },
+              {
+                "id": "tr_1_tl_34_w12",
+                "coords": {
+                  "points": "1717,2873 1717,2933 1914,2933 1914,2873"
+                },
+                "text": "timeseries"
+              },
+              {
+                "id": "tr_1_tl_34_w13",
+                "coords": {
+                  "points": "1937,2873 1937,2933 1963,2933 1963,2873"
+                },
+                "text": "is"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_35",
+            "coords": {
+              "points": "310,2991 543,3036 760,3002 923,3043 1724,3002 1989,3036 1989,2964 1853,2937 310,2946"
+            },
+            "baseline": {
+              "points": "322,2985 405,2985 489,2988 572,2988 656,2988 740,2988 823,2987 907,2985 990,2991 1074,2988 1158,2991 1241,2990 1325,2991 1408,2988 1492,2991 1576,2991 1659,2991 1743,2991 1826,2991 1910,2991 1994,2991"
+            },
+            "text": "hypothesized to represent f* in situ, because mean fluorescence has been shown to",
+            "words": [
+              {
+                "id": "tr_1_tl_35_w1",
+                "coords": {
+                  "points": "309,2946 309,3006 562,3006 562,2946"
+                },
+                "text": "hypothesized"
+              },
+              {
+                "id": "tr_1_tl_35_w2",
+                "coords": {
+                  "points": "588,2948 588,3008 617,3008 617,2948"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_35_w3",
+                "coords": {
+                  "points": "642,2948 642,3008 820,3008 820,2948"
+                },
+                "text": "represent"
+              },
+              {
+                "id": "tr_1_tl_35_w4",
+                "coords": {
+                  "points": "840,2946 840,3006 865,3006 865,2946"
+                },
+                "text": "f*"
+              },
+              {
+                "id": "tr_1_tl_35_w5",
+                "coords": {
+                  "points": "896,2945 896,3005 920,3005 920,2945"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_35_w6",
+                "coords": {
+                  "points": "945,2950 945,3010 1029,3010 1029,2950"
+                },
+                "text": "situ,"
+              },
+              {
+                "id": "tr_1_tl_35_w7",
+                "coords": {
+                  "points": "1054,2949 1054,3009 1203,3009 1203,2949"
+                },
+                "text": "because"
+              },
+              {
+                "id": "tr_1_tl_35_w8",
+                "coords": {
+                  "points": "1228,2950 1228,3010 1327,3010 1327,2950"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_35_w9",
+                "coords": {
+                  "points": "1352,2950 1352,3010 1595,3010 1595,2950"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_35_w10",
+                "coords": {
+                  "points": "1621,2951 1621,3011 1679,3011 1679,2951"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_35_w11",
+                "coords": {
+                  "points": "1700,2951 1700,3011 1784,3011 1784,2951"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_35_w12",
+                "coords": {
+                  "points": "1810,2951 1810,3011 1928,3011 1928,2951"
+                },
+                "text": "shown"
+              },
+              {
+                "id": "tr_1_tl_35_w13",
+                "coords": {
+                  "points": "1953,2951 1953,3011 1977,3011 1977,2951"
+                },
+                "text": "to"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

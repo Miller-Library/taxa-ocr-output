@@ -1,0 +1,1845 @@
+{
+  "processId": 10343958,
+  "status": "FINISHED",
+  "content": {
+    "text": "Phosphoglucoisomerase: 0.8 mM NADP, 14 U/ml glucose-6-phosphate dehydrogenase, 4 mM fructose-6-\nphosphate, 83 mM KCl, 82.5 mM Hepes, pH 7.4.\nPyruvate Kinase: 8 mM MgCl, 2 mM ADP, 0.32 mM NADH, 11 U/mI LDH, 1.5 mM\nphosphoenolpyruvate, 7.2 mM KCl, 71.5 mM Hepes, pH 7.4.\nEach enzyme assay was linked to the oxidation or reduction of a pyridine\nnucleotide cofactor, either NADH or NADP+ Enzymatic rates were determined based\non change in absorbance of the pyridine nucleotide molecule at 340 nm. Net initial\nreaction rates are reported (averaged triplicates - control). Any linking enzymes\nnecessary for cofactor coupling were added in excess to ensure that the rate determining\nstep of the reaction was the enzyme in question.\nSince path lengths are unknown for kinetic assays in the 96-well plate reader,\nconventional International units (micromoles of substrate converted per unit time) cannot\nbe determined. Instead, initial reaction rates are reported as time averaged milli\u00ac\nAborbance (in Opitical Density Units) /min. All rates are normalized to protein\nconcentration in homogenates, as determined by Coomassie Protein Assay (Pierce,\nRockford, II.) using BSA as a standard.\nFructose-2,6-bisphosphate:\nTassayed white muscle, liver, brain, and heart, for concentrations of fructose-2,6,-\nbisphosphate (F-2,6-BP). The standard protocol for the F-2,6-BP assay, which measures\nthe stimulatory effect of tissue extract on potato tuber pyrophosphate-dependent\nphosphofructokinase (Bergmeyer, 1984), was modified for the microplate reader by",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "367,377 367,2689 2194,2689 2194,377"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "358,426 893,471 1009,437 1496,476 2189,444 2189,387 2084,401 1993,339 1863,401 1624,362 1583,394 1521,346 1448,394 1282,351 1077,392 868,351 802,389 583,394 531,351 358,376"
+            },
+            "baseline": {
+              "points": "370,423 461,423 552,423 643,423 734,423 825,423 916,423 1007,423 1098,425 1189,426 1280,428 1371,425 1462,426 1553,429 1644,427 1735,428 1826,429 1917,429 2008,429 2099,429 2191,423"
+            },
+            "text": "Phosphoglucoisomerase: 0.8 mM NADP, 14 U/ml glucose-6-phosphate dehydrogenase, 4 mM fructose-6-",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "362,383 362,443 787,443 787,383"
+                },
+                "text": "Phosphoglucoisomerase:"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "811,383 811,443 857,443 857,383"
+                },
+                "text": "0.8"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "881,383 881,443 918,443 918,383"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "956,383 956,443 1082,443 1082,383"
+                },
+                "text": "NADP,"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "1097,385 1097,445 1129,445 1129,385"
+                },
+                "text": "14"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "1148,386 1148,446 1232,446 1232,386"
+                },
+                "text": "U/ml"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1247,385 1247,445 1589,445 1589,385"
+                },
+                "text": "glucose-6-phosphate"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1608,388 1608,448 1869,448 1869,388"
+                },
+                "text": "dehydrogenase,"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1884,389 1884,449 1898,449 1898,389"
+                },
+                "text": "4"
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1917,389 1917,449 1959,449 1959,389"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_1_w11",
+                "coords": {
+                  "points": "2001,389 2001,449 2179,449 2179,389"
+                },
+                "text": "fructose-6-"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "360,553 895,533 945,563 1077,560 1152,528 1223,553 1203,465 1061,496 711,462 558,496 360,483"
+            },
+            "baseline": {
+              "points": "373,525 415,520 458,519 501,519 544,519 587,519 629,519 672,519 715,519 758,518 801,517 843,519 886,520 929,522 972,522 1015,521 1057,519 1100,519 1143,519 1186,522 1229,522"
+            },
+            "text": "phosphate, 83 mM KCl, 82.5 mM Hepes, pH 7.4.",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "365,479 365,539 547,539 547,479"
+                },
+                "text": "phosphate,"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "568,479 568,539 604,539 604,479"
+                },
+                "text": "83"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "625,479 625,539 670,539 670,479"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "706,478 706,538 787,538 787,478"
+                },
+                "text": "KCl,"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "804,478 804,538 864,538 864,478"
+                },
+                "text": "82.5"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "885,481 885,541 930,541 930,481"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "967,480 967,540 1084,540 1084,480"
+                },
+                "text": "Hepes,"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1100,479 1100,539 1129,539 1129,479"
+                },
+                "text": "pH"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1161,482 1161,542 1221,542 1221,482"
+                },
+                "text": "7.4."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "355,629 879,667 1000,629 1868,642 1868,578 1571,551 355,576"
+            },
+            "baseline": {
+              "points": "367,614 442,614 517,614 592,614 667,614 743,614 818,614 893,617 968,617 1043,617 1119,617 1194,617 1269,617 1344,617 1419,618 1495,619 1570,617 1645,617 1720,620 1795,620 1871,617"
+            },
+            "text": "Pyruvate Kinase: 8 mM MgCl, 2 mM ADP, 0.32 mM NADH, 11 U/mI LDH, 1.5 mM",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "355,574 355,634 497,634 497,574"
+                },
+                "text": "Pyruvate"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "523,574 523,634 651,634 651,574"
+                },
+                "text": "Kinase:"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "672,574 672,634 687,634 687,574"
+                },
+                "text": "8"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "708,574 708,634 753,634 753,574"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "791,575 791,635 918,635 918,575"
+                },
+                "text": "MgCl,"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "929,577 929,637 938,637 938,577"
+                },
+                "text": "2"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "959,577 959,637 1005,637 1005,577"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1047,577 1047,637 1138,637 1138,577"
+                },
+                "text": "ADP,"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1149,577 1149,637 1215,637 1215,577"
+                },
+                "text": "0.32"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1237,577 1237,637 1282,637 1282,577"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1318,577 1318,637 1451,637 1451,577"
+                },
+                "text": "NADH,"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1467,578 1467,638 1497,638 1497,578"
+                },
+                "text": "11"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1518,577 1518,637 1605,637 1605,577"
+                },
+                "text": "U/mI"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "1616,577 1616,637 1713,637 1713,577"
+                },
+                "text": "LDH,"
+              },
+              {
+                "id": "tr_1_tl_3_w15",
+                "coords": {
+                  "points": "1729,580 1729,640 1769,640 1769,580"
+                },
+                "text": "1.5"
+              },
+              {
+                "id": "tr_1_tl_3_w16",
+                "coords": {
+                  "points": "1790,579 1790,639 1835,639 1835,579"
+                },
+                "text": "mM"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "364,752 1414,740 1412,672 1200,649 1093,688 929,654 362,676"
+            },
+            "baseline": {
+              "points": "376,719 428,713 480,713 532,710 585,713 637,713 689,713 741,715 794,713 846,713 898,713 950,713 1003,713 1055,713 1107,713 1159,716 1212,714 1264,716 1316,716 1368,714 1421,713"
+            },
+            "text": "phosphoenolpyruvate, 7.2 mM KCl, 71.5 mM Hepes, pH 7.4.",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "366,671 366,731 743,731 743,671"
+                },
+                "text": "phosphoenolpyruvate,"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "758,673 758,733 802,733 802,673"
+                },
+                "text": "7.2"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "823,673 823,733 867,733 867,673"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "902,673 902,733 986,733 986,673"
+                },
+                "text": "KCl,"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "997,673 997,733 1060,733 1060,673"
+                },
+                "text": "71.5"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1081,673 1081,733 1125,733 1125,673"
+                },
+                "text": "mM"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1160,674 1160,734 1279,734 1279,674"
+                },
+                "text": "Hepes,"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1289,676 1289,736 1323,736 1323,676"
+                },
+                "text": "pH"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1354,673 1354,733 1417,733 1417,673"
+                },
+                "text": "7.4."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "506,818 811,870 2013,836 2013,770 1915,761 506,761"
+            },
+            "baseline": {
+              "points": "519,815 597,815 676,817 755,818 834,815 913,816 992,818 1071,818 1150,818 1229,818 1307,818 1386,818 1465,820 1544,818 1623,819 1702,819 1781,820 1860,818 1939,818 2018,820"
+            },
+            "text": "Each enzyme assay was linked to the oxidation or reduction of a pyridine",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "511,775 511,835 599,835 599,775"
+                },
+                "text": "Each"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "626,777 626,837 771,837 771,777"
+                },
+                "text": "enzyme"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "798,775 798,835 897,835 897,775"
+                },
+                "text": "assay"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "924,777 924,837 991,837 991,777"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "1013,778 1013,838 1128,838 1128,778"
+                },
+                "text": "linked"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1154,778 1154,838 1185,838 1185,778"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1206,778 1206,838 1258,838 1258,778"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1285,778 1285,838 1462,838 1462,778"
+                },
+                "text": "oxidation"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1489,778 1489,838 1530,838 1530,778"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1546,779 1546,839 1724,839 1724,779"
+                },
+                "text": "reduction"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1756,779 1756,839 1792,839 1792,779"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1813,779 1813,839 1818,839 1818,779"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1844,778 1844,838 2006,838 2006,778"
+                },
+                "text": "pyridine"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "355,950 2143,954 2125,884 1817,859 1733,900 1346,865 1298,897 355,886"
+            },
+            "baseline": {
+              "points": "367,925 456,928 545,928 634,928 723,928 812,931 901,931 990,928 1079,931 1168,931 1258,928 1347,931 1436,934 1525,934 1614,934 1703,934 1792,934 1881,934 1970,934 2059,934 2149,931"
+            },
+            "text": "nucleotide cofactor, either NADH or NADP+ Enzymatic rates were determined based",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "361,888 361,948 561,948 561,888"
+                },
+                "text": "nucleotide"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "584,888 584,948 763,948 763,888"
+                },
+                "text": "cofactor,"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "780,891 780,951 888,951 888,891"
+                },
+                "text": "either"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "905,888 905,948 1030,948 1030,888"
+                },
+                "text": "NADH"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1069,891 1069,951 1106,951 1106,891"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1123,889 1123,949 1275,949 1275,889"
+                },
+                "text": "NADP+"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1325,893 1325,953 1530,953 1530,893"
+                },
+                "text": "Enzymatic"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1559,894 1559,954 1645,954 1645,894"
+                },
+                "text": "rates"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1668,894 1668,954 1754,954 1754,894"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1782,894 1782,954 1994,954 1994,894"
+                },
+                "text": "determined"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "2021,893 2021,953 2124,953 2124,893"
+                },
+                "text": "based"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "360,1050 1130,1098 1300,1061 1788,1064 1831,1107 2059,1075 2059,998 2018,988 360,1002"
+            },
+            "baseline": {
+              "points": "373,1041 457,1044 542,1044 626,1044 711,1044 796,1044 880,1044 965,1047 1049,1044 1134,1047 1219,1047 1303,1047 1388,1047 1472,1047 1557,1047 1642,1047 1726,1047 1811,1047 1895,1047 1980,1047 2065,1047"
+            },
+            "text": "on change in absorbance of the pyridine nucleotide molecule at 340 nm. Net initial",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "365,1001 365,1061 402,1061 402,1001"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "429,1004 429,1064 560,1064 560,1004"
+                },
+                "text": "change"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "588,1004 588,1064 613,1064 613,1004"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "640,1004 640,1064 857,1064 857,1004"
+                },
+                "text": "absorbance"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "884,1004 884,1064 920,1064 920,1004"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "937,1006 937,1066 984,1066 984,1006"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1011,1005 1011,1065 1163,1065 1163,1005"
+                },
+                "text": "pyridine"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1190,1007 1190,1067 1391,1067 1391,1007"
+                },
+                "text": "nucleotide"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1413,1007 1413,1067 1587,1067 1587,1007"
+                },
+                "text": "molecule"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1614,1007 1614,1067 1645,1067 1645,1007"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1661,1007 1661,1067 1724,1067 1724,1007"
+                },
+                "text": "340"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1751,1007 1751,1067 1825,1067 1825,1007"
+                },
+                "text": "nm."
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1852,1007 1852,1067 1925,1067 1925,1007"
+                },
+                "text": "Net"
+              },
+              {
+                "id": "tr_1_tl_7_w14",
+                "coords": {
+                  "points": "1942,1007 1942,1067 2057,1067 2057,1007"
+                },
+                "text": "initial"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "358,1184 938,1212 1141,1173 1524,1218 1667,1173 1950,1218 2006,1200 2004,1121 355,1123"
+            },
+            "baseline": {
+              "points": "370,1158 456,1161 542,1161 628,1161 715,1161 801,1161 887,1163 973,1164 1060,1164 1146,1164 1232,1164 1318,1164 1405,1164 1491,1164 1577,1164 1663,1164 1750,1164 1836,1164 1922,1164 2009,1167"
+            },
+            "text": "reaction rates are reported (averaged triplicates - control). Any linking enzymes",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "356,1120 356,1180 511,1180 511,1120"
+                },
+                "text": "reaction"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "540,1121 540,1181 629,1181 629,1121"
+                },
+                "text": "rates"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "646,1121 646,1181 696,1181 696,1121"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "725,1121 725,1181 880,1181 880,1121"
+                },
+                "text": "reported"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "909,1124 909,1184 1093,1184 1093,1124"
+                },
+                "text": "(averaged"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1121,1124 1121,1184 1311,1184 1311,1124"
+                },
+                "text": "triplicates"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1334,1124 1334,1184 1344,1184 1344,1124"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1373,1124 1373,1184 1545,1184 1545,1124"
+                },
+                "text": "control)."
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1557,1124 1557,1184 1635,1184 1635,1124"
+                },
+                "text": "Any"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1658,1124 1658,1184 1791,1184 1791,1124"
+                },
+                "text": "linking"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1820,1124 1820,1184 1987,1184 1987,1124"
+                },
+                "text": "enzymes"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "355,1296 649,1341 738,1298 1708,1294 1813,1328 1988,1296 2164,1330 2164,1223 355,1248"
+            },
+            "baseline": {
+              "points": "367,1274 457,1274 547,1274 637,1277 727,1277 817,1277 907,1277 997,1280 1087,1280 1177,1280 1267,1280 1357,1280 1447,1280 1537,1280 1627,1280 1717,1280 1807,1280 1897,1280 1987,1281 2077,1283 2167,1283"
+            },
+            "text": "necessary for cofactor coupling were added in excess to ensure that the rate determining",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "355,1234 355,1294 541,1294 541,1234"
+                },
+                "text": "necessary"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "573,1235 573,1295 621,1295 621,1235"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "643,1237 643,1297 802,1297 802,1237"
+                },
+                "text": "cofactor"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "824,1237 824,1297 989,1297 989,1237"
+                },
+                "text": "coupling"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "1016,1240 1016,1300 1101,1300 1101,1240"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1128,1240 1128,1300 1234,1300 1234,1240"
+                },
+                "text": "added"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1262,1240 1262,1300 1288,1300 1288,1240"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1315,1240 1315,1300 1437,1300 1437,1240"
+                },
+                "text": "excess"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1459,1240 1459,1300 1485,1300 1485,1240"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1512,1240 1512,1300 1634,1300 1634,1240"
+                },
+                "text": "ensure"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1661,1240 1661,1300 1730,1300 1730,1240"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1747,1240 1747,1300 1799,1300 1799,1240"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1827,1240 1827,1300 1890,1300 1890,1240"
+                },
+                "text": "rate"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1917,1241 1917,1301 2146,1301 2146,1241"
+                },
+                "text": "determining"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "355,1439 519,1423 558,1451 704,1405 799,1451 1061,1407 1127,1437 1348,1423 1348,1348 355,1346"
+            },
+            "baseline": {
+              "points": "367,1388 416,1391 465,1391 515,1391 564,1391 614,1391 663,1391 712,1391 762,1393 811,1391 861,1394 910,1394 959,1394 1009,1394 1058,1394 1108,1394 1157,1394 1206,1394 1256,1394 1305,1394 1355,1394"
+            },
+            "text": "step of the reaction was the enzyme in question.",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "360,1349 360,1409 426,1409 426,1349"
+                },
+                "text": "step"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "457,1351 457,1411 493,1411 493,1351"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "514,1351 514,1411 564,1411 564,1351"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "586,1351 586,1411 739,1411 739,1351"
+                },
+                "text": "reaction"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "766,1351 766,1411 837,1411 837,1351"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "859,1354 859,1414 909,1414 909,1354"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "936,1354 936,1414 1084,1414 1084,1354"
+                },
+                "text": "enzyme"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1111,1354 1111,1414 1136,1414 1136,1354"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1162,1354 1162,1414 1346,1414 1346,1354"
+                },
+                "text": "question."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "512,1544 1157,1521 1316,1569 1567,1521 1699,1560 2088,1526 2088,1458 1968,1476 1918,1435 512,1451"
+            },
+            "baseline": {
+              "points": "525,1507 603,1504 682,1506 760,1507 839,1507 917,1507 996,1507 1074,1507 1153,1507 1231,1507 1310,1507 1388,1507 1467,1507 1545,1507 1624,1507 1702,1507 1781,1510 1859,1510 1938,1510 2016,1510 2095,1516"
+            },
+            "text": "Since path lengths are unknown for kinetic assays in the 96-well plate reader,",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "518,1465 518,1525 615,1525 615,1465"
+                },
+                "text": "Since"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "643,1465 643,1525 712,1525 712,1465"
+                },
+                "text": "path"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "740,1467 740,1527 880,1527 880,1467"
+                },
+                "text": "lengths"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "897,1467 897,1527 951,1527 951,1467"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "979,1467 979,1527 1152,1527 1152,1467"
+                },
+                "text": "unknown"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1179,1467 1179,1527 1233,1527 1233,1467"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1250,1467 1250,1527 1375,1527 1375,1467"
+                },
+                "text": "kinetic"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1403,1467 1403,1527 1521,1527 1521,1467"
+                },
+                "text": "assays"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1544,1467 1544,1527 1565,1527 1565,1467"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1592,1467 1592,1527 1646,1527 1646,1467"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1668,1468 1668,1528 1820,1528 1820,1468"
+                },
+                "text": "96-well"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1836,1470 1836,1530 1928,1530 1928,1470"
+                },
+                "text": "plate"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1950,1470 1950,1530 2085,1530 2085,1470"
+                },
+                "text": "reader,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "360,1649 2191,1651 2191,1583 1986,1556 1802,1592 360,1576"
+            },
+            "baseline": {
+              "points": "373,1618 464,1621 555,1621 646,1621 737,1621 828,1621 919,1621 1010,1624 1101,1622 1192,1621 1283,1623 1374,1624 1465,1624 1556,1624 1647,1624 1738,1624 1829,1624 1920,1624 2011,1624 2102,1625 2194,1627"
+            },
+            "text": "conventional International units (micromoles of substrate converted per unit time) cannot",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "365,1581 365,1641 625,1641 625,1581"
+                },
+                "text": "conventional"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "641,1581 641,1641 896,1641 896,1581"
+                },
+                "text": "International"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "918,1582 918,1642 1008,1642 1008,1582"
+                },
+                "text": "units"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "1030,1581 1030,1641 1274,1641 1274,1581"
+                },
+                "text": "(micromoles"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1302,1583 1302,1643 1338,1643 1338,1583"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1355,1584 1355,1644 1524,1644 1524,1584"
+                },
+                "text": "substrate"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1551,1584 1551,1644 1737,1644 1737,1584"
+                },
+                "text": "converted"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1764,1584 1764,1644 1822,1644 1822,1584"
+                },
+                "text": "per"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1844,1584 1844,1644 1913,1644 1913,1584"
+                },
+                "text": "unit"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1929,1584 1929,1644 2035,1644 2035,1584"
+                },
+                "text": "time)"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "2057,1585 2057,1645 2183,1645 2183,1585"
+                },
+                "text": "cannot"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "364,1754 2006,1779 2006,1692 1943,1681 364,1683"
+            },
+            "baseline": {
+              "points": "376,1734 457,1734 539,1734 621,1734 703,1735 785,1737 866,1737 948,1737 1030,1737 1112,1737 1194,1737 1275,1740 1357,1737 1439,1737 1521,1738 1603,1739 1684,1739 1766,1740 1848,1740 1930,1738 2012,1734"
+            },
+            "text": "be determined. Instead, initial reaction rates are reported as time averaged milli\u00ac",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "369,1694 369,1754 403,1754 403,1694"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "429,1694 429,1754 670,1754 670,1694"
+                },
+                "text": "determined."
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "696,1696 696,1756 856,1756 856,1696"
+                },
+                "text": "Instead,"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "872,1697 872,1757 982,1757 982,1697"
+                },
+                "text": "initial"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "998,1697 998,1757 1148,1757 1148,1697"
+                },
+                "text": "reaction"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1179,1698 1179,1758 1264,1758 1264,1698"
+                },
+                "text": "rates"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1285,1698 1285,1758 1335,1758 1335,1698"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1360,1697 1360,1757 1516,1757 1516,1697"
+                },
+                "text": "reported"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1542,1698 1542,1758 1571,1758 1571,1698"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1592,1699 1592,1759 1672,1759 1672,1699"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1698,1700 1698,1760 1869,1760 1869,1700"
+                },
+                "text": "averaged"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1894,1697 1894,1757 1999,1757 1999,1697"
+                },
+                "text": "milli\u00ac"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "358,1856 740,1899 1984,1881 1984,1822 1918,1797 358,1799"
+            },
+            "baseline": {
+              "points": "370,1850 450,1847 531,1850 612,1850 693,1850 774,1850 855,1850 936,1850 1017,1850 1098,1851 1179,1850 1259,1853 1340,1850 1421,1850 1502,1853 1583,1850 1664,1853 1745,1853 1826,1852 1907,1852 1988,1853"
+            },
+            "text": "Aborbance (in Opitical Density Units) /min. All rates are normalized to protein",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "358,1807 358,1867 566,1867 566,1807"
+                },
+                "text": "Aborbance"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "594,1810 594,1870 637,1870 637,1810"
+                },
+                "text": "(in"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "665,1810 665,1870 824,1870 824,1810"
+                },
+                "text": "Opitical"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "841,1810 841,1870 988,1870 988,1810"
+                },
+                "text": "Density"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "1016,1810 1016,1870 1136,1870 1136,1810"
+                },
+                "text": "Units)"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1159,1811 1159,1871 1263,1871 1263,1811"
+                },
+                "text": "/min."
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1275,1811 1275,1871 1340,1871 1340,1811"
+                },
+                "text": "All"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1351,1810 1351,1870 1444,1870 1444,1810"
+                },
+                "text": "rates"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1466,1812 1466,1872 1515,1872 1515,1812"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1543,1812 1543,1872 1757,1872 1757,1812"
+                },
+                "text": "normalized"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1785,1812 1785,1872 1811,1872 1811,1812"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1839,1812 1839,1872 1970,1872 1970,1812"
+                },
+                "text": "protein"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "364,1997 2047,1988 2047,1931 1952,1911 364,1934"
+            },
+            "baseline": {
+              "points": "376,1964 459,1967 543,1966 627,1967 711,1967 795,1967 879,1967 962,1967 1046,1967 1130,1967 1214,1967 1298,1964 1382,1965 1466,1967 1549,1967 1633,1967 1717,1970 1801,1970 1885,1970 1969,1970 2053,1973"
+            },
+            "text": "concentration in homogenates, as determined by Coomassie Protein Assay (Pierce,",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "370,1926 370,1986 635,1986 635,1926"
+                },
+                "text": "concentration"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "662,1927 662,1987 683,1987 683,1927"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "711,1927 711,1987 987,1987 987,1927"
+                },
+                "text": "homogenates,"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "1004,1927 1004,1987 1041,1987 1041,1927"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1058,1927 1058,1987 1274,1987 1274,1927"
+                },
+                "text": "determined"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1302,1924 1302,1984 1334,1984 1334,1924"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1362,1927 1362,1987 1573,1987 1573,1927"
+                },
+                "text": "Coomassie"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1601,1928 1601,1988 1730,1988 1730,1928"
+                },
+                "text": "Protein"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1758,1930 1758,1990 1871,1990 1871,1930"
+                },
+                "text": "Assay"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1899,1930 1899,1990 2050,1990 2050,1930"
+                },
+                "text": "(Pierce,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "360,2118 740,2102 906,2127 1036,2100 1173,2129 1173,2027 982,2052 811,2018 435,2052 360,2025"
+            },
+            "baseline": {
+              "points": "373,2080 413,2080 453,2082 493,2083 534,2081 574,2081 614,2083 655,2083 695,2083 735,2083 776,2083 816,2083 856,2083 896,2083 937,2083 977,2083 1017,2083 1058,2083 1098,2083 1138,2083 1179,2086"
+            },
+            "text": "Rockford, II.) using BSA as a standard.",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "367,2042 367,2102 571,2102 571,2042"
+                },
+                "text": "Rockford,"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "584,2042 584,2102 642,2102 642,2042"
+                },
+                "text": "II.)"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "660,2043 660,2103 753,2103 753,2043"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "783,2043 783,2103 859,2103 859,2043"
+                },
+                "text": "BSA"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "894,2043 894,2103 929,2103 929,2043"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "954,2043 954,2103 965,2103 965,2043"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "989,2043 989,2103 1169,2103 1169,2043"
+                },
+                "text": "standard."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "358,2214 403,2237 624,2218 651,2237 797,2221 970,2243 970,2157 927,2145 829,2166 578,2132 547,2157 358,2118"
+            },
+            "baseline": {
+              "points": "370,2194 400,2196 430,2198 460,2200 490,2200 520,2200 550,2200 581,2198 611,2198 641,2200 671,2200 701,2200 731,2200 761,2200 792,2199 822,2197 852,2199 882,2200 912,2200 942,2198 973,2200"
+            },
+            "text": "Fructose-2,6-bisphosphate:",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "364,2160 364,2220 961,2220 961,2160"
+                },
+                "text": "Fructose-2,6-bisphosphate:"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "501,2325 1945,2337 2022,2371 2184,2341 2184,2268 2004,2248 501,2268"
+            },
+            "baseline": {
+              "points": "513,2310 596,2310 680,2310 764,2310 848,2311 931,2313 1015,2313 1099,2313 1183,2313 1266,2313 1350,2313 1434,2313 1518,2313 1601,2313 1685,2313 1769,2313 1853,2313 1936,2313 2020,2315 2104,2313 2188,2313"
+            },
+            "text": "Tassayed white muscle, liver, brain, and heart, for concentrations of fructose-2,6,-",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "506,2270 506,2330 678,2330 678,2270"
+                },
+                "text": "Tassayed"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "704,2270 704,2330 805,2330 805,2270"
+                },
+                "text": "white"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "831,2272 831,2332 988,2332 988,2272"
+                },
+                "text": "muscle,"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "1004,2273 1004,2333 1105,2333 1105,2273"
+                },
+                "text": "liver,"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1121,2273 1121,2333 1237,2333 1237,2273"
+                },
+                "text": "brain,"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1253,2273 1253,2333 1313,2333 1313,2273"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1339,2273 1339,2333 1450,2333 1450,2273"
+                },
+                "text": "heart,"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1466,2273 1466,2333 1521,2333 1521,2273"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1537,2273 1537,2333 1826,2333 1826,2273"
+                },
+                "text": "concentrations"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1852,2273 1852,2333 1887,2333 1887,2273"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1908,2274 1908,2334 2177,2334 2177,2274"
+                },
+                "text": "fructose-2,6,-"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "355,2451 2164,2467 2161,2394 2020,2369 353,2369"
+            },
+            "baseline": {
+              "points": "367,2424 457,2424 547,2424 637,2427 727,2424 817,2424 907,2427 997,2430 1087,2427 1177,2430 1267,2427 1357,2427 1447,2427 1537,2427 1627,2427 1717,2430 1807,2430 1897,2430 1987,2430 2077,2430 2167,2427"
+            },
+            "text": "bisphosphate (F-2,6-BP). The standard protocol for the F-2,6-BP assay, which measures",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "359,2384 359,2444 615,2444 615,2384"
+                },
+                "text": "bisphosphate"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "638,2384 638,2444 877,2444 877,2384"
+                },
+                "text": "(F-2,6-BP)."
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "889,2387 889,2447 955,2447 955,2387"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "978,2387 978,2447 1140,2447 1140,2387"
+                },
+                "text": "standard"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1169,2387 1169,2447 1329,2447 1329,2387"
+                },
+                "text": "protocol"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1347,2387 1347,2447 1402,2447 1402,2387"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1419,2387 1419,2447 1469,2447 1469,2387"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1492,2387 1492,2447 1670,2447 1670,2387"
+                },
+                "text": "F-2,6-BP"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1699,2390 1699,2450 1816,2450 1816,2390"
+                },
+                "text": "assay,"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1833,2390 1833,2450 1944,2450 1944,2390"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1972,2390 1972,2450 2155,2450 2155,2390"
+                },
+                "text": "measures"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "360,2562 615,2603 692,2564 998,2587 1148,2553 2004,2592 2002,2501 358,2505"
+            },
+            "baseline": {
+              "points": "373,2540 454,2540 536,2540 618,2540 700,2540 782,2543 863,2543 945,2543 1027,2543 1109,2544 1191,2545 1272,2546 1354,2546 1436,2544 1518,2543 1600,2544 1681,2546 1763,2546 1845,2546 1927,2546 2009,2546"
+            },
+            "text": "the stimulatory effect of tissue extract on potato tuber pyrophosphate-dependent",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "363,2500 363,2560 411,2560 411,2500"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "438,2500 438,2560 655,2560 655,2500"
+                },
+                "text": "stimulatory"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "682,2501 682,2561 793,2561 793,2501"
+                },
+                "text": "effect"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "815,2503 815,2563 852,2563 852,2503"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "868,2503 868,2563 970,2563 970,2503"
+                },
+                "text": "tissue"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "997,2503 997,2563 1134,2563 1134,2503"
+                },
+                "text": "extract"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1151,2504 1151,2564 1187,2564 1187,2504"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1215,2505 1215,2565 1326,2565 1326,2505"
+                },
+                "text": "potato"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1353,2504 1353,2564 1448,2564 1448,2504"
+                },
+                "text": "tuber"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1471,2506 1471,2566 1991,2566 1991,2506"
+                },
+                "text": "pyrophosphate-dependent"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "355,2685 2073,2706 2073,2628 1961,2603 355,2624"
+            },
+            "baseline": {
+              "points": "367,2663 452,2657 538,2657 623,2658 709,2658 794,2660 880,2660 965,2660 1051,2660 1136,2660 1222,2660 1307,2660 1393,2660 1478,2660 1564,2660 1649,2660 1735,2661 1820,2661 1906,2663 1991,2663 2077,2660"
+            },
+            "text": "phosphofructokinase (Bergmeyer, 1984), was modified for the microplate reader by",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "360,2617 360,2677 774,2677 774,2617"
+                },
+                "text": "phosphofructokinase"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "796,2620 796,2680 1050,2680 1050,2620"
+                },
+                "text": "(Bergmeyer,"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "1072,2620 1072,2680 1199,2680 1199,2620"
+                },
+                "text": "1984),"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "1210,2620 1210,2680 1279,2680 1279,2620"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1301,2620 1301,2680 1470,2680 1470,2620"
+                },
+                "text": "modified"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1503,2620 1503,2680 1550,2680 1550,2620"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1572,2620 1572,2680 1619,2680 1619,2620"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1646,2621 1646,2681 1853,2681 1853,2621"
+                },
+                "text": "microplate"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1880,2623 1880,2683 2002,2683 2002,2623"
+                },
+                "text": "reader"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "2018,2621 2018,2681 2055,2681 2055,2621"
+                },
+                "text": "by"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

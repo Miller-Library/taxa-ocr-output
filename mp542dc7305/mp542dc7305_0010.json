@@ -1,0 +1,2700 @@
+{
+  "processId": 10341575,
+  "status": "FINISHED",
+  "content": {
+    "text": "Blazyk 10\nTo examine the relationship between genetic variation within and between populations,\ncalculated Fsr values. To obtain an Fsr for two or more populations, the ratio between average\ngenetic variation within populations and between populations is subtracted from 1. If there is a\nlarge difference between populations compared to within, the Fsr will approach 1, while if two\npopulations are not genetically different, Fsr will be approximately 0. In this study, comparing\nall seven populations produced a negative Fsr (not statistically different from zero), which\nindicates that there is a high level of gene flow between the populations.\n1 thought that this might be a result of some populations obscuring differences in others,\nso I decided to calculate pairwise Fsr values for all sets of locations. The majority of these were\nnegative, except the values between the Oregon populations and the other locations. This led me\nto believe that there might be a correlation between Fsr and geographic distance between\npopulations. Strawberry Hill, Oregon is much farther from the other locations than they are from\none another. Indeed, when I graphed pairwise Fsr values against distance and ran a linear\nregression, there was a significant positive slope, both when 1 included negative values of Fsr\nand when I changed the negative values to zero (which should be the minimum value of Fsr).\nBy examining the slope of the regression lines on the plots of Fsr versus distance, it is\npossible to estimate the average dispersal distance of that species. In both Fig. 6 and Fig. 7, the\nFsr is about 0.04 at a distance of 1000km. I compared this value to a calibration graph (Palumbi\n2003), which predicted a mean larval dispersal of about 40 kilometers. This value is much less\nthan the hypothetical maximum (over 120 km), which may suggest that factors other than the\nCalifornia current affect dispersal.\nThe graphs of Fsr versus distance indicate that although there may be a fairly high level\nof gene flow along the American west coast (based on the fairly homogenous phylogenetic trees",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "280,120 280,2903 2274,2903 2274,120"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "2041,190 2098,200 2108,210 2174,202 2189,187 2218,212 2268,195 2268,145 2253,145 2221,116 2182,145 2152,121 2113,131 2088,116 2073,131 2041,131"
+            },
+            "baseline": {
+              "points": "2054,176 2081,178 2109,179 2136,179 2164,179 2191,179 2219,179 2246,178 2274,176"
+            },
+            "text": "Blazyk 10",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "2046,138 2046,198 2166,198 2166,138"
+                },
+                "text": "Blazyk"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "2214,138 2214,198 2255,198 2255,138"
+                },
+                "text": "10"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "422,343 535,380 693,348 836,402 1003,350 1200,394 1356,348 1654,394 1726,362 2223,394 2223,274 1945,306 1841,261 1713,306 1679,271 1531,306 1385,274 1351,308 1277,274 1237,308 865,259 776,306 557,271 503,311 422,271"
+            },
+            "baseline": {
+              "points": "435,337 524,337 614,340 704,337 794,337 883,337 973,340 1063,337 1153,340 1242,340 1332,340 1422,340 1512,337 1601,337 1691,340 1781,337 1871,337 1960,337 2050,340 2140,340 2230,340"
+            },
+            "text": "To examine the relationship between genetic variation within and between populations,",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "421,297 421,357 460,357 460,297"
+                },
+                "text": "To"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "491,298 491,358 648,358 648,298"
+                },
+                "text": "examine"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "673,297 673,357 722,357 722,297"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "747,297 747,357 975,357 975,297"
+                },
+                "text": "relationship"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1005,297 1005,357 1158,357 1158,297"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1188,300 1188,360 1321,360 1321,300"
+                },
+                "text": "genetic"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1346,299 1346,359 1509,359 1509,299"
+                },
+                "text": "variation"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1540,297 1540,357 1653,357 1653,297"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1683,299 1683,359 1742,359 1742,299"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1767,297 1767,357 1925,357 1925,297"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1950,300 1950,360 2202,360 2202,300"
+                },
+                "text": "populations,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "266,493 587,461 1092,513 1338,468 1449,518 1523,473 2199,476 2199,409 2149,394 1420,422 1085,382 695,424 651,387 266,380"
+            },
+            "baseline": {
+              "points": "280,450 376,453 472,450 568,448 665,451 761,452 857,453 954,453 1050,450 1146,450 1243,450 1339,453 1435,450 1531,453 1628,453 1724,453 1820,452 1917,450 2013,453 2109,453 2206,450"
+            },
+            "text": "calculated Fsr values. To obtain an Fsr for two or more populations, the ratio between average",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "270,412 270,472 461,472 461,412"
+                },
+                "text": "calculated"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "491,409 491,469 548,469 548,409"
+                },
+                "text": "Fsr"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "573,410 573,470 707,470 707,410"
+                },
+                "text": "values."
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "736,411 736,471 779,471 779,411"
+                },
+                "text": "To"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "808,413 808,473 919,473 919,413"
+                },
+                "text": "obtain"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "948,412 948,472 981,472 981,412"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1010,410 1010,470 1067,470 1067,410"
+                },
+                "text": "Fsr"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1093,410 1093,470 1145,470 1145,410"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1160,410 1160,470 1226,470 1226,410"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1251,410 1251,470 1289,470 1289,410"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1304,412 1304,472 1400,472 1400,412"
+                },
+                "text": "more"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1424,413 1424,473 1669,473 1669,413"
+                },
+                "text": "populations,"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1684,413 1684,473 1736,473 1736,413"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "1761,412 1761,472 1842,472 1842,412"
+                },
+                "text": "ratio"
+              },
+              {
+                "id": "tr_1_tl_3_w15",
+                "coords": {
+                  "points": "1867,410 1867,470 2020,470 2020,410"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_3_w16",
+                "coords": {
+                  "points": "2050,412 2050,472 2193,472 2193,412"
+                },
+                "text": "average"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "276,626 1176,579 1265,619 1417,579 1583,579 1647,624 1923,579 1977,619 2209,624 2209,535 2142,505 1602,537 1548,503 1050,530 954,495 868,532 730,495 606,537 276,535"
+            },
+            "baseline": {
+              "points": "289,570 385,567 481,567 577,567 674,567 770,567 866,570 963,570 1059,570 1155,568 1252,570 1348,567 1444,570 1540,567 1637,567 1733,569 1829,567 1926,570 2022,569 2118,570 2215,567"
+            },
+            "text": "genetic variation within populations and between populations is subtracted from 1. If there is a",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "275,528 275,588 408,588 408,528"
+                },
+                "text": "genetic"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "433,527 433,587 600,587 600,527"
+                },
+                "text": "variation"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "625,527 625,587 738,587 738,527"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "768,530 768,590 995,590 995,530"
+                },
+                "text": "populations"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "1020,530 1020,590 1078,590 1078,530"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1104,528 1104,588 1261,588 1261,528"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1286,528 1286,588 1512,588 1512,528"
+                },
+                "text": "populations"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1537,527 1537,587 1556,587 1556,527"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1582,527 1582,587 1779,587 1779,527"
+                },
+                "text": "subtracted"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1804,527 1804,587 1877,587 1877,527"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1918,529 1918,589 1951,589 1951,529"
+                },
+                "text": "1."
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1982,529 1982,589 2011,589 2011,529"
+                },
+                "text": "If"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "2026,529 2026,589 2114,589 2114,529"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "2139,528 2139,588 2163,588 2163,528"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_4_w15",
+                "coords": {
+                  "points": "2188,527 2188,587 2198,587 2198,527"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "274,742 599,710 769,754 1094,740 1186,695 1447,740 1516,700 2199,717 2199,641 2120,631 274,626"
+            },
+            "baseline": {
+              "points": "286,683 382,683 478,683 574,682 670,682 766,683 862,683 958,686 1054,686 1150,686 1246,683 1342,683 1438,684 1534,683 1630,683 1726,683 1822,686 1918,685 2014,683 2110,681 2206,683"
+            },
+            "text": "large difference between populations compared to within, the Fsr will approach 1, while if two",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "279,643 279,703 366,703 366,643"
+                },
+                "text": "large"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "392,642 392,702 583,702 583,642"
+                },
+                "text": "difference"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "609,642 609,702 763,702 763,642"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "790,644 790,704 1016,704 1016,644"
+                },
+                "text": "populations"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "1037,646 1037,706 1228,706 1228,646"
+                },
+                "text": "compared"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1254,643 1254,703 1279,703 1279,643"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1306,643 1306,703 1444,703 1444,643"
+                },
+                "text": "within,"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1460,643 1460,703 1506,703 1506,643"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1533,643 1533,703 1594,703 1594,643"
+                },
+                "text": "Fsr"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1615,643 1615,703 1687,703 1687,643"
+                },
+                "text": "will"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1703,645 1703,705 1878,705 1878,645"
+                },
+                "text": "approach"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1904,644 1904,704 1940,704 1940,644"
+                },
+                "text": "1,"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1956,643 1956,703 2053,703 2053,643"
+                },
+                "text": "while"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "2080,641 2080,701 2105,701 2105,641"
+                },
+                "text": "if"
+              },
+              {
+                "id": "tr_1_tl_5_w15",
+                "coords": {
+                  "points": "2121,641 2121,701 2182,701 2182,641"
+                },
+                "text": "two"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "274,841 572,811 831,868 922,821 1329,860 1430,821 1945,858 2024,816 2211,826 2211,747 2142,744 274,749"
+            },
+            "baseline": {
+              "points": "286,806 382,800 479,800 575,800 672,798 769,800 865,800 962,800 1058,800 1155,799 1252,800 1348,800 1445,800 1541,800 1638,797 1735,800 1831,800 1928,800 2024,800 2121,800 2218,806"
+            },
+            "text": "populations are not genetically different, Fsr will be approximately 0. In this study, comparing",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "279,760 279,820 505,820 505,760"
+                },
+                "text": "populations"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "527,760 527,820 578,820 578,760"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "604,758 604,818 665,818 665,758"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "682,760 682,820 887,820 887,760"
+                },
+                "text": "genetically"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "914,760 914,820 1099,820 1099,760"
+                },
+                "text": "different,"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1115,759 1115,819 1177,819 1177,759"
+                },
+                "text": "Fsr"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1198,759 1198,819 1269,819 1269,759"
+                },
+                "text": "will"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1286,760 1286,820 1321,820 1321,760"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1347,760 1347,820 1626,820 1626,760"
+                },
+                "text": "approximately"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1652,757 1652,817 1688,817 1688,757"
+                },
+                "text": "0."
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1714,759 1714,819 1744,819 1744,759"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1771,760 1771,820 1832,820 1832,760"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1859,760 1859,820 1977,820 1977,760"
+                },
+                "text": "study,"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1993,760 1993,820 2193,820 2193,760"
+                },
+                "text": "comparing"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "266,949 2113,932 2113,850 1831,878 1740,838 1696,875 1499,838 1415,882 266,873"
+            },
+            "baseline": {
+              "points": "280,913 376,910 473,912 570,911 667,913 763,913 860,916 957,916 1054,913 1151,913 1247,915 1344,916 1441,916 1538,913 1635,913 1731,914 1828,916 1925,915 2022,913 2119,913"
+            },
+            "text": "all seven populations produced a negative Fsr (not statistically different from zero), which",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "271,872 271,932 321,932 321,872"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "336,870 336,930 437,930 437,870"
+                },
+                "text": "seven"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "463,871 463,931 690,931 690,871"
+                },
+                "text": "populations"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "711,874 711,934 887,934 887,874"
+                },
+                "text": "produced"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "918,876 918,936 927,936 927,876"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "948,873 948,933 1109,933 1109,873"
+                },
+                "text": "negative"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1135,873 1135,933 1196,933 1196,873"
+                },
+                "text": "Fsr"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1217,875 1217,935 1292,935 1292,875"
+                },
+                "text": "(not"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1308,876 1308,936 1530,936 1530,876"
+                },
+                "text": "statistically"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1556,873 1556,933 1727,933 1727,873"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1743,874 1743,934 1813,934 1813,874"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1854,875 1854,935 1970,935 1970,875"
+                },
+                "text": "zero),"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1985,873 1985,933 2091,933 2091,873"
+                },
+                "text": "which"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "274,1075 1750,1060 1716,974 882,961 735,998 409,951 274,984"
+            },
+            "baseline": {
+              "points": "286,1024 359,1027 432,1027 506,1027 579,1028 653,1027 726,1027 800,1028 873,1027 947,1029 1020,1029 1093,1029 1167,1028 1240,1029 1314,1029 1387,1029 1461,1029 1534,1029 1608,1029 1681,1029 1755,1032"
+            },
+            "text": "indicates that there is a high level of gene flow between the populations.",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "274,987 274,1047 445,1047 445,987"
+                },
+                "text": "indicates"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "472,987 472,1047 544,1047 544,987"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "560,987 560,1047 648,1047 648,987"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "675,987 675,1047 695,1047 695,987"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "722,987 722,1047 732,1047 732,987"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "753,987 753,1047 830,1047 830,987"
+                },
+                "text": "high"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "863,987 863,1047 956,1047 956,987"
+                },
+                "text": "level"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "972,989 972,1049 1013,1049 1013,989"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1029,989 1029,1049 1112,1049 1112,989"
+                },
+                "text": "gene"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1139,988 1139,1048 1206,1048 1206,988"
+                },
+                "text": "flow"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1243,989 1243,1049 1399,1049 1399,989"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1425,989 1425,1049 1477,1049 1477,989"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1499,989 1499,1049 1748,1049 1748,989"
+                },
+                "text": "populations."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "417,1163 804,1198 996,1156 1048,1208 1159,1168 1666,1159 1728,1196 1795,1156 1997,1205 2218,1166 2218,1104 2110,1075 1647,1112 417,1099"
+            },
+            "baseline": {
+              "points": "429,1143 518,1143 608,1143 698,1146 788,1146 877,1146 967,1146 1057,1146 1147,1146 1236,1146 1326,1146 1416,1146 1506,1146 1595,1146 1685,1146 1775,1146 1865,1146 1954,1146 2044,1146 2134,1146 2224,1149"
+            },
+            "text": "1 thought that this might be a result of some populations obscuring differences in others,",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "417,1103 417,1163 431,1163 431,1103"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "447,1103 447,1163 599,1163 599,1103"
+                },
+                "text": "thought"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "615,1104 615,1164 691,1164 691,1104"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "707,1106 707,1166 767,1166 767,1106"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "793,1106 793,1166 909,1166 909,1106"
+                },
+                "text": "might"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "925,1106 925,1166 960,1166 960,1106"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "986,1106 986,1166 996,1166 996,1106"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1022,1106 1022,1166 1133,1166 1133,1106"
+                },
+                "text": "result"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1149,1106 1149,1166 1183,1166 1183,1106"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1205,1106 1205,1166 1296,1166 1296,1106"
+                },
+                "text": "some"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1322,1106 1322,1166 1550,1166 1550,1106"
+                },
+                "text": "populations"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1571,1106 1571,1166 1764,1166 1764,1106"
+                },
+                "text": "obscuring"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1790,1106 1790,1166 2008,1166 2008,1106"
+                },
+                "text": "differences"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "2029,1106 2029,1166 2054,1166 2054,1106"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "2080,1106 2080,1166 2216,1166 2216,1106"
+                },
+                "text": "others,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "266,1299 540,1269 813,1314 1213,1272 1324,1316 1733,1272 2226,1324 2226,1228 2007,1200 266,1218"
+            },
+            "baseline": {
+              "points": "280,1259 377,1257 475,1259 572,1259 670,1262 768,1261 865,1262 963,1262 1061,1262 1158,1262 1256,1262 1354,1260 1451,1260 1549,1262 1647,1262 1744,1262 1842,1262 1940,1259 2037,1259 2135,1259 2233,1256"
+            },
+            "text": "so I decided to calculate pairwise Fsr values for all sets of locations. The majority of these were",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "271,1218 271,1278 300,1278 300,1218"
+                },
+                "text": "so"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "326,1217 326,1277 336,1277 336,1217"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "357,1218 357,1278 498,1278 498,1218"
+                },
+                "text": "decided"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "529,1219 529,1279 553,1279 553,1219"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "579,1221 579,1281 745,1281 745,1221"
+                },
+                "text": "calculate"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "772,1221 772,1281 933,1281 933,1221"
+                },
+                "text": "pairwise"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "959,1222 959,1282 1014,1282 1014,1222"
+                },
+                "text": "Fsr"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1040,1222 1040,1282 1156,1282 1156,1222"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1182,1222 1182,1282 1232,1282 1232,1222"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1253,1221 1253,1281 1298,1281 1298,1221"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1314,1220 1314,1280 1379,1280 1379,1220"
+                },
+                "text": "sets"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1405,1220 1405,1280 1445,1280 1445,1220"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1460,1222 1460,1282 1652,1282 1652,1222"
+                },
+                "text": "locations."
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "1683,1222 1683,1282 1749,1282 1749,1222"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_10_w15",
+                "coords": {
+                  "points": "1775,1221 1775,1281 1936,1281 1936,1221"
+                },
+                "text": "majority"
+              },
+              {
+                "id": "tr_1_tl_10_w16",
+                "coords": {
+                  "points": "1962,1219 1962,1279 1997,1279 1997,1219"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w17",
+                "coords": {
+                  "points": "2012,1219 2012,1279 2108,1279 2108,1219"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_10_w18",
+                "coords": {
+                  "points": "2134,1217 2134,1277 2219,1277 2219,1217"
+                },
+                "text": "were"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "274,1405 791,1420 868,1385 1565,1432 1772,1380 1888,1435 2085,1385 2251,1403 2221,1316 1531,1341 1415,1302 1082,1341 720,1297 274,1334"
+            },
+            "baseline": {
+              "points": "286,1373 384,1375 483,1375 581,1373 680,1373 778,1373 877,1373 975,1374 1074,1376 1172,1376 1271,1376 1370,1376 1468,1376 1567,1376 1665,1376 1764,1376 1862,1376 1961,1375 2059,1373 2158,1373 2257,1373"
+            },
+            "text": "negative, except the values between the Oregon populations and the other locations. This led me",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "278,1334 278,1394 459,1394 459,1334"
+                },
+                "text": "negative,"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "474,1333 474,1393 601,1393 601,1333"
+                },
+                "text": "except"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "621,1333 621,1393 670,1393 670,1333"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "695,1333 695,1393 812,1393 812,1333"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "837,1333 837,1393 989,1393 989,1333"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1019,1335 1019,1395 1067,1395 1067,1335"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1092,1336 1092,1396 1229,1396 1229,1336"
+                },
+                "text": "Oregon"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1254,1336 1254,1396 1480,1396 1480,1336"
+                },
+                "text": "populations"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1505,1336 1505,1396 1563,1396 1563,1336"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1588,1336 1588,1396 1641,1396 1641,1336"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1667,1336 1667,1396 1759,1396 1759,1336"
+                },
+                "text": "other"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1779,1335 1779,1395 1970,1395 1970,1335"
+                },
+                "text": "locations."
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "2000,1333 2000,1393 2078,1393 2078,1333"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "2103,1333 2103,1393 2151,1393 2151,1333"
+                },
+                "text": "led"
+              },
+              {
+                "id": "tr_1_tl_11_w15",
+                "coords": {
+                  "points": "2177,1333 2177,1393 2230,1393 2230,1333"
+                },
+                "text": "me"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "266,1538 643,1511 845,1546 1075,1501 1319,1538 1449,1504 2088,1523 2088,1452 2021,1432 1716,1457 1627,1417 1403,1469 495,1415 360,1449 266,1408"
+            },
+            "baseline": {
+              "points": "280,1483 370,1489 461,1489 551,1492 642,1492 733,1492 823,1492 914,1492 1004,1492 1095,1492 1186,1489 1276,1490 1367,1492 1457,1492 1548,1492 1639,1492 1729,1492 1820,1490 1910,1491 2001,1489 2092,1489"
+            },
+            "text": "to believe that there might be a correlation between Fsr and geographic distance between",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "271,1443 271,1503 295,1503 295,1443"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "321,1449 321,1509 457,1509 457,1449"
+                },
+                "text": "believe"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "483,1450 483,1510 553,1510 553,1450"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "569,1452 569,1512 659,1512 659,1452"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "685,1452 685,1512 801,1512 801,1452"
+                },
+                "text": "might"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "817,1452 817,1512 852,1512 852,1452"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "878,1452 878,1512 887,1512 887,1452"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "913,1452 913,1512 1120,1512 1120,1452"
+                },
+                "text": "correlation"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1146,1449 1146,1509 1302,1509 1302,1449"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1328,1451 1328,1511 1388,1511 1388,1451"
+                },
+                "text": "Fsr"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1409,1452 1409,1512 1469,1512 1469,1452"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1495,1452 1495,1512 1707,1512 1707,1452"
+                },
+                "text": "geographic"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1733,1450 1733,1510 1884,1510 1884,1450"
+                },
+                "text": "distance"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "1910,1449 1910,1509 2066,1509 2066,1449"
+                },
+                "text": "between"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "276,1649 2248,1649 2248,1575 2085,1531 1923,1575 276,1536"
+            },
+            "baseline": {
+              "points": "289,1612 387,1608 485,1608 583,1606 682,1606 780,1606 878,1606 976,1609 1075,1609 1173,1609 1271,1606 1369,1608 1468,1606 1566,1607 1664,1609 1762,1606 1861,1606 1959,1606 2057,1606 2155,1606 2254,1603"
+            },
+            "text": "populations. Strawberry Hill, Oregon is much farther from the other locations than they are from",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "276,1568 276,1628 523,1628 523,1568"
+                },
+                "text": "populations."
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "556,1566 556,1626 767,1626 767,1566"
+                },
+                "text": "Strawberry"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "794,1566 794,1626 878,1626 878,1566"
+                },
+                "text": "Hill,"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "894,1568 894,1628 1031,1628 1031,1568"
+                },
+                "text": "Oregon"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "1058,1569 1058,1629 1083,1629 1083,1569"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1105,1569 1105,1629 1205,1629 1205,1569"
+                },
+                "text": "much"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1232,1566 1232,1626 1358,1626 1358,1566"
+                },
+                "text": "farther"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1380,1567 1380,1627 1448,1627 1448,1567"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1491,1566 1491,1626 1538,1626 1538,1566"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1565,1567 1565,1627 1659,1627 1659,1567"
+                },
+                "text": "other"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1681,1566 1681,1626 1855,1626 1855,1566"
+                },
+                "text": "locations"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1877,1566 1877,1626 1950,1626 1950,1566"
+                },
+                "text": "than"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1972,1566 1972,1626 2050,1626 2050,1566"
+                },
+                "text": "they"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "2072,1566 2072,1626 2124,1626 2124,1566"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_13_w15",
+                "coords": {
+                  "points": "2151,1565 2151,1625 2219,1625 2219,1565"
+                },
+                "text": "from"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "266,1758 624,1750 789,1795 1003,1743 1200,1777 1442,1735 1565,1772 2103,1753 2103,1679 2004,1647 1915,1686 1289,1649 1198,1686 964,1656 266,1689"
+            },
+            "baseline": {
+              "points": "280,1719 371,1719 463,1722 554,1719 646,1722 737,1719 829,1722 920,1723 1012,1722 1103,1722 1195,1722 1286,1719 1378,1722 1469,1722 1561,1722 1652,1721 1744,1722 1835,1722 1927,1722 2018,1722 2110,1716"
+            },
+            "text": "one another. Indeed, when I graphed pairwise Fsr values against distance and ran a linear",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "265,1679 265,1739 329,1739 329,1679"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "354,1681 354,1741 517,1741 517,1681"
+                },
+                "text": "another."
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "542,1681 542,1741 694,1741 694,1681"
+                },
+                "text": "Indeed,"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "710,1679 710,1739 803,1739 803,1679"
+                },
+                "text": "when"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "833,1682 833,1742 843,1742 843,1682"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "863,1682 863,1742 1011,1742 1011,1682"
+                },
+                "text": "graphed"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1041,1682 1041,1742 1198,1742 1198,1682"
+                },
+                "text": "pairwise"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1224,1680 1224,1740 1282,1740 1282,1680"
+                },
+                "text": "Fsr"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1303,1681 1303,1741 1420,1741 1420,1681"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1446,1682 1446,1742 1588,1742 1588,1682"
+                },
+                "text": "against"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1604,1681 1604,1741 1756,1741 1756,1681"
+                },
+                "text": "distance"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1782,1682 1782,1742 1845,1742 1845,1682"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1870,1682 1870,1742 1919,1742 1919,1682"
+                },
+                "text": "ran"
+              },
+              {
+                "id": "tr_1_tl_14_w14",
+                "coords": {
+                  "points": "1950,1682 1950,1742 1959,1742 1959,1682"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_14_w15",
+                "coords": {
+                  "points": "1984,1680 1984,1740 2092,1740 2092,1680"
+                },
+                "text": "linear"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "266,1903 407,1903 486,1854 663,1905 826,1905 922,1856 1237,1898 1393,1844 1536,1898 1743,1859 1799,1901 1881,1859 2066,1891 2179,1854 2179,1799 2085,1760 1903,1799 1462,1797 1408,1760 976,1804 266,1787"
+            },
+            "baseline": {
+              "points": "280,1836 375,1836 470,1836 565,1836 661,1836 756,1836 851,1836 946,1839 1042,1839 1137,1836 1232,1837 1327,1836 1423,1836 1518,1836 1613,1836 1708,1836 1804,1836 1899,1836 1994,1836 2089,1836 2185,1839"
+            },
+            "text": "regression, there was a significant positive slope, both when 1 included negative values of Fsr",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "270,1796 270,1856 487,1856 487,1796"
+                },
+                "text": "regression,"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "502,1796 502,1856 595,1856 595,1796"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "621,1796 621,1856 690,1856 690,1796"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "710,1796 710,1856 719,1856 719,1796"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "745,1796 745,1856 956,1856 956,1796"
+                },
+                "text": "significant"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "972,1798 972,1858 1120,1858 1120,1798"
+                },
+                "text": "positive"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1150,1796 1150,1856 1263,1856 1263,1796"
+                },
+                "text": "slope,"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1283,1796 1283,1856 1357,1856 1357,1796"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1382,1796 1382,1856 1481,1856 1481,1796"
+                },
+                "text": "when"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1506,1796 1506,1856 1520,1856 1520,1796"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1536,1796 1536,1856 1698,1856 1698,1796"
+                },
+                "text": "included"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1728,1796 1728,1856 1886,1856 1886,1796"
+                },
+                "text": "negative"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1911,1796 1911,1856 2029,1856 2029,1796"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "2055,1796 2055,1856 2089,1856 2089,1796"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w15",
+                "coords": {
+                  "points": "2109,1797 2109,1857 2168,1857 2168,1797"
+                },
+                "text": "Fsr"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "266,1997 2167,1987 2167,1888 2080,1878 1925,1915 266,1908"
+            },
+            "baseline": {
+              "points": "280,1952 374,1949 469,1951 563,1952 658,1952 753,1951 847,1952 942,1950 1037,1952 1131,1952 1226,1952 1321,1950 1415,1952 1510,1952 1605,1952 1699,1952 1794,1952 1889,1949 1983,1949 2078,1952 2173,1952"
+            },
+            "text": "and when I changed the negative values to zero (which should be the minimum value of Fsr).",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "271,1911 271,1971 331,1971 331,1911"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "357,1909 357,1969 452,1969 452,1909"
+                },
+                "text": "when"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "478,1911 478,1971 492,1971 492,1911"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "508,1912 508,1972 664,1972 664,1912"
+                },
+                "text": "changed"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "690,1911 690,1971 740,1971 740,1911"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "766,1911 766,1971 922,1971 922,1911"
+                },
+                "text": "negative"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "953,1911 953,1971 1068,1971 1068,1911"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1094,1912 1094,1972 1119,1972 1119,1912"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1145,1912 1145,1972 1215,1972 1215,1912"
+                },
+                "text": "zero"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1246,1910 1246,1970 1372,1970 1372,1910"
+                },
+                "text": "(which"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1398,1912 1398,1972 1518,1972 1518,1912"
+                },
+                "text": "should"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1544,1912 1544,1972 1584,1972 1584,1912"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1610,1912 1610,1972 1655,1972 1655,1912"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "1681,1912 1681,1972 1852,1972 1852,1912"
+                },
+                "text": "minimum"
+              },
+              {
+                "id": "tr_1_tl_16_w15",
+                "coords": {
+                  "points": "1893,1909 1893,1969 1988,1969 1988,1909"
+                },
+                "text": "value"
+              },
+              {
+                "id": "tr_1_tl_16_w16",
+                "coords": {
+                  "points": "2014,1910 2014,1970 2054,1970 2054,1910"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w17",
+                "coords": {
+                  "points": "2070,1912 2070,1972 2165,1972 2165,1912"
+                },
+                "text": "Fsr)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "419,2073 663,2115 1220,2088 1331,2132 1620,2078 1945,2113 2179,2085 2179,1999 1999,2034 1228,2034 1146,1999 1053,2034 1001,1999 419,2026"
+            },
+            "baseline": {
+              "points": "432,2065 519,2063 607,2065 694,2065 782,2065 870,2067 957,2067 1045,2068 1133,2066 1220,2068 1308,2067 1396,2066 1483,2065 1571,2065 1659,2065 1746,2063 1834,2065 1922,2065 2009,2065 2097,2068 2185,2059"
+            },
+            "text": "By examining the slope of the regression lines on the plots of Fsr versus distance, it is",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "419,2024 419,2084 470,2084 470,2024"
+                },
+                "text": "By"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "492,2024 492,2084 693,2084 693,2024"
+                },
+                "text": "examining"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "721,2025 721,2085 772,2085 772,2025"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "793,2026 793,2086 891,2086 891,2026"
+                },
+                "text": "slope"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "918,2027 918,2087 954,2087 954,2027"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "975,2027 975,2087 1022,2087 1022,2027"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1049,2026 1049,2086 1240,2086 1240,2026"
+                },
+                "text": "regression"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1272,2026 1272,2086 1355,2086 1355,2026"
+                },
+                "text": "lines"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1376,2025 1376,2085 1417,2085 1417,2025"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1444,2025 1444,2085 1495,2085 1495,2025"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1517,2025 1517,2085 1605,2085 1605,2025"
+                },
+                "text": "plots"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1632,2025 1632,2085 1667,2085 1667,2025"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1683,2023 1683,2083 1745,2083 1745,2023"
+                },
+                "text": "Fsr"
+              },
+              {
+                "id": "tr_1_tl_17_w14",
+                "coords": {
+                  "points": "1767,2024 1767,2084 1885,2084 1885,2024"
+                },
+                "text": "versus"
+              },
+              {
+                "id": "tr_1_tl_17_w15",
+                "coords": {
+                  "points": "1907,2025 1907,2085 2083,2085 2083,2025"
+                },
+                "text": "distance,"
+              },
+              {
+                "id": "tr_1_tl_17_w16",
+                "coords": {
+                  "points": "2100,2026 2100,2086 2125,2086 2125,2026"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_17_w17",
+                "coords": {
+                  "points": "2141,2022 2141,2082 2166,2082 2166,2022"
+                },
+                "text": "is"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "279,2209 2218,2218 2218,2137 2135,2117 1610,2157 1550,2122 1210,2142 1163,2110 1057,2147 809,2100 737,2140 279,2149"
+            },
+            "baseline": {
+              "points": "292,2185 388,2179 485,2179 581,2179 678,2181 775,2182 871,2182 968,2182 1064,2182 1161,2182 1258,2182 1354,2181 1451,2180 1547,2182 1644,2179 1741,2179 1837,2181 1934,2180 2030,2179 2127,2179 2224,2176"
+            },
+            "text": "possible to estimate the average dispersal distance of that species. In both Fig. 6 and Fig. 7, the",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "279,2140 279,2200 435,2200 435,2140"
+                },
+                "text": "possible"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "463,2139 463,2199 484,2199 484,2139"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "511,2139 511,2199 668,2199 668,2139"
+                },
+                "text": "estimate"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "696,2141 696,2201 744,2201 744,2141"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "771,2142 771,2202 912,2202 912,2142"
+                },
+                "text": "average"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "939,2142 939,2202 1117,2202 1117,2142"
+                },
+                "text": "dispersal"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1129,2142 1129,2202 1285,2202 1285,2142"
+                },
+                "text": "distance"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1312,2141 1312,2201 1344,2201 1344,2141"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1366,2140 1366,2200 1437,2200 1437,2140"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1453,2141 1453,2201 1609,2201 1609,2141"
+                },
+                "text": "species."
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1637,2139 1637,2199 1663,2199 1663,2139"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1692,2139 1692,2199 1767,2199 1767,2139"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1794,2140 1794,2200 1875,2200 1875,2140"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "1886,2140 1886,2200 1902,2200 1902,2140"
+                },
+                "text": "6"
+              },
+              {
+                "id": "tr_1_tl_18_w15",
+                "coords": {
+                  "points": "1929,2139 1929,2199 1989,2199 1989,2139"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_18_w16",
+                "coords": {
+                  "points": "2011,2139 2011,2199 2091,2199 2091,2139"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_18_w17",
+                "coords": {
+                  "points": "2103,2139 2103,2199 2140,2199 2140,2139"
+                },
+                "text": "7,"
+              },
+              {
+                "id": "tr_1_tl_18_w18",
+                "coords": {
+                  "points": "2157,2137 2157,2197 2205,2197 2205,2137"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "276,2324 362,2357 1124,2307 1331,2354 1693,2315 1765,2354 2078,2307 2233,2344 2233,2243 2182,2233 1920,2265 1437,2211 1366,2253 1112,2260 276,2238"
+            },
+            "baseline": {
+              "points": "289,2295 386,2292 484,2294 581,2292 679,2295 776,2295 874,2295 971,2292 1069,2292 1166,2292 1264,2295 1361,2294 1459,2294 1556,2294 1654,2295 1751,2295 1849,2295 1946,2295 2044,2293 2141,2294 2239,2292"
+            },
+            "text": "Fsr is about 0.04 at a distance of 1000km. I compared this value to a calibration graph (Palumbi",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "276,2254 276,2314 339,2314 339,2254"
+                },
+                "text": "Fsr"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "361,2252 361,2312 381,2312 381,2252"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "408,2253 408,2313 513,2313 513,2253"
+                },
+                "text": "about"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "529,2252 529,2312 608,2312 608,2252"
+                },
+                "text": "0.04"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "635,2254 635,2314 666,2314 666,2254"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "683,2255 683,2315 692,2315 692,2255"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "714,2255 714,2315 867,2315 867,2255"
+                },
+                "text": "distance"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "894,2253 894,2313 931,2313 931,2253"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "952,2252 952,2312 1126,2312 1126,2252"
+                },
+                "text": "1000km."
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1153,2252 1153,2312 1168,2312 1168,2252"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1185,2254 1185,2314 1369,2314 1369,2254"
+                },
+                "text": "compared"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1397,2254 1397,2314 1459,2314 1459,2254"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1481,2254 1481,2314 1575,2314 1575,2254"
+                },
+                "text": "value"
+              },
+              {
+                "id": "tr_1_tl_19_w14",
+                "coords": {
+                  "points": "1602,2254 1602,2314 1628,2314 1628,2254"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_19_w15",
+                "coords": {
+                  "points": "1655,2255 1655,2315 1665,2315 1665,2255"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_19_w16",
+                "coords": {
+                  "points": "1692,2255 1692,2315 1893,2315 1893,2255"
+                },
+                "text": "calibration"
+              },
+              {
+                "id": "tr_1_tl_19_w17",
+                "coords": {
+                  "points": "1920,2254 1920,2314 2019,2314 2019,2254"
+                },
+                "text": "graph"
+              },
+              {
+                "id": "tr_1_tl_19_w18",
+                "coords": {
+                  "points": "2047,2253 2047,2313 2231,2313 2231,2253"
+                },
+                "text": "(Palumbi"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "266,2426 730,2467 823,2426 1008,2467 1094,2433 2016,2458 2206,2426 2206,2374 2098,2349 1654,2376 1491,2337 1154,2379 971,2342 809,2379 266,2347"
+            },
+            "baseline": {
+              "points": "280,2412 376,2412 473,2412 569,2411 666,2410 763,2412 859,2412 956,2412 1052,2412 1149,2412 1246,2412 1342,2412 1439,2409 1535,2409 1632,2409 1729,2410 1825,2410 1922,2410 2018,2411 2115,2412 2212,2406"
+            },
+            "text": "2003), which predicted a mean larval dispersal of about 40 kilometers. This value is much less",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "266,2372 266,2432 394,2432 394,2372"
+                },
+                "text": "2003),"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "410,2372 410,2432 522,2432 522,2372"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "549,2370 549,2430 719,2430 719,2370"
+                },
+                "text": "predicted"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "747,2371 747,2431 757,2431 757,2371"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "784,2372 784,2432 879,2432 879,2372"
+                },
+                "text": "mean"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "907,2372 907,2432 1018,2432 1018,2372"
+                },
+                "text": "larval"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1035,2372 1035,2432 1216,2432 1216,2372"
+                },
+                "text": "dispersal"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1232,2372 1232,2432 1269,2432 1269,2372"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1286,2372 1286,2432 1397,2432 1397,2372"
+                },
+                "text": "about"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1414,2369 1414,2429 1451,2429 1451,2369"
+                },
+                "text": "40"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1478,2369 1478,2429 1702,2429 1702,2369"
+                },
+                "text": "kilometers."
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1729,2370 1729,2430 1814,2430 1814,2370"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1836,2370 1836,2430 1931,2430 1931,2370"
+                },
+                "text": "value"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "1959,2370 1959,2430 1979,2430 1979,2370"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_20_w15",
+                "coords": {
+                  "points": "2007,2371 2007,2431 2102,2431 2102,2371"
+                },
+                "text": "much"
+              },
+              {
+                "id": "tr_1_tl_20_w16",
+                "coords": {
+                  "points": "2129,2369 2129,2429 2198,2429 2198,2369"
+                },
+                "text": "less"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "274,2569 1055,2534 1183,2586 1326,2539 1583,2586 1637,2544 2164,2541 2130,2467 1785,2485 1726,2435 1393,2492 1326,2450 907,2497 274,2485"
+            },
+            "baseline": {
+              "points": "286,2525 380,2525 474,2525 568,2525 662,2528 757,2525 851,2527 945,2526 1039,2527 1133,2525 1228,2525 1322,2528 1416,2527 1510,2527 1604,2525 1699,2525 1793,2525 1887,2525 1981,2528 2075,2525 2170,2525"
+            },
+            "text": "than the hypothetical maximum (over 120 km), which may suggest that factors other than the",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "279,2485 279,2545 348,2545 348,2485"
+                },
+                "text": "than"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "379,2485 379,2545 429,2545 429,2485"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "455,2485 455,2545 701,2545 701,2485"
+                },
+                "text": "hypothetical"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "717,2486 717,2546 892,2546 892,2486"
+                },
+                "text": "maximum"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "934,2486 934,2546 1034,2546 1034,2486"
+                },
+                "text": "(over"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1054,2485 1054,2545 1119,2545 1119,2485"
+                },
+                "text": "120"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1140,2485 1140,2545 1235,2545 1235,2485"
+                },
+                "text": "km),"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1251,2487 1251,2547 1356,2547 1356,2487"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1387,2487 1387,2547 1462,2547 1462,2487"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1488,2485 1488,2545 1633,2545 1633,2485"
+                },
+                "text": "suggest"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1649,2485 1649,2545 1724,2545 1724,2485"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1740,2485 1740,2545 1865,2545 1865,2485"
+                },
+                "text": "factors"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "1891,2486 1891,2546 1986,2546 1986,2486"
+                },
+                "text": "other"
+              },
+              {
+                "id": "tr_1_tl_21_w14",
+                "coords": {
+                  "points": "2007,2486 2007,2546 2077,2546 2077,2486"
+                },
+                "text": "than"
+              },
+              {
+                "id": "tr_1_tl_21_w15",
+                "coords": {
+                  "points": "2102,2485 2102,2545 2157,2545 2157,2485"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "266,2684 535,2652 661,2689 737,2670 786,2697 855,2665 902,2682 979,2660 979,2583 488,2613 397,2581 335,2601 266,2583"
+            },
+            "baseline": {
+              "points": "280,2639 315,2639 350,2639 385,2639 421,2639 456,2639 491,2639 526,2640 562,2642 597,2642 632,2639 667,2639 703,2639 738,2639 773,2639 808,2639 844,2639 879,2639 914,2639 949,2642 985,2639"
+            },
+            "text": "California current affect dispersal.",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "271,2599 271,2659 467,2659 467,2599"
+                },
+                "text": "California"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "493,2602 493,2662 639,2662 639,2602"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "654,2599 654,2659 770,2659 770,2599"
+                },
+                "text": "affect"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "786,2599 786,2659 982,2659 982,2599"
+                },
+                "text": "dispersal."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "422,2785 974,2813 1013,2776 1166,2817 1348,2773 1479,2817 1568,2776 1790,2813 1876,2766 2211,2803 2211,2702 2066,2672 1528,2714 1417,2675 1274,2724 1210,2687 784,2726 740,2689 599,2719 422,2682"
+            },
+            "baseline": {
+              "points": "435,2755 524,2758 613,2758 702,2755 791,2752 880,2755 969,2755 1059,2758 1148,2755 1237,2755 1326,2755 1415,2752 1504,2755 1593,2752 1683,2755 1772,2755 1861,2755 1950,2755 2039,2755 2128,2755 2218,2752"
+            },
+            "text": "The graphs of Fsr versus distance indicate that although there may be a fairly high level",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "422,2715 422,2775 484,2775 484,2715"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "510,2718 510,2778 634,2778 634,2718"
+                },
+                "text": "graphs"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "656,2715 656,2775 698,2775 698,2715"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "714,2713 714,2773 776,2773 776,2713"
+                },
+                "text": "Fsr"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "797,2714 797,2774 916,2774 916,2714"
+                },
+                "text": "versus"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "938,2716 938,2776 1093,2776 1093,2716"
+                },
+                "text": "distance"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1120,2715 1120,2775 1266,2775 1266,2715"
+                },
+                "text": "indicate"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1292,2714 1292,2774 1364,2774 1364,2714"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1381,2713 1381,2773 1547,2773 1547,2713"
+                },
+                "text": "although"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1574,2712 1574,2772 1661,2772 1661,2712"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1688,2715 1688,2775 1766,2775 1766,2715"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_23_w12",
+                "coords": {
+                  "points": "1793,2715 1793,2775 1829,2775 1829,2715"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_23_w13",
+                "coords": {
+                  "points": "1850,2715 1850,2775 1865,2775 1865,2715"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_23_w14",
+                "coords": {
+                  "points": "1886,2715 1886,2775 1985,2775 1985,2715"
+                },
+                "text": "fairly"
+              },
+              {
+                "id": "tr_1_tl_23_w15",
+                "coords": {
+                  "points": "2007,2715 2007,2775 2084,2775 2084,2715"
+                },
+                "text": "high"
+              },
+              {
+                "id": "tr_1_tl_23_w16",
+                "coords": {
+                  "points": "2116,2713 2116,2773 2209,2773 2209,2713"
+                },
+                "text": "level"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "274,2901 996,2882 1383,2938 2117,2938 2221,2889 2221,2830 2105,2803 1062,2837 759,2795 646,2837 274,2835"
+            },
+            "baseline": {
+              "points": "286,2872 383,2873 480,2875 577,2875 674,2873 771,2875 868,2875 965,2873 1062,2875 1159,2875 1256,2873 1353,2872 1450,2872 1547,2872 1644,2872 1741,2872 1838,2872 1935,2872 2032,2872 2129,2872 2227,2869"
+            },
+            "text": "of gene flow along the American west coast (based on the fairly homogenous phylogenetic trees",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "279,2832 279,2892 313,2892 313,2832"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "334,2832 334,2892 414,2892 414,2832"
+                },
+                "text": "gene"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "440,2834 440,2894 509,2894 509,2834"
+                },
+                "text": "flow"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "546,2834 546,2894 646,2894 646,2834"
+                },
+                "text": "along"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "672,2833 672,2893 716,2893 716,2833"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "747,2835 747,2895 928,2895 928,2835"
+                },
+                "text": "American"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "959,2833 959,2893 1049,2893 1049,2833"
+                },
+                "text": "west"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1065,2835 1065,2895 1166,2895 1166,2835"
+                },
+                "text": "coast"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1181,2833 1181,2893 1296,2893 1296,2833"
+                },
+                "text": "(based"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1327,2832 1327,2892 1362,2892 1362,2832"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "1388,2832 1388,2892 1438,2892 1438,2832"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_24_w12",
+                "coords": {
+                  "points": "1464,2832 1464,2892 1559,2892 1559,2832"
+                },
+                "text": "fairly"
+              },
+              {
+                "id": "tr_1_tl_24_w13",
+                "coords": {
+                  "points": "1584,2832 1584,2892 1836,2892 1836,2832"
+                },
+                "text": "homogenous"
+              },
+              {
+                "id": "tr_1_tl_24_w14",
+                "coords": {
+                  "points": "1857,2832 1857,2892 2108,2892 2108,2832"
+                },
+                "text": "phylogenetic"
+              },
+              {
+                "id": "tr_1_tl_24_w15",
+                "coords": {
+                  "points": "2129,2830 2129,2890 2214,2890 2214,2830"
+                },
+                "text": "trees"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

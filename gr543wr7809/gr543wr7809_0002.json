@@ -1,0 +1,2833 @@
+{
+  "processId": 10313943,
+  "status": "FINISHED",
+  "content": {
+    "text": "INTRODUCTION\nStimulated fluorescence and beam attenuation may be powerful tools to measure in\nsitu chlorophyll and biomass in the open ocean. If perfected, these methods would\nprovide oceanographers with several orders of magnitude more data to study primary\nproductivity and algal ecology. However, these signals are not yet reliable tools for\necological parameters. This is due in part to diel oscillations of the signals which are\nhypothesized to result from changes in phytoplankton physiology (Dickey 1992; Stegman\net al 1992; Stramska and Dickey 1992). Understanding and predicting these diel cycles is\nan essential step in the determination of accurate algal biomass from shipboard and moored\nfluorometers (Prezelin and Ley 1980; Mauzerall 1972; Abbott 1982).\nStimulated fluorescence in the ocean has been correlated to phytoplankton\npopulations (Prezelin and Ley 1980; Keifer 1973a; Abbot et al. 1982). Recently, a diel\npattern of this signal has been observed from drogues, ships, and moorings in the\nSargasso Sea, Monterey Bay, and the equatorial Pacific. (Dickey 1992; Chavez pers.\ncomm.; Abbot et al. 1990) The daily changes in fluorescence may be due to a\ncombination of phytoplankton physiology, growth, grazing, mixing, demography, and\ndissolved organic sources of variability. A model of the diel patter due to physiology\nwould decouple signals due to physiology from signals due to actual changes in biomass.\nIn this paper, cultures of phytoplankton exposed to sunlight consistantly had a\ndaily minimum in fluorescence equal to 50% of their daily maximum (a factor of 2\ndifference between night and day). Beam attenuation decreased to 80% of its maximum (a\nfactor of 1.25 between night and day). These data are consistent with in situ\nobservations, and provide the basis for an empirical determination of chlorophyll from\nstrobe-stimulated fluorescence and PAR.\nTheory:\nFluorescece is a measure of photons which were absorbed by pigments but\nwhose energy was not shunted into photosynthesis. When plants absorb light, there are\nthree sinks for the energy: vibrations, fluorescence and redox reactions. Vibrations (heat)\nare insignificant, and redox reactions are synonymous with photosynthesis (Arnon 1968).\nIn the steady state, conservation of energy requires:\nEabsorbed - Efluoresced + Ephotosynthesis",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "331,378 331,2863 2164,2863 2164,378"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "1047,434 1206,441 1259,475 1312,439 1401,450 1444,436 1444,350 1417,345 1398,363 1305,356 1289,375 1229,363 1218,375 1202,359 1156,359 1131,336 1044,340"
+            },
+            "baseline": {
+              "points": "1059,420 1084,418 1110,417 1136,417 1162,417 1188,417 1214,417 1240,417 1265,417 1291,418 1317,419 1343,420 1369,420 1395,420 1421,420 1447,423"
+            },
+            "text": "INTRODUCTION",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "1046,377 1046,437 1414,437 1414,377"
+                },
+                "text": "INTRODUCTION"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "473,578 1158,615 2162,592 2162,510 1810,539 1734,494 1590,532 1520,494 1394,537 1172,500 473,530"
+            },
+            "baseline": {
+              "points": "486,570 569,567 653,567 737,567 821,567 905,570 989,568 1073,567 1157,567 1241,570 1325,572 1408,570 1492,570 1576,570 1660,570 1744,573 1828,573 1912,573 1996,573 2080,575 2164,573"
+            },
+            "text": "Stimulated fluorescence and beam attenuation may be powerful tools to measure in",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "477,527 477,587 679,587 679,527"
+                },
+                "text": "Stimulated"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "704,527 704,587 946,587 946,527"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "971,527 971,587 1029,587 1029,527"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "1055,527 1055,587 1133,587 1133,527"
+                },
+                "text": "beam"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1178,530 1178,590 1381,590 1381,530"
+                },
+                "text": "attenuation"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1406,530 1406,590 1479,590 1479,530"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1505,530 1505,590 1538,590 1538,530"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1564,530 1564,590 1741,590 1741,530"
+                },
+                "text": "powerful"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1766,533 1766,593 1854,593 1854,533"
+                },
+                "text": "tools"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1875,533 1875,593 1899,593 1899,533"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1929,533 1929,593 2081,593 2081,533"
+                },
+                "text": "measure"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "2117,533 2117,593 2146,593 2146,533"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "327,667 1983,679 2029,672 2027,596 324,619"
+            },
+            "baseline": {
+              "points": "337,641 421,641 506,641 591,641 676,641 761,641 845,644 930,643 1015,644 1100,641 1185,647 1269,647 1354,648 1439,647 1524,647 1609,647 1693,650 1778,647 1863,647 1948,647 2033,647"
+            },
+            "text": "situ chlorophyll and biomass in the open ocean. If perfected, these methods would",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "329,601 329,661 385,661 385,601"
+                },
+                "text": "situ"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "422,601 422,661 649,661 649,601"
+                },
+                "text": "chlorophyll"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "681,601 681,661 737,661 737,601"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "764,603 764,663 918,663 918,603"
+                },
+                "text": "biomass"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "945,603 945,663 970,663 970,603"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "997,603 997,663 1043,663 1043,603"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1069,601 1069,661 1151,661 1151,601"
+                },
+                "text": "open"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1179,607 1179,667 1307,667 1307,607"
+                },
+                "text": "ocean."
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1334,607 1334,667 1364,667 1364,607"
+                },
+                "text": "If"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1380,607 1380,667 1577,667 1577,607"
+                },
+                "text": "perfected,"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1603,608 1603,668 1696,668 1696,608"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1717,607 1717,667 1882,667 1882,607"
+                },
+                "text": "methods"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1903,607 1903,667 2011,667 2011,607"
+                },
+                "text": "would"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "336,749 2075,752 2075,692 1954,665 336,690"
+            },
+            "baseline": {
+              "points": "349,719 435,716 522,716 608,718 695,718 781,717 868,719 954,719 1041,719 1127,721 1214,722 1301,722 1387,720 1474,722 1560,725 1647,725 1733,725 1820,725 1906,722 1993,728 2080,719"
+            },
+            "text": "provide oceanographers with several orders of magnitude more data to study primary",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "335,677 335,737 472,737 472,677"
+                },
+                "text": "provide"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "497,678 497,738 797,738 797,678"
+                },
+                "text": "oceanographers"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "822,678 822,738 895,738 895,678"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "920,679 920,739 1062,739 1062,679"
+                },
+                "text": "several"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "1087,681 1087,741 1204,741 1204,681"
+                },
+                "text": "orders"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1225,682 1225,742 1263,742 1263,682"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1284,680 1284,740 1480,740 1480,680"
+                },
+                "text": "magnitude"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1500,684 1500,744 1593,744 1593,684"
+                },
+                "text": "more"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1628,685 1628,745 1701,745 1701,685"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1721,685 1721,745 1750,745 1750,685"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1785,684 1785,744 1882,744 1882,684"
+                },
+                "text": "study"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1917,687 1917,747 2064,747 2064,687"
+                },
+                "text": "primary"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "334,839 450,807 2015,818 1965,745 1314,779 1120,743 334,749"
+            },
+            "baseline": {
+              "points": "346,794 429,794 513,792 597,793 681,797 764,797 848,796 932,792 1016,800 1099,798 1183,797 1267,800 1351,800 1434,800 1518,800 1602,800 1686,800 1769,800 1853,800 1937,803 2021,800"
+            },
+            "text": "productivity and algal ecology. However, these signals are not yet reliable tools for",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "334,753 334,813 561,813 561,753"
+                },
+                "text": "productivity"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "588,753 588,813 646,813 646,753"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "673,757 673,817 762,817 762,757"
+                },
+                "text": "algal"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "779,754 779,814 964,814 964,754"
+                },
+                "text": "ecology."
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "986,758 986,818 1186,818 1186,758"
+                },
+                "text": "However,"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1197,759 1197,819 1287,819 1287,759"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1314,760 1314,820 1440,820 1440,760"
+                },
+                "text": "signals"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1463,760 1463,820 1515,820 1515,760"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1537,760 1537,820 1594,820 1594,760"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1611,760 1611,820 1669,820 1669,760"
+                },
+                "text": "yet"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1685,760 1685,820 1822,820 1822,760"
+                },
+                "text": "reliable"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1849,761 1849,821 1933,821 1933,761"
+                },
+                "text": "tools"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1960,761 1960,821 2007,821 2007,761"
+                },
+                "text": "for"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "334,884 2022,900 2022,843 1846,818 1666,855 1254,820 334,839"
+            },
+            "baseline": {
+              "points": "346,868 430,868 514,868 598,869 682,871 766,871 850,874 934,874 1018,874 1102,874 1186,874 1270,877 1354,877 1438,877 1522,876 1606,874 1690,877 1774,877 1858,877 1942,877 2027,877"
+            },
+            "text": "ecological parameters. This is due in part to diel oscillations of the signals which are",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "334,828 334,888 529,888 529,828"
+                },
+                "text": "ecological"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "546,830 546,890 779,890 779,830"
+                },
+                "text": "parameters."
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "802,833 802,893 883,893 883,833"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "905,834 905,894 926,894 926,834"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "949,834 949,894 1008,894 1008,834"
+                },
+                "text": "due"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1035,834 1035,894 1057,894 1057,834"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1085,834 1085,894 1160,894 1160,834"
+                },
+                "text": "part"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1177,834 1177,894 1204,894 1204,834"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1231,836 1231,896 1302,896 1302,836"
+                },
+                "text": "diel"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1313,837 1313,897 1530,897 1530,837"
+                },
+                "text": "oscillations"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1553,834 1553,894 1590,894 1590,834"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1607,834 1607,894 1655,894 1655,834"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1678,837 1678,897 1808,897 1808,837"
+                },
+                "text": "signals"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1830,837 1830,897 1938,897 1938,837"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_6_w15",
+                "coords": {
+                  "points": "1966,837 1966,897 2014,897 2014,837"
+                },
+                "text": "are"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "324,960 2132,971 2100,909 1922,898 324,898"
+            },
+            "baseline": {
+              "points": "337,946 427,946 517,943 607,946 697,946 787,949 877,949 967,949 1057,949 1147,949 1237,949 1327,952 1417,949 1507,955 1597,946 1687,949 1777,952 1867,950 1957,955 2047,955 2137,952"
+            },
+            "text": "hypothesized to result from changes in phytoplankton physiology (Dickey 1992; Stegman",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "330,905 330,965 573,965 573,905"
+                },
+                "text": "hypothesized"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "602,906 602,966 629,966 629,906"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "652,906 652,966 763,966 763,906"
+                },
+                "text": "result"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "786,909 786,969 857,969 857,909"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "896,909 896,969 1052,969 1052,909"
+                },
+                "text": "changes"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1075,909 1075,969 1096,969 1096,909"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1125,909 1125,969 1401,969 1401,909"
+                },
+                "text": "phytoplankton"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1425,912 1425,972 1635,972 1635,912"
+                },
+                "text": "physiology"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1658,910 1658,970 1807,970 1807,910"
+                },
+                "text": "(Dickey"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1836,911 1836,971 1940,971 1940,911"
+                },
+                "text": "1992;"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1958,915 1958,975 2118,975 2118,915"
+                },
+                "text": "Stegman"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "331,1037 2146,1047 2146,987 1775,967 331,987"
+            },
+            "baseline": {
+              "points": "343,1015 433,1021 523,1021 614,1021 704,1027 795,1024 885,1024 976,1021 1066,1024 1157,1025 1247,1027 1337,1027 1428,1027 1518,1027 1609,1027 1699,1027 1790,1027 1880,1027 1971,1027 2061,1027 2152,1027"
+            },
+            "text": "et al 1992; Stramska and Dickey 1992). Understanding and predicting these diel cycles is",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "333,975 333,1035 362,1035 362,975"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "381,978 381,1038 410,1038 410,978"
+                },
+                "text": "al"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "429,981 429,1041 537,1041 537,981"
+                },
+                "text": "1992;"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "556,982 556,1042 725,1042 725,982"
+                },
+                "text": "Stramska"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "750,984 750,1044 810,1044 810,984"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "835,983 835,1043 968,1043 968,983"
+                },
+                "text": "Dickey"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "993,983 993,1043 1125,1043 1125,983"
+                },
+                "text": "1992)."
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1156,987 1156,1047 1439,1047 1439,987"
+                },
+                "text": "Understanding"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1464,987 1464,1047 1524,1047 1524,987"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1550,987 1550,1047 1737,1047 1737,987"
+                },
+                "text": "predicting"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1762,987 1762,1047 1852,1047 1852,987"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1877,987 1877,1047 1948,1047 1948,987"
+                },
+                "text": "diel"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1961,987 1961,1047 2081,1047 2081,987"
+                },
+                "text": "cycles"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "2112,987 2112,1047 2142,1047 2142,987"
+                },
+                "text": "is"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "324,1120 2143,1129 2143,1067 1956,1053 324,1072"
+            },
+            "baseline": {
+              "points": "337,1089 427,1089 518,1095 608,1095 699,1098 790,1098 880,1098 971,1101 1061,1101 1152,1101 1243,1102 1333,1103 1424,1104 1514,1104 1605,1101 1696,1101 1786,1101 1877,1102 1967,1104 2058,1104 2149,1104"
+            },
+            "text": "an essential step in the determination of accurate algal biomass from shipboard and moored",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "325,1049 325,1109 353,1109 353,1049"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "376,1051 376,1111 547,1111 547,1051"
+                },
+                "text": "essential"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "559,1055 559,1115 626,1115 626,1055"
+                },
+                "text": "step"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "656,1056 656,1116 678,1116 678,1056"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "701,1058 701,1118 752,1118 752,1058"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "776,1058 776,1118 1043,1118 1043,1058"
+                },
+                "text": "determination"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1067,1061 1067,1121 1106,1121 1106,1061"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1124,1061 1124,1121 1278,1121 1278,1061"
+                },
+                "text": "accurate"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1301,1063 1301,1123 1398,1123 1398,1063"
+                },
+                "text": "algal"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1410,1064 1410,1124 1563,1124 1563,1064"
+                },
+                "text": "biomass"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1587,1061 1587,1121 1654,1121 1654,1061"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1696,1061 1696,1121 1877,1121 1877,1061"
+                },
+                "text": "shipboard"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1907,1063 1907,1123 1963,1123 1963,1063"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1992,1064 1992,1124 2128,1124 2128,1064"
+                },
+                "text": "moored"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "327,1188 1689,1209 1705,1113 324,1131"
+            },
+            "baseline": {
+              "points": "337,1167 405,1173 474,1173 542,1171 611,1173 680,1172 748,1174 817,1174 886,1175 954,1173 1023,1176 1092,1176 1160,1179 1229,1179 1298,1176 1366,1179 1435,1179 1504,1179 1572,1176 1641,1179 1710,1182"
+            },
+            "text": "fluorometers (Prezelin and Ley 1980; Mauzerall 1972; Abbott 1982).",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "325,1133 325,1193 568,1193 568,1133"
+                },
+                "text": "fluorometers"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "593,1132 593,1192 758,1192 758,1132"
+                },
+                "text": "(Prezelin"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "783,1134 783,1194 841,1194 841,1134"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "866,1134 866,1194 930,1194 930,1134"
+                },
+                "text": "Ley"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "961,1135 961,1195 1074,1195 1074,1135"
+                },
+                "text": "1980;"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1092,1139 1092,1199 1287,1199 1287,1139"
+                },
+                "text": "Mauzerall"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1306,1138 1306,1198 1412,1198 1412,1138"
+                },
+                "text": "1972;"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1431,1139 1431,1199 1561,1199 1561,1139"
+                },
+                "text": "Abbott"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1579,1139 1579,1199 1703,1199 1703,1139"
+                },
+                "text": "1982)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "478,1266 1995,1273 1995,1216 1933,1209 478,1213"
+            },
+            "baseline": {
+              "points": "489,1250 564,1250 640,1249 715,1247 791,1248 866,1248 942,1253 1017,1250 1093,1251 1168,1253 1244,1253 1320,1253 1395,1254 1471,1256 1546,1253 1622,1254 1697,1253 1773,1255 1848,1254 1924,1256 2000,1253"
+            },
+            "text": "Stimulated fluorescence in the ocean has been correlated to phytoplankton",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "483,1209 483,1269 684,1269 684,1209"
+                },
+                "text": "Stimulated"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "710,1208 710,1268 947,1268 947,1208"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "973,1211 973,1271 997,1271 997,1211"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "1023,1210 1023,1270 1073,1270 1073,1210"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1104,1212 1104,1272 1210,1272 1210,1212"
+                },
+                "text": "ocean"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1246,1213 1246,1273 1306,1273 1306,1213"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1326,1213 1326,1273 1407,1273 1407,1213"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1433,1213 1433,1273 1619,1273 1619,1213"
+                },
+                "text": "correlated"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1640,1213 1640,1273 1665,1273 1665,1213"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1701,1214 1701,1274 1978,1274 1978,1214"
+                },
+                "text": "phytoplankton"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "336,1362 2118,1348 2077,1264 1773,1305 1536,1268 336,1289"
+            },
+            "baseline": {
+              "points": "349,1325 437,1325 526,1325 615,1325 704,1328 793,1328 881,1325 970,1325 1059,1328 1148,1328 1237,1328 1325,1331 1414,1331 1503,1331 1592,1331 1681,1331 1769,1331 1858,1331 1947,1331 2036,1331 2125,1334"
+            },
+            "text": "populations (Prezelin and Ley 1980; Keifer 1973a; Abbot et al. 1982). Recently, a diel",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "337,1285 337,1345 562,1345 562,1285"
+                },
+                "text": "populations"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "579,1286 579,1346 748,1346 748,1286"
+                },
+                "text": "(Prezelin"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "772,1287 772,1347 833,1347 833,1287"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "856,1285 856,1345 923,1345 923,1285"
+                },
+                "text": "Ley"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "952,1286 952,1346 1059,1346 1059,1286"
+                },
+                "text": "1980;"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1082,1288 1082,1348 1211,1348 1211,1288"
+                },
+                "text": "Keifer"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1229,1289 1229,1349 1358,1349 1358,1289"
+                },
+                "text": "1973a;"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1387,1291 1387,1351 1511,1351 1511,1291"
+                },
+                "text": "Abbot"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1523,1291 1523,1351 1556,1351 1556,1291"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1574,1291 1574,1351 1618,1351 1618,1291"
+                },
+                "text": "al."
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1630,1291 1630,1351 1759,1351 1759,1291"
+                },
+                "text": "1982)."
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1794,1291 1794,1351 1985,1351 1985,1291"
+                },
+                "text": "Recently,"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1997,1291 1997,1351 2008,1351 2008,1291"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "2042,1292 2042,1352 2120,1352 2120,1292"
+                },
+                "text": "diel"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "334,1424 1990,1424 1990,1362 1874,1350 334,1362"
+            },
+            "baseline": {
+              "points": "346,1397 428,1400 511,1402 593,1402 676,1403 758,1404 841,1406 923,1403 1006,1404 1088,1405 1171,1406 1254,1406 1336,1403 1419,1406 1501,1408 1584,1409 1666,1406 1749,1406 1831,1406 1914,1409 1997,1406"
+            },
+            "text": "pattern of this signal has been observed from drogues, ships, and moorings in the",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "334,1358 334,1418 463,1418 463,1358"
+                },
+                "text": "pattern"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "496,1362 496,1422 538,1422 538,1362"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "555,1362 555,1422 619,1422 619,1362"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "636,1363 636,1423 754,1423 754,1363"
+                },
+                "text": "signal"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "782,1365 782,1425 840,1425 840,1365"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "862,1363 862,1423 943,1423 943,1363"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "970,1364 970,1424 1142,1424 1142,1364"
+                },
+                "text": "observed"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1170,1366 1170,1426 1239,1426 1239,1366"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1277,1363 1277,1423 1449,1423 1449,1363"
+                },
+                "text": "drogues,"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1461,1368 1461,1428 1573,1428 1573,1368"
+                },
+                "text": "ships,"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1590,1367 1590,1427 1643,1427 1643,1367"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1671,1366 1671,1426 1853,1426 1853,1366"
+                },
+                "text": "moorings"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1876,1367 1876,1427 1896,1427 1896,1367"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "1924,1367 1924,1427 1972,1427 1972,1367"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "322,1494 889,1522 1663,1485 2059,1531 2059,1449 1881,1424 1485,1460 322,1435"
+            },
+            "baseline": {
+              "points": "334,1474 420,1468 507,1474 593,1476 680,1479 766,1478 853,1473 939,1477 1026,1480 1112,1480 1199,1480 1286,1480 1372,1480 1459,1480 1545,1483 1632,1477 1718,1480 1805,1480 1891,1481 1978,1480 2065,1483"
+            },
+            "text": "Sargasso Sea, Monterey Bay, and the equatorial Pacific. (Dickey 1992; Chavez pers.",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "323,1429 323,1489 484,1489 484,1429"
+                },
+                "text": "Sargasso"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "512,1435 512,1495 595,1495 595,1435"
+                },
+                "text": "Sea,"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "618,1438 618,1498 801,1498 801,1438"
+                },
+                "text": "Monterey"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "830,1434 830,1494 924,1494 924,1434"
+                },
+                "text": "Bay,"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "936,1437 936,1497 997,1497 997,1437"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1020,1440 1020,1500 1069,1500 1069,1440"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1098,1440 1098,1500 1298,1500 1298,1440"
+                },
+                "text": "equatorial"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1315,1440 1315,1500 1465,1500 1465,1440"
+                },
+                "text": "Pacific."
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1483,1441 1483,1501 1638,1501 1638,1441"
+                },
+                "text": "(Dickey"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1667,1440 1667,1500 1772,1500 1772,1440"
+                },
+                "text": "1992;"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1800,1440 1800,1500 1945,1500 1945,1440"
+                },
+                "text": "Chavez"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1968,1441 1968,1501 2062,1501 2062,1441"
+                },
+                "text": "pers."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "322,1588 1919,1572 1858,1513 1602,1499 322,1522"
+            },
+            "baseline": {
+              "points": "334,1552 413,1552 492,1552 572,1552 651,1552 731,1552 810,1549 889,1548 969,1555 1048,1555 1128,1557 1207,1557 1286,1555 1366,1555 1445,1558 1525,1558 1604,1558 1683,1555 1763,1558 1842,1557 1922,1558"
+            },
+            "text": "comm.; Abbot et al. 1990) The daily changes in fluorescence may be due to a",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "328,1512 328,1572 474,1572 474,1512"
+                },
+                "text": "comm.;"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "502,1512 502,1572 621,1572 621,1512"
+                },
+                "text": "Abbot"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "638,1512 638,1572 670,1572 670,1512"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "687,1512 687,1572 735,1572 735,1512"
+                },
+                "text": "al."
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "747,1509 747,1569 860,1569 860,1509"
+                },
+                "text": "1990)"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "899,1511 899,1571 969,1571 969,1511"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "991,1515 991,1575 1078,1575 1078,1515"
+                },
+                "text": "daily"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1106,1517 1106,1577 1258,1577 1258,1517"
+                },
+                "text": "changes"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1280,1515 1280,1575 1307,1575 1307,1515"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1329,1518 1329,1578 1568,1578 1568,1518"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1596,1516 1596,1576 1666,1576 1666,1516"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1694,1516 1694,1576 1726,1576 1726,1516"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1754,1517 1754,1577 1813,1577 1813,1517"
+                },
+                "text": "due"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "1835,1517 1835,1577 1862,1577 1862,1517"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_15_w15",
+                "coords": {
+                  "points": "1890,1517 1890,1577 1900,1577 1900,1517"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "324,1657 2127,1652 2127,1593 1821,1574 324,1604"
+            },
+            "baseline": {
+              "points": "337,1627 426,1627 516,1627 606,1630 696,1627 786,1630 876,1630 965,1633 1055,1633 1145,1633 1235,1633 1325,1636 1415,1636 1505,1636 1594,1636 1684,1633 1774,1636 1864,1633 1954,1633 2044,1633 2134,1633"
+            },
+            "text": "combination of phytoplankton physiology, growth, grazing, mixing, demography, and",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "325,1587 325,1647 563,1647 563,1587"
+                },
+                "text": "combination"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "591,1589 591,1649 624,1649 624,1589"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "652,1590 652,1650 935,1650 935,1590"
+                },
+                "text": "phytoplankton"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "963,1593 963,1653 1201,1653 1201,1593"
+                },
+                "text": "physiology,"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "1231,1595 1231,1655 1385,1655 1385,1595"
+                },
+                "text": "growth,"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1397,1596 1397,1656 1557,1656 1557,1596"
+                },
+                "text": "grazing,"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1575,1594 1575,1654 1730,1654 1730,1594"
+                },
+                "text": "mixing,"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1753,1593 1753,1653 2019,1653 2019,1593"
+                },
+                "text": "demography,"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "2058,1593 2058,1653 2118,1653 2118,1593"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "331,1730 2054,1732 2054,1666 1942,1657 331,1666"
+            },
+            "baseline": {
+              "points": "343,1701 428,1704 514,1704 600,1703 685,1706 771,1706 857,1705 942,1707 1028,1706 1114,1705 1200,1710 1285,1707 1371,1707 1457,1710 1542,1707 1628,1710 1714,1708 1799,1710 1885,1710 1971,1710 2057,1710"
+            },
+            "text": "dissolved organic sources of variability. A model of the diel patter due to physiology",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "337,1663 337,1723 507,1723 507,1663"
+                },
+                "text": "dissolved"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "536,1663 536,1723 667,1723 667,1663"
+                },
+                "text": "organic"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "696,1666 696,1726 833,1726 833,1666"
+                },
+                "text": "sources"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "856,1665 856,1725 893,1725 893,1665"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "911,1666 911,1726 1125,1726 1125,1666"
+                },
+                "text": "variability."
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1148,1667 1148,1727 1164,1727 1164,1667"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1203,1667 1203,1727 1324,1727 1324,1667"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1335,1667 1335,1727 1373,1727 1373,1667"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1391,1668 1391,1728 1440,1728 1440,1668"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1462,1668 1462,1728 1533,1728 1533,1668"
+                },
+                "text": "diel"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1551,1669 1551,1729 1655,1729 1655,1669"
+                },
+                "text": "patter"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1699,1668 1699,1728 1754,1728 1754,1668"
+                },
+                "text": "due"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1782,1669 1782,1729 1804,1729 1804,1669"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_17_w14",
+                "coords": {
+                  "points": "1832,1670 1832,1730 2041,1730 2041,1670"
+                },
+                "text": "physiology"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "322,1787 848,1821 2141,1796 2141,1725 2068,1714 1794,1757 1725,1721 1545,1757 322,1743"
+            },
+            "baseline": {
+              "points": "334,1773 424,1779 515,1779 605,1779 696,1779 787,1782 877,1782 968,1782 1058,1785 1149,1781 1240,1783 1330,1784 1421,1785 1511,1785 1602,1785 1693,1782 1783,1785 1874,1783 1964,1785 2055,1785 2146,1785"
+            },
+            "text": "would decouple signals due to physiology from signals due to actual changes in biomass.",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "323,1735 323,1795 433,1795 433,1735"
+                },
+                "text": "would"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "473,1739 473,1799 639,1799 639,1739"
+                },
+                "text": "decouple"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "673,1740 673,1800 805,1800 805,1740"
+                },
+                "text": "signals"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "828,1742 828,1802 889,1802 889,1742"
+                },
+                "text": "due"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "917,1742 917,1802 939,1802 939,1742"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "967,1744 967,1804 1178,1804 1178,1744"
+                },
+                "text": "physiology"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1206,1743 1206,1803 1278,1803 1278,1743"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1317,1744 1317,1804 1444,1804 1444,1744"
+                },
+                "text": "signals"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1467,1745 1467,1805 1522,1805 1522,1745"
+                },
+                "text": "due"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1550,1745 1550,1805 1572,1805 1572,1745"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1600,1743 1600,1803 1716,1803 1716,1743"
+                },
+                "text": "actual"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1734,1744 1734,1804 1889,1804 1889,1744"
+                },
+                "text": "changes"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1906,1744 1906,1804 1933,1804 1933,1744"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "1956,1745 1956,1805 2139,1805 2139,1745"
+                },
+                "text": "biomass."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "473,1874 2070,1876 2070,1805 1707,1837 473,1801"
+            },
+            "baseline": {
+              "points": "486,1856 565,1856 644,1856 724,1858 803,1859 883,1859 962,1856 1041,1855 1121,1857 1200,1859 1280,1859 1359,1856 1438,1859 1518,1859 1597,1859 1677,1859 1756,1860 1835,1859 1915,1859 1994,1858 2074,1859"
+            },
+            "text": "In this paper, cultures of phytoplankton exposed to sunlight consistantly had a",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "478,1816 478,1876 502,1876 502,1816"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "528,1816 528,1876 588,1876 588,1816"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "614,1816 614,1876 735,1876 735,1816"
+                },
+                "text": "paper,"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "761,1819 761,1879 913,1879 913,1819"
+                },
+                "text": "cultures"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "934,1816 934,1876 974,1876 974,1816"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "989,1817 989,1877 1273,1877 1273,1817"
+                },
+                "text": "phytoplankton"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1294,1816 1294,1876 1445,1876 1445,1816"
+                },
+                "text": "exposed"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1471,1819 1471,1879 1496,1879 1496,1819"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1522,1819 1522,1879 1683,1879 1683,1819"
+                },
+                "text": "sunlight"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1709,1819 1709,1879 1937,1879 1937,1819"
+                },
+                "text": "consistantly"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1962,1818 1962,1878 2023,1878 2023,1818"
+                },
+                "text": "had"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "2049,1818 2049,1878 2058,1878 2058,1818"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "322,1935 656,1972 1977,1958 1977,1890 1901,1874 1812,1906 322,1890"
+            },
+            "baseline": {
+              "points": "334,1928 416,1928 498,1930 580,1931 663,1931 745,1932 827,1934 909,1934 992,1934 1074,1932 1156,1934 1238,1934 1321,1934 1403,1934 1485,1933 1567,1934 1650,1934 1732,1934 1814,1934 1896,1934 1979,1934"
+            },
+            "text": "daily minimum in fluorescence equal to 50% of their daily maximum (a factor of 2",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "327,1888 327,1948 410,1948 410,1888"
+                },
+                "text": "daily"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "436,1890 436,1950 602,1950 602,1890"
+                },
+                "text": "minimum"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "644,1891 644,1951 669,1951 669,1891"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "696,1893 696,1953 935,1953 935,1893"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "956,1893 956,1953 1065,1953 1065,1893"
+                },
+                "text": "equal"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1081,1892 1081,1952 1101,1952 1101,1892"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1133,1894 1133,1954 1195,1954 1195,1894"
+                },
+                "text": "50%"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1237,1894 1237,1954 1273,1954 1273,1894"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1289,1894 1289,1954 1372,1954 1372,1894"
+                },
+                "text": "their"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1393,1893 1393,1953 1476,1953 1476,1893"
+                },
+                "text": "daily"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1502,1894 1502,1954 1679,1954 1679,1894"
+                },
+                "text": "maximum"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1716,1894 1716,1954 1746,1954 1746,1894"
+                },
+                "text": "(a"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1768,1894 1768,1954 1876,1954 1876,1894"
+                },
+                "text": "factor"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "1898,1894 1898,1954 1933,1954 1933,1894"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w15",
+                "coords": {
+                  "points": "1949,1894 1949,1954 1964,1954 1964,1894"
+                },
+                "text": "2"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "322,2015 2143,2036 2143,1974 1990,1963 322,1956"
+            },
+            "baseline": {
+              "points": "334,2006 424,2003 515,2006 606,2006 697,2006 787,2009 878,2009 969,2009 1060,2010 1150,2012 1241,2011 1332,2010 1423,2009 1513,2010 1604,2011 1695,2011 1786,2012 1876,2012 1967,2012 2058,2012 2149,2015"
+            },
+            "text": "difference between night and day). Beam attenuation decreased to 80% of its maximum (a",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "327,1963 327,2023 512,2023 512,1963"
+                },
+                "text": "difference"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "539,1966 539,2026 686,2026 686,1966"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "714,1968 714,2028 813,2028 813,1968"
+                },
+                "text": "night"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "830,1969 830,2029 887,2029 887,1969"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "915,1969 915,2029 1014,2029 1014,1969"
+                },
+                "text": "day)."
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1052,1970 1052,2030 1141,2030 1141,1970"
+                },
+                "text": "Beam"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1184,1970 1184,2030 1390,2030 1390,1970"
+                },
+                "text": "attenuation"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1412,1969 1412,2029 1596,2029 1596,1969"
+                },
+                "text": "decreased"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1623,1971 1623,2031 1644,2031 1644,1971"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1671,1971 1671,2031 1734,2031 1734,1971"
+                },
+                "text": "80%"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1777,1972 1777,2032 1813,2032 1813,1972"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1830,1972 1830,2032 1866,2032 1866,1972"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "1888,1972 1888,2032 2062,2032 2062,1972"
+                },
+                "text": "maximum"
+              },
+              {
+                "id": "tr_1_tl_21_w14",
+                "coords": {
+                  "points": "2105,1973 2105,2033 2131,2033 2131,1973"
+                },
+                "text": "(a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "322,2116 1885,2100 1885,2052 1675,2027 1252,2061 322,2036"
+            },
+            "baseline": {
+              "points": "334,2083 411,2083 489,2081 567,2083 645,2080 722,2083 800,2085 878,2083 956,2086 1033,2084 1111,2085 1189,2089 1267,2086 1344,2086 1422,2086 1500,2086 1578,2086 1655,2086 1733,2086 1811,2086 1889,2083"
+            },
+            "text": "factor of 1.25 between night and day). These data are consistent with in situ",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "322,2043 322,2103 431,2103 431,2043"
+                },
+                "text": "factor"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "452,2041 452,2101 488,2101 488,2041"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "509,2042 509,2102 576,2102 576,2042"
+                },
+                "text": "1.25"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "603,2041 603,2101 758,2101 758,2041"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "785,2044 785,2104 889,2104 889,2044"
+                },
+                "text": "night"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "905,2045 905,2105 961,2105 961,2045"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "988,2044 988,2104 1092,2104 1092,2044"
+                },
+                "text": "day)."
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1113,2048 1113,2108 1227,2108 1227,2048"
+                },
+                "text": "These"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1254,2046 1254,2106 1326,2106 1326,2046"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1347,2046 1347,2106 1399,2106 1399,2046"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1420,2046 1420,2106 1617,2106 1617,2046"
+                },
+                "text": "consistent"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1634,2046 1634,2106 1706,2106 1706,2046"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "1759,2046 1759,2106 1784,2106 1784,2046"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_22_w14",
+                "coords": {
+                  "points": "1811,2044 1811,2104 1872,2104 1872,2044"
+                },
+                "text": "situ"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "327,2175 1257,2200 1682,2162 1780,2212 2107,2175 2107,2107 2050,2102 1835,2136 1499,2098 1250,2132 327,2107"
+            },
+            "baseline": {
+              "points": "340,2155 428,2155 517,2161 605,2161 694,2158 782,2158 871,2161 959,2161 1048,2161 1136,2163 1225,2162 1313,2161 1402,2161 1490,2161 1579,2161 1667,2161 1756,2164 1844,2164 1933,2164 2021,2164 2110,2164"
+            },
+            "text": "observations, and provide the basis for an empirical determination of chlorophyll from",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "332,2117 332,2177 596,2177 596,2117"
+                },
+                "text": "observations,"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "618,2119 618,2179 676,2179 676,2119"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "703,2118 703,2178 845,2178 845,2118"
+                },
+                "text": "provide"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "872,2121 872,2181 919,2181 919,2121"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "941,2121 941,2181 1036,2181 1036,2121"
+                },
+                "text": "basis"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1058,2121 1058,2181 1110,2181 1110,2121"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1126,2122 1126,2182 1163,2182 1163,2122"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1184,2121 1184,2181 1374,2181 1374,2121"
+                },
+                "text": "empirical"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1385,2121 1385,2181 1649,2181 1649,2121"
+                },
+                "text": "determination"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1698,2122 1698,2182 1734,2182 1734,2122"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1751,2124 1751,2184 1978,2184 1978,2124"
+                },
+                "text": "chlorophyll"
+              },
+              {
+                "id": "tr_1_tl_23_w12",
+                "coords": {
+                  "points": "2005,2124 2005,2184 2078,2184 2078,2124"
+                },
+                "text": "from"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "322,2244 443,2274 695,2251 845,2290 1158,2253 1156,2189 1079,2173 1001,2205 649,2178 322,2203"
+            },
+            "baseline": {
+              "points": "334,2230 375,2233 417,2233 458,2235 500,2236 541,2236 583,2236 624,2236 666,2236 707,2237 749,2238 790,2236 832,2236 873,2236 915,2236 956,2239 998,2239 1039,2239 1081,2239 1122,2239 1164,2239"
+            },
+            "text": "strobe-stimulated fluorescence and PAR.",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "327,2195 327,2255 657,2255 657,2195"
+                },
+                "text": "strobe-stimulated"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "683,2196 683,2256 927,2256 927,2196"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "953,2199 953,2259 1013,2259 1013,2199"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "1040,2199 1040,2259 1151,2259 1151,2199"
+                },
+                "text": "PAR."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "322,2395 359,2404 407,2397 434,2411 443,2406 466,2415 491,2413 494,2324 439,2331 420,2319 379,2340 356,2319 345,2326 324,2317"
+            },
+            "baseline": {
+              "points": "334,2385 361,2385 388,2385 416,2385 443,2383 470,2382 498,2382"
+            },
+            "text": "Theory:",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "323,2345 323,2405 490,2405 490,2345"
+                },
+                "text": "Theory:"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_26",
+            "coords": {
+              "points": "464,2479 2072,2472 2072,2424 1967,2399 1883,2434 1348,2392 1302,2424 724,2395 674,2434 624,2392 464,2424"
+            },
+            "baseline": {
+              "points": "477,2460 557,2460 637,2460 717,2460 797,2463 877,2463 957,2464 1037,2464 1117,2464 1197,2463 1277,2463 1357,2463 1437,2463 1517,2466 1597,2466 1677,2466 1757,2465 1837,2467 1917,2469 1997,2466 2077,2466"
+            },
+            "text": "Fluorescece is a measure of photons which were absorbed by pigments but",
+            "words": [
+              {
+                "id": "tr_1_tl_26_w1",
+                "coords": {
+                  "points": "464,2420 464,2480 690,2480 690,2420"
+                },
+                "text": "Fluorescece"
+              },
+              {
+                "id": "tr_1_tl_26_w2",
+                "coords": {
+                  "points": "726,2420 726,2480 757,2480 757,2420"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_26_w3",
+                "coords": {
+                  "points": "778,2422 778,2482 787,2482 787,2422"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_26_w4",
+                "coords": {
+                  "points": "814,2423 814,2483 973,2483 973,2423"
+                },
+                "text": "measure"
+              },
+              {
+                "id": "tr_1_tl_26_w5",
+                "coords": {
+                  "points": "994,2424 994,2484 1035,2484 1035,2424"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_26_w6",
+                "coords": {
+                  "points": "1061,2423 1061,2483 1220,2483 1220,2423"
+                },
+                "text": "photons"
+              },
+              {
+                "id": "tr_1_tl_26_w7",
+                "coords": {
+                  "points": "1251,2423 1251,2483 1365,2483 1365,2423"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_26_w8",
+                "coords": {
+                  "points": "1406,2423 1406,2483 1493,2483 1493,2423"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_26_w9",
+                "coords": {
+                  "points": "1520,2426 1520,2486 1689,2486 1689,2426"
+                },
+                "text": "absorbed"
+              },
+              {
+                "id": "tr_1_tl_26_w10",
+                "coords": {
+                  "points": "1710,2425 1710,2485 1751,2485 1751,2425"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_26_w11",
+                "coords": {
+                  "points": "1787,2428 1787,2488 1967,2488 1967,2428"
+                },
+                "text": "pigments"
+              },
+              {
+                "id": "tr_1_tl_26_w12",
+                "coords": {
+                  "points": "2004,2426 2004,2486 2065,2486 2065,2426"
+                },
+                "text": "but"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_27",
+            "coords": {
+              "points": "327,2557 2125,2566 2104,2488 327,2498"
+            },
+            "baseline": {
+              "points": "340,2528 429,2537 519,2534 608,2531 698,2534 787,2537 877,2537 966,2540 1056,2537 1145,2540 1235,2537 1325,2540 1414,2540 1504,2540 1593,2543 1683,2543 1772,2543 1862,2543 1951,2543 2041,2543 2131,2540"
+            },
+            "text": "whose energy was not shunted into photosynthesis. When plants absorb light, there are",
+            "words": [
+              {
+                "id": "tr_1_tl_27_w1",
+                "coords": {
+                  "points": "327,2492 327,2552 440,2552 440,2492"
+                },
+                "text": "whose"
+              },
+              {
+                "id": "tr_1_tl_27_w2",
+                "coords": {
+                  "points": "463,2493 463,2553 587,2553 587,2493"
+                },
+                "text": "energy"
+              },
+              {
+                "id": "tr_1_tl_27_w3",
+                "coords": {
+                  "points": "614,2492 614,2552 685,2552 685,2492"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_27_w4",
+                "coords": {
+                  "points": "707,2495 707,2555 766,2555 766,2495"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_27_w5",
+                "coords": {
+                  "points": "783,2497 783,2557 929,2557 929,2497"
+                },
+                "text": "shunted"
+              },
+              {
+                "id": "tr_1_tl_27_w6",
+                "coords": {
+                  "points": "951,2499 951,2559 1021,2559 1021,2499"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_27_w7",
+                "coords": {
+                  "points": "1043,2498 1043,2558 1357,2558 1357,2498"
+                },
+                "text": "photosynthesis."
+              },
+              {
+                "id": "tr_1_tl_27_w8",
+                "coords": {
+                  "points": "1396,2500 1396,2560 1504,2560 1504,2500"
+                },
+                "text": "When"
+              },
+              {
+                "id": "tr_1_tl_27_w9",
+                "coords": {
+                  "points": "1526,2502 1526,2562 1640,2562 1640,2502"
+                },
+                "text": "plants"
+              },
+              {
+                "id": "tr_1_tl_27_w10",
+                "coords": {
+                  "points": "1662,2503 1662,2563 1781,2563 1781,2503"
+                },
+                "text": "absorb"
+              },
+              {
+                "id": "tr_1_tl_27_w11",
+                "coords": {
+                  "points": "1819,2503 1819,2563 1927,2563 1927,2503"
+                },
+                "text": "light,"
+              },
+              {
+                "id": "tr_1_tl_27_w12",
+                "coords": {
+                  "points": "1950,2503 1950,2563 2041,2563 2041,2503"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_27_w13",
+                "coords": {
+                  "points": "2063,2501 2063,2561 2117,2561 2117,2501"
+                },
+                "text": "are"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_28",
+            "coords": {
+              "points": "324,2637 2162,2641 2162,2550 1988,2587 1453,2564 1394,2600 1344,2555 871,2593 324,2561"
+            },
+            "baseline": {
+              "points": "337,2612 428,2612 519,2612 611,2612 702,2615 793,2609 885,2613 976,2615 1067,2615 1159,2617 1250,2615 1341,2615 1433,2618 1524,2618 1615,2618 1707,2618 1798,2618 1889,2618 1981,2621 2072,2621 2164,2621"
+            },
+            "text": "three sinks for the energy: vibrations, fluorescence and redox reactions. Vibrations (heat)",
+            "words": [
+              {
+                "id": "tr_1_tl_28_w1",
+                "coords": {
+                  "points": "324,2572 324,2632 413,2632 413,2572"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_28_w2",
+                "coords": {
+                  "points": "440,2572 440,2632 530,2632 530,2572"
+                },
+                "text": "sinks"
+              },
+              {
+                "id": "tr_1_tl_28_w3",
+                "coords": {
+                  "points": "552,2572 552,2632 604,2632 604,2572"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_28_w4",
+                "coords": {
+                  "points": "620,2573 620,2633 673,2633 673,2573"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_28_w5",
+                "coords": {
+                  "points": "694,2570 694,2630 842,2630 842,2570"
+                },
+                "text": "energy:"
+              },
+              {
+                "id": "tr_1_tl_28_w6",
+                "coords": {
+                  "points": "885,2575 885,2635 1096,2635 1096,2575"
+                },
+                "text": "vibrations,"
+              },
+              {
+                "id": "tr_1_tl_28_w7",
+                "coords": {
+                  "points": "1123,2575 1123,2635 1361,2635 1361,2575"
+                },
+                "text": "fluorescence"
+              },
+              {
+                "id": "tr_1_tl_28_w8",
+                "coords": {
+                  "points": "1398,2577 1398,2637 1461,2637 1461,2577"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_28_w9",
+                "coords": {
+                  "points": "1483,2578 1483,2638 1583,2638 1583,2578"
+                },
+                "text": "redox"
+              },
+              {
+                "id": "tr_1_tl_28_w10",
+                "coords": {
+                  "points": "1610,2578 1610,2638 1800,2638 1800,2578"
+                },
+                "text": "reactions."
+              },
+              {
+                "id": "tr_1_tl_28_w11",
+                "coords": {
+                  "points": "1816,2578 1816,2638 2017,2638 2017,2578"
+                },
+                "text": "Vibrations"
+              },
+              {
+                "id": "tr_1_tl_28_w12",
+                "coords": {
+                  "points": "2039,2581 2039,2641 2149,2641 2149,2581"
+                },
+                "text": "(heat)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_29",
+            "coords": {
+              "points": "318,2703 2134,2724 2134,2644 1933,2630 1700,2667 318,2655"
+            },
+            "baseline": {
+              "points": "331,2683 421,2689 511,2689 602,2689 692,2689 783,2689 873,2689 964,2692 1054,2692 1145,2692 1235,2692 1325,2692 1416,2692 1506,2692 1597,2693 1687,2694 1778,2695 1868,2695 1959,2695 2049,2695 2140,2692"
+            },
+            "text": "are insignificant, and redox reactions are synonymous with photosynthesis (Arnon 1968).",
+            "words": [
+              {
+                "id": "tr_1_tl_29_w1",
+                "coords": {
+                  "points": "318,2643 318,2703 364,2703 364,2643"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_29_w2",
+                "coords": {
+                  "points": "391,2649 391,2709 650,2709 650,2649"
+                },
+                "text": "insignificant,"
+              },
+              {
+                "id": "tr_1_tl_29_w3",
+                "coords": {
+                  "points": "677,2649 677,2709 738,2709 738,2649"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_29_w4",
+                "coords": {
+                  "points": "765,2649 765,2709 868,2709 868,2649"
+                },
+                "text": "redox"
+              },
+              {
+                "id": "tr_1_tl_29_w5",
+                "coords": {
+                  "points": "895,2652 895,2712 1066,2712 1066,2652"
+                },
+                "text": "reactions"
+              },
+              {
+                "id": "tr_1_tl_29_w6",
+                "coords": {
+                  "points": "1087,2652 1087,2712 1139,2712 1139,2652"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_29_w7",
+                "coords": {
+                  "points": "1165,2652 1165,2712 1414,2712 1414,2652"
+                },
+                "text": "synonymous"
+              },
+              {
+                "id": "tr_1_tl_29_w8",
+                "coords": {
+                  "points": "1436,2652 1436,2712 1508,2712 1508,2652"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_29_w9",
+                "coords": {
+                  "points": "1535,2653 1535,2713 1825,2713 1825,2653"
+                },
+                "text": "photosynthesis"
+              },
+              {
+                "id": "tr_1_tl_29_w10",
+                "coords": {
+                  "points": "1847,2655 1847,2715 1981,2715 1981,2655"
+                },
+                "text": "(Arnon"
+              },
+              {
+                "id": "tr_1_tl_29_w11",
+                "coords": {
+                  "points": "2013,2654 2013,2714 2137,2714 2137,2654"
+                },
+                "text": "1968)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_30",
+            "coords": {
+              "points": "318,2779 1385,2781 1385,2719 318,2728"
+            },
+            "baseline": {
+              "points": "331,2761 384,2764 437,2764 490,2764 543,2762 596,2761 649,2764 702,2765 755,2767 808,2767 861,2764 914,2764 967,2767 1020,2767 1073,2765 1126,2762 1179,2761 1232,2767 1285,2768 1338,2769 1391,2770"
+            },
+            "text": "In the steady state, conservation of energy requires:",
+            "words": [
+              {
+                "id": "tr_1_tl_30_w1",
+                "coords": {
+                  "points": "323,2721 323,2781 349,2781 349,2721"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_30_w2",
+                "coords": {
+                  "points": "375,2724 375,2784 422,2784 422,2724"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_30_w3",
+                "coords": {
+                  "points": "449,2723 449,2783 563,2783 563,2723"
+                },
+                "text": "steady"
+              },
+              {
+                "id": "tr_1_tl_30_w4",
+                "coords": {
+                  "points": "590,2723 590,2783 688,2783 688,2723"
+                },
+                "text": "state,"
+              },
+              {
+                "id": "tr_1_tl_30_w5",
+                "coords": {
+                  "points": "715,2725 715,2785 965,2785 965,2725"
+                },
+                "text": "conservation"
+              },
+              {
+                "id": "tr_1_tl_30_w6",
+                "coords": {
+                  "points": "992,2727 992,2787 1028,2787 1028,2727"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_30_w7",
+                "coords": {
+                  "points": "1044,2722 1044,2782 1174,2782 1174,2722"
+                },
+                "text": "energy"
+              },
+              {
+                "id": "tr_1_tl_30_w8",
+                "coords": {
+                  "points": "1206,2728 1206,2788 1383,2788 1383,2728"
+                },
+                "text": "requires:"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_31",
+            "coords": {
+              "points": "622,2865 916,2900 994,2856 1334,2856 1385,2888 1533,2861 1533,2792 1010,2813 951,2785 855,2811 622,2783"
+            },
+            "baseline": {
+              "points": "635,2830 680,2839 725,2845 770,2845 815,2842 860,2839 905,2839 950,2842 995,2842 1040,2842 1086,2842 1131,2839 1176,2839 1221,2839 1266,2842 1311,2842 1356,2842 1401,2842 1446,2842 1491,2845 1537,2842"
+            },
+            "text": "Eabsorbed - Efluoresced + Ephotosynthesis",
+            "words": [
+              {
+                "id": "tr_1_tl_31_w1",
+                "coords": {
+                  "points": "624,2804 624,2864 825,2864 825,2804"
+                },
+                "text": "Eabsorbed"
+              },
+              {
+                "id": "tr_1_tl_31_w2",
+                "coords": {
+                  "points": "850,2799 850,2859 861,2859 861,2799"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_31_w3",
+                "coords": {
+                  "points": "899,2802 899,2862 1125,2862 1125,2802"
+                },
+                "text": "Efluoresced"
+              },
+              {
+                "id": "tr_1_tl_31_w4",
+                "coords": {
+                  "points": "1156,2799 1156,2859 1168,2859 1168,2799"
+                },
+                "text": "+"
+              },
+              {
+                "id": "tr_1_tl_31_w5",
+                "coords": {
+                  "points": "1193,2802 1193,2862 1523,2862 1523,2802"
+                },
+                "text": "Ephotosynthesis"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
