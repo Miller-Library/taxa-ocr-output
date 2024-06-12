@@ -1,0 +1,22 @@
+Results
+Because eugenol wears off eventually, larvae were able to move although embedded in
+agar. Movement events (amplitude of electrode deflection) were fairly large (about 40x) in
+comparison to neural events and were therefore easier to separate out from the background noise.
+In general they tended to be long events, with multiple peaks that had both positive and negative
+deflections. Neural activity was not looked at in as much detail as movement because due to
+sampling frequencies and smaller amplitudes it was harder to distinguish from noise
+From the recordings, I was able to extract signals from the nosie. The Power Density
+Spectra (PDS) shows the relative abundance or amplitude of a given frequency for a given trace
+In contrast to a fast Fourier transformation, it uses a sliding box to calculate the relative
+abundances. Because the PDS is relative for each trace, a difference in the shape of the curves
+rather than in the magnitude of power shows the differences in the amplitude of a given
+frequency. Figure 3 shows a difference between movement traces and baseline noise between 10
+and 60Hz.
+plotted the PDS for spontaneous activity in the light versus activity in the dark (fig. 4).
+LI and L2 dark reared larvae are shown to have similar movement frequencies. L2 ambient light
+reared larvae also has these movement frequencies as well as a greater abundance of higher
+frequency movements in the dark and lower frequency movements in the light. In general
+however, activity levels are consistent in the light versus the dark for all three rearing conditions.
+In response to photic stimulation, there is a difference between ambient light and dark
+reared larvae. The response to the initial flash and the one 30 seconds later in both rearing
+conditions was similar. It tended to be long (40-60 ms) and was large in amplitude with multiple

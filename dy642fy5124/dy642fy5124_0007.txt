@@ -1,0 +1,24 @@
+The phytoplankton biomass is incremented weekly. The original model
+added 95% of the calculated weekly production to the previous week's biomass.
+5% of the production was assumed to be lost from the system as dissolved organic
+matter (DÖM). Running the model with these figures, however, resulted in
+unreasonably high phytoplankton populations. The final model still subtracts 5%
+of each week's production, but adds only 25% of the remaining production to the
+week's biomass. The portion of production not taken up by phytoplankton
+probably goes to support grazer populations, for which this model does not yet
+account.
+The biomass calculation has two loss terms: detrital fallout - nutrients
+totally lost from the system - and recycled matter - nutrients remaining in the
+euphotic zone but no longer incorporated in living phytoplankton. Both terms
+include many natural processes, but this model does not distinguish these
+processes.
+For steady state to be maintained, the nitrogen lost from the system must
+equal the upwelled nitrogen. Little is known, however, about the time span over
+which equilibrium is reached. The model was run several times with different
+input values to determine a reasonable value for this time lag. Exporting NO3
+one week after it was upwelled resulted in a constant phytoplankton population,
+because all production was immediately lost as fallout. On the other hand, if the
+lag time for NO3 loss was too long, the simulated population grew well above
+observed limits. The best estimate for the lag time appears to be one month.
+The model therefore equates detrital fallout to NÖ3-supported phytoplankton
+growth from four weeks previous.

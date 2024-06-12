@@ -1,0 +1,26 @@
+computer program which analyzed the image according to the grid
+method used by Mandelbrot (1982), Sugihara and May (1990), Morse et
+al (1985), and Shorrocks et al (1991). A square grid divided into
+4 smaller squares is fit around the image of the trace. The number
+of squares the image enters is counted. Then each small square is
+divided into four and the number of squares containing part of the
+outline are again counted. This process is repeated n times such
+that the final number of squares will equal 2'n. The natural
+logarithm of the number of squares entered at each level n is
+plotted against the natural logarithm of the length of a side of
+the smallest individual square. The negative slope of this log-log
+plot is the fractal dimension of the image.
+A centimeter scale was photographed with each alga so that the
+tracing could be scaled to life size. An n of 4 or 5 was used for
+analyzing M. papillatus, depending on the size of the tracing.
+This number of levels gave a smallest square size between 2 and 2.5
+mm, which most closely approximates the body size of the snails
+being counted, and is therefore an estimate of the scale at which
+this species experiences and uses its habitat.
+The natural logarithm of the fractal dimension of each alga
+collected at the lower tidal height was plotted against the natural
+log of the density of snails between 1 and 3 mm in size. A plot
+was made with and without samples weighing less than 1.75 grams.
+Algae that were uninhabited by snails were left out of the analysis
+to exclude algae that were potentially undesirable places to live.
+A separate test was conducted to determine whether the fractal

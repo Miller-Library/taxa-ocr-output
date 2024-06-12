@@ -1,0 +1,25 @@
+Appendix
+Below is a schematic that explains how the computer quantifies bands. It was
+taken from page 112 of the Pharmacia ImageMaster"" 1.0 Software manual.
+In calculating band quantitation, the average optical density (O.D.) is first
+determined across a row of pixels in a band. A specified band has N number of average
+O.D. values. N is determined by band height. The wider apart the brackets, the more
+average O.D. values will be included in the quantitation calculations.
+The density trace is the average O.D. values that are plotted versus the width of
+the band. The last step in calculating band quantitation is integrating under the curve to
+the baseline, thereby giving units of O.D. x mm which is reported in the Abstract.
+Band Quantification Method
+Sample Width
+
+Banc
+Height
+Lane Trace
+Average pixel's O.D.
+Average O.D.
+across Sample Width
+re
+Plot Lane or Show Band
+Integrate under curve to baseline
+O.D. x cm).
+r banc
+LAN

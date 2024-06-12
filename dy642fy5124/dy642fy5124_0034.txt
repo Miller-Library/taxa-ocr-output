@@ -1,0 +1,5 @@
+nl; nt;
+write"After each month's values are printed, the simulation will pause."); nl;
+write"If, at this point, you would like to enter a new value for the phytoplankton"); nt:
+write"population, type in that value. Otherwise, enter zero."):
+return c;

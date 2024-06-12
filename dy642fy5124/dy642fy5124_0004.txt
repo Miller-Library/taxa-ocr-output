@@ -1,0 +1,23 @@
+MATERIALS & METHODS
+This model of primary production in Monterey Bay derives weekly
+phytoplankton biomass values and production rates from known environmental
+conditions (Figure 1 & Table 1). The model is written in Turbo C (Appendix 1).
+It runs for a user-selected number of years. Instead of running a full simulation,
+the user can opt to set fallout to zero (allowing for exponential growth) or to hold
+the phytoplankton biomass constant.
+WEEKLY PRODUCTION
+In Monterey Bay, nitrogen, supplied as either nitrate (NO3) or ammonia
+(NH4), is thought to be the limiting nutrient in photosynthesis. Upwelling is the
+primary source of surface water NO3 in the bay. Although some nitrogen may
+diffuse upward across the nutricline, and some may be carried in fresh water
+runoff, these terms are considered negligible.
+Ekman’s theory (Ekman, 1905, quoted in Mendo, et al., 1987) provides the
+algorithms used in calculating the mass of water upwelled per time interval.
+Values are determined as follows, using the Coriolis parameter (f) for this
+latitude, and the monthly-mean wind stress (r) off the California coast (Breaker
+& Broenkow, 1987)
+E = 1/f
+f=2() * sin(37)
+(Bakun, 1973, quoted in Mendo, et al., 1987)
+In the equation for f, is the angular velocity of the earth’s rotation, and 37 is the
+latitude in degrees. Because the wind parallels the coastline, the entire wind

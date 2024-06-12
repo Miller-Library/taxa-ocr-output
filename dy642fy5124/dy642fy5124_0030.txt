@@ -1,0 +1,52 @@
+75, 90, 95, 98, 100);
+N = 14*(32.9-(.172“ (double) isoImol));
+/* 14 is M ut of N, 32.9... is equation generated from
+/* MBARI unpubl ished data relating depth of 10-deg
+/ to concentration of NO3 at depth (r =.99)
+/* calculate weekly upwelling
+upwell = arrows(mo);
+return((.25“upwel l“N“3600“24“7.5/25280)*5.8):
+/ assume 25% of water flows into the bay (half flows
+/" out, half lost to advection)
+/* mg N/m/s * s/hr * hr/day * day/wk * 1/mngg
+/ (25280 - approx. width of bay) -- accounts for
+/ diffusion
+/* calculates weekly upwel ling
+double arrows(int n)
+double x;
+int af131 = (0, 7, 28, 38, 50, 64, 59, 42, 46, 40, 29, 12, 7);
+/* Lengths of wind arrows (Breaker & Broenkow)
+x = ((double) alnl)/10;
+X *= (.5/4);
+/ convert to Dynes
+return((x/(2“(7.29e-5)“(.602)))"(1e-4));
+/ upwelling eg'n from Mendo, et al.
+/ results in volume upwelled m'3/s/m(coastline)
+/* .602 = sin(latitutde)
+/" finds weekly production
+void find prodn(int box)
+double new = 0:
+if (ctbox « Ntdboxl) (
+prodnIbox - Ctdboxl;
+/* if production is biomass limited, find new and total */
+new = (prodnIbox) « 6250) ?
+((.0025*.048)* (prodn Iboxl*prodn Iboxl)) : (prodn Ibox)*.75);
+/* Eppley equation for ratio of new:total prodn (using
+/ a max of .75 instead of .5)
+/ decrement NO3 pool by amount of new prodn
+Npool -- new;
+recyc tbox) - prodnIboxl - new;
+else (
+prodnIbox = Ntdboxl;
+recyc boxl - prodnIbox) - N pool;
+/* if NO3 is limiting, assume all is used (pool=0)
+N pool = 0;
+void find C out (int yr, int box)
+int temp box - ((yr » 1) &a (box « 5)) ? (48 + (box-4)) :
+((yr == 1) &ampap; (box « 5)) ?
+: (box - 4);
+/* if Jan, yr»1, wk-4 = a wk in Dec, yr-1
+double DOM = nuts lost * prodnIboxl;
+/* 5 of each week's production lost as DOM
+C out Iboxl = (.25 * (prodnItemp boxl - recycItemp boxl)) + DOM,
+/* Major loss term is previous month's new production */

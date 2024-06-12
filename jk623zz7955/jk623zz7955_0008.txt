@@ -1,0 +1,21 @@
+8 1 Pns Rne
+where A is the surface area of the cell. The Variing term in this equation refers to the
+driving force, which is equal to the command voltage minus the reversal potential, which
+was estimated using tail current readings (data not shown). Eq. 1 was applied to each of
+the traces for lgand Iks. While this equation gives more accurate traces than
+compensation accomplished through offsetting the membrane command voltage by Ipeak
+Rseres for each step, the fraction within the denominator tends to amplify noise for small
+currents and small driving voltages. Therefore the traces from stimuli that elicited no
+discernable increases in conductance were removed from the each series. The
+calculations were also made without series resistance compensation to assess its
+significance. As shown in Fig. 9, for large depolarizations there is a significant offset due
+to series resistance. Fig. 10 shows the final, compensated conductance traces as
+calculated for both Igr and Iks.
+Characterization of Ixt
+The procedure used for estimating the various parameters utilizes two
+simultaneous approaches to the same values. First, approximations of the values are
+made by fitting single exponentials to specific regions of curves for large depolarizations,
+(to be explained in more detail later). These values are then used as the initial guesses for
+parameterized functions that are then fit iteratively using a computer program
+(NEURON, developed by Michael Hines and John W. Moore at the Department of
+Neurobiology, Duke University). Because the empirical approximations are only

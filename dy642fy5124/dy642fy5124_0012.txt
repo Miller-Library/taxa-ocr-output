@@ -1,0 +1,26 @@
+11
+Because the total quantity of nutrients is limited, both in nature and in the
+model, allowing them to pass quickly through the cycle (i.e. never "trapping" them
+in grazer populations) increases their availability, and therefore increases
+nutrient limited production. This allows the phytoplankton population to grow
+well beyond natural limits. Maintaining a large grazer population would
+introduce a lag time in nutrient cycling; nutrients used in production would not
+immediately be available again. This, in turn, would decrease the simulation's
+maximum biomass predictions. Potentially, this correction could also decrease
+the six week time difference between predicted and actual peaks in production.
+Unfortunately, this correction is not as easy as it may seem, because little data is
+available on grazing rates or zooplankton biomass in the bay.
+There are many other possible explanations for the errors in biomass
+predictions. For instance, the current model determines the quantity of recycled
+nitrogen (in the form of ammonia) from production equations, using a ratio of
+new:total production. Phytoplankton biomass is ignored. In nature, the
+availability of recycled nutrients clearly depends on phytoplankton and grazer
+populations, as these nutrients result from the decomposition of organisms and
+from excretion. Adding this dependence would improve the model's predictive
+capability.
+The detrital fallout term, which includes all organic matter leaving the
+euphotic zone, should also be a function of biomass. As with recycled nitrogen
+levels, fallout is more closely related to population size than to production. The
+model now exports an amount of detritus equal to the production from four
+weeks previous. In fact, this term should vary with biomass; it should be greater
+than production when the phytoplankton biomass (and therefore grazing) is high,

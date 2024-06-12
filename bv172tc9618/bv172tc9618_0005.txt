@@ -1,0 +1,28 @@
+time after which visually obvious changes in pattern morphology could no
+longer be distinguished, I was able to estimate sanddab acclimation rate
+to a new substrate
+Digital image processing was used to analyze a few representative
+photographs as a demonstration that this technology may be applied as a
+valuable complement to other forms of photographic analysis. The image
+processing was conducted on the MegaVision 1024-XM computer with
+input from a video camera. Photographic images were stored in 1024 X
+1024 arrays of pixels, with each pixel assigned a gray value from 0
+(black) to 255 (white).I selected pre- and post-acclimation photos for
+one rocky fish placed on sand and for one sandy fish placed on rock (see
+Figures 4 & 5, respectively), Histograms of the gray scale values for a
+small area around the same eyespot on each fish were obtained to
+compare how this specific area changed af ter 8 days of acclimation to a
+different substrate. Histograms of gray scale values for equal sized
+areas of sand and rock were also obtained for comparison of the two
+substrates. The command "scanner" was used to input the video image of
+the black and white print into one of the temporary memories. "Polygon
+was used to create a template so that several photographs of the same
+fish could be aligned. This command was then used to create a sample
+area for the analysis of gray scale values from an image. "Hpolygon
+created a histogram of gray scale values from the image within the
+polygon. "Hlist" was used to obtain the raw data from the histogram,
+which was stored onto a floppy disc and transferred to Lotus for
+graphing. To compensate for differences in exposure or development of
+the photographs, "sample" was used to obtain point readings of gray scale
+values from the image, and "mapper" was used to equalize existing
+differences.

@@ -1,0 +1,23 @@
+Data Normalization and Analysis
+Data analysis was completed using GeneSpring software (GeneSpring, Liverpool). Per¬
+spot normalizations were used to normalize the treatment samples to the reference by dividing
+the intensity of the Cy-5 signal at each spot by the intensity of the Cy-3 signal at that spot. Per-
+chip intensity-dependent Lowess normalization was also applied. This procedure divides the
+intensity of the signal for each gene by the median intensity for the chip, in order to reduce the
+effects of experimental variation across the chip.
+Following these normalizations, the "Normalize to Specific Samples" function in
+GeneSpring was used to normalize the elevated temperature samples (20.1 -36.2° C) for each
+animal to the median of the two control chips for that animal. This normalization divided the
+intensity of a given spot on the treatment array by the intensity of the same spot on the control
+arrays.
+Environmental Temperature Monitoring
+The temperature records used in this study were measured with iButton temperature
+recorders (Dallas Semiconductor, Dallas). A single iButton was epoxied on the rock next to the
+mussel bed where experimental animals were collected. iButtons were placed inside of two
+müssel shells filled with silicone sealant, which has been shown to approximate the heat capacity
+of mussel tissue (Helmuth and Hofmann, 2001). These shells were epoxied next to the mussel
+bed to track simulated body temperatures. The iButtons were in the field between 4/23/04 and
+5/13/04.
+RESULTS AND DISCUSSION
+As this was the first experiment to use the Mytilus microarray, and because the RNA
+yield from each tissue sample was limited by the small mass of tissue used (1/8" of a gill), some

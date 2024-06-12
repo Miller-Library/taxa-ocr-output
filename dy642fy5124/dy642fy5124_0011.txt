@@ -1,0 +1,24 @@
+10
+DISCUSSION
+Primary production in Monterey Bay is far more complex than this model
+suggests. The only independent variables used in the model are
+photosynthetically active radiation (PAR), wind stress and isotherm depth. The
+euphotic zone in the bay is influenced by many other environmental factors.
+Similarly, the model only follows phytoplankton populations, while in the bay,
+population dynamics depend on the interactions of many different groups of
+organisms.
+Given the simplicity of the model, the accuracy of the simulation is
+interesting. Why should primary production in the bay be predictable using only
+nitrate concentrations and light levels? Possibly, the model's algorithms, although
+simplistic, already include the most important factors regulating production. If
+nitrate were not the limiting nutrient in the bay, nitrate concentrations would not
+correlate to primary productivity. Similarly, if sunlight were not limiting, light
+levels would be irrelevant in predicting production. The fact that these variables
+are sufficient to calculate productivity implies that they are regulatory.
+The model is less successful in predicting biomass than weekly production;
+peak biomass figures are overestimated by a factor of three. Adding a grazer
+population would partially eliminate this inaccuracy. In nature, photosynthesis
+supports not only the producers themselves but also populations of heterotrophs
+and carnivores. By contrast, in this simulation, production is briefly incorporated
+in the phytoplankton population and then immediately recycled or lost as
+detritus.

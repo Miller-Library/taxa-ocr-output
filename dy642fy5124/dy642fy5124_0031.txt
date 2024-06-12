@@ -1,0 +1,42 @@
+/* (still no explanation for incorporating 252 of prodn */
+void find phyto(int opt, int box)
+suitch(opt) (
+case 1: phytolbox + 11 - phytoIboxl; break;
+/user opted to hold biomass constant
+case 2: phytoIbox + 11 - phytolboxl + prodnIboxl; break
+/user opted to set fallout to ero
+case 3: phytofbox + 11 = max((phytolboxl + (.25 * prodnlboxl)
+C out Ibox) - (.25 * recyc Iboxl)),600); break;
+/" user opted for full simulation
+void get new(int yr, int mo, int box)
+/ user opted to enter new weekly values
+float temp;
+write"(data for month 22d, week 22d)", mo, (box-(mo-1)"4)); nl;
+write"Neu biomass value: ");
+scanf ("Zf", &temp);
+/* If user entered non-zero value, show change */
+if (temp » 0) (
+phytoIbox = temp;
+temp = 0;
+ukly output (yr, box);
+void ukly output(int yr, int box, FILE *fp2)
+if ((yr == 1) &ap (box == 1)) (
+write" Cltd Nltd Npool prodn recyc C out phyto"); nl;
+if (box == 1) (
+urite"YEAR = Zd",yr); nl;
+write“z10.2f 210.2f 210.2f 210.2f 210.2f 210.2f 210.2f“,
+Ctdbox,Ntdbox,Npool, prodnIbox, recyc Ibox),
+C out Iboxl, phyto Iboxl); nl;
+/* temporary record of NO3 pool for NO3 figure */
+fprintf(fp2, "210.2fn", N pool);
+void output (FILE *fp1)
+void convert();
+int box:
+/* convert from carbon biomass values to chl*
+convert (0);
+for (box=1; box48; box*)(
+fprintf (fpl, "22.Of 210.2f 210.2f 210.2f 210.2f 210.2f 210.2f 210.2fn“,
+(double) ((box-1)/4)-1,tbox,Ntdbox,Nupboxl,
+prodnIboxl, recyc Iboxl,C out Iboxl, phyto sboxl);
+convert back to carbon
+convert (1);

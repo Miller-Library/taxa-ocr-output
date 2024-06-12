@@ -1,0 +1,27 @@
+Figure Legend
+Figure 1. A map of Monterey Bay showing the distribution of stations used by MBARI
+in the first data set. Data from these stations is used to create the regression equations.
+Figure 2. A map showing the distribution of stations used by MBARI in the second data
+set. Data from these stations is used to test the equations created by the multiple
+regression techniques. An 'X" shows stations included in the test data set. An "O"
+shows those stations where additional data is available, yet not included in this study.
+Figure 3. Plot of observed versus expected primary productivity.. Observed values are
+from the second MBARI data set and the expected values are generated using the
+model 2 regression equation,
+int carbon= 5.72 + 0.00029'PAR + 0.33'In(surface chl + surface phaeo)
+The correlation coefficient, r=0.54 is significant at the 1% level.
+Figure 4. Plot of observed versus expected primary productivity. Observed values are
+from the second MBARI data set and the expected values are generated using the
+model 4 regression equation,
+int carbon= 3.54 + 0.00024*PAR + 0.65*In (int chl) + ).063'surface phaeo
+The correlation coefficient, r=0.77, is significant at the 1% level.
+Figure 5. Plot of primary production in Monterey Bay and the composite variable, PAR
+multiplied by integrated chlorophyll. The numbers in parentheses by certain data
+points, indicate the Julian day on which the data was collected and the station at which
+the measurements were made. Only the data from summer cruises at stations HI and
+CI are labelled.
+Figure 6. Plot of primary production in Monterey Bay and the composite variable, PAR
+multiplied by integrated chlorophyll. The labelled points shown in figure 5 are edited
+out, increasing the correlation coefficient from 0.81 to 0.83. For clarity, a logarithmic
+scale is used to spread out the clustered points and to show the relationship more
+clearly.

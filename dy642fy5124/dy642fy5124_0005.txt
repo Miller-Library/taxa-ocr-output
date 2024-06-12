@@ -1,0 +1,24 @@
+stress contributes to upwelling. Upwelled water is assumed to originate at a
+depth of fifty meters (Barber & Smith, 1981).
+Upwelled water brings with it some mass of NO3 per unit volume. This
+concentration is determined according to the equation:
+[NO3 = 32.9-.172(z) (r = 0.998)
+where z is the depth of the ten-degree isotherm (Breaker & Broenkow, 1987).
+This value, multiplied by the volume of water upwelled, predicts the amount of
+NO3 carried upward into the euphotic zone.
+Upwelling primarily occurs in the mouth of the bay (Figure 2). The above
+equations calculate the mass of NO3 upwelled per meter of coastline. Of the
+water in which this NO3 is dissolved, at most half flows into the bay; the
+remainder flows into the open ocean. Advection further decreases the supply of
+nitrogen to the euphotic zone. To account for these factors, this simulation
+divides the total amount of upwelled NO3 by four. The result is a mass of NO3
+available for primary production in the bay per meter of coastline, per week. The
+model then divides this figure by the mean width of the bay in order to simulate
+diffusion over the bay. Finally, since phytoplankton incorporate approximately
+six times as much carbon as nitrogen, the model multiplies the upwelled NO3 by
+5.8 to convert to "carbon equivalents."
+The model then derives a value for total, nitrogen limited, primary
+production - that is, production supported both by "new" nitrogen (upwelled
+NO3) and by NHA recycled by heterotrophs. According to Eppley and Peterson
+(1979), new and total production are related by:
+new/total =.0025(total)

@@ -1,0 +1,70 @@
+lose.C
+tincludestdio.h»
+tinctudesmath.h»
+tdefine min(x,y) ((x « y) ? (x) : (y))
+define max(x,y) ((x » y) ? (x) : (y))
+tdefine nl printf("An")
+tdefine write printf (
+tdefine nuts lost.01
+tdefine depth 50
+tdefine MAX 25
+char 'get file();
+/* phyto is actual biomass; N up is upuelled N
+double phyto t501, N up1491
+/* Ntd is N-limitted prodn for current mo
+Ntdt491, Npool
+/C ltd is biomass-limitted prodn for current mo
+C tdt491, prodn1491
+/ prodn is current mo's total photosynthesis
+C out 1491, recyc 1491;
+/*C out is amount of (mo-1)'s biomass lost from phyto
+/ recyc is amount of (mo-1)'s biomass incorporated in
+/ current mo's prodn
+int options(), num yr();
+void
+clear(), find N prodn(), find C prodn(),
+find prodn(), find Cout(), find phyto(),
+get new(), wkly output(), output();
+main()
+int i, yr, mo, wk, box, opt;
+char file name,c;
+FILE *fp1, *p2, fopen():
+/* Get ouput file name from user
+file name  get file(); nt;
+i = num yr();
+/* Ask user how many years to run simulation
+/ and which type of simulation to run
+opt - options():
+if (opt == 3) (
+/* if full sim., does user want to enter own
+c yes or no(); nl; nl;
+/* weekly biomass values?
+) else c - 'n';
+/User's outut ile
+fpl = fopen(file name, "w")
+fp2 - fopen("nitrate", "w");
+/* Temporary output file in which nitrate pool
+/" data is stored (used in NO3 pool comparisons)*/
+for (yrel; yrsi; yr+*) (
+clear(yr);
+/* twelve month year (30 days per month)
+for (mo=1; moc=12; mo+) (
+for (wk=1; wka-4; wk-*)
+/* four weeks per month =» 7.5 days per week
+/* given week in given yr (cycles from 1 to 48)
+box - (mo-1)*4 + wk:
+find C prodn(mo, box);
+/* find biomass and nutrient limits on prodn
+find N prodn(mo, box); /* (also finds recycled term for current wk)
+/" production = min(N td and C ltd)
+find prodn(box)
+/* find prodn and carbon fallout for current wk
+find C out (yr, box);
+/* find biomass values for current wk
+find phyto(opt, box)
+ukly output(yr, box, fp2);
+/* prints out weekly values for all variables
+if ((  y')  ( = ))
+get new(yr, mo, box);
+/* if user opted to enter weekly values, get
+/* value and re-print weekly values

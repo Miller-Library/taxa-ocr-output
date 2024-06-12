@@ -1,0 +1,21 @@
+3) There is no selection between genotypes
+4) There is no differential immigration or emigration of genotypes
+5) There is no mutation.
+In Hardy-Weinberg equilibrium, the genotypes will maintain a stable equilibrium with
+genotype frequencies of AA = p’, Aa = 2pq, and aa = q', where A and a are alleles, p is
+the gene frequency of A calculated from observed values, and q is the gene frequency of a
+also calculated from observed values (Murphy, et al., 1996).
+The test for Hardy-Weinberg equilibrium involves comparing the expected number
+of genotypes, which are calculated from the values of p", 2pq, and qu', with the observed
+numbers using the X2- test (Richardson, et al., 1986). The calculations for testing the San
+Diego population for Hardy-Weinberg Equilibrium were as follows:
+ÖBSERVED VALUES: 18 Homozygous Slow, 10 Heterozygous, 2 Homozygous Fast
+p (slow) = (2 x18 + 10)/2n = 0.77
+q (fast) = 1 - 0.77 = 0.23
+p==0.593, 2pq =0.354, q’=0.053
+EXPECTED VALUES = (expected genotype frequency) x (+ of individuals screened)
+17.8 Homozygous Slow, 10.6 Heterozygous, 1.6 Homozygous Fast
+X* Value = L (Observed-Expected)'/Expected = 0.1391
+Critical value (o5, 1) = 3.841
+0.1391 is less than 3.841, so the X* Value is not significant.
+Therefore, the population is in Hardy-Weinberg Equilibrium

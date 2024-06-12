@@ -1,0 +1,46 @@
+Foncs.C
+tincludeconio.h»
+tdefine write printf(
+tdefine nt; printf("n")
+tdefine MAX 25
+void cirscr(void);
+/*Gets an output file name from the user
+char get file(void)
+char file name, malloc();
+crscr();
+write"This program simulates primary production in the bay ");
+write"for a given"); nt;
+urite"number of years."); nl:
+file name = (char *)malloc(MAX * sizeof (char));
+/ allocates memory space for the file name "/
+write"Where would you like the data stored? (Please enter a file name.)"); nl;
+scanf ("Zs", file name); nl;
+return(file name)
+/Asks user how many years to simulate
+int num yr()
+int i
+urite"How many years would you like simulated? ");
+scanf ("Zd", &i); nt; n;
+return i;
+/* Asks user which type of simulation to run *
+int options()
+char c, yes or no();
+int i;
+urite"Would you like to:"); nt;
+write"1.) hold biomass constant (i.e. keep production ");
+write"biomass-limited)?"); nt;
+write"2.) set fallout to zero (i.e. allow biomass to grow exponentially)?"); nl;
+write"3.) run a full simulation?"); nl; nl;
+write"Please enter 1, 2, or 3."); nl;
+scanf ("Zd", &i); nl;
+crcr();
+return i;
+/If full simulation, asks user whether to
+char yesorno()
+/* pause for user-input biomass values
+char c;
+int getche();
+write"Would you like to be able to enter your own monthly values for "); nl;
+write"phytoplankton population? (y/n) ");
+c = (char) getche():
+if (( = y) | ( =))(

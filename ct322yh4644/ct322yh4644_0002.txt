@@ -1,0 +1,26 @@
+INTRODUCTION
+The use of fractal geometry to describe the physical environment in ecosystems has become
+increasingly useful as more and more fractal patterns are observed in nature. (Sugihara and May. 1990).
+Fractal geometry has been used to model the growth of species of algae, the measurement of coastlines
+(Sugihara and May, 1990) and the pore/grain ratio of sedimentary and carbonate rocks (Krohn, 1988).
+Fractal geometry has several important aspects but the two that are most pertinent to ecological
+studies are Ithe characteristic of self-similarity and nested patterns and 2)the characteristic of scale
+dependent length. Self similarity is the concept of texture within texture. A profile, for example, may have
+à certain pattern to it; if, when that profile is viewed on a smaller scale the same pattern is present, that
+outline has a fractal nature. Self similarity also suggests that no matter what scale is used to view the outline
+à similar pattern exists. In mathematics, fractal patterns can be exactly self-similar on every scale; but in
+nature outlines and surface areas that have a fractal dimension are only statistically self similar because the
+pattern is not precisely the same at each scale (Sugihara and May, 1990).
+Self similarity contributes to the second important characteristic of fractal dimension: scale
+dependent length. As the scale at which a fractal outline is viewed decreases the detail increases. Each
+decrease in scale produces an exponential increase in the measured length of the outline (Morse et al.
+1985). Total length, L, is dependent on scale length
+L(r)= r exp(1-D),
+(1)
+where r=scale length and D= fractal dimension (Morse et al, 1985). The methodology of computing fractal
+dimensions devised by Mandelbrot (1983) makes it possible to calculate dimension relatively easily: take a
+profile of a surface and enclose it in a square box with a certain size, S, measured as the length of a side. To
+obtain the fractal dimension at a particular scale L divide the box into (S/L)exp2 boxes each with a side
+length of L. Count the number of boxes in which the line appears. Plot the natural log of the number of
+boxes that contain at least one point as a function of the natural log of the scale length l. The fractal
+dimension is (-1) multiplied by the slope of this line.

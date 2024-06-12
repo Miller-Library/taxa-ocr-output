@@ -1,0 +1,23 @@
+Recycled nitrogen (NH4)- the final term used in calculating biomass - is
+simply set equal to the difference between total production and new production.
+Because the model adds only 25% of weekly production to weekly biomass, only
+25% of the recycled nitrogen is subtracted each week.
+The final equation for phytoplankton population is:
+phyto (wk+1) - phyto(wk) +25(prodn(wk)-recy(wk))-detritus(wk)
+where
+detritus(wk) = new production(wk-4)
+and
+recyc (wk) - production(wk)- new production(wk)
+Before discussing the results of the simulation, there are several
+underlying assumptions that require justification. First, the model ignores the
+accepted equations relating photosynthesis to changes in temperature. This
+probably does not introduce significant error, given the relative constancy of the
+water temperature in Monterey Bay. The model also disregards the relationship
+between phytoplankton density and euphotic zone depth. Although the
+extinction coefficient for chlorophyll a is actually quite high, Platt’s equation for
+production as a function of PAR already factors in this consideration. Adjusting
+the model's PAR values for phytoplankton density would therefore be redundant.
+The final, and most questionable assumption is that light and nitrogen level are
+the most important variables influencing primary production in the bay. This
+assumption is not obvious, but the relative accuracy of the model’s predictions
+supports its validity.

@@ -1,0 +1,24 @@
+for total production « 200 (gC/m2year). For total production greater than this
+amount, this model uses the ratio:
+new/total =.75
+(modified from Eppley and Peterson, 1979, using Dugdale, 1985).
+In the bay, phytoplankton growth is sometimes limited by light rather than
+nitrogen availability. This model therefore calculates a weekly light limited value
+for production using Platt, et al.’s equation:
+biomass
+Prodn = (0.069 + 0.45(1o)
+(mg Chlam?
+(1988). lo is the incident radiation (Einsteins/m2). The biomass is converted
+from mg carbon to mg chlorophyll a according to a variable ratio (Figure 3). This
+ratio changes with season because phytoplankton produce more chlorophyll a per
+unit carbon during the winter months, when light levels are lower. Total
+production is the smaller of this light limited value and the nitrogen limited value
+calculated above.
+During execution, the model keeps track of a NO3 pool in the euphotic
+zone. At the start of each week's calculations, the NO3 upwelled is added to this
+pool. If production for the week is nitrogen limited, the pool is totally depleted-
+i.e. set to zero. If production is biomass limited, Eppley and Peterson's ratio
+(described above) is applied to determine the amount of production supported by
+NO3. The NO3 pool is then decremented by this amount. Any NO3 left in the
+pool is used in the next week's production calculations.
+BIOMASS

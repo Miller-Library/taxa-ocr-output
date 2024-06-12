@@ -1,0 +1,22 @@
+(essentially, Fick's second equation of diffusion applied to the conduction of heat,
+Incropera and DeWitt 2002).
+Construction of heat-budget model. Combining these various heating and
+cooling factors via equation (2), one can solve for the predicted body temperature
+at any time, given the instantaneous environmental conditions and the nature of
+the limpet. A computer program can then model the body temperature over
+many years based on seasonal, daily, and tidal variation. I entered the data from
+the Nusselt and Reynolds results (anterior-facing-wind data only), absorptivity,
+representative limpet size, and the constants listed in Table 2 into a generic
+limpet heat-budget model devised by M. Denny, which assumes that the limpet is
+on a planar surface of known inclination and azimuth.
+This program outputs one body temperature for every 10 minutes, as well
+as a list of when and for how long the model limpet body temperature exceeded
+30°C, and what the maximum temperature was in each stressful period.
+modeled the body temperature for 36 years of hypothetical weather, for limpets
+1.5 and 2 m above mean lower low water (MLLW) on a vertical rock surface
+facing west. Comparing my thermal tolerances to the heat-budget model
+provides a prediction of how near L. digitalis lives to its temperature limits.
+Results
+Thermal limits. In the ten-minute survivorship trials, all Lottia digitalis tested at
+41°C or lower had resumed responding 24 hours later. All those tested at 45°0
+and above did not survive. In between those two temperatures, limpets showed

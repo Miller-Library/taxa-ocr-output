@@ -1,0 +1,24 @@
+Blazyk 8
+amplified DNA about 700bp long are visible. About 90% of the PCR products sequenced
+produced clean enough data to be used in analysis. In total, there were 67 sequences from snails
+from seven locations, giving an average of about ten sequences per location.
+Parsimony and Minimum Spanning Trees
+I first created a parsimony tree with the 67 sequences I had produced, plus the published
+sequence for Tegula funebralis COI found on GENBANK, which represents an individual from
+Baja California (Fig. 4). This tree is one of a hundred randomly generated trees, all of which
+contained the same major clades, including matching groupings of snails. These trees represent
+the most parsimonious relationship between the snails, meaning that each base change occurs as
+few times as possible (ideally, just once). This same data can be viewed in another way as a
+minimum spanning tree (Fig. 5). Here, identical sequences are grouped together in circles, with
+divergent sequences radiating out from those circles on branches proportional in length to the
+number of nucleotide changes that occur in the sequence.
+Statistical Analysis
+First, I selected three major clades from the parsimony tree (Fig. 4). I chose these clades
+because they seemed to be the largest groupings of sequences. Most of the other branches on the
+tree led to only one or two individual snail sequences. I then examined the makeup of these
+major clades by creating a contingency table (Table 2). To test whether the distribution of clades
+in any location was significantly different from the total, I used a chi-squared test. The true
+value of chi-square was 9.828, with p = 0.08 + 0.05 (not significant).
+To compare diversity between locations to diversity within locations, l used the measure
+of Fsr. Including all seven populations as separate demes, Fsr was negative (although not
+significantly different from zero). I then calculated pairwise Fsr values for all pairs of locations

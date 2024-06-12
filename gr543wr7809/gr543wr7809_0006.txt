@@ -1,0 +1,33 @@
+species in all different light conditions decreased with time irrespective of PAR or time of
+day (Figure 14 a). The exceptions to this decreasing trend are in PW and PS.
+Measurements ofc do not have a decreasing trend over time as the absorption
+spectra do. Instead, on average, c changes over the time of day inversely with respect
+to expected daylight; it appears to be correlate with time of day, not PAR (Figure 14 b)
+(Table 4). For combined timeseries of Dunalliela this trend is larger than two
+standard deviations. For Phaeodactylum the trend is not outside one standard deviation.
+(Figure 15).
+Discussion
+A similar diel cycle in fluorescence is observed in cultures and in the field. In the
+cultures chlorophyll does not oscillate over the day as fluorescence does. This supports
+the hypothesis that diel variations are primarily due to changes in phytoplankton
+physiology, not growth, grazing or mixing.
+Normalized fluorescence varies inversely to PAR, regardless of time of day. This
+suggests the cycle in fluorescence is related to PAR, not circadian rhythms. The
+observation that f“ takes an average of 20 minutes to adapt to changes in PAR, means
+a timeseries of f* lags approximately 20 minutes behind a timeseries of PAR. Thus,
+the correlation between f* and PAR can be made tighter by taking a running average of
+PAR over 20 minutes and shifting PAR ahead in time by 20 minutes. Qualitatively
+correcting for this lag time makes a small but noticable improvement in the uncertainty of
+f* as a function of PAR (Figure 4)
+These data provide the basis for an empirical way to measure mean fluorescence
+from instantaneous fluorescence
+corrected f = (.0005)*(shifted and smoothed PAR)"(mean f) + f
+This is mathematically equivalent to adding a constant fraction of the irradiance peaks to
+the fluorescence troughs in a time series of f*. The coefficient .0005 comes from the slope
+of f* vs PAR in situ (Figure 4). This coefficient was only qualitatively determined. A
+statistically derrived higher order fit to Figure 4 may provide a better correction
+algorithm. The mean f must be included in the correction because the magnitued of the
+in situ diel oscillations varies directly with the mean (Figure 3). It should be noted that
+this is just a step in the direction of a real-time empirical correction, because this model
+requires the time averaged f. Yet this correction tightens the relationship between f and
+mean f by a factor of 2 (Figure 16).

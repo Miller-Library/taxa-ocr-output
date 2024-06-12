@@ -1,0 +1,35 @@
+Chlorophyll concentration was quantified using acetone extractions and a Turner
+fluorometer (Holm Hansen et al. 1965). Absorption was measured with a 10 cm cuvette
+and a diffusing plate close to the detector of a diode array spectrophotometer (Shibada
+1954; Mitchell 1988). Attenuation was measured using a 1 cm cuvette far from the
+detector (Bricaud 1983). Fluorescence was measured using a Sea Tech strobe stimulated
+fluorometer. PAR was measured with a photodiode callibrated to detect quanta of light.
+Over a 48 hour time series, fluorescence was measured 22 times, chlorophyll was
+measured 11 times, and spectra were measured 5 times. The sampeling rate was not
+constant.
+Fluorescence, absorbtion and attenuation were normalized to chlorophyll and
+analyzed on a UNIX workstation. The spectra were smoothed and integrated.
+A Sea Tech fluorometer and a Sea Tech transmissometer have been recording data
+at 15 minute intervals from a mooring in Moneterey Bay since January 16, 1992. The
+fluorometer is the same instrument as used with the cultures. The transmissometer
+opperates at 660 nm and returns a voltage. Voltage is converted into beam c by the
+following equation:
+C =-4*log(VDC/5)
+The mooring also has a PAR sensor which samples every 10 minutes. However, there is
+no instrument to measure chlorophyll on the mooring.
+Results:
+The mooring fluorometer shows long term (3- 15 day) events which are
+hypothesized to represent spring phytoplankton blooms. (Figure 1) There is a short
+term (1 day) signal superimposed on this signal. (Figure 2). The diel cycle has a
+maximum at night (usually either one hour after sun set or one hour before sunrise) and a
+minimum near noon.
+The amplitude of the diel cycle correlates with the mean fluorescence value; when
+the mean signal is high, the variations (the difference between daily maximum and
+minimum) are large e.g. the value of the mean correlates with the envelope of the raw -
+mean timeseries (Figure 3). The minimum value is consistently half the maximum value
+for each day (+- 10%). This is true even when the daily oscillations grow larger during
+the phytoplankton bloomes e.g. the envelope for the raw/mean time series is nearly
+constant (Figure 3)
+The raw/mean fluorescence timeseries has an inverse functional relationship with
+PAR both within days and between days (Figure 4). The raw/mean timeseries is
+hypothesized to represent f* in situ, because mean fluorescence has been shown to

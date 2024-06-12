@@ -1,0 +1,28 @@
+where mis the mass of the model and Og is the specific heat of the silver alloy,
+With Weon in hand we can calculate hefor a model at one wind speed and
+orientation. The Reynolds and Nusselt numbers are defined as:
+Re = Le/v
+(eq. 10)
+Nu = he Le/Kair
+(eq. 11)
+Here vis the wind speed in mis, Lais the length of the model in m, Kaj is the
+thermal conductivity of air in WimK, and vis the kinematic viscosity of air in m2/s.
+Nusselt and Reynolds numbers are related by a general model:
+Nu = 10° Reb
+(eq. 12)
+The values a and b can be found by graphing logio(Nu) vs. logjo(Re), yielding a
+line with slope b and y-intercept a:
+logio(Nu) = a + blogio(Re)
+(eq. 13)
+Taveraged the Reynolds and Nusselt numbers for the three replicated
+trials of the 4 models, each at 6 speeds and 3 orientations. I plotted logjo(Nu) vs.
+logio(Re) and the slopes of the resulting regressions allowed me to calculate ha,
+and thereby Nu. The values 10“ and b were later incorporated into the heat¬
+budget modeling program.
+Determination of energy of conduction with the rock: The energy transferred
+by conduction was calculated using Fourier's Law:
+Weond - -Krock Abase dTIdy
+(eq. 14)
+where Krock is the thermal conductivity of the rock, Apase is the area of the base of
+the limpet, and dT/dy is the gradient of temperature in the rock. In the model
+used here, dT/dy is calculated by numerically solving the heat equation

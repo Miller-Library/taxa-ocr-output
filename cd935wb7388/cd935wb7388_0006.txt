@@ -1,0 +1,25 @@
+Vin is the voltage provided by the stimulator measured on one channel of
+the oscilloscope, Vout is the voltage after the 100 Kohm resistor measured on
+the other channel of the oscilloscope. The resistance of the skin and the
+electrodes act as two resistors in series, Relectrode and Rekin. To solve for
+Eskin, 1 subtracted Reelectrode (no skin in the circuit) from R2(electrodet skin)
+(with skin in the circuit).
+In measuring skin resistance there were several logistical problems
+that needed to be considered in making the electrodes. First, I needed to
+créate a system that would not poke holes in the skin, because even the
+smallest hole would allow enough ion leakage to lower the skin resistance to
+nearly zero ohms. Second, it was very important that the charge travel
+through the skin and not around the skin through sea water. Thus I needed
+a way block the path of current around the section of tissue being measured
+Third, resistance depends not only upon the properties of the material being
+measured (resistivity), but also upon the cross sectional area in contact with
+the current source, and the distance through the material that current has te
+travel.
+resistance - resistivity » (length/ cross sectional area)
+Therefore, I needed to be able to align my electrodes perfectly each time to
+keep the cross sectional area constant and I needed to stretch the tissue to
+the same thickness for every measurement to keep the distance through the
+material constant.
+To remedy these problems I used a chamber (figure 3) made from one
+petri dish and two petri dish lids with 6.0 mm holes drilled through them.
+The electrodes were Ag/AgCl wires submerged in sea water as the
