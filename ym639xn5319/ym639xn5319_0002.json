@@ -1,0 +1,2429 @@
+{
+  "processId": 10404633,
+  "status": "FINISHED",
+  "content": {
+    "text": "INTRODUCTION\nIn an age of increasingly varying weather patterns and global climate change, the\nmechanisms by which organisms cope with thermal stress merit study. While much work has\nbeen devoted to the ability of organisms to withstand heat stress, relatively little has looked at the\nlower thermal tolerances of species. In this study, I examine the cold stress response of the\nTegula congeners T. funebralis, T, brunnea, and T. pulligo.\nThe Tegula species used provide an ideal study system for examining important aspects\nof thermal tolerance and cold stress. As they are closely related (though there are some concerns\nabout T. pulligo, see Hellberg 1998), any comparisons between their thermal biology are unlikely\nto be confounded by differences in phylogeny. Also, one would expect them to experience\ndifferent ranges of temperatures as they live at different tidal heights and have different northern\ndistributions. T. funebralis inhabits the low- to mid- intertidal zone, and has a northern\ndistribution that extends to Vancouver Island, British Columbia (Abbott and Haderlie 1980). T.\nbrunnea lives in the low intertidal to subtidal zone, and ranges northward to Cape Arago, Oregon\n(Abbott and Haderlie 1980). T. pulligo lives exclusively in the subtidal zone, and ranges as far\nnorth as Sitka, Alaska (Abbott and Haderlie 1980).\nT. funebralis has been shown previously to be more capable of handling heat stress than\nT. brunnea (Tomanek 2002). However, at the northern extreme of its range T. funebralis should\nalso experience colder temperatures than either T. brunnea or T. pulligo during emersion. To\ndate, little research has been conducted to explain this aspect of the thermal biology of the\nTegula congeners. This study looks at the patterns of Hsp 70 expression in response to different\ncold stresses in the different species, as well as the variation in behavioral response of the species\nto cold shock.",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "301,197 301,2938 2289,2938 2289,197"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "287,274 316,292 420,277 457,297 566,274 647,301 689,269 719,269 719,217 672,203 576,215 497,178 415,217 287,183"
+            },
+            "baseline": {
+              "points": "301,262 327,259 354,257 380,256 407,256 433,256 460,256 486,256 513,256 539,256 566,256 592,256 619,256 645,256 672,256 698,255 725,253"
+            },
+            "text": "INTRODUCTION",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "290,216 290,276 694,276 694,216"
+                },
+                "text": "INTRODUCTION"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "437,521 1458,546 1873,507 1942,546 2103,514 2103,452 1987,462 1851,403 1750,442 1584,408 1532,450 1421,408 1349,462 1191,423 830,418 672,460 598,418 541,460 437,430"
+            },
+            "baseline": {
+              "points": "450,495 533,495 616,492 699,490 782,492 865,492 948,492 1031,492 1114,492 1197,492 1280,493 1363,492 1446,492 1529,492 1612,489 1695,493 1778,494 1861,493 1944,495 2027,495 2110,492"
+            },
+            "text": "In an age of increasingly varying weather patterns and global climate change, the",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "437,455 437,515 467,515 467,455"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "498,455 498,515 527,515 527,455"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "559,453 559,513 614,513 614,453"
+                },
+                "text": "age"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "640,450 640,510 681,510 681,450"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "696,452 696,512 935,512 935,452"
+                },
+                "text": "increasingly"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "961,452 961,512 1103,512 1103,452"
+                },
+                "text": "varying"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1129,452 1129,512 1286,512 1286,452"
+                },
+                "text": "weather"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1302,452 1302,512 1460,512 1460,452"
+                },
+                "text": "patterns"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1481,452 1481,512 1541,512 1541,452"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1567,449 1567,509 1694,509 1694,449"
+                },
+                "text": "global"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1710,454 1710,514 1846,514 1846,454"
+                },
+                "text": "climate"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1873,455 1873,515 2025,515 2025,455"
+                },
+                "text": "change,"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "2041,453 2041,513 2091,513 2091,453"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "292,655 588,625 697,667 853,620 1285,672 1488,618 1614,672 1762,623 2209,650 2209,571 2098,546 398,546 292,581"
+            },
+            "baseline": {
+              "points": "304,606 399,606 495,608 590,606 686,606 781,606 877,608 972,606 1068,606 1163,609 1259,610 1355,609 1450,608 1546,609 1641,606 1737,606 1832,609 1928,609 2023,609 2119,609 2215,609"
+            },
+            "text": "mechanisms by which organisms cope with thermal stress merit study. While much work has",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "296,566 296,626 538,626 538,566"
+                },
+                "text": "mechanisms"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "562,566 562,626 599,626 599,566"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "627,566 627,626 734,626 734,566"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "763,567 763,627 964,627 964,567"
+                },
+                "text": "organisms"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "988,566 988,626 1067,626 1067,566"
+                },
+                "text": "cope"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1095,568 1095,628 1170,628 1170,568"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1198,569 1198,629 1347,629 1347,569"
+                },
+                "text": "thermal"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1367,568 1367,628 1469,628 1469,568"
+                },
+                "text": "stress"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1493,568 1493,628 1596,628 1596,568"
+                },
+                "text": "merit"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1610,566 1610,626 1731,626 1731,566"
+                },
+                "text": "study."
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1760,568 1760,628 1871,628 1871,568"
+                },
+                "text": "While"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1900,569 1900,629 1993,629 1993,569"
+                },
+                "text": "much"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "2022,569 2022,629 2114,629 2114,569"
+                },
+                "text": "work"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "2138,569 2138,629 2199,629 2199,569"
+                },
+                "text": "has"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "294,749 855,734 1045,798 1112,759 1268,786 1428,749 1599,783 1685,734 1769,783 2276,761 2276,689 2224,675 294,682"
+            },
+            "baseline": {
+              "points": "307,722 405,722 504,722 603,722 702,722 801,722 899,722 998,722 1097,722 1196,722 1295,722 1393,725 1492,724 1591,725 1690,725 1789,722 1887,723 1986,725 2085,724 2184,725 2283,722"
+            },
+            "text": "been devoted to the ability of organisms to withstand heat stress, relatively little has looked at the",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "298,682 298,742 379,742 379,682"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "408,682 408,742 556,742 556,682"
+                },
+                "text": "devoted"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "580,682 580,742 608,742 608,682"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "633,682 633,742 685,742 685,682"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "710,682 710,742 824,742 824,682"
+                },
+                "text": "ability"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "853,682 853,742 891,742 891,682"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "906,682 906,742 1106,742 1106,682"
+                },
+                "text": "organisms"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1126,682 1126,742 1154,742 1154,682"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1179,682 1179,742 1360,742 1360,682"
+                },
+                "text": "withstand"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1390,684 1390,744 1470,744 1470,684"
+                },
+                "text": "heat"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1485,684 1485,744 1609,744 1609,684"
+                },
+                "text": "stress,"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1624,684 1624,744 1805,744 1805,684"
+                },
+                "text": "relatively"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1830,682 1830,742 1911,742 1911,682"
+                },
+                "text": "little"
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "1935,684 1935,744 1992,744 1992,684"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_4_w15",
+                "coords": {
+                  "points": "2012,684 2012,744 2141,744 2141,684"
+                },
+                "text": "looked"
+              },
+              {
+                "id": "tr_1_tl_4_w16",
+                "coords": {
+                  "points": "2170,685 2170,745 2198,745 2198,685"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_4_w17",
+                "coords": {
+                  "points": "2213,683 2213,743 2265,743 2265,683"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "292,875 450,850 613,900 667,867 942,900 1527,853 1690,892 1844,850 2054,900 2155,858 2120,766 1945,806 1567,771 1443,808 1142,776 675,803 603,764 292,803"
+            },
+            "baseline": {
+              "points": "304,835 396,835 489,838 582,838 674,838 767,838 860,838 952,838 1045,838 1138,838 1231,836 1323,838 1416,838 1509,838 1601,838 1694,838 1787,838 1879,838 1972,838 2065,838 2158,838"
+            },
+            "text": "lower thermal tolerances of species. In this study, I examine the cold stress response of the",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "296,795 296,855 406,855 406,795"
+                },
+                "text": "lower"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "426,798 426,858 579,858 579,798"
+                },
+                "text": "thermal"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "594,798 594,858 795,858 795,798"
+                },
+                "text": "tolerances"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "815,798 815,858 853,858 853,798"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "872,798 872,858 1025,858 1025,798"
+                },
+                "text": "species."
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1055,798 1055,858 1083,858 1083,798"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1108,797 1108,857 1174,857 1174,797"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1194,796 1194,856 1318,856 1318,796"
+                },
+                "text": "study,"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1333,798 1333,858 1342,858 1342,798"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1362,798 1362,858 1520,858 1520,798"
+                },
+                "text": "examine"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1545,798 1545,858 1597,858 1597,798"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1622,798 1622,858 1693,858 1693,798"
+                },
+                "text": "cold"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1723,798 1723,858 1828,858 1828,798"
+                },
+                "text": "stress"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "1847,798 1847,858 2010,858 2010,798"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_5_w15",
+                "coords": {
+                  "points": "2040,798 2040,858 2077,858 2077,798"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w16",
+                "coords": {
+                  "points": "2092,798 2092,858 2145,858 2145,798"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "294,984 1510,986 1510,917 1411,897 1260,887 1203,929 766,880 524,924 294,895"
+            },
+            "baseline": {
+              "points": "307,952 367,953 427,953 488,955 548,955 609,955 669,955 730,955 790,955 851,955 911,955 971,955 1032,955 1092,955 1153,955 1213,957 1274,957 1334,955 1395,955 1455,955 1516,955"
+            },
+            "text": "Tegula congeners T. funebralis, T, brunnea, and T. pulligo.",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "294,912 294,972 419,972 419,912"
+                },
+                "text": "Tegula"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "445,915 445,975 649,975 649,915"
+                },
+                "text": "congeners"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "671,915 671,975 712,975 712,915"
+                },
+                "text": "T."
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "723,915 723,975 942,975 942,915"
+                },
+                "text": "funebralis,"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "959,915 959,975 995,975 995,915"
+                },
+                "text": "T,"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1011,915 1011,975 1194,975 1194,915"
+                },
+                "text": "brunnea,"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1215,917 1215,977 1273,977 1273,917"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1299,915 1299,975 1335,975 1335,915"
+                },
+                "text": "T."
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1352,915 1352,975 1508,975 1508,915"
+                },
+                "text": "pulligo."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "440,1095 601,1152 714,1110 830,1142 909,1080 1688,1149 2241,1087 2241,1023 2113,1011 440,1026"
+            },
+            "baseline": {
+              "points": "453,1068 542,1068 632,1068 721,1068 811,1068 901,1068 990,1068 1080,1068 1169,1068 1259,1068 1349,1068 1438,1068 1528,1068 1617,1068 1707,1071 1797,1071 1886,1071 1976,1068 2065,1068 2155,1068 2245,1068"
+            },
+            "text": "The Tegula species used provide an ideal study system for examining important aspects",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "439,1028 439,1088 502,1088 502,1028"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "532,1028 532,1088 657,1088 657,1028"
+                },
+                "text": "Tegula"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "687,1028 687,1088 828,1088 828,1028"
+                },
+                "text": "species"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "848,1028 848,1088 930,1088 930,1028"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "955,1028 955,1088 1100,1088 1100,1028"
+                },
+                "text": "provide"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1125,1028 1125,1088 1159,1088 1159,1028"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1189,1028 1189,1088 1286,1088 1286,1028"
+                },
+                "text": "ideal"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1301,1028 1301,1088 1397,1088 1397,1028"
+                },
+                "text": "study"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1422,1028 1422,1088 1539,1088 1539,1028"
+                },
+                "text": "system"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1583,1028 1583,1088 1636,1088 1636,1028"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1651,1031 1651,1091 1860,1091 1860,1031"
+                },
+                "text": "examining"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1885,1028 1885,1088 2079,1088 2079,1028"
+                },
+                "text": "important"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "2099,1028 2099,1088 2235,1088 2235,1028"
+                },
+                "text": "aspects"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "292,1216 2259,1216 2259,1154 2059,1124 437,1154 292,1107"
+            },
+            "baseline": {
+              "points": "304,1182 402,1182 500,1182 598,1184 696,1183 794,1185 892,1185 990,1185 1088,1185 1186,1185 1284,1185 1382,1185 1480,1185 1578,1184 1676,1185 1774,1185 1872,1185 1970,1185 2068,1185 2166,1187 2265,1182"
+            },
+            "text": "of thermal tolerance and cold stress. As they are closely related (though there are some concerns",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "296,1142 296,1202 332,1202 332,1142"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "352,1142 352,1202 505,1202 505,1142"
+                },
+                "text": "thermal"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "520,1143 520,1203 697,1203 697,1143"
+                },
+                "text": "tolerance"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "721,1144 721,1204 781,1204 781,1144"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "810,1145 810,1205 879,1205 879,1145"
+                },
+                "text": "cold"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "908,1145 908,1205 1029,1205 1029,1145"
+                },
+                "text": "stress."
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1044,1145 1044,1205 1094,1205 1094,1145"
+                },
+                "text": "As"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1114,1145 1114,1205 1188,1205 1188,1145"
+                },
+                "text": "they"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1217,1145 1217,1205 1267,1205 1267,1145"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1291,1145 1291,1205 1422,1205 1422,1145"
+                },
+                "text": "closely"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1446,1144 1446,1204 1571,1204 1571,1144"
+                },
+                "text": "related"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1600,1144 1600,1204 1744,1204 1744,1144"
+                },
+                "text": "(though"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1768,1145 1768,1205 1861,1205 1861,1145"
+                },
+                "text": "there"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1885,1145 1885,1205 1931,1205 1931,1145"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "1960,1145 1960,1205 2053,1205 2053,1145"
+                },
+                "text": "some"
+              },
+              {
+                "id": "tr_1_tl_8_w16",
+                "coords": {
+                  "points": "2077,1146 2077,1206 2249,1206 2249,1146"
+                },
+                "text": "concerns"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "292,1310 801,1352 1080,1307 1194,1364 1241,1325 2274,1337 2251,1253 825,1258 739,1221 489,1263 292,1216"
+            },
+            "baseline": {
+              "points": "304,1295 402,1298 501,1298 600,1298 699,1298 798,1298 896,1297 995,1295 1094,1298 1193,1298 1292,1298 1390,1298 1489,1298 1588,1298 1687,1298 1786,1301 1884,1298 1983,1301 2082,1301 2181,1301 2280,1298"
+            },
+            "text": "about T. pulligo, see Hellberg 1998), any comparisons between their thermal biology are unlikely",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "292,1256 292,1316 400,1316 400,1256"
+                },
+                "text": "about"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "416,1258 416,1318 457,1318 457,1258"
+                },
+                "text": "T."
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "468,1258 468,1318 629,1318 629,1258"
+                },
+                "text": "pulligo,"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "645,1258 645,1318 697,1318 697,1258"
+                },
+                "text": "see"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "723,1257 723,1317 884,1317 884,1257"
+                },
+                "text": "Hellberg"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "915,1255 915,1315 1040,1315 1040,1255"
+                },
+                "text": "1998),"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1056,1257 1056,1317 1118,1317 1118,1257"
+                },
+                "text": "any"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1144,1258 1144,1318 1393,1318 1393,1258"
+                },
+                "text": "comparisons"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1415,1258 1415,1318 1570,1318 1570,1258"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1596,1258 1596,1318 1685,1318 1685,1258"
+                },
+                "text": "their"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1701,1260 1701,1320 1856,1320 1856,1260"
+                },
+                "text": "thermal"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1872,1259 1872,1319 2012,1319 2012,1259"
+                },
+                "text": "biology"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "2039,1261 2039,1321 2090,1321 2090,1261"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "2117,1260 2117,1320 2272,1320 2272,1260"
+                },
+                "text": "unlikely"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "292,1461 655,1470 845,1423 1001,1475 1238,1426 1671,1465 1760,1423 1984,1473 2155,1443 2118,1359 292,1354"
+            },
+            "baseline": {
+              "points": "304,1412 396,1412 489,1415 582,1415 674,1413 767,1412 860,1413 952,1413 1045,1415 1138,1415 1231,1415 1323,1415 1416,1415 1509,1415 1601,1415 1694,1415 1787,1415 1879,1415 1972,1415 2065,1415 2158,1415"
+            },
+            "text": "to be confounded by differences in phylogeny. Also, one would expect them to experience",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "296,1372 296,1432 320,1432 320,1372"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "351,1372 351,1432 385,1432 385,1372"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "410,1375 410,1435 636,1435 636,1375"
+                },
+                "text": "confounded"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "667,1372 667,1432 701,1432 701,1372"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "731,1372 731,1432 948,1432 948,1372"
+                },
+                "text": "differences"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "968,1373 968,1433 992,1433 992,1373"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1017,1375 1017,1435 1244,1435 1244,1375"
+                },
+                "text": "phylogeny."
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1275,1375 1275,1435 1378,1435 1378,1375"
+                },
+                "text": "Also,"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1393,1375 1393,1435 1457,1435 1457,1375"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1482,1375 1482,1435 1595,1435 1595,1375"
+                },
+                "text": "would"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1621,1375 1621,1435 1753,1435 1753,1375"
+                },
+                "text": "expect"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1769,1375 1769,1435 1843,1435 1843,1375"
+                },
+                "text": "them"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1883,1375 1883,1435 1907,1435 1907,1375"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "1932,1375 1932,1435 2144,1435 2144,1375"
+                },
+                "text": "experience"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "299,1542 445,1589 1040,1537 1527,1587 1787,1594 1886,1540 2264,1574 2264,1480 2207,1470 299,1470"
+            },
+            "baseline": {
+              "points": "313,1525 410,1528 508,1528 606,1528 704,1528 802,1528 900,1528 998,1528 1096,1528 1194,1528 1292,1528 1389,1528 1487,1528 1585,1528 1683,1528 1781,1528 1879,1528 1977,1528 2075,1530 2173,1528 2271,1528"
+            },
+            "text": "different ranges of temperatures as they live at different tidal heights and have different northern",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "298,1487 298,1547 470,1547 470,1487"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "485,1488 485,1548 608,1548 608,1488"
+                },
+                "text": "ranges"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "633,1488 633,1548 672,1548 672,1488"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "687,1488 687,1548 942,1548 942,1488"
+                },
+                "text": "temperatures"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "963,1488 963,1548 997,1548 997,1488"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1017,1488 1017,1548 1091,1548 1091,1488"
+                },
+                "text": "they"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1116,1488 1116,1548 1179,1548 1179,1488"
+                },
+                "text": "live"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1209,1488 1209,1548 1238,1548 1238,1488"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1254,1488 1254,1548 1425,1548 1425,1488"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1441,1488 1441,1548 1529,1548 1529,1488"
+                },
+                "text": "tidal"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1544,1488 1544,1548 1682,1548 1682,1488"
+                },
+                "text": "heights"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1707,1488 1707,1548 1765,1548 1765,1488"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1796,1488 1796,1548 1879,1548 1879,1488"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "1899,1488 1899,1548 2071,1548 2071,1488"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_11_w15",
+                "coords": {
+                  "points": "2086,1488 2086,1548 2248,1548 2248,1488"
+                },
+                "text": "northern"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "297,1666 573,1705 788,1656 860,1695 954,1653 1142,1690 1700,1653 2086,1718 2086,1606 1965,1584 297,1601"
+            },
+            "baseline": {
+              "points": "310,1642 399,1645 488,1645 577,1647 666,1645 755,1645 844,1645 933,1645 1022,1645 1111,1645 1201,1645 1290,1645 1379,1645 1468,1645 1557,1645 1646,1645 1735,1645 1824,1645 1913,1645 2002,1645 2092,1647"
+            },
+            "text": "distributions. T. funebralis inhabits the low- to mid- intertidal zone, and has a northern",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "301,1605 301,1665 572,1665 572,1605"
+                },
+                "text": "distributions."
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "597,1606 597,1666 636,1666 636,1606"
+                },
+                "text": "T."
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "651,1605 651,1665 852,1665 852,1605"
+                },
+                "text": "funebralis"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "873,1605 873,1665 1020,1665 1020,1605"
+                },
+                "text": "inhabits"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1045,1605 1045,1665 1094,1665 1094,1605"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1119,1605 1119,1665 1208,1665 1208,1605"
+                },
+                "text": "low-"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1228,1605 1228,1665 1252,1665 1252,1605"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1277,1605 1277,1665 1365,1665 1365,1605"
+                },
+                "text": "mid-"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1386,1605 1386,1665 1567,1665 1567,1605"
+                },
+                "text": "intertidal"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1583,1605 1583,1665 1690,1665 1690,1605"
+                },
+                "text": "zone,"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1706,1605 1706,1665 1764,1665 1764,1605"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1789,1605 1789,1665 1848,1665 1848,1605"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1873,1605 1873,1665 1882,1665 1882,1605"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "1908,1605 1908,1665 2065,1665 2065,1605"
+                },
+                "text": "northern"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "294,1764 581,1809 717,1774 1142,1811 1265,1767 1574,1804 2249,1779 2249,1720 2125,1685 1977,1722 1653,1680 1503,1722 294,1705"
+            },
+            "baseline": {
+              "points": "307,1758 404,1755 501,1756 599,1757 696,1758 793,1758 891,1755 988,1758 1085,1756 1183,1758 1280,1758 1377,1758 1475,1758 1572,1758 1669,1758 1767,1758 1864,1758 1961,1758 2059,1758 2156,1758 2254,1761"
+            },
+            "text": "distribution that extends to Vancouver Island, British Columbia (Abbott and Haderlie 1980). T.",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "299,1715 299,1775 520,1775 520,1715"
+                },
+                "text": "distribution"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "551,1716 551,1776 621,1776 621,1716"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "637,1718 637,1778 783,1778 783,1718"
+                },
+                "text": "extends"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "808,1717 808,1777 833,1777 833,1717"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "864,1717 864,1777 1075,1777 1075,1717"
+                },
+                "text": "Vancouver"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1091,1717 1091,1777 1227,1777 1227,1717"
+                },
+                "text": "Island,"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1243,1718 1243,1778 1369,1778 1369,1718"
+                },
+                "text": "British"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1395,1718 1395,1778 1581,1778 1581,1718"
+                },
+                "text": "Columbia"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1607,1718 1607,1778 1763,1778 1763,1718"
+                },
+                "text": "(Abbott"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1778,1718 1778,1778 1838,1778 1838,1718"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1864,1718 1864,1778 2025,1778 2025,1718"
+                },
+                "text": "Haderlie"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "2051,1718 2051,1778 2182,1778 2182,1718"
+                },
+                "text": "1980)."
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "2207,1720 2207,1780 2247,1780 2247,1720"
+                },
+                "text": "T."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "297,1888 672,1923 939,1886 2283,1895 2283,1816 297,1829"
+            },
+            "baseline": {
+              "points": "310,1868 408,1871 507,1871 606,1872 705,1871 804,1871 902,1871 1001,1871 1100,1871 1199,1874 1298,1874 1396,1874 1495,1872 1594,1874 1693,1874 1792,1874 1890,1874 1989,1874 2088,1875 2187,1874 2286,1874"
+            },
+            "text": "brunnea lives in the low intertidal to subtidal zone, and ranges northward to Cape Arago, Oregon",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "297,1829 297,1889 453,1889 453,1829"
+                },
+                "text": "brunnea"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "478,1831 478,1891 569,1891 569,1831"
+                },
+                "text": "lives"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "590,1831 590,1891 614,1891 614,1831"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "640,1831 640,1891 690,1891 690,1831"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "716,1831 716,1891 771,1891 771,1831"
+                },
+                "text": "low"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "807,1831 807,1891 983,1891 983,1831"
+                },
+                "text": "intertidal"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1004,1831 1004,1891 1023,1891 1023,1831"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1054,1831 1054,1891 1210,1891 1210,1831"
+                },
+                "text": "subtidal"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1226,1834 1226,1894 1331,1894 1331,1834"
+                },
+                "text": "zone,"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1347,1834 1347,1894 1407,1894 1407,1834"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1433,1832 1433,1892 1554,1892 1554,1832"
+                },
+                "text": "ranges"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1580,1834 1580,1894 1776,1894 1776,1834"
+                },
+                "text": "northward"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1802,1834 1802,1894 1827,1894 1827,1834"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_14_w14",
+                "coords": {
+                  "points": "1857,1834 1857,1894 1943,1894 1943,1834"
+                },
+                "text": "Cape"
+              },
+              {
+                "id": "tr_1_tl_14_w15",
+                "coords": {
+                  "points": "1969,1834 1969,1894 2109,1894 2109,1834"
+                },
+                "text": "Arago,"
+              },
+              {
+                "id": "tr_1_tl_14_w16",
+                "coords": {
+                  "points": "2125,1834 2125,1894 2261,1894 2261,1834"
+                },
+                "text": "Oregon"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "294,2036 561,2007 640,2044 786,1994 882,2041 1171,1992 1233,2024 2236,2012 2236,1928 2172,1923 1495,1957 1008,1915 961,1950 559,1925 487,1957 294,1915"
+            },
+            "baseline": {
+              "points": "307,1988 403,1985 500,1985 597,1985 694,1985 790,1984 887,1985 984,1988 1081,1987 1177,1985 1274,1988 1371,1985 1468,1985 1564,1985 1661,1986 1758,1988 1855,1988 1951,1988 2048,1988 2145,1988 2242,1988"
+            },
+            "text": "(Abbott and Haderlie 1980). T. pulligo lives exclusively in the subtidal zone, and ranges as far",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "299,1945 299,2005 455,2005 455,1945"
+                },
+                "text": "(Abbott"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "470,1945 470,2005 530,2005 530,1945"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "561,1945 561,2005 722,2005 722,1945"
+                },
+                "text": "Haderlie"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "753,1944 753,2004 879,2004 879,1944"
+                },
+                "text": "1980)."
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "905,1946 905,2006 945,2006 945,1946"
+                },
+                "text": "T."
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "956,1947 956,2007 1086,2007 1086,1947"
+                },
+                "text": "pulligo"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1112,1945 1112,2005 1203,2005 1203,1945"
+                },
+                "text": "lives"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1223,1946 1223,2006 1441,2006 1441,1946"
+                },
+                "text": "exclusively"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1472,1945 1472,2005 1491,2005 1491,1945"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1517,1945 1517,2005 1567,2005 1567,1945"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1598,1946 1598,2006 1754,2006 1754,1946"
+                },
+                "text": "subtidal"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1770,1948 1770,2008 1876,2008 1876,1948"
+                },
+                "text": "zone,"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1891,1948 1891,2008 1951,2008 1951,1948"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "1977,1948 1977,2008 2098,2008 2098,1948"
+                },
+                "text": "ranges"
+              },
+              {
+                "id": "tr_1_tl_15_w15",
+                "coords": {
+                  "points": "2119,1948 2119,2008 2153,2008 2153,1948"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_15_w16",
+                "coords": {
+                  "points": "2179,1948 2179,2008 2224,2008 2224,1948"
+                },
+                "text": "far"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "292,2108 514,2148 650,2110 816,2155 1011,2110 1058,2148 1342,2148 1342,2066 1300,2039 692,2073 531,2024 292,2063"
+            },
+            "baseline": {
+              "points": "304,2098 356,2101 408,2100 460,2098 513,2100 565,2101 617,2104 669,2104 722,2101 774,2100 826,2100 878,2101 931,2101 983,2101 1035,2102 1087,2103 1140,2101 1192,2101 1244,2098 1296,2098 1349,2101"
+            },
+            "text": "north as Sitka, Alaska (Abbott and Haderlie 1980).",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "292,2060 292,2120 386,2120 386,2060"
+                },
+                "text": "north"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "413,2059 413,2119 449,2119 449,2059"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "470,2060 470,2120 590,2120 590,2060"
+                },
+                "text": "Sitka,"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "607,2063 607,2123 737,2123 737,2063"
+                },
+                "text": "Alaska"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "759,2060 759,2120 916,2120 916,2060"
+                },
+                "text": "(Abbott"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "937,2061 937,2121 994,2121 994,2061"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1021,2062 1021,2122 1183,2122 1183,2062"
+                },
+                "text": "Haderlie"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1215,2058 1215,2118 1340,2118 1340,2058"
+                },
+                "text": "1980)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "440,2259 1045,2229 1164,2266 1325,2229 1381,2281 1767,2229 2101,2278 2244,2241 2244,2170 2078,2185 2019,2145 1893,2187 1322,2143 986,2185 828,2150 440,2172"
+            },
+            "baseline": {
+              "points": "453,2215 542,2218 632,2218 722,2215 812,2215 902,2218 992,2215 1082,2218 1172,2218 1262,2215 1352,2218 1441,2218 1531,2218 1621,2218 1711,2218 1801,2218 1891,2218 1981,2218 2071,2218 2161,2218 2251,2215"
+            },
+            "text": "T. funebralis has been shown previously to be more capable of handling heat stress than",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "439,2175 439,2235 477,2235 477,2175"
+                },
+                "text": "T."
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "488,2178 488,2238 695,2238 695,2178"
+                },
+                "text": "funebralis"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "715,2175 715,2235 773,2235 773,2175"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "798,2175 798,2235 880,2235 880,2175"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "910,2175 910,2235 1025,2235 1025,2175"
+                },
+                "text": "shown"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1055,2178 1055,2238 1258,2238 1258,2178"
+                },
+                "text": "previously"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1283,2176 1283,2236 1307,2236 1307,2176"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1336,2178 1336,2238 1370,2238 1370,2178"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1394,2178 1394,2238 1486,2238 1486,2178"
+                },
+                "text": "more"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1516,2178 1516,2238 1656,2238 1656,2178"
+                },
+                "text": "capable"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1686,2178 1686,2238 1724,2238 1724,2178"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1739,2178 1739,2238 1908,2238 1908,2178"
+                },
+                "text": "handling"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1933,2178 1933,2238 2010,2238 2010,2178"
+                },
+                "text": "heat"
+              },
+              {
+                "id": "tr_1_tl_17_w14",
+                "coords": {
+                  "points": "2030,2178 2030,2238 2136,2238 2136,2178"
+                },
+                "text": "stress"
+              },
+              {
+                "id": "tr_1_tl_17_w15",
+                "coords": {
+                  "points": "2156,2176 2156,2236 2233,2236 2233,2176"
+                },
+                "text": "than"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "292,2367 754,2392 937,2348 1119,2400 1248,2355 1554,2390 2259,2355 2259,2288 2083,2269 292,2293"
+            },
+            "baseline": {
+              "points": "304,2331 402,2331 500,2330 598,2328 696,2331 794,2331 892,2331 990,2331 1088,2331 1186,2331 1284,2331 1382,2334 1480,2331 1578,2333 1676,2334 1774,2334 1872,2334 1970,2333 2068,2332 2166,2331 2265,2331"
+            },
+            "text": "T. brunnea (Tomanek 2002). However, at the northern extreme of its range T. funebralis should",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "291,2291 291,2351 330,2351 330,2291"
+                },
+                "text": "T."
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "341,2290 341,2350 498,2350 498,2290"
+                },
+                "text": "brunnea"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "529,2288 529,2348 726,2348 726,2288"
+                },
+                "text": "(Tomanek"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "752,2291 752,2351 885,2351 885,2291"
+                },
+                "text": "2002)."
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "911,2291 911,2351 1108,2351 1108,2291"
+                },
+                "text": "However,"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1123,2291 1123,2351 1158,2351 1158,2291"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1173,2291 1173,2351 1222,2351 1222,2291"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1247,2292 1247,2352 1405,2352 1405,2292"
+                },
+                "text": "northern"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1436,2291 1436,2351 1584,2351 1584,2291"
+                },
+                "text": "extreme"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1609,2293 1609,2353 1648,2353 1648,2293"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1663,2294 1663,2354 1708,2354 1708,2294"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1728,2294 1728,2354 1832,2354 1832,2294"
+                },
+                "text": "range"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1857,2293 1857,2353 1891,2353 1891,2293"
+                },
+                "text": "T."
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "1906,2292 1906,2352 2104,2352 2104,2292"
+                },
+                "text": "funebralis"
+              },
+              {
+                "id": "tr_1_tl_18_w15",
+                "coords": {
+                  "points": "2129,2291 2129,2351 2247,2351 2247,2291"
+                },
+                "text": "should"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "294,2464 344,2493 643,2454 771,2493 1060,2461 1174,2506 1302,2461 1498,2491 1764,2456 2202,2498 2185,2387 294,2397"
+            },
+            "baseline": {
+              "points": "307,2442 402,2445 497,2445 592,2445 687,2445 782,2445 877,2445 972,2445 1067,2445 1162,2448 1258,2448 1353,2447 1448,2448 1543,2448 1638,2448 1733,2448 1828,2448 1923,2448 2018,2448 2113,2447 2209,2445"
+            },
+            "text": "also experience colder temperatures than either T. brunnea or T. pulligo during emersion. To",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "293,2402 293,2462 360,2462 360,2402"
+                },
+                "text": "also"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "389,2405 389,2465 601,2465 601,2405"
+                },
+                "text": "experience"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "625,2405 625,2465 745,2465 745,2405"
+                },
+                "text": "colder"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "765,2405 765,2465 1020,2465 1020,2405"
+                },
+                "text": "temperatures"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1040,2405 1040,2465 1117,2465 1117,2405"
+                },
+                "text": "than"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1141,2408 1141,2468 1251,2468 1251,2408"
+                },
+                "text": "either"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1271,2407 1271,2467 1309,2467 1309,2407"
+                },
+                "text": "T."
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1324,2407 1324,2467 1478,2467 1478,2407"
+                },
+                "text": "brunnea"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1507,2408 1507,2468 1540,2468 1540,2408"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1560,2408 1560,2468 1604,2468 1604,2408"
+                },
+                "text": "T."
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1614,2408 1614,2468 1748,2468 1748,2408"
+                },
+                "text": "pulligo"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1778,2408 1778,2468 1892,2468 1892,2408"
+                },
+                "text": "during"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1922,2408 1922,2468 2114,2468 2114,2408"
+                },
+                "text": "emersion."
+              },
+              {
+                "id": "tr_1_tl_19_w14",
+                "coords": {
+                  "points": "2143,2405 2143,2465 2186,2465 2186,2405"
+                },
+                "text": "To"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "299,2624 838,2573 969,2627 1216,2582 1399,2632 1685,2582 1735,2620 1908,2582 2140,2612 2140,2518 2021,2489 1802,2531 1725,2493 1690,2526 299,2523"
+            },
+            "baseline": {
+              "points": "313,2561 404,2561 496,2561 587,2561 679,2561 771,2561 862,2561 954,2561 1046,2561 1137,2561 1229,2563 1321,2561 1412,2564 1504,2561 1596,2563 1687,2564 1779,2564 1871,2564 1962,2562 2054,2564 2146,2561"
+            },
+            "text": "date, little research has been conducted to explain this aspect of the thermal biology of the",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "298,2521 298,2581 392,2581 392,2521"
+                },
+                "text": "date,"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "407,2521 407,2581 490,2581 490,2521"
+                },
+                "text": "little"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "516,2521 516,2581 674,2581 674,2521"
+                },
+                "text": "research"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "699,2521 699,2581 758,2581 758,2521"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "783,2521 783,2581 862,2581 862,2521"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "892,2521 892,2581 1084,2581 1084,2521"
+                },
+                "text": "conducted"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1115,2521 1115,2581 1139,2581 1139,2521"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1164,2522 1164,2582 1302,2582 1302,2522"
+                },
+                "text": "explain"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1327,2522 1327,2582 1392,2582 1392,2522"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1417,2521 1417,2581 1535,2581 1535,2521"
+                },
+                "text": "aspect"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1555,2522 1555,2582 1589,2582 1589,2522"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1609,2523 1609,2583 1659,2583 1659,2523"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1684,2524 1684,2584 1841,2584 1841,2524"
+                },
+                "text": "thermal"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "1857,2522 1857,2582 1995,2582 1995,2522"
+                },
+                "text": "biology"
+              },
+              {
+                "id": "tr_1_tl_20_w15",
+                "coords": {
+                  "points": "2020,2523 2020,2583 2059,2583 2059,2523"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w16",
+                "coords": {
+                  "points": "2075,2522 2075,2582 2124,2582 2124,2522"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "299,2713 539,2731 709,2684 771,2723 1055,2699 1186,2743 1411,2686 1500,2741 1757,2691 1945,2731 2264,2694 2264,2634 2170,2612 1893,2649 299,2622"
+            },
+            "baseline": {
+              "points": "313,2680 410,2677 508,2677 606,2677 704,2676 802,2677 900,2677 998,2677 1096,2677 1194,2677 1292,2677 1389,2677 1487,2678 1585,2680 1683,2680 1781,2680 1879,2680 1977,2680 2075,2678 2173,2680 2271,2680"
+            },
+            "text": "Tegula congeners. This study looks at the patterns of Hsp 70 expression in response to different",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "299,2638 299,2698 424,2698 424,2638"
+                },
+                "text": "Tegula"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "450,2637 450,2697 667,2697 667,2637"
+                },
+                "text": "congeners."
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "698,2636 698,2696 778,2696 778,2636"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "805,2637 805,2697 900,2697 900,2637"
+                },
+                "text": "study"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "926,2637 926,2697 1027,2697 1027,2637"
+                },
+                "text": "looks"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1048,2637 1048,2697 1077,2697 1077,2637"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1098,2637 1098,2697 1148,2697 1148,2637"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1169,2637 1169,2697 1321,2697 1321,2637"
+                },
+                "text": "patterns"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1347,2637 1347,2697 1382,2697 1382,2637"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1397,2637 1397,2697 1467,2697 1467,2637"
+                },
+                "text": "Hsp"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1493,2638 1493,2698 1533,2698 1533,2638"
+                },
+                "text": "70"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1559,2640 1559,2700 1761,2700 1761,2640"
+                },
+                "text": "expression"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "1792,2640 1792,2700 1817,2700 1817,2640"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_21_w14",
+                "coords": {
+                  "points": "1843,2640 1843,2700 2004,2700 2004,2640"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_21_w15",
+                "coords": {
+                  "points": "2030,2638 2030,2698 2055,2698 2055,2638"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_21_w16",
+                "coords": {
+                  "points": "2086,2639 2086,2699 2257,2699 2257,2639"
+                },
+                "text": "different"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "299,2839 494,2827 598,2867 769,2810 1016,2862 1184,2822 1295,2847 1349,2805 2286,2822 2286,2743 2133,2765 2056,2716 1841,2765 1233,2758 1142,2721 924,2763 793,2726 299,2741"
+            },
+            "baseline": {
+              "points": "313,2794 411,2794 510,2794 609,2794 708,2794 807,2794 905,2796 1004,2795 1103,2794 1202,2797 1301,2794 1399,2797 1498,2797 1597,2797 1696,2797 1795,2797 1893,2797 1992,2797 2091,2797 2190,2797 2289,2794"
+            },
+            "text": "cold stresses in the different species, as well as the variation in behavioral response of the species",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "303,2754 303,2814 374,2814 374,2754"
+                },
+                "text": "cold"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "404,2754 404,2814 552,2814 552,2754"
+                },
+                "text": "stresses"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "572,2754 572,2814 600,2814 600,2754"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "625,2754 625,2814 677,2814 677,2754"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "702,2754 702,2814 875,2814 875,2754"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "890,2755 890,2815 1048,2815 1048,2755"
+                },
+                "text": "species,"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1063,2754 1063,2814 1096,2814 1096,2754"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1116,2755 1116,2815 1202,2815 1202,2755"
+                },
+                "text": "well"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1217,2756 1217,2816 1250,2816 1250,2756"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1275,2754 1275,2814 1322,2814 1322,2754"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1347,2757 1347,2817 1515,2817 1515,2757"
+                },
+                "text": "variation"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1540,2757 1540,2817 1563,2817 1563,2757"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "1593,2757 1593,2817 1808,2817 1808,2757"
+                },
+                "text": "behavioral"
+              },
+              {
+                "id": "tr_1_tl_22_w14",
+                "coords": {
+                  "points": "1823,2757 1823,2817 1987,2817 1987,2757"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_22_w15",
+                "coords": {
+                  "points": "2011,2757 2011,2817 2049,2817 2049,2757"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_22_w16",
+                "coords": {
+                  "points": "2064,2757 2064,2817 2116,2817 2116,2757"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w17",
+                "coords": {
+                  "points": "2141,2756 2141,2816 2280,2816 2280,2756"
+                },
+                "text": "species"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "292,2946 331,2938 363,2963 388,2938 420,2946 465,2933 499,2948 524,2933 546,2941 605,2921 605,2867 583,2867 568,2852 554,2867 502,2869 474,2849 452,2857 432,2844 358,2869 292,2842"
+            },
+            "baseline": {
+              "points": "304,2907 329,2907 355,2907 381,2909 406,2910 432,2910 458,2910 483,2910 509,2910 535,2910 560,2910 586,2909 612,2907"
+            },
+            "text": "to cold shock.",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "297,2867 297,2927 323,2927 323,2867"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "355,2869 355,2929 434,2929 434,2869"
+                },
+                "text": "cold"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "461,2870 461,2930 603,2930 603,2870"
+                },
+                "text": "shock."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

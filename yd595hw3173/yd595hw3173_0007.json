@@ -1,0 +1,2487 @@
+{
+  "processId": 10407807,
+  "status": "FINISHED",
+  "content": {
+    "text": "a plant having less than a given normalized force were found by the\nequation:\np =i/(N+1),\n(eq. 4)\nwhere i was the rank of the plant. A modified Weibull function of the form:\np = exp Ia-bfn)/(a-bc)) 1/b\n(eq. 5)\nwas then fit to these probabilities. The resulting equations were used to make\npredictions of how likely it would be for a given force to break a plant of a\ngiven area in each of the exposure categories (Denny and Gaines 1990).\nWhile testing stipe strengths in the field, it was noted that many plants\nalready had broken branches. The remains of these former branches\nresembled the stumps of stipe that were left after I pulled on them. To test\nhow many fronds were broken naturally, fifty plants (selected haphazardly)\nfrom a range of exposures were examined. The major stipe branches on each\nplant were counted, and then the fraction of these that were broken was\nrecorded.\nPredicting Wave Forces on E. menziesi\nA hydro-mechanical model (similar to that of Utter and Denny, in\npreparation) was used to predict the stresses waves place on E. menziesii. The\nmodel uses the shallow water approximations of linear wave theory to\ndescribe water motion and treats a plant frond as a series of point masses\n(nodes) connected by segments of extensible and flexible \"rope\" (see Figure 3).\nEach node has a mass, M (equal to the mass of the frond segment which it\nrepresents), and a buoyancy, B. The massless rope has the tensile strength,\ncompressive stiffnesses, and the cross sectional area of an E. menziesii stipe.\nThe force balance on each point mass, or node, is calculated as idealized\nwaves flow past the plant. The forces considered are those resulting from the\ndrag Eq, acceleration reaction Ea, buoyancy, B, and tension, T, of the stipe",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "355,278 355,2953 2184,2953 2184,278"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "347,340 522,378 960,337 1019,372 1343,342 1384,381 1963,388 1963,274 1865,296 1808,258 1541,301 1035,244 992,285 347,267"
+            },
+            "baseline": {
+              "points": "358,328 438,328 519,328 599,327 680,325 760,325 841,327 921,328 1002,325 1082,326 1163,325 1244,325 1324,325 1405,325 1485,325 1566,325 1646,328 1727,328 1807,327 1888,328 1969,328"
+            },
+            "text": "a plant having less than a given normalized force were found by the",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "353,288 353,348 363,348 363,288"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "396,288 396,348 509,348 509,288"
+                },
+                "text": "plant"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "526,287 526,347 672,347 672,287"
+                },
+                "text": "having"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "705,285 705,345 781,345 781,285"
+                },
+                "text": "less"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "804,287 804,347 895,347 895,287"
+                },
+                "text": "than"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "929,287 929,347 939,347 939,287"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "972,285 972,345 1080,345 1080,285"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1113,285 1113,345 1357,345 1357,285"
+                },
+                "text": "normalized"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1396,285 1396,345 1493,345 1493,285"
+                },
+                "text": "force"
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1521,285 1521,345 1624,345 1624,285"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_1_w11",
+                "coords": {
+                  "points": "1652,288 1652,348 1776,348 1776,288"
+                },
+                "text": "found"
+              },
+              {
+                "id": "tr_1_tl_1_w12",
+                "coords": {
+                  "points": "1809,287 1809,347 1852,347 1852,287"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_1_w13",
+                "coords": {
+                  "points": "1885,288 1885,348 1944,348 1944,288"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "347,449 376,458 404,483 417,483 442,458 477,467 492,454 520,474 588,465 588,378 556,378 547,369 518,381 497,369 467,385 451,374 435,390 347,397"
+            },
+            "baseline": {
+              "points": "358,426 384,426 410,427 436,428 462,429 488,429 514,428 540,426 566,428 593,426"
+            },
+            "text": "equation:",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "353,389 353,449 585,449 585,389"
+                },
+                "text": "equation:"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "648,559 675,563 711,536 850,556 917,536 994,575 992,438 948,467 903,440 860,472 821,472 793,449 727,497 707,481 648,481"
+            },
+            "baseline": {
+              "points": "659,525 685,525 711,525 737,527 763,528 789,528 815,528 842,528 868,528 894,528 920,528 946,529 972,531 999,534"
+            },
+            "text": "p =i/(N+1),",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "651,485 651,545 663,545 663,485"
+                },
+                "text": "p"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "698,488 698,548 995,548 995,488"
+                },
+                "text": "=i/(N+1),"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "1995,552 2009,552 2022,565 2052,554 2070,572 2120,570 2141,556 2155,556 2155,474 2139,477 2104,463 2091,479 2084,474 2068,490 2013,445 1993,451"
+            },
+            "baseline": {
+              "points": "2008,528 2033,528 2058,528 2084,530 2109,531 2134,531 2160,528"
+            },
+            "text": "(eq. 4)",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "2004,488 2004,548 2097,548 2097,488"
+                },
+                "text": "(eq."
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "2106,491 2106,551 2156,551 2156,491"
+                },
+                "text": "4)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "349,670 572,650 638,684 830,638 1019,675 1167,636 1313,677 1493,645 1553,693 1669,648 2155,677 2155,565 2054,556 1845,595 1530,552 764,591 613,545 575,584 349,584"
+            },
+            "baseline": {
+              "points": "361,626 455,626 550,626 645,626 739,627 834,629 929,628 1023,629 1118,629 1213,629 1307,626 1402,623 1497,623 1591,626 1686,626 1781,626 1875,626 1970,626 2065,626 2160,626"
+            },
+            "text": "where i was the rank of the plant. A modified Weibull function of the form:",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "349,586 349,646 479,646 479,586"
+                },
+                "text": "where"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "512,586 512,646 527,646 527,586"
+                },
+                "text": "i"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "544,586 544,646 625,646 625,586"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "652,586 652,646 711,646 711,586"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "744,588 744,648 830,648 830,588"
+                },
+                "text": "rank"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "864,588 864,648 906,648 906,588"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "928,588 928,648 988,648 988,588"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1016,589 1016,649 1145,649 1145,589"
+                },
+                "text": "plant."
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1184,589 1184,649 1199,649 1199,589"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1243,585 1243,645 1432,645 1432,585"
+                },
+                "text": "modified"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1470,584 1470,644 1644,644 1644,584"
+                },
+                "text": "Weibull"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1666,586 1666,646 1838,646 1838,586"
+                },
+                "text": "function"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1877,586 1877,646 1920,646 1920,586"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "1937,586 1937,646 1995,646 1995,586"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w15",
+                "coords": {
+                  "points": "2029,586 2029,646 2152,646 2152,586"
+                },
+                "text": "form:"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "650,757 736,746 768,768 834,741 1003,764 1092,739 1188,773 1343,750 1343,673 1290,663 1179,686 1135,661 990,684 896,663 741,695 650,675"
+            },
+            "baseline": {
+              "points": "662,713 696,717 730,719 764,719 799,721 833,722 867,722 902,722 936,724 970,725 1005,726 1039,728 1073,725 1107,725 1142,724 1176,722 1210,719 1245,717 1279,713 1313,708 1348,701"
+            },
+            "text": "p = exp Ia-bfn)/(a-bc)) 1/b",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "654,673 654,733 668,733 668,673"
+                },
+                "text": "p"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "697,677 697,737 711,737 711,677"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "741,679 741,739 806,739 806,679"
+                },
+                "text": "exp"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "843,687 843,747 1242,747 1242,687"
+                },
+                "text": "Ia-bfn)/(a-bc))"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1250,673 1250,733 1300,733 1300,673"
+                },
+                "text": "1/b"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "2002,780 2047,777 2063,762 2075,764 2116,743 2155,752 2155,679 2139,679 2120,663 2098,659 2066,684 2022,670 2002,675"
+            },
+            "baseline": {
+              "points": "2014,725 2043,723 2072,725 2101,725 2130,724 2160,722"
+            },
+            "text": "(eq. 5)",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "2012,683 2012,743 2098,743 2098,683"
+                },
+                "text": "(eq."
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "2113,683 2113,743 2156,743 2156,683"
+                },
+                "text": "5)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "349,873 440,839 901,878 960,841 1550,882 1772,834 1943,873 2171,850 2171,771 1874,796 1792,750 1471,796 1268,759 1131,796 349,775"
+            },
+            "baseline": {
+              "points": "361,823 451,826 542,823 633,826 723,823 814,823 905,826 995,826 1086,826 1177,826 1268,826 1358,826 1449,826 1540,826 1630,826 1721,826 1812,823 1902,824 1993,826 2084,827 2175,826"
+            },
+            "text": "was then fit to these probabilities. The resulting equations were used to make",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "349,783 349,843 430,843 430,783"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "458,784 458,844 538,844 538,784"
+                },
+                "text": "then"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "577,784 577,844 620,844 620,784"
+                },
+                "text": "fit"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "642,785 642,845 669,845 669,785"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "702,783 702,843 810,843 810,783"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "838,786 838,846 1136,846 1136,786"
+                },
+                "text": "probabilities."
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1169,786 1169,846 1245,846 1245,786"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1273,786 1273,846 1462,846 1462,786"
+                },
+                "text": "resulting"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1495,786 1495,846 1707,846 1707,786"
+                },
+                "text": "equations"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1735,783 1735,843 1831,843 1831,783"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1865,784 1865,844 1957,844 1957,784"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1990,786 1990,846 2016,846 2016,786"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "2050,786 2050,846 2163,846 2163,786"
+                },
+                "text": "make"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "349,974 643,944 1019,980 1156,939 1591,948 1642,985 2084,946 2082,882 1867,862 1459,896 347,876"
+            },
+            "baseline": {
+              "points": "361,928 447,925 533,925 620,925 706,925 793,925 879,925 965,922 1052,925 1138,928 1225,927 1311,927 1397,925 1484,928 1570,927 1657,928 1743,928 1829,927 1916,928 2002,925 2089,925"
+            },
+            "text": "predictions of how likely it would be for a given force to break a plant of a",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "348,885 348,945 598,945 598,885"
+                },
+                "text": "predictions"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "621,885 621,945 666,945 666,885"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "684,885 684,945 758,945 758,885"
+                },
+                "text": "how"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "798,885 798,945 911,945 911,885"
+                },
+                "text": "likely"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "941,882 941,942 974,942 974,882"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "992,885 992,945 1123,945 1123,885"
+                },
+                "text": "would"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1158,887 1158,947 1197,947 1197,887"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1226,887 1226,947 1282,947 1282,887"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1306,887 1306,947 1316,947 1316,887"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1346,885 1346,945 1454,945 1454,885"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1489,887 1489,947 1590,947 1590,887"
+                },
+                "text": "force"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1620,887 1620,947 1647,947 1647,887"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1676,888 1676,948 1790,948 1790,888"
+                },
+                "text": "break"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1825,887 1825,947 1836,947 1836,887"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "1865,887 1865,947 1978,947 1978,887"
+                },
+                "text": "plant"
+              },
+              {
+                "id": "tr_1_tl_9_w16",
+                "coords": {
+                  "points": "1996,885 1996,945 2041,945 2041,885"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w17",
+                "coords": {
+                  "points": "2059,885 2059,945 2069,945 2069,885"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "351,1074 1026,1074 1074,1040 2002,1069 2002,990 1922,962 1587,999 1404,962 1170,999 841,962 351,985"
+            },
+            "baseline": {
+              "points": "364,1029 446,1026 528,1026 610,1026 692,1026 774,1026 856,1026 938,1026 1020,1026 1102,1029 1184,1029 1266,1025 1348,1026 1430,1026 1512,1026 1594,1028 1676,1027 1758,1028 1840,1025 1922,1023 2005,1026"
+            },
+            "text": "given area in each of the exposure categories (Denny and Gaines 1990).",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "352,987 352,1047 462,1047 462,987"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "496,986 496,1046 578,1046 578,986"
+                },
+                "text": "area"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "612,986 612,1046 639,1046 639,986"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "673,986 673,1046 756,1046 756,986"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "790,986 790,1046 833,1046 833,986"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "851,986 851,1046 912,1046 912,986"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "940,986 940,1046 1133,1046 1133,986"
+                },
+                "text": "exposure"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1162,985 1162,1045 1383,1045 1383,985"
+                },
+                "text": "categories"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1406,986 1406,1046 1561,1046 1561,986"
+                },
+                "text": "(Denny"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1595,987 1595,1047 1661,1047 1661,987"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1700,987 1700,1047 1844,1047 1844,987"
+                },
+                "text": "Gaines"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1872,983 1872,1043 1999,1043 1999,983"
+                },
+                "text": "1990)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "504,1156 698,1140 876,1186 980,1145 1523,1138 1799,1176 1940,1138 2173,1179 2173,1083 2095,1065 2009,1097 504,1076"
+            },
+            "baseline": {
+              "points": "516,1119 599,1125 682,1126 765,1126 848,1125 931,1126 1014,1128 1097,1128 1180,1128 1263,1129 1347,1128 1430,1128 1513,1131 1596,1128 1679,1128 1762,1131 1845,1131 1928,1129 2011,1128 2094,1130 2178,1128"
+            },
+            "text": "While testing stipe strengths in the field, it was noted that many plants",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "511,1083 511,1143 632,1143 632,1083"
+                },
+                "text": "While"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "661,1086 661,1146 800,1146 800,1086"
+                },
+                "text": "testing"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "836,1085 836,1145 928,1145 928,1085"
+                },
+                "text": "stipe"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "957,1088 957,1148 1160,1148 1160,1088"
+                },
+                "text": "strengths"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1190,1088 1190,1148 1218,1148 1218,1088"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1248,1088 1248,1148 1311,1148 1311,1088"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1341,1088 1341,1148 1456,1148 1456,1088"
+                },
+                "text": "field,"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1474,1090 1474,1150 1502,1150 1502,1090"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1520,1089 1520,1149 1601,1149 1601,1089"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1631,1088 1631,1148 1740,1148 1740,1088"
+                },
+                "text": "noted"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1776,1091 1776,1151 1862,1151 1862,1091"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1886,1088 1886,1148 2002,1148 2002,1088"
+                },
+                "text": "many"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "2031,1089 2031,1149 2164,1149 2164,1089"
+                },
+                "text": "plants"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "347,1288 579,1238 928,1284 1042,1247 1088,1279 1509,1243 1742,1275 1965,1236 1965,1186 1892,1174 1044,1202 413,1156 347,1188"
+            },
+            "baseline": {
+              "points": "358,1226 438,1226 519,1223 600,1226 680,1226 761,1226 842,1229 922,1229 1003,1229 1084,1227 1165,1229 1245,1229 1326,1229 1407,1228 1487,1229 1568,1229 1649,1229 1729,1229 1810,1228 1891,1228 1972,1226"
+            },
+            "text": "already had broken branches. The remains of these former branches",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "352,1186 352,1246 507,1246 507,1186"
+                },
+                "text": "already"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "538,1185 538,1245 610,1245 610,1185"
+                },
+                "text": "had"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "642,1186 642,1246 787,1246 787,1186"
+                },
+                "text": "broken"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "818,1189 818,1249 1041,1249 1041,1189"
+                },
+                "text": "branches."
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1072,1187 1072,1247 1149,1247 1149,1187"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1176,1189 1176,1249 1352,1249 1352,1189"
+                },
+                "text": "remains"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1378,1188 1378,1248 1419,1248 1419,1188"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1440,1189 1440,1249 1543,1249 1543,1189"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1575,1189 1575,1249 1725,1249 1725,1189"
+                },
+                "text": "former"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1746,1188 1746,1248 1947,1248 1947,1188"
+                },
+                "text": "branches"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "347,1345 1035,1377 1252,1345 1306,1382 1439,1343 2102,1343 2102,1290 1851,1249 1705,1293 994,1261 880,1297 657,1252 347,1288"
+            },
+            "baseline": {
+              "points": "358,1319 445,1322 532,1325 620,1328 707,1328 795,1328 882,1328 970,1328 1057,1328 1145,1331 1232,1328 1319,1328 1407,1328 1494,1327 1582,1328 1669,1328 1757,1328 1844,1329 1932,1330 2019,1328 2107,1325"
+            },
+            "text": "resembled the stumps of stipe that were left after I pulled on them. To test",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "347,1282 347,1342 569,1342 569,1282"
+                },
+                "text": "resembled"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "602,1288 602,1348 662,1348 662,1288"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "689,1288 689,1348 846,1348 846,1288"
+                },
+                "text": "stumps"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "874,1288 874,1348 917,1348 917,1288"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "934,1288 934,1348 1031,1348 1031,1288"
+                },
+                "text": "stipe"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1064,1289 1064,1349 1145,1349 1145,1289"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1167,1288 1167,1348 1264,1348 1264,1288"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1297,1288 1297,1348 1367,1348 1367,1288"
+                },
+                "text": "left"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1384,1287 1384,1347 1481,1347 1481,1287"
+                },
+                "text": "after"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1504,1287 1504,1347 1519,1347 1519,1287"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1542,1288 1542,1348 1671,1348 1671,1288"
+                },
+                "text": "pulled"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1704,1288 1704,1348 1747,1348 1747,1288"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1775,1288 1775,1348 1905,1348 1905,1288"
+                },
+                "text": "them."
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "1943,1289 1943,1349 1986,1349 1986,1289"
+                },
+                "text": "To"
+              },
+              {
+                "id": "tr_1_tl_13_w15",
+                "coords": {
+                  "points": "2019,1286 2019,1346 2095,1346 2095,1286"
+                },
+                "text": "test"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "342,1461 497,1489 641,1443 935,1441 1031,1489 1088,1448 1334,1477 1642,1443 2107,1482 2107,1384 2045,1366 342,1384"
+            },
+            "baseline": {
+              "points": "355,1423 442,1426 530,1426 618,1426 706,1426 793,1426 881,1426 969,1426 1057,1427 1144,1429 1232,1429 1320,1426 1408,1425 1495,1429 1583,1426 1671,1426 1759,1426 1846,1426 1934,1429 2022,1429 2110,1417"
+            },
+            "text": "how many fronds were broken naturally, fifty plants (selected haphazardly)",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "343,1383 343,1443 414,1443 414,1383"
+                },
+                "text": "how"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "460,1386 460,1446 576,1446 576,1386"
+                },
+                "text": "many"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "610,1386 610,1446 749,1446 749,1386"
+                },
+                "text": "fronds"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "772,1386 772,1446 877,1446 877,1386"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "900,1386 900,1446 1050,1446 1050,1386"
+                },
+                "text": "broken"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1079,1389 1079,1449 1301,1449 1301,1389"
+                },
+                "text": "naturally,"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1318,1385 1318,1445 1402,1445 1402,1385"
+                },
+                "text": "fifty"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1430,1388 1430,1448 1563,1448 1563,1388"
+                },
+                "text": "plants"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1592,1386 1592,1446 1776,1446 1776,1386"
+                },
+                "text": "(selected"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1804,1389 1804,1449 2110,1449 2110,1389"
+                },
+                "text": "haphazardly)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "342,1585 426,1544 1306,1587 1477,1548 2157,1566 2125,1471 470,1500 342,1461"
+            },
+            "baseline": {
+              "points": "355,1528 445,1528 535,1528 626,1525 716,1528 807,1528 897,1528 987,1528 1078,1528 1168,1528 1259,1528 1349,1528 1439,1528 1530,1528 1620,1528 1711,1526 1801,1528 1891,1528 1982,1528 2072,1528 2163,1528"
+            },
+            "text": "from a range of exposures were examined. The major stipe branches on each",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "347,1488 347,1548 424,1548 424,1488"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "477,1488 477,1548 486,1548 486,1488"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "518,1486 518,1546 631,1546 631,1486"
+                },
+                "text": "range"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "663,1486 663,1546 704,1546 704,1486"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "725,1488 725,1548 947,1548 947,1488"
+                },
+                "text": "exposures"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "974,1488 974,1548 1072,1548 1072,1488"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1103,1488 1103,1548 1336,1548 1336,1488"
+                },
+                "text": "examined."
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1373,1488 1373,1548 1450,1548 1450,1488"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1477,1488 1477,1548 1601,1548 1601,1488"
+                },
+                "text": "major"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1627,1486 1627,1546 1725,1546 1725,1486"
+                },
+                "text": "stipe"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1751,1488 1751,1548 1948,1548 1948,1488"
+                },
+                "text": "branches"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1974,1488 1974,1548 2020,1548 2020,1488"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "2052,1488 2052,1548 2139,1548 2139,1488"
+                },
+                "text": "each"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "347,1669 1067,1655 1174,1703 1288,1655 1591,1653 1678,1694 2043,1660 2043,1585 1974,1564 1683,1603 1224,1564 347,1587"
+            },
+            "baseline": {
+              "points": "358,1626 442,1629 526,1627 611,1629 695,1628 780,1629 864,1629 949,1629 1033,1629 1118,1629 1202,1629 1286,1629 1371,1629 1455,1629 1540,1629 1624,1629 1709,1629 1793,1629 1878,1629 1962,1629 2047,1626"
+            },
+            "text": "plant were counted, and then the fraction of these that were broken was",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "352,1587 352,1647 463,1647 463,1587"
+                },
+                "text": "plant"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "484,1587 484,1647 584,1647 584,1587"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "616,1588 616,1648 813,1648 813,1588"
+                },
+                "text": "counted,"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "834,1589 834,1649 904,1649 904,1589"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "935,1589 935,1649 1021,1649 1021,1589"
+                },
+                "text": "then"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1057,1589 1057,1649 1112,1649 1112,1589"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1143,1589 1143,1649 1305,1649 1305,1589"
+                },
+                "text": "fraction"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1337,1589 1337,1649 1377,1649 1377,1589"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1397,1589 1397,1649 1503,1649 1503,1589"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1534,1589 1534,1649 1620,1649 1620,1589"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1641,1589 1641,1649 1742,1649 1742,1589"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1773,1589 1773,1649 1919,1649 1919,1589"
+                },
+                "text": "broken"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1950,1587 1950,1647 2031,1647 2031,1587"
+                },
+                "text": "was"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "342,1756 392,1753 401,1744 442,1753 474,1744 504,1751 522,1769 579,1760 577,1680 559,1685 527,1669 513,1683 474,1678 451,1692 429,1680 378,1687 340,1676"
+            },
+            "baseline": {
+              "points": "355,1722 380,1724 405,1725 431,1726 456,1727 482,1727 507,1727 533,1727 558,1727 584,1725"
+            },
+            "text": "recorded.",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "346,1687 346,1747 576,1747 576,1687"
+                },
+                "text": "recorded."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "347,1854 490,1892 600,1851 748,1883 1056,1847 1129,1883 1275,1865 1275,1783 1211,1776 1062,1801 942,1760 882,1797 700,1737 604,1790 347,1769"
+            },
+            "baseline": {
+              "points": "358,1829 404,1828 450,1826 496,1826 542,1824 588,1823 634,1825 680,1826 726,1826 772,1826 819,1826 865,1826 911,1826 957,1826 1003,1826 1049,1826 1095,1829 1141,1829 1187,1826 1233,1826 1280,1826"
+            },
+            "text": "Predicting Wave Forces on E. menziesi",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "349,1786 349,1846 577,1846 577,1786"
+                },
+                "text": "Predicting"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "610,1785 610,1845 730,1845 730,1785"
+                },
+                "text": "Wave"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "762,1786 762,1846 902,1846 902,1786"
+                },
+                "text": "Forces"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "928,1786 928,1846 972,1846 972,1786"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1004,1786 1004,1846 1054,1846 1054,1786"
+                },
+                "text": "E."
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1068,1787 1068,1847 1270,1847 1270,1787"
+                },
+                "text": "menziesi"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "492,1943 839,1984 880,1947 1021,1979 1186,1949 1427,1995 1573,1938 1849,1988 2068,1947 2036,1856 1945,1897 1591,1856 1491,1892 1391,1858 1008,1899 492,1874"
+            },
+            "baseline": {
+              "points": "504,1927 582,1927 661,1924 739,1925 818,1927 896,1927 975,1927 1053,1927 1132,1927 1210,1927 1289,1927 1367,1927 1446,1927 1524,1927 1603,1925 1681,1925 1760,1927 1838,1927 1917,1927 1995,1927 2074,1927"
+            },
+            "text": "A hydro-mechanical model (similar to that of Utter and Denny, in",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "492,1887 492,1947 508,1947 508,1887"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "553,1885 553,1945 973,1945 973,1885"
+                },
+                "text": "hydro-mechanical"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "995,1887 995,1947 1142,1947 1142,1887"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "1154,1887 1154,1947 1323,1947 1323,1887"
+                },
+                "text": "(similar"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1351,1887 1351,1947 1377,1947 1377,1887"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1411,1887 1411,1947 1497,1947 1497,1887"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1520,1886 1520,1946 1558,1946 1558,1886"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1580,1885 1580,1945 1694,1945 1694,1885"
+                },
+                "text": "Utter"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1722,1886 1722,1946 1793,1946 1793,1886"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1826,1887 1826,1947 1989,1947 1989,1887"
+                },
+                "text": "Denny,"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "2012,1887 2012,1947 2039,1947 2039,1887"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "349,2075 1363,2045 1484,2084 2057,2057 2177,2102 2143,1961 349,1995"
+            },
+            "baseline": {
+              "points": "361,2029 452,2026 543,2026 634,2023 725,2024 816,2029 907,2028 999,2029 1090,2029 1181,2029 1272,2028 1363,2029 1454,2028 1545,2026 1637,2029 1728,2029 1819,2030 1910,2029 2001,2026 2092,2028 2184,2029"
+            },
+            "text": "preparation) was used to predict the stresses waves place on E. menziesii. The",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "350,1986 350,2046 638,2046 638,1986"
+                },
+                "text": "preparation)"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "656,1983 656,2043 734,2043 734,1983"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "758,1988 758,2048 853,2048 853,1988"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "882,1988 882,2048 915,2048 915,1988"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "944,1989 944,2049 1103,2049 1103,1989"
+                },
+                "text": "predict"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1126,1989 1126,2049 1182,2049 1182,1989"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1211,1988 1211,2048 1375,2048 1375,1988"
+                },
+                "text": "stresses"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1398,1987 1398,2047 1533,2047 1533,1987"
+                },
+                "text": "waves"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1557,1988 1557,2048 1664,2048 1664,1988"
+                },
+                "text": "place"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1693,1989 1693,2049 1738,2049 1738,1989"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1767,1989 1767,2049 1811,2049 1811,1989"
+                },
+                "text": "E."
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1829,1987 1829,2047 2061,2047 2061,1987"
+                },
+                "text": "menziesii."
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "2090,1988 2090,2048 2162,2048 2162,1988"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "342,2166 565,2193 673,2148 1389,2148 1480,2189 2016,2141 2016,2084 1751,2066 1696,2100 1537,2057 1450,2100 1126,2061 495,2070 342,2111"
+            },
+            "baseline": {
+              "points": "355,2127 438,2127 521,2127 604,2130 688,2130 771,2130 854,2130 937,2130 1021,2130 1104,2128 1187,2130 1270,2130 1354,2130 1437,2130 1520,2130 1603,2130 1687,2128 1770,2130 1853,2130 1936,2129 2020,2127"
+            },
+            "text": "model uses the shallow water approximations of linear wave theory to",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "342,2087 342,2147 482,2147 482,2087"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "503,2088 503,2148 596,2148 596,2088"
+                },
+                "text": "uses"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "623,2090 623,2150 685,2150 685,2090"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "712,2090 712,2150 867,2150 867,2090"
+                },
+                "text": "shallow"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "915,2090 915,2150 1040,2150 1040,2090"
+                },
+                "text": "water"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1061,2090 1061,2150 1420,2150 1420,2090"
+                },
+                "text": "approximations"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1446,2090 1446,2150 1488,2150 1488,2090"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1509,2090 1509,2150 1634,2150 1634,2090"
+                },
+                "text": "linear"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1660,2088 1660,2148 1769,2148 1769,2088"
+                },
+                "text": "wave"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1801,2089 1801,2149 1936,2149 1936,2089"
+                },
+                "text": "theory"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1968,2087 1968,2147 1998,2147 1998,2087"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "342,2246 445,2285 1131,2244 1268,2289 1585,2250 1744,2296 2054,2246 2054,2198 1981,2159 1922,2193 1635,2164 896,2202 814,2161 342,2200"
+            },
+            "baseline": {
+              "points": "355,2229 440,2229 525,2229 610,2229 695,2229 781,2230 866,2232 951,2232 1036,2232 1121,2232 1207,2232 1292,2232 1377,2232 1462,2232 1547,2232 1633,2231 1718,2231 1803,2232 1888,2232 1973,2232 2059,2226"
+            },
+            "text": "describe water motion and treats a plant frond as a series of point masses",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "347,2189 347,2249 523,2249 523,2189"
+                },
+                "text": "describe"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "554,2189 554,2249 673,2249 673,2189"
+                },
+                "text": "water"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "699,2189 699,2249 844,2249 844,2189"
+                },
+                "text": "motion"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "881,2192 881,2252 948,2252 948,2192"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "980,2192 980,2252 1098,2252 1098,2192"
+                },
+                "text": "treats"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1125,2192 1125,2252 1134,2252 1134,2192"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1166,2192 1166,2252 1279,2252 1279,2192"
+                },
+                "text": "plant"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1301,2192 1301,2252 1409,2252 1409,2192"
+                },
+                "text": "frond"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1441,2192 1441,2252 1476,2252 1476,2192"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1503,2192 1503,2252 1518,2252 1518,2192"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1545,2191 1545,2251 1663,2251 1663,2191"
+                },
+                "text": "series"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1690,2191 1690,2251 1731,2251 1731,2191"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "1752,2192 1752,2252 1871,2252 1871,2192"
+                },
+                "text": "point"
+              },
+              {
+                "id": "tr_1_tl_22_w14",
+                "coords": {
+                  "points": "1887,2192 1887,2252 2041,2252 2041,2192"
+                },
+                "text": "masses"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "353,2353 855,2387 1395,2348 1731,2389 1819,2332 1890,2380 1945,2348 2164,2373 2164,2285 1965,2269 1883,2303 1327,2262 1263,2298 401,2296 353,2264"
+            },
+            "baseline": {
+              "points": "367,2327 461,2330 556,2330 651,2330 745,2330 840,2330 935,2330 1029,2332 1124,2330 1219,2333 1313,2333 1408,2333 1503,2332 1597,2330 1692,2330 1787,2332 1881,2330 1976,2330 2071,2330 2166,2330"
+            },
+            "text": "(nodes) connected by segments of extensible and flexible \"rope\" (see Figure 3).",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "354,2289 354,2349 519,2349 519,2289"
+                },
+                "text": "(nodes)"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "536,2290 536,2350 752,2350 752,2290"
+                },
+                "text": "connected"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "786,2290 786,2350 830,2350 830,2290"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "858,2290 858,2350 1062,2350 1062,2290"
+                },
+                "text": "segments"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "1086,2290 1086,2350 1130,2350 1130,2290"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1152,2293 1152,2353 1362,2353 1362,2293"
+                },
+                "text": "extensible"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1396,2292 1396,2352 1463,2352 1463,2292"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1496,2290 1496,2350 1651,2350 1651,2290"
+                },
+                "text": "flexible"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1679,2291 1679,2351 1818,2351 1818,2291"
+                },
+                "text": "\"rope\""
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1841,2290 1841,2350 1917,2350 1917,2290"
+                },
+                "text": "(see"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1946,2290 1946,2350 2078,2350 2078,2290"
+                },
+                "text": "Figure"
+              },
+              {
+                "id": "tr_1_tl_23_w12",
+                "coords": {
+                  "points": "2106,2290 2106,2350 2167,2350 2167,2290"
+                },
+                "text": "3)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "342,2442 492,2485 777,2446 1067,2483 1233,2449 2086,2469 2086,2385 1963,2364 1731,2401 1459,2358 1377,2403 486,2401 342,2362"
+            },
+            "baseline": {
+              "points": "355,2429 441,2429 528,2429 615,2432 702,2432 789,2432 876,2432 962,2430 1049,2432 1136,2430 1223,2430 1310,2432 1397,2431 1484,2429 1570,2430 1657,2432 1744,2427 1831,2431 1918,2429 2005,2429 2092,2426"
+            },
+            "text": "Each node has a mass, M (equal to the mass of the frond segment which it",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "348,2389 348,2449 434,2449 434,2389"
+                },
+                "text": "Each"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "467,2389 467,2449 570,2449 570,2389"
+                },
+                "text": "node"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "598,2392 598,2452 668,2452 668,2392"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "696,2392 696,2452 706,2452 706,2392"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "734,2392 734,2452 864,2452 864,2392"
+                },
+                "text": "mass,"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "881,2391 881,2451 896,2451 896,2391"
+                },
+                "text": "M"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "947,2391 947,2451 1087,2451 1087,2391"
+                },
+                "text": "(equal"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1104,2390 1104,2450 1136,2450 1136,2390"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1170,2390 1170,2450 1223,2450 1223,2390"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1257,2391 1257,2451 1359,2451 1359,2391"
+                },
+                "text": "mass"
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "1387,2390 1387,2450 1430,2450 1430,2390"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_24_w12",
+                "coords": {
+                  "points": "1447,2389 1447,2449 1507,2449 1507,2389"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_24_w13",
+                "coords": {
+                  "points": "1535,2390 1535,2450 1648,2450 1648,2390"
+                },
+                "text": "frond"
+              },
+              {
+                "id": "tr_1_tl_24_w14",
+                "coords": {
+                  "points": "1682,2388 1682,2448 1871,2448 1871,2388"
+                },
+                "text": "segment"
+              },
+              {
+                "id": "tr_1_tl_24_w15",
+                "coords": {
+                  "points": "1888,2389 1888,2449 2013,2449 2013,2389"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_24_w16",
+                "coords": {
+                  "points": "2046,2387 2046,2447 2078,2447 2078,2387"
+                },
+                "text": "it"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "347,2547 486,2586 549,2547 1019,2586 1106,2538 1290,2581 2088,2554 2088,2497 1979,2465 347,2506"
+            },
+            "baseline": {
+              "points": "358,2530 444,2527 531,2530 618,2530 705,2533 792,2533 879,2532 965,2531 1052,2532 1139,2533 1226,2533 1313,2530 1400,2530 1487,2530 1573,2530 1660,2533 1747,2530 1834,2530 1921,2530 2008,2533 2095,2530"
+            },
+            "text": "represents), and a buoyancy, B. The massless rope has the tensile strength,",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "347,2488 347,2548 612,2548 612,2488"
+                },
+                "text": "represents),"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "635,2491 635,2551 700,2551 700,2491"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "733,2493 733,2553 749,2553 749,2493"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_25_w4",
+                "coords": {
+                  "points": "776,2491 776,2551 1015,2551 1015,2491"
+                },
+                "text": "buoyancy,"
+              },
+              {
+                "id": "tr_1_tl_25_w5",
+                "coords": {
+                  "points": "1032,2492 1032,2552 1075,2552 1075,2492"
+                },
+                "text": "B."
+              },
+              {
+                "id": "tr_1_tl_25_w6",
+                "coords": {
+                  "points": "1102,2493 1102,2553 1178,2553 1178,2493"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_25_w7",
+                "coords": {
+                  "points": "1211,2490 1211,2550 1395,2550 1395,2490"
+                },
+                "text": "massless"
+              },
+              {
+                "id": "tr_1_tl_25_w8",
+                "coords": {
+                  "points": "1423,2490 1423,2550 1515,2550 1515,2490"
+                },
+                "text": "rope"
+              },
+              {
+                "id": "tr_1_tl_25_w9",
+                "coords": {
+                  "points": "1543,2490 1543,2550 1613,2550 1613,2490"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_25_w10",
+                "coords": {
+                  "points": "1641,2492 1641,2552 1694,2552 1694,2492"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_25_w11",
+                "coords": {
+                  "points": "1727,2490 1727,2550 1863,2550 1863,2490"
+                },
+                "text": "tensile"
+              },
+              {
+                "id": "tr_1_tl_25_w12",
+                "coords": {
+                  "points": "1891,2492 1891,2552 2091,2552 2091,2492"
+                },
+                "text": "strength,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_26",
+            "coords": {
+              "points": "342,2654 1669,2654 1767,2690 2120,2649 2120,2590 1705,2565 1300,2601 474,2572 342,2608"
+            },
+            "baseline": {
+              "points": "355,2629 443,2629 532,2629 620,2632 709,2629 798,2629 886,2632 975,2635 1063,2633 1152,2632 1241,2632 1329,2635 1418,2635 1506,2633 1595,2635 1684,2635 1772,2634 1861,2633 1949,2632 2038,2632 2127,2632"
+            },
+            "text": "compressive stiffnesses, and the cross sectional area of an E. menziesii stipe.",
+            "words": [
+              {
+                "id": "tr_1_tl_26_w1",
+                "coords": {
+                  "points": "348,2589 348,2649 618,2649 618,2589"
+                },
+                "text": "compressive"
+              },
+              {
+                "id": "tr_1_tl_26_w2",
+                "coords": {
+                  "points": "651,2589 651,2649 895,2649 895,2589"
+                },
+                "text": "stiffnesses,"
+              },
+              {
+                "id": "tr_1_tl_26_w3",
+                "coords": {
+                  "points": "918,2594 918,2654 982,2654 982,2594"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_26_w4",
+                "coords": {
+                  "points": "1015,2593 1015,2653 1075,2653 1075,2593"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_26_w5",
+                "coords": {
+                  "points": "1108,2592 1108,2652 1211,2652 1211,2592"
+                },
+                "text": "cross"
+              },
+              {
+                "id": "tr_1_tl_26_w6",
+                "coords": {
+                  "points": "1238,2595 1238,2655 1433,2655 1433,2595"
+                },
+                "text": "sectional"
+              },
+              {
+                "id": "tr_1_tl_26_w7",
+                "coords": {
+                  "points": "1456,2593 1456,2653 1542,2653 1542,2593"
+                },
+                "text": "area"
+              },
+              {
+                "id": "tr_1_tl_26_w8",
+                "coords": {
+                  "points": "1570,2594 1570,2654 1612,2654 1612,2594"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_26_w9",
+                "coords": {
+                  "points": "1629,2595 1629,2655 1672,2655 1672,2595"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_26_w10",
+                "coords": {
+                  "points": "1705,2594 1705,2654 1748,2654 1748,2594"
+                },
+                "text": "E."
+              },
+              {
+                "id": "tr_1_tl_26_w11",
+                "coords": {
+                  "points": "1765,2592 1765,2652 1982,2652 1982,2592"
+                },
+                "text": "menziesii"
+              },
+              {
+                "id": "tr_1_tl_26_w12",
+                "coords": {
+                  "points": "2004,2592 2004,2652 2123,2652 2123,2592"
+                },
+                "text": "stipe."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_27",
+            "coords": {
+              "points": "497,2750 1088,2795 1220,2752 1461,2784 2175,2752 2175,2688 2016,2677 497,2688"
+            },
+            "baseline": {
+              "points": "510,2730 593,2730 677,2733 760,2733 844,2733 927,2733 1011,2733 1094,2733 1178,2733 1261,2733 1345,2733 1429,2733 1512,2733 1596,2733 1679,2733 1763,2733 1846,2733 1930,2733 2013,2733 2097,2733 2181,2733"
+            },
+            "text": "The force balance on each point mass, or node, is calculated as idealized",
+            "words": [
+              {
+                "id": "tr_1_tl_27_w1",
+                "coords": {
+                  "points": "502,2690 502,2750 576,2750 576,2690"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_27_w2",
+                "coords": {
+                  "points": "603,2692 603,2752 702,2752 702,2692"
+                },
+                "text": "force"
+              },
+              {
+                "id": "tr_1_tl_27_w3",
+                "coords": {
+                  "points": "735,2693 735,2753 893,2753 893,2693"
+                },
+                "text": "balance"
+              },
+              {
+                "id": "tr_1_tl_27_w4",
+                "coords": {
+                  "points": "925,2693 925,2753 961,2753 961,2693"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_27_w5",
+                "coords": {
+                  "points": "999,2693 999,2753 1084,2753 1084,2693"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_27_w6",
+                "coords": {
+                  "points": "1116,2693 1116,2753 1231,2753 1231,2693"
+                },
+                "text": "point"
+              },
+              {
+                "id": "tr_1_tl_27_w7",
+                "coords": {
+                  "points": "1253,2693 1253,2753 1379,2753 1379,2693"
+                },
+                "text": "mass,"
+              },
+              {
+                "id": "tr_1_tl_27_w8",
+                "coords": {
+                  "points": "1396,2693 1396,2753 1438,2753 1438,2693"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_27_w9",
+                "coords": {
+                  "points": "1459,2693 1459,2753 1585,2753 1585,2693"
+                },
+                "text": "node,"
+              },
+              {
+                "id": "tr_1_tl_27_w10",
+                "coords": {
+                  "points": "1602,2693 1602,2753 1628,2753 1628,2693"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_27_w11",
+                "coords": {
+                  "points": "1655,2693 1655,2753 1871,2753 1871,2693"
+                },
+                "text": "calculated"
+              },
+              {
+                "id": "tr_1_tl_27_w12",
+                "coords": {
+                  "points": "1904,2693 1904,2753 1940,2753 1940,2693"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_27_w13",
+                "coords": {
+                  "points": "1967,2693 1967,2753 2157,2753 2157,2693"
+                },
+                "text": "idealized"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_28",
+            "coords": {
+              "points": "342,2843 536,2886 992,2843 1088,2882 1145,2845 1610,2877 1817,2843 2077,2898 2166,2866 2141,2779 342,2795"
+            },
+            "baseline": {
+              "points": "355,2829 445,2832 536,2832 627,2829 718,2832 809,2832 900,2832 990,2833 1081,2835 1172,2832 1263,2832 1354,2834 1445,2832 1536,2832 1626,2832 1717,2832 1808,2832 1899,2832 1990,2832 2081,2832 2172,2829"
+            },
+            "text": "waves flow past the plant. The forces considered are those resulting from the",
+            "words": [
+              {
+                "id": "tr_1_tl_28_w1",
+                "coords": {
+                  "points": "342,2790 342,2850 476,2850 476,2790"
+                },
+                "text": "waves"
+              },
+              {
+                "id": "tr_1_tl_28_w2",
+                "coords": {
+                  "points": "503,2791 503,2851 580,2851 580,2791"
+                },
+                "text": "flow"
+              },
+              {
+                "id": "tr_1_tl_28_w3",
+                "coords": {
+                  "points": "627,2790 627,2850 715,2850 715,2790"
+                },
+                "text": "past"
+              },
+              {
+                "id": "tr_1_tl_28_w4",
+                "coords": {
+                  "points": "737,2792 737,2852 793,2852 793,2792"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_28_w5",
+                "coords": {
+                  "points": "825,2792 825,2852 954,2852 954,2792"
+                },
+                "text": "plant."
+              },
+              {
+                "id": "tr_1_tl_28_w6",
+                "coords": {
+                  "points": "991,2793 991,2853 1063,2853 1063,2793"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_28_w7",
+                "coords": {
+                  "points": "1095,2792 1095,2852 1219,2852 1219,2792"
+                },
+                "text": "forces"
+              },
+              {
+                "id": "tr_1_tl_28_w8",
+                "coords": {
+                  "points": "1245,2793 1245,2853 1479,2853 1479,2793"
+                },
+                "text": "considered"
+              },
+              {
+                "id": "tr_1_tl_28_w9",
+                "coords": {
+                  "points": "1516,2792 1516,2852 1572,2852 1572,2792"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_28_w10",
+                "coords": {
+                  "points": "1604,2792 1604,2852 1712,2852 1712,2792"
+                },
+                "text": "those"
+              },
+              {
+                "id": "tr_1_tl_28_w11",
+                "coords": {
+                  "points": "1744,2792 1744,2852 1930,2852 1930,2792"
+                },
+                "text": "resulting"
+              },
+              {
+                "id": "tr_1_tl_28_w12",
+                "coords": {
+                  "points": "1967,2792 1967,2852 2045,2852 2045,2792"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_28_w13",
+                "coords": {
+                  "points": "2092,2790 2092,2850 2153,2850 2153,2790"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_29",
+            "coords": {
+              "points": "342,2946 579,2987 711,2943 1541,2980 1933,2941 2054,2994 2054,2884 1968,2866 342,2886"
+            },
+            "baseline": {
+              "points": "355,2927 440,2927 525,2928 610,2927 695,2924 781,2924 866,2927 951,2927 1036,2930 1121,2930 1207,2927 1292,2927 1377,2927 1462,2927 1547,2927 1633,2927 1718,2927 1803,2925 1888,2927 1973,2927 2059,2924"
+            },
+            "text": "drag Eq, acceleration reaction Ea, buoyancy, B, and tension, T, of the stipe",
+            "words": [
+              {
+                "id": "tr_1_tl_29_w1",
+                "coords": {
+                  "points": "349,2887 349,2947 435,2947 435,2887"
+                },
+                "text": "drag"
+              },
+              {
+                "id": "tr_1_tl_29_w2",
+                "coords": {
+                  "points": "471,2887 471,2947 540,2947 540,2887"
+                },
+                "text": "Eq,"
+              },
+              {
+                "id": "tr_1_tl_29_w3",
+                "coords": {
+                  "points": "558,2884 558,2944 813,2944 813,2884"
+                },
+                "text": "acceleration"
+              },
+              {
+                "id": "tr_1_tl_29_w4",
+                "coords": {
+                  "points": "849,2887 849,2947 1016,2947 1016,2887"
+                },
+                "text": "reaction"
+              },
+              {
+                "id": "tr_1_tl_29_w5",
+                "coords": {
+                  "points": "1046,2890 1046,2950 1115,2950 1115,2890"
+                },
+                "text": "Ea,"
+              },
+              {
+                "id": "tr_1_tl_29_w6",
+                "coords": {
+                  "points": "1133,2887 1133,2947 1365,2947 1365,2887"
+                },
+                "text": "buoyancy,"
+              },
+              {
+                "id": "tr_1_tl_29_w7",
+                "coords": {
+                  "points": "1383,2887 1383,2947 1423,2947 1423,2887"
+                },
+                "text": "B,"
+              },
+              {
+                "id": "tr_1_tl_29_w8",
+                "coords": {
+                  "points": "1441,2887 1441,2947 1510,2947 1510,2887"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_29_w9",
+                "coords": {
+                  "points": "1540,2887 1540,2947 1720,2947 1720,2887"
+                },
+                "text": "tension,"
+              },
+              {
+                "id": "tr_1_tl_29_w10",
+                "coords": {
+                  "points": "1738,2885 1738,2945 1784,2945 1784,2885"
+                },
+                "text": "T,"
+              },
+              {
+                "id": "tr_1_tl_29_w11",
+                "coords": {
+                  "points": "1796,2885 1796,2945 1836,2945 1836,2885"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_29_w12",
+                "coords": {
+                  "points": "1860,2887 1860,2947 1917,2947 1917,2887"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_29_w13",
+                "coords": {
+                  "points": "1947,2886 1947,2946 2045,2946 2045,2886"
+                },
+                "text": "stipe"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

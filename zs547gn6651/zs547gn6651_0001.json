@@ -1,0 +1,1741 @@
+{
+  "processId": 10409277,
+  "status": "FINISHED",
+  "content": {
+    "text": "Abstract\nAlthough the functional role of the optic tectum has yet to be well characterized in teleosts, it\nis thought to be responsible for initiating and coordinating visuomotor behaviors associated with\nthe looming response. In this study, behavioral and electrophysiological responses to the looming\nstimulus were measured by differential suction electrodes at the optic tectum and retinal ganglion\ncells of adult male zebrafish (Brachydanio rerio). The looming stimulus was simulated by a\nlight-emitting diode and by increasing irradiance durations. Responses to off-light events were\nfound at both the retina and optic tectum, suggesting that light-induced startle responses begin as\nearly in the visual synaptic pathway as the retina. However, several differences in signal shape\nand amplitude between recordings at these two regions suggest that higher-order visual\nprocessing of on- and off-responses occurs at the optic tectum. Latency times were measured\nbetween the presentation of the stimulus and the onset of the response, but data are currently\ninconclusive. Habituation was observed through decreases in startle response as a function of\nflash repetition. Future studies are necessary to correlate electrode position with signal strength\nto resolve neural organization at the optic tectum. \u00d6ther parameters such as flash duration,\ninterstimulus interval, and age of the zebrafish can also be varied to obtain a more complete\nunderstanding of the startle response.",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "286,285 286,2211 2274,2211 2274,285"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "276,355 340,372 382,372 395,362 415,370 427,357 489,357 489,295 467,305 449,295 402,305 390,293 377,303 350,298 330,278 300,305 276,305"
+            },
+            "baseline": {
+              "points": "289,340 314,340 340,340 366,340 392,341 417,343 443,342 469,340 495,343"
+            },
+            "text": "Abstract",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "277,300 277,360 480,360 480,300"
+                },
+                "text": "Abstract"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "348,464 1159,504 1323,469 1405,506 1614,464 2262,469 2224,392 1666,392 1629,427 1574,392 1197,427 991,392 953,427 643,385 348,434"
+            },
+            "baseline": {
+              "points": "361,456 456,459 551,457 647,456 742,459 837,457 933,456 1028,459 1123,456 1219,459 1314,459 1409,458 1505,459 1600,456 1695,459 1791,459 1886,459 1981,457 2077,458 2172,459 2268,456"
+            },
+            "text": "Although the functional role of the optic tectum has yet to be well characterized in teleosts, it",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "347,418 347,478 525,478 525,418"
+                },
+                "text": "Although"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "556,416 556,476 604,476 604,416"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "630,418 630,478 832,478 832,418"
+                },
+                "text": "functional"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "853,416 853,476 917,476 917,416"
+                },
+                "text": "role"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "942,416 942,476 981,476 981,416"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1002,418 1002,478 1051,478 1051,418"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1076,416 1076,476 1164,476 1164,416"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1190,419 1190,479 1298,479 1298,419"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1344,418 1344,478 1403,478 1403,418"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1423,418 1423,478 1482,478 1482,418"
+                },
+                "text": "yet"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1503,418 1503,478 1527,478 1527,418"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1552,416 1552,476 1586,476 1586,416"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "1617,417 1617,477 1700,477 1700,417"
+                },
+                "text": "well"
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "1716,419 1716,479 1973,479 1973,419"
+                },
+                "text": "characterized"
+              },
+              {
+                "id": "tr_1_tl_2_w15",
+                "coords": {
+                  "points": "2003,417 2003,477 2027,477 2027,417"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_2_w16",
+                "coords": {
+                  "points": "2053,418 2053,478 2216,478 2216,418"
+                },
+                "text": "teleosts,"
+              },
+              {
+                "id": "tr_1_tl_2_w17",
+                "coords": {
+                  "points": "2231,416 2231,476 2255,476 2255,416"
+                },
+                "text": "it"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "273,573 1030,621 1221,578 1323,626 1398,583 2252,583 2252,519 273,531"
+            },
+            "baseline": {
+              "points": "286,570 384,573 483,572 581,571 680,570 779,573 877,573 976,573 1075,573 1173,573 1272,573 1371,573 1469,573 1568,573 1667,573 1765,573 1864,573 1963,573 2061,573 2160,573 2259,573"
+            },
+            "text": "is thought to be responsible for initiating and coordinating visuomotor behaviors associated with",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "272,530 272,590 297,590 297,530"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "317,532 317,592 470,592 470,532"
+                },
+                "text": "thought"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "490,531 490,591 514,591 514,531"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "540,531 540,591 578,591 578,531"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "604,531 604,591 826,591 826,531"
+                },
+                "text": "responsible"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "851,533 851,593 905,593 905,533"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "920,533 920,593 1093,593 1093,533"
+                },
+                "text": "initiating"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1123,533 1123,593 1182,593 1182,533"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1207,533 1207,593 1454,593 1454,533"
+                },
+                "text": "coordinating"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1484,533 1484,593 1706,593 1706,533"
+                },
+                "text": "visuomotor"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1727,533 1727,593 1919,593 1919,533"
+                },
+                "text": "behaviors"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1939,533 1939,593 2137,593 2137,533"
+                },
+                "text": "associated"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "2167,533 2167,593 2240,593 2240,533"
+                },
+                "text": "with"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "278,698 655,737 725,700 1343,737 1420,703 2257,710 2257,631 2177,608 2120,655 1363,616 278,653"
+            },
+            "baseline": {
+              "points": "292,689 390,689 489,689 587,689 686,688 784,689 883,689 981,689 1080,689 1178,689 1277,689 1375,689 1474,689 1572,689 1671,689 1769,689 1868,689 1966,689 2065,689 2163,689 2262,695"
+            },
+            "text": "the looming response. In this study, behavioral and electrophysiological responses to the looming",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "283,649 283,709 334,709 334,649"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "355,649 355,709 510,709 510,649"
+                },
+                "text": "looming"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "542,648 542,708 727,708 727,648"
+                },
+                "text": "response."
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "743,648 743,708 769,708 769,648"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "796,649 796,709 862,709 862,649"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "884,649 884,709 1002,709 1002,649"
+                },
+                "text": "study,"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1018,649 1018,709 1230,709 1230,649"
+                },
+                "text": "behavioral"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1246,649 1246,709 1303,709 1303,649"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1329,649 1329,709 1737,709 1737,649"
+                },
+                "text": "electrophysiological"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1753,649 1753,709 1945,709 1945,649"
+                },
+                "text": "responses"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1966,649 1966,709 1991,709 1991,649"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "2018,649 2018,709 2063,709 2063,649"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "2090,649 2090,709 2245,709 2245,649"
+                },
+                "text": "looming"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "281,817 1244,844 1584,809 1631,851 1698,814 2264,822 2264,767 2204,752 281,762"
+            },
+            "baseline": {
+              "points": "295,799 393,802 492,802 590,802 689,802 788,802 886,802 985,802 1084,804 1182,803 1281,802 1380,802 1478,805 1577,802 1676,805 1774,802 1873,802 1972,802 2070,804 2169,805 2268,802"
+            },
+            "text": "stimulus were measured by differential suction electrodes at the optic tectum and retinal ganglion",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "280,761 280,821 443,821 443,761"
+                },
+                "text": "stimulus"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "463,762 463,822 552,822 552,762"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "577,762 577,822 754,822 754,762"
+                },
+                "text": "measured"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "785,762 785,822 819,822 819,762"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "849,762 849,822 1071,822 1071,762"
+                },
+                "text": "differential"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1086,763 1086,823 1219,823 1219,763"
+                },
+                "text": "suction"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1244,762 1244,822 1442,822 1442,762"
+                },
+                "text": "electrodes"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1467,764 1467,824 1496,824 1496,764"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1511,763 1511,823 1565,823 1565,763"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1591,763 1591,823 1679,823 1679,763"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1704,762 1704,822 1812,822 1812,762"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1858,762 1858,822 1916,822 1916,762"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1942,762 1942,822 2070,822 2070,762"
+                },
+                "text": "retinal"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "2085,764 2085,824 2248,824 2248,764"
+                },
+                "text": "ganglion"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "276,971 454,928 737,933 792,971 837,931 2252,951 2252,856 2199,844 1837,894 541,861 276,894"
+            },
+            "baseline": {
+              "points": "289,916 387,916 486,916 584,916 683,919 781,919 880,919 978,919 1077,919 1175,919 1274,919 1372,919 1471,919 1569,918 1668,919 1766,919 1865,916 1963,916 2062,917 2160,916 2259,919"
+            },
+            "text": "cells of adult male zebrafish (Brachydanio rerio). The looming stimulus was simulated by a",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "276,876 276,936 366,936 366,876"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "392,876 392,936 431,936 431,876"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "457,876 457,936 558,936 558,876"
+                },
+                "text": "adult"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "578,877 578,937 669,937 669,877"
+                },
+                "text": "male"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "694,879 694,939 876,939 876,879"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "907,879 907,939 1174,939 1174,879"
+                },
+                "text": "(Brachydanio"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1205,879 1205,939 1336,939 1336,879"
+                },
+                "text": "rerio)."
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1357,879 1357,939 1427,939 1427,879"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1458,878 1458,938 1619,938 1619,878"
+                },
+                "text": "looming"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1650,879 1650,939 1816,939 1816,879"
+                },
+                "text": "stimulus"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1847,876 1847,936 1917,936 1917,876"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1943,876 1943,936 2134,936 2134,876"
+                },
+                "text": "simulated"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "2165,876 2165,936 2200,936 2200,876"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "2236,878 2236,938 2245,938 2245,878"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "278,1063 1246,1048 1318,1087 1435,1045 2252,1050 2252,991 1892,973 278,993"
+            },
+            "baseline": {
+              "points": "292,1032 390,1032 488,1032 587,1032 685,1032 783,1032 882,1032 980,1032 1078,1034 1177,1032 1275,1032 1373,1032 1472,1032 1570,1032 1668,1032 1767,1032 1865,1032 1963,1032 2062,1032 2160,1032 2259,1029"
+            },
+            "text": "light-emitting diode and by increasing irradiance durations. Responses to off-light events were",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "278,992 278,1052 550,1052 550,992"
+                },
+                "text": "light-emitting"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "581,992 581,1052 682,1052 682,992"
+                },
+                "text": "diode"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "707,992 707,1052 767,1052 767,992"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "798,992 798,1052 839,1052 839,992"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "865,992 865,1052 1066,1052 1066,992"
+                },
+                "text": "increasing"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1092,992 1092,1052 1289,1052 1289,992"
+                },
+                "text": "irradiance"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1315,992 1315,1052 1517,1052 1517,992"
+                },
+                "text": "durations."
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1537,992 1537,1052 1745,1052 1745,992"
+                },
+                "text": "Responses"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1770,992 1770,1052 1795,1052 1795,992"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1826,992 1826,1052 1993,1052 1993,992"
+                },
+                "text": "off-light"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "2013,992 2013,1052 2134,1052 2134,992"
+                },
+                "text": "events"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "2160,990 2160,1050 2245,1050 2245,990"
+                },
+                "text": "were"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "276,1157 829,1159 911,1194 973,1154 1154,1159 1311,1204 1646,1157 2016,1159 2056,1194 2105,1162 2160,1197 2252,1162 2252,1115 2187,1092 276,1110"
+            },
+            "baseline": {
+              "points": "289,1146 387,1149 486,1149 584,1149 683,1149 781,1149 880,1149 978,1149 1077,1149 1175,1149 1274,1149 1372,1149 1471,1149 1569,1149 1668,1149 1766,1149 1865,1149 1963,1149 2062,1146 2160,1148 2259,1146"
+            },
+            "text": "found at both the retina and optic tectum, suggesting that light-induced startle responses begin as",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "276,1107 276,1167 381,1167 381,1107"
+                },
+                "text": "found"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "407,1109 407,1169 437,1169 437,1109"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "458,1109 458,1169 533,1169 533,1109"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "559,1109 559,1169 609,1169 609,1109"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "635,1109 635,1169 741,1169 741,1109"
+                },
+                "text": "retina"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "767,1109 767,1169 827,1169 827,1109"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "853,1109 853,1169 943,1169 943,1109"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "964,1109 964,1169 1116,1169 1116,1109"
+                },
+                "text": "tectum,"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1132,1109 1132,1169 1333,1169 1333,1109"
+                },
+                "text": "suggesting"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1364,1109 1364,1169 1435,1169 1435,1109"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1451,1109 1451,1169 1708,1169 1708,1109"
+                },
+                "text": "light-induced"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1739,1109 1739,1169 1850,1169 1850,1109"
+                },
+                "text": "startle"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1876,1108 1876,1168 2063,1168 2063,1108"
+                },
+                "text": "responses"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "2089,1107 2089,1167 2184,1167 2184,1107"
+                },
+                "text": "begin"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "2210,1106 2210,1166 2245,1166 2245,1106"
+                },
+                "text": "as"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "276,1306 2264,1274 2264,1209 2162,1194 2085,1226 276,1226"
+            },
+            "baseline": {
+              "points": "289,1262 388,1265 487,1264 586,1264 685,1265 784,1265 883,1265 982,1265 1081,1265 1180,1265 1280,1265 1379,1262 1478,1262 1577,1262 1676,1262 1775,1263 1874,1262 1973,1262 2072,1262 2171,1262 2271,1262"
+            },
+            "text": "early in the visual synaptic pathway as the retina. However, several differences in signal shape",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "281,1223 281,1283 371,1283 371,1223"
+                },
+                "text": "early"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "402,1224 402,1284 427,1284 427,1224"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "453,1224 453,1284 503,1284 503,1224"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "534,1224 534,1284 655,1284 655,1224"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "671,1225 671,1285 833,1285 833,1225"
+                },
+                "text": "synaptic"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "859,1225 859,1285 1020,1285 1020,1225"
+                },
+                "text": "pathway"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1051,1225 1051,1285 1081,1285 1081,1225"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1107,1225 1107,1285 1157,1285 1157,1225"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1183,1225 1183,1285 1314,1285 1314,1225"
+                },
+                "text": "retina."
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1330,1222 1330,1282 1532,1282 1532,1222"
+                },
+                "text": "However,"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1548,1222 1548,1282 1689,1282 1689,1222"
+                },
+                "text": "several"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1710,1222 1710,1282 1928,1282 1928,1222"
+                },
+                "text": "differences"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1954,1222 1954,1282 1978,1282 1978,1222"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "2009,1222 2009,1282 2130,1282 2130,1222"
+                },
+                "text": "signal"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "2151,1222 2151,1282 2252,1282 2252,1222"
+                },
+                "text": "shape"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "276,1415 387,1383 501,1425 618,1380 799,1418 958,1393 1048,1435 1137,1385 2259,1418 2259,1331 2185,1318 276,1333"
+            },
+            "baseline": {
+              "points": "289,1378 387,1381 486,1380 584,1380 683,1378 782,1381 880,1381 979,1379 1078,1379 1176,1379 1275,1378 1374,1378 1472,1378 1571,1379 1670,1378 1768,1378 1867,1378 1966,1377 2064,1378 2163,1376 2262,1375"
+            },
+            "text": "and amplitude between recordings at these two regions suggest that higher-order visual",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "275,1338 275,1398 334,1398 334,1338"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "369,1340 369,1400 577,1400 577,1340"
+                },
+                "text": "amplitude"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "613,1338 613,1398 775,1398 775,1338"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "810,1340 810,1400 1033,1400 1033,1340"
+                },
+                "text": "recordings"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1063,1339 1063,1399 1102,1399 1102,1339"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1128,1338 1128,1398 1226,1398 1226,1338"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1261,1338 1261,1398 1331,1398 1331,1338"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1366,1338 1366,1398 1519,1398 1519,1338"
+                },
+                "text": "regions"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1549,1338 1549,1398 1707,1398 1707,1338"
+                },
+                "text": "suggest"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1733,1338 1733,1398 1811,1398 1811,1338"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1842,1337 1842,1397 2104,1397 2104,1337"
+                },
+                "text": "higher-order"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "2134,1335 2134,1395 2257,1395 2257,1335"
+                },
+                "text": "visual"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "285,1532 665,1494 807,1547 973,1504 1378,1564 1482,1504 2252,1537 2252,1440 2026,1460 1924,1422 1606,1460 285,1455"
+            },
+            "baseline": {
+              "points": "298,1492 396,1495 494,1495 592,1493 690,1494 788,1492 886,1492 984,1495 1082,1493 1180,1492 1278,1492 1376,1492 1474,1492 1572,1493 1670,1493 1768,1492 1866,1492 1964,1492 2062,1492 2160,1492 2259,1492"
+            },
+            "text": "processing of on- and off-responses occurs at the optic tectum. Latency times were measured",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "284,1454 284,1514 489,1514 489,1454"
+                },
+                "text": "processing"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "519,1454 519,1514 561,1514 561,1454"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "581,1453 581,1513 643,1513 643,1453"
+                },
+                "text": "on-"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "668,1453 668,1513 730,1513 730,1453"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "759,1452 759,1512 1027,1512 1027,1452"
+                },
+                "text": "off-responses"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1057,1452 1057,1512 1181,1512 1181,1452"
+                },
+                "text": "occurs"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1205,1452 1205,1512 1243,1512 1243,1452"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1258,1452 1258,1512 1311,1512 1311,1452"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1340,1452 1340,1512 1435,1512 1435,1452"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1460,1452 1460,1512 1613,1512 1613,1452"
+                },
+                "text": "tectum."
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1633,1452 1633,1512 1785,1512 1785,1452"
+                },
+                "text": "Latency"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1815,1452 1815,1512 1920,1512 1920,1452"
+                },
+                "text": "times"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1949,1452 1949,1512 2035,1512 2035,1452"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "2064,1452 2064,1512 2246,1512 2246,1452"
+                },
+                "text": "measured"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "276,1658 546,1616 2249,1629 2249,1564 1936,1549 276,1566"
+            },
+            "baseline": {
+              "points": "289,1605 387,1608 485,1608 584,1606 682,1608 780,1608 879,1608 977,1608 1075,1608 1174,1608 1272,1608 1370,1608 1469,1608 1567,1608 1665,1608 1764,1608 1862,1608 1960,1608 2059,1606 2157,1605 2256,1602"
+            },
+            "text": "between the presentation of the stimulus and the onset of the response, but data are currently",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "280,1567 280,1627 433,1627 433,1567"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "467,1567 467,1627 520,1627 520,1567"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "549,1567 549,1627 789,1627 789,1567"
+                },
+                "text": "presentation"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "819,1568 819,1628 857,1628 857,1568"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "882,1568 882,1628 929,1628 929,1568"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "958,1568 958,1628 1127,1628 1127,1568"
+                },
+                "text": "stimulus"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1156,1568 1156,1628 1213,1628 1213,1568"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1242,1568 1242,1628 1295,1628 1295,1568"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1324,1568 1324,1628 1435,1628 1435,1568"
+                },
+                "text": "onset"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1454,1568 1454,1628 1492,1628 1492,1568"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1512,1568 1512,1628 1564,1628 1564,1568"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1594,1568 1594,1628 1786,1628 1786,1568"
+                },
+                "text": "response,"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1811,1568 1811,1628 1872,1628 1872,1568"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "1892,1568 1892,1628 1964,1628 1964,1568"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_12_w15",
+                "coords": {
+                  "points": "1994,1566 1994,1626 2046,1626 2046,1566"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_12_w16",
+                "coords": {
+                  "points": "2075,1564 2075,1624 2248,1624 2248,1564"
+                },
+                "text": "currently"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "276,1740 2229,1763 2269,1753 2271,1668 276,1671"
+            },
+            "baseline": {
+              "points": "289,1725 388,1725 487,1725 586,1725 686,1725 785,1725 884,1725 983,1725 1083,1723 1182,1725 1281,1724 1380,1725 1480,1722 1579,1722 1678,1722 1777,1722 1877,1722 1976,1722 2075,1722 2174,1722 2274,1722"
+            },
+            "text": "inconclusive. Habituation was observed through decreases in startle response as a function of",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "275,1685 275,1745 552,1745 552,1685"
+                },
+                "text": "inconclusive."
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "567,1685 567,1745 799,1745 799,1685"
+                },
+                "text": "Habituation"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "835,1685 835,1745 903,1745 903,1685"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "929,1684 929,1744 1102,1744 1102,1684"
+                },
+                "text": "observed"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "1132,1684 1132,1744 1284,1744 1284,1684"
+                },
+                "text": "through"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1315,1684 1315,1744 1503,1744 1503,1684"
+                },
+                "text": "decreases"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1528,1682 1528,1742 1557,1742 1557,1682"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1587,1682 1587,1742 1700,1742 1700,1682"
+                },
+                "text": "startle"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1731,1682 1731,1742 1904,1742 1904,1682"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1929,1682 1929,1742 1968,1742 1968,1682"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1993,1682 1993,1742 2002,1742 2002,1682"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "2033,1682 2033,1742 2190,1742 2190,1682"
+                },
+                "text": "function"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "2221,1682 2221,1742 2259,1742 2259,1682"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "273,1857 2043,1847 2185,1882 2262,1849 2262,1777 2120,1773 273,1802"
+            },
+            "baseline": {
+              "points": "286,1838 385,1841 484,1841 583,1841 682,1838 781,1838 880,1838 979,1841 1078,1840 1177,1838 1277,1838 1376,1838 1475,1838 1574,1838 1673,1836 1772,1838 1871,1835 1970,1838 2069,1836 2168,1835 2268,1835"
+            },
+            "text": "flash repetition. Future studies are necessary to correlate electrode position with signal strength",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "273,1798 273,1858 358,1858 358,1798"
+                },
+                "text": "flash"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "384,1801 384,1861 597,1861 597,1801"
+                },
+                "text": "repetition."
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "613,1798 613,1858 734,1858 734,1798"
+                },
+                "text": "Future"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "760,1798 760,1858 897,1858 897,1798"
+                },
+                "text": "studies"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "918,1800 918,1860 974,1860 974,1800"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1000,1799 1000,1859 1187,1859 1187,1799"
+                },
+                "text": "necessary"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1213,1798 1213,1858 1243,1858 1243,1798"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1269,1798 1269,1858 1437,1858 1437,1798"
+                },
+                "text": "correlate"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1468,1798 1468,1858 1645,1858 1645,1798"
+                },
+                "text": "electrode"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1671,1797 1671,1857 1823,1857 1823,1797"
+                },
+                "text": "position"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1854,1795 1854,1855 1930,1855 1930,1795"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1961,1797 1961,1857 2077,1857 2077,1797"
+                },
+                "text": "signal"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "2098,1795 2098,1855 2250,1855 2250,1795"
+                },
+                "text": "strength"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "276,1951 442,2006 578,1966 1244,1964 1321,2011 1514,1964 2259,1974 2259,1897 1440,1892 1365,1929 1306,1894 276,1892"
+            },
+            "baseline": {
+              "points": "289,1945 387,1954 486,1954 584,1954 683,1954 782,1954 880,1954 979,1954 1078,1952 1176,1954 1275,1951 1374,1953 1472,1951 1571,1951 1670,1951 1768,1951 1867,1950 1966,1949 2064,1951 2163,1951 2262,1954"
+            },
+            "text": "to resolve neural organization at the optic tectum. \u00d6ther parameters such as flash duration,",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "275,1905 275,1965 303,1965 303,1905"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "333,1914 333,1974 472,1974 472,1914"
+                },
+                "text": "resolve"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "506,1914 506,1974 636,1974 636,1914"
+                },
+                "text": "neural"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "656,1914 656,1974 906,1974 906,1914"
+                },
+                "text": "organization"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "941,1914 941,1974 974,1974 974,1914"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "999,1913 999,1973 1051,1973 1051,1913"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1081,1913 1081,1973 1177,1973 1177,1913"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1206,1911 1206,1971 1360,1971 1360,1911"
+                },
+                "text": "tectum."
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1385,1911 1385,1971 1495,1971 1495,1911"
+                },
+                "text": "\u00d6ther"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1520,1911 1520,1971 1742,1971 1742,1911"
+                },
+                "text": "parameters"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1771,1910 1771,1970 1857,1970 1857,1910"
+                },
+                "text": "such"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1887,1909 1887,1969 1925,1969 1925,1909"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1955,1909 1955,1969 2041,1969 2041,1909"
+                },
+                "text": "flash"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "2075,1911 2075,1971 2258,1971 2258,1911"
+                },
+                "text": "duration,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "276,2075 886,2115 943,2075 1120,2113 1293,2075 2259,2078 2259,2023 2187,2008 276,2031"
+            },
+            "baseline": {
+              "points": "289,2068 387,2068 486,2068 585,2068 684,2068 783,2068 881,2068 980,2068 1079,2068 1178,2068 1277,2068 1375,2068 1474,2067 1573,2067 1672,2067 1771,2065 1869,2065 1968,2067 2067,2065 2166,2067 2265,2062"
+            },
+            "text": "interstimulus interval, and age of the zebrafish can also be varied to obtain a more complete",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "276,2028 276,2088 538,2088 538,2028"
+                },
+                "text": "interstimulus"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "564,2028 564,2088 736,2088 736,2028"
+                },
+                "text": "interval,"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "757,2028 757,2088 817,2088 817,2028"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "848,2028 848,2088 908,2088 908,2028"
+                },
+                "text": "age"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "940,2028 940,2088 980,2088 980,2028"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1001,2028 1001,2088 1056,2088 1056,2028"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1082,2028 1082,2088 1258,2088 1258,2028"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1295,2028 1295,2088 1350,2088 1350,2028"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1381,2027 1381,2087 1451,2087 1451,2027"
+                },
+                "text": "also"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1482,2027 1482,2087 1522,2087 1522,2027"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1553,2027 1553,2087 1669,2087 1669,2027"
+                },
+                "text": "varied"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1700,2026 1700,2086 1725,2086 1725,2026"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1756,2025 1756,2085 1877,2085 1877,2025"
+                },
+                "text": "obtain"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "1908,2025 1908,2085 1917,2085 1917,2025"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_16_w15",
+                "coords": {
+                  "points": "1949,2026 1949,2086 2045,2086 2045,2026"
+                },
+                "text": "more"
+              },
+              {
+                "id": "tr_1_tl_16_w16",
+                "coords": {
+                  "points": "2070,2026 2070,2086 2252,2086 2252,2026"
+                },
+                "text": "complete"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "278,2192 360,2237 427,2197 447,2217 546,2197 576,2222 906,2197 1048,2229 1048,2145 928,2125 278,2147"
+            },
+            "baseline": {
+              "points": "292,2184 330,2184 368,2184 406,2184 444,2184 482,2183 520,2181 558,2184 596,2184 634,2184 672,2184 710,2184 748,2184 786,2184 824,2184 862,2184 900,2182 938,2182 976,2184 1014,2184 1053,2184"
+            },
+            "text": "understanding of the startle response.",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "278,2144 278,2204 558,2204 558,2144"
+                },
+                "text": "understanding"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "589,2144 589,2204 624,2204 624,2144"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "645,2144 645,2204 689,2204 689,2144"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "715,2144 715,2204 830,2204 830,2144"
+                },
+                "text": "startle"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "856,2142 856,2202 1046,2202 1046,2142"
+                },
+                "text": "response."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

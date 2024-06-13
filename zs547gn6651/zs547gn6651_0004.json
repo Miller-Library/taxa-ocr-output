@@ -1,0 +1,1901 @@
+{
+  "processId": 10409314,
+  "status": "FINISHED",
+  "content": {
+    "text": "Materials & Methods\nSubjects\nAdult zebrafish were bred in the lab or purchased from a commercial supplier and kept in\naerated tanks with flowing water at 28\u00b0C. Only males approximately 3-4 cm in body length were\nused. Animal care and handling was conducted in accordance with guidelines established by\nStanford University\nBehavioral Observations\nFive zebrafish were placed in a tank measuring 24 cm 12 cm 16 cm with aerated water at\n28\u00b0C and allowed to acclimate for at least 1 hour. The tank was surrounded on three sides by\nblack poster board and illuminated by ambient room light, as well as by a flashlight positioned\napproximately 1 m above the water\u2019s surface.\nShadows were created by swiftly interrupting the flashlight beam with a circular piece of\ncardboard 10 cm in diameter. The shadow was presented every 10 seconds until a noticeable\ndecrease in animal response occurred. Behavioral responses were recorded by a high-speed\ndigital video recorder (Sony DSC-T1).\nRetinal and Tectal Preparations\nPrior to surgery, the zebrafish was isolated from the supply tank and immobilized\ntemporarily by hypothermic shock in an ice water bath. Skeletal muscle paralysis was induced by\nan intramuscular injection of 0.1-0.3 mL of curare into the mid-lateral tail line.\nRecordings from the retina and the tectum were performed in different fish. For retinal\nexperiments, the eye was isolated from the fish by gently pulling and severing the optic nerve",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "286,285 286,2784 2278,2784 2278,285"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "271,378 351,378 423,351 455,351 483,378 507,358 575,371 617,351 766,366 766,291 271,286"
+            },
+            "baseline": {
+              "points": "286,340 311,340 336,340 362,340 387,341 413,342 438,343 464,343 489,341 515,340 540,340 566,340 591,340 617,340 642,340 668,340 693,340 719,340 744,340 770,340"
+            },
+            "text": "Materials & Methods",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "277,300 277,360 484,360 484,300"
+                },
+                "text": "Materials"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "512,300 512,360 550,360 550,300"
+                },
+                "text": "&"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "568,300 568,360 757,360 757,300"
+                },
+                "text": "Methods"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "276,463 336,475 341,470 368,495 386,497 430,483 443,470 473,468 473,418 453,418 445,410 438,418 408,418 391,400 361,400 336,418 318,408 301,418 276,418"
+            },
+            "baseline": {
+              "points": "289,453 315,453 342,454 369,455 396,455 423,453 450,453 477,456"
+            },
+            "text": "Subjects",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "278,414 278,474 456,474 456,414"
+                },
+                "text": "Subjects"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "343,590 798,629 958,582 1343,624 1408,582 2264,582 2264,507 1890,507 1848,473 1677,537 1323,488 343,522"
+            },
+            "baseline": {
+              "points": "358,570 453,570 549,570 644,570 740,570 835,570 931,570 1026,570 1122,570 1217,570 1313,570 1409,569 1504,570 1600,570 1695,570 1791,570 1886,570 1982,570 2077,570 2173,570 2269,573"
+            },
+            "text": "Adult zebrafish were bred in the lab or purchased from a commercial supplier and kept in",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "342,530 342,590 456,590 456,530"
+                },
+                "text": "Adult"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "476,530 476,590 654,590 654,530"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "684,530 684,590 774,590 774,530"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "804,530 804,590 883,590 883,530"
+                },
+                "text": "bred"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "913,530 913,590 937,590 937,530"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "968,530 968,590 1021,590 1021,530"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1052,530 1052,590 1101,590 1101,530"
+                },
+                "text": "lab"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1132,530 1132,590 1166,590 1166,530"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1191,530 1191,590 1389,590 1389,530"
+                },
+                "text": "purchased"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1419,529 1419,589 1488,589 1488,529"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1534,530 1534,590 1548,590 1548,530"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1573,530 1573,590 1816,590 1816,530"
+                },
+                "text": "commercial"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1836,530 1836,590 2000,590 2000,530"
+                },
+                "text": "supplier"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "2020,530 2020,590 2084,590 2084,530"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_3_w15",
+                "coords": {
+                  "points": "2114,530 2114,590 2198,590 2198,530"
+                },
+                "text": "kept"
+              },
+              {
+                "id": "tr_1_tl_3_w16",
+                "coords": {
+                  "points": "2218,531 2218,591 2247,591 2247,531"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "271,694 500,739 679,696 2271,706 2271,644 2172,627 925,652 776,614 271,652"
+            },
+            "baseline": {
+              "points": "286,686 385,686 484,683 584,683 683,686 783,685 882,686 982,686 1081,683 1181,683 1280,684 1379,683 1479,686 1578,683 1678,683 1777,683 1877,683 1976,683 2076,685 2175,683 2275,683"
+            },
+            "text": "aerated tanks with flowing water at 28\u00b0C. Only males approximately 3-4 cm in body length were",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "271,646 271,706 401,706 401,646"
+                },
+                "text": "aerated"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "428,643 428,703 531,703 531,643"
+                },
+                "text": "tanks"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "554,643 554,703 631,703 631,643"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "658,645 658,705 804,705 804,645"
+                },
+                "text": "flowing"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "830,646 830,706 940,706 940,646"
+                },
+                "text": "water"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "956,646 956,706 992,706 992,646"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1008,643 1008,703 1123,703 1123,643"
+                },
+                "text": "28\u00b0C."
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1140,643 1140,703 1228,703 1228,643"
+                },
+                "text": "Only"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1255,643 1255,703 1369,703 1369,643"
+                },
+                "text": "males"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1390,644 1390,704 1672,704 1672,644"
+                },
+                "text": "approximately"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1699,643 1699,703 1756,703 1756,643"
+                },
+                "text": "3-4"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1783,643 1783,703 1814,703 1814,643"
+                },
+                "text": "cm"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1861,643 1861,703 1882,703 1882,643"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "1914,643 1914,703 2002,703 2002,643"
+                },
+                "text": "body"
+              },
+              {
+                "id": "tr_1_tl_4_w15",
+                "coords": {
+                  "points": "2029,644 2029,704 2143,704 2143,644"
+                },
+                "text": "length"
+              },
+              {
+                "id": "tr_1_tl_4_w16",
+                "coords": {
+                  "points": "2170,643 2170,703 2258,703 2258,643"
+                },
+                "text": "were"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "281,826 604,813 662,851 868,813 935,861 1303,811 1649,851 1793,808 1858,846 2259,826 2259,746 2221,736 281,761"
+            },
+            "baseline": {
+              "points": "295,800 393,801 492,800 590,800 689,800 787,803 886,800 984,802 1083,800 1181,800 1280,800 1379,800 1477,800 1576,800 1674,800 1773,800 1871,800 1970,800 2068,800 2167,797 2266,803"
+            },
+            "text": "used. Animal care and handling was conducted in accordance with guidelines established by",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "280,760 280,820 383,820 383,760"
+                },
+                "text": "used."
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "403,760 403,820 556,820 556,760"
+                },
+                "text": "Animal"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "576,760 576,820 649,820 649,760"
+                },
+                "text": "care"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "685,760 685,820 743,820 743,760"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "774,760 774,820 945,820 945,760"
+                },
+                "text": "handling"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "975,761 975,821 1049,821 1049,761"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1075,760 1075,820 1276,820 1276,760"
+                },
+                "text": "conducted"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1306,760 1306,820 1330,820 1330,760"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1365,760 1365,820 1587,820 1587,760"
+                },
+                "text": "accordance"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1617,760 1617,820 1695,820 1695,760"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1725,760 1725,820 1932,820 1932,760"
+                },
+                "text": "guidelines"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1958,760 1958,820 2174,820 2174,760"
+                },
+                "text": "established"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "2209,760 2209,820 2248,820 2248,760"
+                },
+                "text": "by"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "281,938 353,933 383,963 445,940 507,960 550,930 599,930 624,955 657,935 701,938 701,851 562,868 507,856 443,881 366,848 281,848"
+            },
+            "baseline": {
+              "points": "295,916 320,916 346,916 372,916 398,916 423,916 449,916 475,916 501,914 526,913 552,915 578,916 604,916 629,916 655,916 681,918 707,916"
+            },
+            "text": "Stanford University",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "287,876 287,936 449,936 449,876"
+                },
+                "text": "Stanford"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "482,876 482,936 682,936 682,876"
+                },
+                "text": "University"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "279,1099 388,1102 510,1134 577,1102 803,1102 803,1050 734,1012 709,1037 537,1042 507,1015 488,1035 408,1032 381,1050 279,1015"
+            },
+            "baseline": {
+              "points": "292,1087 317,1087 343,1087 369,1089 395,1089 421,1087 447,1087 472,1087 498,1089 524,1089 550,1088 576,1087 602,1087 628,1088 653,1090 679,1090 705,1089 731,1088 757,1087 783,1087 809,1087"
+            },
+            "text": "Behavioral Observations",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "278,1049 278,1109 507,1109 507,1049"
+                },
+                "text": "Behavioral"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "528,1050 528,1110 796,1110 796,1050"
+                },
+                "text": "Observations"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "356,1264 587,1214 997,1251 1204,1211 1361,1259 1537,1221 2269,1231 2269,1149 2167,1122 1497,1177 1366,1122 1239,1159 1159,1122 881,1162 833,1127 701,1167 356,1149"
+            },
+            "baseline": {
+              "points": "370,1200 465,1203 560,1203 655,1203 750,1203 845,1203 940,1203 1035,1203 1130,1203 1225,1203 1321,1203 1416,1203 1511,1203 1606,1202 1701,1200 1796,1200 1891,1200 1986,1200 2081,1200 2176,1200 2272,1203"
+            },
+            "text": "Five zebrafish were placed in a tank measuring 24 cm 12 cm 16 cm with aerated water at",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "361,1160 361,1220 436,1220 436,1160"
+                },
+                "text": "Five"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "467,1163 467,1223 638,1223 638,1163"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "664,1163 664,1223 749,1223 749,1163"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "775,1163 775,1223 896,1223 896,1163"
+                },
+                "text": "placed"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "922,1163 922,1223 947,1223 947,1163"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "978,1163 978,1223 987,1223 987,1163"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1013,1163 1013,1223 1083,1223 1083,1163"
+                },
+                "text": "tank"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1114,1163 1114,1223 1311,1223 1311,1163"
+                },
+                "text": "measuring"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1337,1163 1337,1223 1377,1223 1377,1163"
+                },
+                "text": "24"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1403,1163 1403,1223 1437,1223 1437,1163"
+                },
+                "text": "cm"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1514,1162 1514,1222 1554,1222 1554,1162"
+                },
+                "text": "12"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1580,1162 1580,1222 1615,1222 1615,1162"
+                },
+                "text": "cm"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1701,1160 1701,1220 1736,1220 1736,1160"
+                },
+                "text": "16"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1762,1160 1762,1220 1797,1220 1797,1160"
+                },
+                "text": "cm"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "1838,1160 1838,1220 1913,1220 1913,1160"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_8_w16",
+                "coords": {
+                  "points": "1944,1160 1944,1220 2075,1220 2075,1160"
+                },
+                "text": "aerated"
+              },
+              {
+                "id": "tr_1_tl_8_w17",
+                "coords": {
+                  "points": "2106,1160 2106,1220 2207,1220 2207,1160"
+                },
+                "text": "water"
+              },
+              {
+                "id": "tr_1_tl_8_w18",
+                "coords": {
+                  "points": "2227,1162 2227,1222 2262,1222 2262,1162"
+                },
+                "text": "at"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "271,1328 622,1331 689,1378 806,1331 973,1363 1077,1323 1490,1363 1652,1326 2259,1333 2259,1274 2139,1261 1475,1279 1281,1244 731,1291 271,1256"
+            },
+            "baseline": {
+              "points": "286,1319 385,1317 484,1319 583,1319 682,1318 781,1319 880,1319 979,1319 1078,1318 1177,1317 1276,1317 1375,1317 1474,1317 1573,1315 1672,1317 1771,1314 1870,1314 1969,1317 2068,1317 2167,1316 2266,1311"
+            },
+            "text": "28\u00b0C and allowed to acclimate for at least 1 hour. The tank was surrounded on three sides by",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "271,1278 271,1338 354,1338 354,1278"
+                },
+                "text": "28\u00b0C"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "396,1277 396,1337 452,1337 452,1277"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "484,1279 484,1339 635,1339 635,1279"
+                },
+                "text": "allowed"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "667,1278 667,1338 693,1338 693,1278"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "724,1279 724,1339 906,1339 906,1279"
+                },
+                "text": "acclimate"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "939,1279 939,1339 995,1339 995,1279"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1017,1278 1017,1338 1047,1338 1047,1278"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1069,1277 1069,1337 1162,1337 1162,1277"
+                },
+                "text": "least"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1183,1277 1183,1337 1198,1337 1198,1277"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1220,1277 1220,1337 1329,1337 1329,1277"
+                },
+                "text": "hour."
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1350,1277 1350,1337 1417,1337 1417,1277"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1444,1276 1444,1336 1522,1336 1522,1276"
+                },
+                "text": "tank"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1553,1275 1553,1335 1626,1335 1626,1275"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1653,1274 1653,1334 1871,1334 1871,1274"
+                },
+                "text": "surrounded"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "1903,1275 1903,1335 1939,1335 1939,1275"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_9_w16",
+                "coords": {
+                  "points": "1966,1277 1966,1337 2064,1337 2064,1277"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_9_w17",
+                "coords": {
+                  "points": "2091,1276 2091,1336 2184,1336 2184,1276"
+                },
+                "text": "sides"
+              },
+              {
+                "id": "tr_1_tl_9_w18",
+                "coords": {
+                  "points": "2211,1272 2211,1332 2246,1332 2246,1272"
+                },
+                "text": "by"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "271,1443 654,1490 866,1445 1137,1490 1793,1438 1883,1480 2077,1445 2266,1475 2266,1381 271,1381"
+            },
+            "baseline": {
+              "points": "286,1433 385,1436 484,1436 583,1434 683,1434 782,1433 881,1436 981,1436 1080,1435 1179,1433 1279,1433 1378,1433 1477,1433 1576,1430 1676,1433 1775,1433 1874,1433 1974,1433 2073,1433 2172,1430 2272,1430"
+            },
+            "text": "black poster board and illuminated by ambient room light, as well as by a flashlight positioned",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "271,1394 271,1454 372,1454 372,1394"
+                },
+                "text": "black"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "404,1396 404,1456 520,1456 520,1396"
+                },
+                "text": "poster"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "542,1394 542,1454 643,1454 643,1394"
+                },
+                "text": "board"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "676,1393 676,1453 734,1453 734,1393"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "766,1395 766,1455 984,1455 984,1395"
+                },
+                "text": "illuminated"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1017,1395 1017,1455 1054,1455 1054,1395"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1081,1393 1081,1453 1246,1453 1246,1393"
+                },
+                "text": "ambient"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1262,1393 1262,1453 1341,1453 1341,1393"
+                },
+                "text": "room"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1385,1393 1385,1453 1491,1453 1491,1393"
+                },
+                "text": "light,"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1513,1391 1513,1451 1544,1451 1544,1391"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1571,1391 1571,1451 1656,1451 1656,1391"
+                },
+                "text": "well"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1673,1393 1673,1453 1710,1453 1710,1393"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1732,1393 1732,1453 1768,1453 1768,1393"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "1801,1393 1801,1453 1811,1453 1811,1393"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_10_w15",
+                "coords": {
+                  "points": "1838,1393 1838,1453 2030,1453 2030,1393"
+                },
+                "text": "flashlight"
+              },
+              {
+                "id": "tr_1_tl_10_w16",
+                "coords": {
+                  "points": "2046,1390 2046,1450 2248,1450 2248,1390"
+                },
+                "text": "positioned"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "279,1587 323,1609 396,1562 545,1560 662,1594 816,1557 943,1562 1037,1609 1221,1577 1221,1510 1124,1480 1077,1510 958,1475 888,1515 813,1475 699,1510 565,1485 279,1507"
+            },
+            "baseline": {
+              "points": "292,1546 338,1549 385,1549 432,1549 479,1549 525,1549 572,1549 619,1549 666,1549 712,1549 759,1549 806,1549 853,1549 899,1549 946,1549 993,1549 1040,1549 1086,1549 1133,1549 1180,1549 1227,1549"
+            },
+            "text": "approximately 1 m above the water\u2019s surface.",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "278,1509 278,1569 562,1569 562,1509"
+                },
+                "text": "approximately"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "592,1509 592,1569 607,1569 607,1509"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "627,1509 627,1569 641,1569 641,1509"
+                },
+                "text": "m"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "686,1509 686,1569 793,1569 793,1509"
+                },
+                "text": "above"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "818,1509 818,1569 871,1569 871,1509"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "896,1509 896,1569 1038,1569 1038,1509"
+                },
+                "text": "water\u2019s"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1063,1509 1063,1569 1219,1569 1219,1509"
+                },
+                "text": "surface."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "353,1696 900,1687 1070,1731 1410,1682 1634,1709 1711,1674 1821,1714 1988,1669 2269,1684 2271,1590 356,1617"
+            },
+            "baseline": {
+              "points": "367,1663 462,1663 557,1663 653,1665 748,1663 844,1663 939,1663 1034,1663 1130,1663 1225,1663 1321,1663 1416,1663 1511,1660 1607,1660 1702,1660 1798,1660 1893,1660 1988,1660 2084,1662 2179,1660 2275,1660"
+            },
+            "text": "Shadows were created by swiftly interrupting the flashlight beam with a circular piece of",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "358,1623 358,1683 533,1683 533,1623"
+                },
+                "text": "Shadows"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "560,1623 560,1683 647,1683 647,1623"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "674,1623 674,1683 813,1683 813,1623"
+                },
+                "text": "created"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "845,1623 845,1683 880,1683 880,1623"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "912,1623 912,1683 1046,1683 1046,1623"
+                },
+                "text": "swiftly"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1073,1623 1073,1683 1305,1683 1305,1623"
+                },
+                "text": "interrupting"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1337,1623 1337,1683 1389,1683 1389,1623"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1420,1620 1420,1680 1611,1680 1611,1620"
+                },
+                "text": "flashlight"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1633,1620 1633,1680 1720,1680 1720,1620"
+                },
+                "text": "beam"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1762,1620 1762,1680 1839,1680 1839,1620"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1871,1620 1871,1680 1886,1680 1886,1620"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1912,1620 1912,1680 2067,1680 2067,1620"
+                },
+                "text": "circular"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "2088,1620 2088,1680 2186,1680 2186,1620"
+                },
+                "text": "piece"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "2218,1620 2218,1680 2253,1680 2253,1620"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "279,1786 1343,1828 1415,1789 1520,1826 1711,1784 2266,1803 2266,1734 2201,1719 279,1724"
+            },
+            "baseline": {
+              "points": "292,1779 391,1779 490,1779 589,1779 688,1779 787,1779 886,1779 985,1779 1084,1779 1183,1777 1282,1779 1381,1776 1480,1776 1579,1775 1678,1773 1777,1776 1876,1776 1975,1775 2074,1776 2173,1776 2272,1776"
+            },
+            "text": "cardboard 10 cm in diameter. The shadow was presented every 10 seconds until a noticeable",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "278,1739 278,1799 475,1799 475,1739"
+                },
+                "text": "cardboard"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "510,1739 510,1799 544,1799 544,1739"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "574,1739 574,1799 613,1799 613,1739"
+                },
+                "text": "cm"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "658,1739 658,1799 682,1799 682,1739"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "712,1739 712,1799 909,1799 909,1739"
+                },
+                "text": "diameter."
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "929,1739 929,1799 992,1799 992,1739"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1023,1738 1023,1798 1160,1798 1160,1738"
+                },
+                "text": "shadow"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1200,1738 1200,1798 1268,1798 1268,1738"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1299,1736 1299,1796 1481,1796 1481,1736"
+                },
+                "text": "presented"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1516,1735 1516,1795 1614,1795 1614,1735"
+                },
+                "text": "every"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1649,1733 1649,1793 1688,1793 1688,1733"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1713,1736 1713,1796 1870,1796 1870,1736"
+                },
+                "text": "seconds"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1900,1735 1900,1795 1988,1795 1988,1735"
+                },
+                "text": "until"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "2009,1735 2009,1795 2023,1795 2023,1735"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_13_w15",
+                "coords": {
+                  "points": "2048,1736 2048,1796 2250,1796 2250,1736"
+                },
+                "text": "noticeable"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "284,1915 361,1948 448,1905 560,1948 721,1915 784,1955 975,1905 1398,1900 1552,1945 1634,1898 2144,1938 2259,1908 2246,1836 346,1863 284,1826"
+            },
+            "baseline": {
+              "points": "298,1893 396,1896 494,1896 593,1895 691,1896 790,1893 888,1895 986,1893 1085,1893 1183,1892 1282,1893 1380,1893 1478,1890 1577,1890 1675,1890 1774,1890 1872,1890 1970,1890 2069,1890 2167,1887 2266,1890"
+            },
+            "text": "decrease in animal response occurred. Behavioral responses were recorded by a high-speed",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "283,1855 283,1915 450,1915 450,1855"
+                },
+                "text": "decrease"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "480,1855 480,1915 509,1915 509,1855"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "544,1855 544,1915 682,1915 682,1855"
+                },
+                "text": "animal"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "702,1853 702,1913 874,1913 874,1853"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "909,1853 909,1913 1100,1913 1100,1853"
+                },
+                "text": "occurred."
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1121,1852 1121,1912 1351,1912 1351,1852"
+                },
+                "text": "Behavioral"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1372,1850 1372,1910 1568,1910 1568,1850"
+                },
+                "text": "responses"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1593,1850 1593,1910 1686,1910 1686,1850"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1716,1850 1716,1910 1889,1910 1889,1850"
+                },
+                "text": "recorded"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1919,1850 1919,1910 1957,1910 1957,1850"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1992,1850 1992,1910 2002,1910 2002,1850"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "2032,1847 2032,1907 2248,1907 2248,1847"
+                },
+                "text": "high-speed"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "279,2012 386,2077 515,2090 642,2037 741,2082 853,2075 948,2015 1077,2032 1077,1948 985,1968 933,1935 866,1973 699,1945 622,1973 353,1945 279,1973"
+            },
+            "baseline": {
+              "points": "292,2009 331,2009 371,2009 410,2009 450,2009 490,2009 529,2009 569,2009 608,2009 648,2009 688,2009 727,2009 767,2009 806,2009 846,2009 886,2008 925,2006 965,2006 1004,2006 1044,2008 1084,2009"
+            },
+            "text": "digital video recorder (Sony DSC-T1).",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "280,1969 280,2029 407,2029 407,1969"
+                },
+                "text": "digital"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "425,1969 425,2029 522,2029 522,1969"
+                },
+                "text": "video"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "553,1969 553,2029 720,2029 720,1969"
+                },
+                "text": "recorder"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "738,1969 738,2029 848,2029 848,1969"
+                },
+                "text": "(Sony"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "872,1966 872,2026 1079,2026 1079,1966"
+                },
+                "text": "DSC-T1)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "279,2191 488,2194 527,2219 567,2194 597,2219 721,2189 744,2211 873,2201 898,2226 960,2194 960,2134 871,2124 846,2144 771,2107 714,2137 642,2119 614,2144 478,2137 438,2107 408,2137 376,2107 279,2137"
+            },
+            "baseline": {
+              "points": "292,2183 325,2183 359,2183 393,2183 427,2183 460,2183 494,2183 528,2183 562,2183 595,2183 629,2183 663,2183 697,2183 730,2183 764,2183 798,2183 832,2183 865,2183 899,2183 933,2183 967,2183"
+            },
+            "text": "Retinal and Tectal Preparations",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "284,2143 284,2203 431,2203 431,2143"
+                },
+                "text": "Retinal"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "447,2143 447,2203 510,2203 510,2143"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "542,2143 542,2203 668,2203 668,2143"
+                },
+                "text": "Tectal"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "685,2143 685,2203 952,2203 952,2143"
+                },
+                "text": "Preparations"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "353,2301 706,2338 2271,2313 2229,2211 1883,2266 353,2246"
+            },
+            "baseline": {
+              "points": "367,2299 462,2296 558,2296 653,2299 749,2299 844,2296 940,2296 1035,2296 1131,2296 1226,2296 1322,2296 1418,2294 1513,2293 1609,2293 1704,2294 1800,2293 1895,2293 1991,2293 2086,2293 2182,2293 2278,2290"
+            },
+            "text": "Prior to surgery, the zebrafish was isolated from the supply tank and immobilized",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "354,2257 354,2317 456,2317 456,2257"
+                },
+                "text": "Prior"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "485,2256 485,2316 519,2316 519,2256"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "554,2258 554,2318 730,2318 730,2258"
+                },
+                "text": "surgery,"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "759,2257 759,2317 816,2317 816,2257"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "851,2256 851,2316 1039,2316 1039,2256"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1074,2256 1074,2316 1153,2316 1153,2256"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1183,2256 1183,2316 1342,2316 1342,2256"
+                },
+                "text": "isolated"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1383,2253 1383,2313 1456,2313 1456,2253"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1508,2253 1508,2313 1565,2313 1565,2253"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1600,2253 1600,2313 1737,2313 1737,2253"
+                },
+                "text": "supply"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1772,2253 1772,2313 1856,2313 1856,2253"
+                },
+                "text": "tank"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1891,2253 1891,2313 1959,2313 1959,2253"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1994,2253 1994,2313 2256,2313 2256,2253"
+                },
+                "text": "immobilized"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "281,2438 2259,2430 2259,2353 2219,2336 2159,2368 281,2358"
+            },
+            "baseline": {
+              "points": "295,2413 393,2413 492,2413 590,2410 689,2413 787,2413 886,2413 984,2412 1083,2410 1181,2410 1280,2410 1379,2410 1477,2410 1576,2410 1674,2410 1773,2410 1871,2410 1970,2408 2068,2407 2167,2407 2266,2410"
+            },
+            "text": "temporarily by hypothermic shock in an ice water bath. Skeletal muscle paralysis was induced by",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "281,2373 281,2433 508,2433 508,2373"
+                },
+                "text": "temporarily"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "535,2371 535,2431 571,2431 571,2371"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "597,2373 597,2433 841,2433 841,2373"
+                },
+                "text": "hypothermic"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "867,2372 867,2432 970,2432 970,2372"
+                },
+                "text": "shock"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "997,2371 997,2431 1022,2431 1022,2371"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1048,2370 1048,2430 1084,2430 1084,2370"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1111,2370 1111,2430 1157,2430 1157,2370"
+                },
+                "text": "ice"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1184,2370 1184,2430 1292,2430 1292,2370"
+                },
+                "text": "water"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1308,2370 1308,2430 1406,2430 1406,2370"
+                },
+                "text": "bath."
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1423,2370 1423,2430 1582,2430 1582,2370"
+                },
+                "text": "Skeletal"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1599,2370 1599,2430 1728,2430 1728,2370"
+                },
+                "text": "muscle"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1755,2370 1755,2430 1925,2430 1925,2370"
+                },
+                "text": "paralysis"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1951,2367 1951,2427 2019,2427 2019,2367"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "2040,2367 2040,2427 2190,2427 2190,2367"
+                },
+                "text": "induced"
+              },
+              {
+                "id": "tr_1_tl_18_w15",
+                "coords": {
+                  "points": "2216,2369 2216,2429 2252,2429 2252,2369"
+                },
+                "text": "by"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "281,2547 1087,2537 1196,2580 1415,2540 1517,2580 1888,2532 1836,2473 1602,2455 1512,2488 1097,2448 823,2490 281,2478"
+            },
+            "baseline": {
+              "points": "295,2526 374,2526 454,2526 534,2526 614,2526 694,2526 774,2526 854,2526 934,2525 1014,2526 1094,2526 1173,2526 1253,2523 1333,2523 1413,2523 1493,2523 1573,2523 1653,2523 1733,2523 1813,2523 1893,2523"
+            },
+            "text": "an intramuscular injection of 0.1-0.3 mL of curare into the mid-lateral tail line.",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "281,2486 281,2546 306,2546 306,2486"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "338,2486 338,2546 609,2546 609,2486"
+                },
+                "text": "intramuscular"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "630,2486 630,2546 797,2546 797,2486"
+                },
+                "text": "injection"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "823,2486 823,2546 859,2546 859,2486"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "875,2485 875,2545 1005,2545 1005,2485"
+                },
+                "text": "0.1-0.3"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1032,2486 1032,2546 1089,2546 1089,2486"
+                },
+                "text": "mL"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1121,2486 1121,2546 1156,2546 1156,2486"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1173,2483 1173,2543 1287,2543 1287,2483"
+                },
+                "text": "curare"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1313,2483 1313,2543 1381,2543 1381,2483"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1407,2483 1407,2543 1454,2543 1454,2483"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1480,2483 1480,2543 1704,2543 1704,2483"
+                },
+                "text": "mid-lateral"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1720,2483 1720,2543 1782,2543 1782,2483"
+                },
+                "text": "tail"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1793,2483 1793,2543 1881,2543 1881,2483"
+                },
+                "text": "line."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "351,2662 565,2691 746,2654 816,2694 876,2649 1497,2652 1552,2691 1729,2647 2271,2667 2271,2580 351,2582"
+            },
+            "baseline": {
+              "points": "364,2642 459,2642 555,2642 651,2642 746,2642 842,2642 938,2642 1033,2639 1129,2639 1225,2639 1321,2639 1416,2639 1512,2639 1608,2639 1703,2637 1799,2637 1895,2637 1990,2637 2086,2637 2182,2637 2278,2637"
+            },
+            "text": "Recordings from the retina and the tectum were performed in different fish. For retinal",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "351,2602 351,2662 581,2662 581,2602"
+                },
+                "text": "Recordings"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "609,2602 609,2662 684,2662 684,2602"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "735,2602 735,2662 784,2662 784,2602"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "817,2602 817,2662 926,2662 926,2602"
+                },
+                "text": "retina"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "959,2600 959,2660 1024,2660 1024,2600"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1052,2599 1052,2659 1106,2659 1106,2599"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1141,2599 1141,2659 1255,2659 1255,2599"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1305,2599 1305,2659 1392,2659 1392,2599"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1425,2599 1425,2659 1633,2659 1633,2599"
+                },
+                "text": "performed"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1666,2597 1666,2657 1693,2657 1693,2597"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1727,2597 1727,2657 1907,2657 1907,2597"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1930,2597 1930,2657 2022,2657 2022,2597"
+                },
+                "text": "fish."
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "2045,2597 2045,2657 2110,2657 2110,2597"
+                },
+                "text": "For"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "2138,2597 2138,2657 2268,2657 2268,2597"
+                },
+                "text": "retinal"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "279,2771 552,2808 741,2759 801,2803 878,2764 1614,2793 2271,2759 2271,2714 2172,2689 1112,2721 801,2684 279,2731"
+            },
+            "baseline": {
+              "points": "292,2753 391,2756 490,2756 589,2756 689,2756 788,2756 887,2756 987,2756 1086,2756 1185,2756 1285,2753 1384,2755 1483,2756 1582,2753 1682,2753 1781,2753 1880,2753 1980,2753 2079,2753 2178,2750 2278,2756"
+            },
+            "text": "experiments, the eye was isolated from the fish by gently pulling and severing the optic nerve",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "279,2716 279,2776 538,2776 538,2716"
+                },
+                "text": "experiments,"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "560,2716 560,2776 610,2776 610,2716"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "636,2716 636,2776 697,2776 697,2716"
+                },
+                "text": "eye"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "728,2716 728,2776 798,2776 798,2716"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "819,2716 819,2776 972,2776 972,2716"
+                },
+                "text": "isolated"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1003,2716 1003,2776 1074,2776 1074,2716"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1116,2716 1116,2776 1172,2776 1172,2716"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1198,2714 1198,2774 1263,2774 1263,2714"
+                },
+                "text": "fish"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1295,2713 1295,2773 1330,2773 1330,2713"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1361,2715 1361,2775 1478,2775 1478,2715"
+                },
+                "text": "gently"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1509,2713 1509,2773 1641,2773 1641,2713"
+                },
+                "text": "pulling"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1672,2713 1672,2773 1733,2773 1733,2713"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "1765,2713 1765,2773 1927,2773 1927,2713"
+                },
+                "text": "severing"
+              },
+              {
+                "id": "tr_1_tl_21_w14",
+                "coords": {
+                  "points": "1958,2713 1958,2773 2009,2773 2009,2713"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w15",
+                "coords": {
+                  "points": "2035,2712 2035,2772 2131,2772 2131,2712"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_21_w16",
+                "coords": {
+                  "points": "2158,2711 2158,2771 2259,2771 2259,2711"
+                },
+                "text": "nerve"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2256 @@
+{
+  "processId": 10410038,
+  "status": "FINISHED",
+  "content": {
+    "text": "Data Analysis\nHeart rate was monitored continuously for the duration of each experimental run\nand expressed as average beats min\u201c. Data were then averaged over ten minute intervals\nand graphs against time were generated. To better compare heart rates between\nimmersion and emersion, the averages for each hour in air and water were calculated. To\ntest for a correlation between crab size and heart rate, linear regression analysis was\nemployed to generate regression lines for each temperature. The average of the three\nregression lines was then used to correct the heart rates for effects of size. An Analysis\nof Covariance was performed with the corrected data. The factors temperature and\ntreatment (air or water) were orthogonal to each other, and n = 12 replicates. The heart\nrates were transformed into square roots before this test was performed to gain\nhomoskedasticity. Qjos were also calculated and compared between 10\u00b0C to 15\u00b0C and\n15\u00b0C to 20\u00b0C in air versus water.\nOne other possible statistical test that had been considered was a Chi Square.\nHowever, this could not be applied to a two by three model, in this case two treatments\n(air or water) x three temperatures. If performed, the difference in heart rate between air\nand water would have been compared within each temperature separately. This would\nhave necessitated three separate Chi Square tests, one for each temperature. I understood\nthat this would have a lower statistical power than an Analysis of Covariance. To get an\nidea of what the results might have been, single factor Anovas were performed with each\ntemperature orthogonal to treatment, and no statistical significance was seen in any of the\nthree temperatures. Therefore, an Analysis of Covariance was chosen.",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "361,272 361,2772 2177,2772 2177,272"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "361,350 463,343 602,363 659,341 659,282 616,293 563,259 509,277 472,263 452,282 361,236"
+            },
+            "baseline": {
+              "points": "373,328 399,330 426,331 452,331 479,331 505,331 532,331 558,331 585,329 611,329 638,331 665,328"
+            },
+            "text": "Data Analysis",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "361,290 361,350 450,350 450,290"
+                },
+                "text": "Data"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "477,290 477,350 651,350 651,290"
+                },
+                "text": "Analysis"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "504,475 1124,461 1206,520 1397,461 1456,495 1615,463 1672,504 1812,461 2144,472 2144,400 2062,384 504,393"
+            },
+            "baseline": {
+              "points": "516,447 597,444 679,444 761,444 842,445 924,446 1006,446 1087,444 1169,447 1251,447 1333,444 1414,446 1496,445 1578,447 1659,444 1741,447 1823,447 1904,447 1986,447 2068,447 2150,444"
+            },
+            "text": "Heart rate was monitored continuously for the duration of each experimental run",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "503,405 503,465 613,465 613,405"
+                },
+                "text": "Heart"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "628,404 628,464 690,464 690,404"
+                },
+                "text": "rate"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "719,404 719,464 786,464 786,404"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "811,405 811,465 1003,465 1003,405"
+                },
+                "text": "monitored"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1032,406 1032,466 1277,466 1277,406"
+                },
+                "text": "continuously"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1306,404 1306,464 1354,464 1354,404"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1374,405 1374,465 1426,465 1426,405"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1451,405 1451,465 1604,465 1604,405"
+                },
+                "text": "duration"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1629,404 1629,464 1666,464 1666,404"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1686,406 1686,466 1763,466 1763,406"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1788,407 1788,467 2051,467 2051,407"
+                },
+                "text": "experimental"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "2071,405 2071,465 2123,465 2123,405"
+                },
+                "text": "run"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "348,577 700,611 1313,579 1624,627 1678,586 2162,593 2162,495 2049,531 1236,529 1167,493 348,525"
+            },
+            "baseline": {
+              "points": "361,561 451,561 541,556 631,561 721,561 812,561 902,561 992,561 1082,563 1172,564 1263,561 1353,564 1443,564 1533,561 1623,561 1714,561 1804,564 1894,561 1984,564 2074,561 2165,558"
+            },
+            "text": "and expressed as average beats min\u201c. Data were then averaged over ten minute intervals",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "352,521 352,581 409,581 409,521"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "438,516 438,576 625,576 625,516"
+                },
+                "text": "expressed"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "650,521 650,581 683,581 683,521"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "708,521 708,581 852,581 852,521"
+                },
+                "text": "average"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "876,521 876,581 972,581 972,521"
+                },
+                "text": "beats"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "992,522 992,582 1112,582 1112,522"
+                },
+                "text": "min\u201c."
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1136,523 1136,583 1222,583 1222,523"
+                },
+                "text": "Data"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1247,521 1247,581 1333,581 1333,521"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1358,524 1358,584 1429,584 1429,524"
+                },
+                "text": "then"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1459,521 1459,581 1622,581 1622,521"
+                },
+                "text": "averaged"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1651,521 1651,581 1732,581 1732,521"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1752,523 1752,583 1800,583 1800,523"
+                },
+                "text": "ten"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1830,521 1830,581 1959,581 1959,521"
+                },
+                "text": "minute"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "1983,521 1983,581 2151,581 2151,521"
+                },
+                "text": "intervals"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "357,740 1258,686 1781,731 1978,688 1978,629 1753,616 593,650 432,613 357,645"
+            },
+            "baseline": {
+              "points": "370,671 450,677 531,676 611,677 692,675 773,677 853,677 934,676 1014,675 1095,677 1176,677 1256,677 1337,677 1417,677 1498,679 1579,677 1659,677 1740,677 1820,677 1901,677 1982,677"
+            },
+            "text": "and graphs against time were generated. To better compare heart rates between",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "361,632 361,692 423,692 423,632"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "447,636 447,696 572,696 572,636"
+                },
+                "text": "graphs"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "597,635 597,695 735,695 735,635"
+                },
+                "text": "against"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "755,637 755,697 832,697 832,637"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "856,636 856,696 942,696 942,636"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "967,636 967,696 1174,696 1174,636"
+                },
+                "text": "generated."
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1203,637 1203,697 1241,697 1241,637"
+                },
+                "text": "To"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1270,637 1270,697 1376,697 1376,637"
+                },
+                "text": "better"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1395,638 1395,698 1558,698 1558,638"
+                },
+                "text": "compare"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1583,637 1583,697 1679,697 1679,637"
+                },
+                "text": "heart"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1694,637 1694,697 1780,697 1780,637"
+                },
+                "text": "rates"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1804,637 1804,697 1957,697 1957,637"
+                },
+                "text": "between"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "348,790 536,836 777,804 1152,852 2174,802 2174,738 2126,731 2083,763 348,729"
+            },
+            "baseline": {
+              "points": "361,788 451,791 542,791 633,791 724,791 815,791 905,791 996,791 1087,791 1178,791 1269,791 1359,791 1450,791 1541,791 1632,791 1723,791 1813,791 1904,791 1995,791 2086,791 2177,788"
+            },
+            "text": "immersion and emersion, the averages for each hour in air and water were calculated. To",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "347,750 347,810 553,810 553,750"
+                },
+                "text": "immersion"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "586,751 586,811 642,811 642,751"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "671,751 671,811 867,811 867,751"
+                },
+                "text": "emersion,"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "882,751 882,811 928,811 928,751"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "957,751 957,811 1121,811 1121,751"
+                },
+                "text": "averages"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1145,751 1145,811 1196,811 1196,751"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1215,751 1215,811 1295,811 1295,751"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1319,751 1319,811 1408,811 1408,751"
+                },
+                "text": "hour"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1427,751 1427,811 1450,811 1450,751"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1479,751 1479,811 1525,811 1525,751"
+                },
+                "text": "air"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1545,751 1545,811 1605,811 1605,751"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1634,751 1634,811 1736,811 1736,751"
+                },
+                "text": "water"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1756,751 1756,811 1844,811 1844,751"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "1868,751 1868,811 2084,811 2084,751"
+                },
+                "text": "calculated."
+              },
+              {
+                "id": "tr_1_tl_5_w15",
+                "coords": {
+                  "points": "2113,749 2113,809 2154,809 2154,749"
+                },
+                "text": "To"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "357,927 634,956 765,915 838,947 1803,915 1901,954 2060,920 2060,863 1910,840 1806,872 1706,838 1572,872 597,872 527,831 357,863"
+            },
+            "baseline": {
+              "points": "370,901 454,904 539,904 624,904 709,904 794,904 878,904 963,906 1048,904 1133,907 1218,907 1302,907 1387,907 1472,907 1557,906 1642,907 1726,906 1811,905 1896,904 1981,904 2066,904"
+            },
+            "text": "test for a correlation between crab size and heart rate, linear regression analysis was",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "361,861 361,921 427,921 427,861"
+                },
+                "text": "test"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "447,864 447,924 499,924 499,864"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "519,864 519,924 528,924 528,864"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "552,864 552,924 757,924 757,864"
+                },
+                "text": "correlation"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "787,864 787,924 934,924 934,864"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "964,865 964,925 1035,925 1035,865"
+                },
+                "text": "crab"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1064,865 1064,925 1131,925 1131,865"
+                },
+                "text": "size"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1155,867 1155,927 1212,927 1212,867"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1236,867 1236,927 1336,927 1336,867"
+                },
+                "text": "heart"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1351,867 1351,927 1437,927 1437,867"
+                },
+                "text": "rate,"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1452,866 1452,926 1561,926 1561,866"
+                },
+                "text": "linear"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1576,866 1576,926 1772,926 1772,866"
+                },
+                "text": "regression"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1796,864 1796,924 1949,924 1949,864"
+                },
+                "text": "analysis"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1973,864 1973,924 2040,924 2040,864"
+                },
+                "text": "was"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "352,1036 427,1074 559,1033 965,1074 2080,1043 2080,974 1962,949 1690,988 1624,956 1106,993 1018,958 352,965"
+            },
+            "baseline": {
+              "points": "364,1018 450,1021 536,1021 622,1021 708,1021 794,1021 880,1021 967,1021 1053,1021 1139,1021 1225,1021 1311,1021 1397,1021 1483,1021 1570,1024 1656,1021 1742,1021 1828,1021 1914,1021 2000,1021 2087,1024"
+            },
+            "text": "employed to generate regression lines for each temperature. The average of the three",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "357,980 357,1040 542,1040 542,980"
+                },
+                "text": "employed"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "568,981 568,1041 598,1041 598,981"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "623,981 623,1041 779,1041 779,981"
+                },
+                "text": "generate"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "805,981 805,1041 996,1041 996,981"
+                },
+                "text": "regression"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1026,981 1026,1041 1111,1041 1111,981"
+                },
+                "text": "lines"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1132,981 1132,1041 1182,1041 1182,981"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1203,981 1203,1041 1278,1041 1278,981"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1303,981 1303,1041 1554,1041 1554,981"
+                },
+                "text": "temperature."
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1585,982 1585,1042 1650,1042 1650,982"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1676,981 1676,1041 1816,1041 1816,981"
+                },
+                "text": "average"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1842,981 1842,1041 1882,1041 1882,981"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1898,981 1898,1041 1947,1041 1947,981"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1968,981 1968,1041 2063,1041 2063,981"
+                },
+                "text": "three"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "354,1183 2126,1161 2126,1083 2055,1063 1837,1102 354,1088"
+            },
+            "baseline": {
+              "points": "367,1134 455,1131 543,1134 631,1134 720,1134 808,1137 896,1136 984,1137 1073,1134 1161,1136 1249,1137 1337,1137 1426,1137 1514,1137 1602,1137 1690,1137 1779,1137 1867,1137 1955,1137 2043,1137 2132,1134"
+            },
+            "text": "regression lines was then used to correct the heart rates for effects of size. An Analysis",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "358,1091 358,1151 555,1151 555,1091"
+                },
+                "text": "regression"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "580,1094 580,1154 669,1154 669,1094"
+                },
+                "text": "lines"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "689,1094 689,1154 757,1154 757,1094"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "782,1096 782,1156 856,1156 856,1096"
+                },
+                "text": "then"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "882,1096 882,1156 960,1156 960,1096"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "985,1096 985,1156 1014,1156 1014,1096"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1039,1094 1039,1154 1172,1154 1172,1094"
+                },
+                "text": "correct"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1192,1096 1192,1156 1241,1156 1241,1096"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1266,1097 1266,1157 1359,1157 1359,1097"
+                },
+                "text": "heart"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1380,1097 1380,1157 1463,1157 1463,1097"
+                },
+                "text": "rates"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1489,1097 1489,1157 1537,1157 1537,1097"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1557,1097 1557,1157 1681,1157 1681,1097"
+                },
+                "text": "effects"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1706,1097 1706,1157 1740,1157 1740,1097"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1760,1097 1760,1157 1848,1157 1848,1097"
+                },
+                "text": "size."
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "1873,1097 1873,1157 1923,1157 1923,1097"
+                },
+                "text": "An"
+              },
+              {
+                "id": "tr_1_tl_8_w16",
+                "coords": {
+                  "points": "1953,1097 1953,1157 2119,1157 2119,1097"
+                },
+                "text": "Analysis"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "352,1256 470,1301 752,1276 813,1311 1086,1261 1229,1299 1517,1267 1688,1322 1781,1274 2046,1270 2046,1201 352,1186"
+            },
+            "baseline": {
+              "points": "364,1248 448,1251 532,1250 617,1251 701,1251 785,1251 870,1251 954,1250 1038,1251 1123,1251 1207,1251 1291,1251 1376,1251 1460,1251 1544,1251 1629,1251 1713,1251 1797,1251 1882,1251 1966,1251 2051,1251"
+            },
+            "text": "of Covariance was performed with the corrected data. The factors temperature and",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "356,1208 356,1268 395,1268 395,1208"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "415,1210 415,1270 631,1270 631,1210"
+                },
+                "text": "Covariance"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "656,1211 656,1271 725,1271 725,1211"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "750,1211 750,1271 947,1271 947,1211"
+                },
+                "text": "performed"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "972,1210 972,1270 1045,1270 1045,1210"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1075,1211 1075,1271 1124,1271 1124,1211"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1149,1211 1149,1271 1321,1271 1321,1211"
+                },
+                "text": "corrected"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1346,1211 1346,1271 1439,1271 1439,1211"
+                },
+                "text": "data."
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1469,1211 1469,1271 1533,1271 1533,1211"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1558,1211 1558,1271 1685,1271 1685,1211"
+                },
+                "text": "factors"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1710,1211 1710,1271 1936,1271 1936,1211"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1966,1211 1966,1271 2025,1271 2025,1211"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "354,1370 622,1420 1049,1376 1599,1420 1769,1374 2124,1426 2124,1320 1985,1299 1426,1333 354,1306"
+            },
+            "baseline": {
+              "points": "367,1361 455,1364 543,1364 631,1364 719,1364 807,1364 895,1364 983,1364 1071,1364 1159,1364 1248,1364 1336,1364 1424,1364 1512,1364 1600,1364 1688,1364 1776,1364 1864,1364 1952,1364 2040,1364 2129,1367"
+            },
+            "text": "treatment (air or water) were orthogonal to each other, and n = 12 replicates. The heart",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "359,1323 359,1383 545,1383 545,1323"
+                },
+                "text": "treatment"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "566,1324 566,1384 625,1384 625,1324"
+                },
+                "text": "(air"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "647,1324 647,1384 682,1384 682,1324"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "702,1324 702,1384 828,1384 828,1324"
+                },
+                "text": "water)"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "844,1324 844,1384 929,1384 929,1324"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "955,1324 955,1384 1167,1384 1167,1324"
+                },
+                "text": "orthogonal"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1187,1324 1187,1384 1212,1384 1212,1324"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1239,1324 1239,1384 1314,1384 1314,1324"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1339,1324 1339,1384 1455,1384 1455,1324"
+                },
+                "text": "other,"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1471,1324 1471,1384 1531,1384 1531,1324"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1552,1324 1552,1384 1566,1384 1566,1324"
+                },
+                "text": "n"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1592,1324 1592,1384 1602,1384 1602,1324"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1638,1324 1638,1384 1672,1384 1672,1324"
+                },
+                "text": "12"
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "1698,1324 1698,1384 1900,1384 1900,1324"
+                },
+                "text": "replicates."
+              },
+              {
+                "id": "tr_1_tl_10_w15",
+                "coords": {
+                  "points": "1931,1324 1931,1384 1996,1384 1996,1324"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_10_w16",
+                "coords": {
+                  "points": "2022,1324 2022,1384 2117,1384 2117,1324"
+                },
+                "text": "heart"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "352,1522 622,1497 811,1549 968,1508 1299,1538 1962,1499 1962,1442 1769,1415 1454,1449 1256,1404 1070,1451 870,1410 352,1431"
+            },
+            "baseline": {
+              "points": "364,1478 444,1478 524,1480 604,1478 684,1481 764,1481 844,1479 924,1481 1004,1481 1084,1481 1164,1481 1244,1481 1324,1481 1404,1481 1484,1481 1564,1481 1644,1481 1724,1481 1804,1481 1884,1481 1965,1484"
+            },
+            "text": "rates were transformed into square roots before this test was performed to gain",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "351,1438 351,1498 445,1498 445,1438"
+                },
+                "text": "rates"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "465,1439 465,1499 554,1499 554,1439"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "579,1441 579,1501 811,1501 811,1441"
+                },
+                "text": "transformed"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "837,1439 837,1499 900,1499 900,1439"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "931,1441 931,1501 1049,1501 1049,1441"
+                },
+                "text": "square"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1074,1441 1074,1501 1163,1501 1163,1441"
+                },
+                "text": "roots"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1189,1441 1189,1501 1302,1501 1302,1441"
+                },
+                "text": "before"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1327,1441 1327,1501 1391,1501 1391,1441"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1416,1441 1416,1501 1480,1501 1480,1441"
+                },
+                "text": "test"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1501,1441 1501,1501 1569,1501 1569,1441"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1590,1441 1590,1501 1787,1501 1787,1441"
+                },
+                "text": "performed"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1812,1441 1812,1501 1842,1501 1842,1441"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1867,1441 1867,1501 1941,1501 1941,1441"
+                },
+                "text": "gain"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "354,1640 759,1610 952,1656 1088,1610 1267,1660 1760,1608 2105,1640 2105,1549 1996,1531 470,1565 354,1531"
+            },
+            "baseline": {
+              "points": "367,1594 454,1594 541,1594 628,1596 715,1597 803,1597 890,1597 977,1596 1064,1597 1151,1597 1239,1597 1326,1597 1413,1598 1500,1597 1587,1597 1675,1596 1762,1597 1849,1597 1936,1597 2023,1597 2111,1597"
+            },
+            "text": "homoskedasticity. Qjos were also calculated and compared between 10\u00b0C to 15\u00b0C and",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "359,1554 359,1614 726,1614 726,1554"
+                },
+                "text": "homoskedasticity."
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "752,1557 752,1617 832,1617 832,1557"
+                },
+                "text": "Qjos"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "853,1556 853,1616 938,1616 938,1556"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "964,1556 964,1616 1034,1616 1034,1556"
+                },
+                "text": "also"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1060,1557 1060,1617 1246,1617 1246,1557"
+                },
+                "text": "calculated"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1277,1557 1277,1617 1332,1617 1332,1557"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1357,1557 1357,1617 1544,1617 1544,1557"
+                },
+                "text": "compared"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1569,1556 1569,1616 1725,1616 1725,1556"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1756,1557 1756,1617 1831,1617 1831,1557"
+                },
+                "text": "10\u00b0C"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1867,1557 1867,1617 1892,1617 1892,1557"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1923,1557 1923,1617 1997,1617 1997,1557"
+                },
+                "text": "15\u00b0C"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "2033,1557 2033,1617 2093,1617 2093,1557"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "352,1762 445,1742 581,1781 688,1772 763,1713 1036,1778 1036,1674 974,1660 895,1681 847,1649 795,1676 661,1640 620,1669 525,1669 470,1640 352,1667"
+            },
+            "baseline": {
+              "points": "364,1708 397,1708 431,1710 465,1711 499,1711 533,1711 567,1711 601,1711 635,1711 669,1711 703,1711 736,1711 770,1711 804,1711 838,1709 872,1709 906,1711 940,1711 974,1711 1008,1711 1042,1711"
+            },
+            "text": "15\u00b0C to 20\u00b0C in air versus water.",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "353,1668 353,1728 436,1728 436,1668"
+                },
+                "text": "15\u00b0C"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "470,1671 470,1731 497,1731 497,1671"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "520,1671 520,1731 609,1731 609,1671"
+                },
+                "text": "20\u00b0C"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "643,1671 643,1731 665,1731 665,1671"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "693,1671 693,1731 743,1731 743,1671"
+                },
+                "text": "air"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "760,1669 760,1729 888,1729 888,1669"
+                },
+                "text": "versus"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "906,1671 906,1731 1033,1731 1033,1671"
+                },
+                "text": "water."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "506,1856 718,1874 906,1831 1047,1872 1142,1835 1217,1876 1335,1844 1501,1876 1878,1837 2071,1869 2071,1778 1906,1747 506,1785"
+            },
+            "baseline": {
+              "points": "519,1821 596,1824 674,1824 752,1824 830,1824 908,1824 985,1824 1063,1824 1141,1824 1219,1824 1297,1824 1374,1824 1452,1824 1530,1824 1608,1824 1686,1824 1763,1824 1841,1824 1919,1824 1997,1824 2075,1824"
+            },
+            "text": "One other possible statistical test that had been considered was a Chi Square.",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "510,1782 510,1842 584,1842 584,1782"
+                },
+                "text": "One"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "609,1784 609,1844 707,1844 707,1784"
+                },
+                "text": "other"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "727,1784 727,1844 880,1844 880,1784"
+                },
+                "text": "possible"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "905,1784 905,1844 1092,1844 1092,1784"
+                },
+                "text": "statistical"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "1107,1784 1107,1844 1176,1844 1176,1784"
+                },
+                "text": "test"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1191,1784 1191,1844 1265,1844 1265,1784"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1280,1784 1280,1844 1339,1844 1339,1784"
+                },
+                "text": "had"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1364,1784 1364,1844 1448,1844 1448,1784"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1473,1784 1473,1844 1680,1844 1680,1784"
+                },
+                "text": "considered"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1705,1784 1705,1844 1773,1844 1773,1784"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1799,1784 1799,1844 1808,1844 1808,1784"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1833,1784 1833,1844 1902,1844 1902,1784"
+                },
+                "text": "Chi"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1917,1784 1917,1844 2069,1844 2069,1784"
+                },
+                "text": "Square."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "352,1987 861,1946 1565,2003 1715,1953 2121,1981 2090,1885 352,1892"
+            },
+            "baseline": {
+              "points": "364,1938 452,1938 540,1941 628,1941 716,1938 804,1941 892,1941 980,1939 1068,1941 1156,1941 1245,1939 1333,1940 1421,1941 1509,1941 1597,1941 1685,1941 1773,1940 1861,1938 1949,1941 2037,1941 2126,1938"
+            },
+            "text": "However, this could not be applied to a two by three model, in this case two treatments",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "356,1898 356,1958 553,1958 553,1898"
+                },
+                "text": "However,"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "568,1901 568,1961 631,1961 631,1901"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "652,1898 652,1958 750,1958 750,1898"
+                },
+                "text": "could"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "780,1901 780,1961 838,1961 838,1901"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "858,1901 858,1961 892,1961 892,1901"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "918,1899 918,1959 1050,1959 1050,1899"
+                },
+                "text": "applied"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1081,1901 1081,1961 1105,1961 1105,1901"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1130,1901 1130,1961 1139,1961 1139,1901"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1164,1900 1164,1960 1228,1960 1228,1900"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1253,1899 1253,1959 1292,1959 1292,1899"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1312,1900 1312,1960 1400,1960 1400,1900"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1425,1901 1425,1961 1563,1961 1563,1901"
+                },
+                "text": "model,"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1578,1901 1578,1961 1602,1961 1602,1901"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "1633,1901 1633,1961 1696,1961 1696,1901"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_15_w15",
+                "coords": {
+                  "points": "1716,1900 1716,1960 1790,1960 1790,1900"
+                },
+                "text": "case"
+              },
+              {
+                "id": "tr_1_tl_15_w16",
+                "coords": {
+                  "points": "1815,1898 1815,1958 1878,1958 1878,1898"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_15_w17",
+                "coords": {
+                  "points": "1903,1901 1903,1961 2110,1961 2110,1901"
+                },
+                "text": "treatments"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "361,2087 922,2112 1174,2074 1360,2121 1424,2074 1517,2108 1638,2065 1792,2110 2153,2094 2153,1992 1313,2021 1136,1976 1067,2026 361,1994"
+            },
+            "baseline": {
+              "points": "373,2057 462,2054 551,2054 640,2054 730,2054 819,2057 908,2057 998,2057 1087,2057 1176,2057 1266,2057 1355,2057 1444,2057 1533,2057 1623,2057 1712,2057 1801,2057 1891,2057 1980,2054 2069,2057 2159,2057"
+            },
+            "text": "(air or water) x three temperatures. If performed, the difference in heart rate between air",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "361,2016 361,2076 421,2076 421,2016"
+                },
+                "text": "(air"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "441,2014 441,2074 476,2074 476,2014"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "497,2014 497,2074 618,2074 618,2014"
+                },
+                "text": "water)"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "634,2014 634,2074 648,2074 648,2014"
+                },
+                "text": "x"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "674,2014 674,2074 765,2074 765,2014"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "790,2017 790,2077 1063,2077 1063,2017"
+                },
+                "text": "temperatures."
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1089,2017 1089,2077 1119,2077 1119,2017"
+                },
+                "text": "If"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1135,2017 1135,2077 1351,2077 1351,2017"
+                },
+                "text": "performed,"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1367,2017 1367,2077 1418,2077 1418,2017"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1444,2017 1444,2077 1635,2077 1635,2017"
+                },
+                "text": "difference"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1661,2017 1661,2077 1686,2077 1686,2017"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1712,2017 1712,2077 1807,2077 1807,2017"
+                },
+                "text": "heart"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1828,2017 1828,2077 1888,2077 1888,2017"
+                },
+                "text": "rate"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "1914,2014 1914,2074 2070,2074 2070,2014"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_16_w15",
+                "coords": {
+                  "points": "2096,2017 2096,2077 2146,2077 2146,2017"
+                },
+                "text": "air"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "354,2187 831,2221 1329,2178 1615,2228 1853,2174 2115,2212 2115,2121 1987,2103 1619,2140 354,2121"
+            },
+            "baseline": {
+              "points": "367,2171 454,2168 542,2168 629,2168 717,2170 805,2170 892,2171 980,2171 1068,2171 1155,2171 1243,2171 1331,2171 1418,2171 1506,2171 1594,2171 1681,2171 1769,2171 1857,2168 1944,2171 2032,2168 2120,2168"
+            },
+            "text": "and water would have been compared within each temperature separately. This would",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "353,2130 353,2190 412,2190 412,2130"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "437,2128 437,2188 545,2188 545,2128"
+                },
+                "text": "water"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "566,2128 566,2188 679,2188 679,2128"
+                },
+                "text": "would"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "704,2130 704,2190 788,2190 788,2130"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "813,2130 813,2190 892,2190 892,2130"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "922,2131 922,2191 1104,2191 1104,2131"
+                },
+                "text": "compared"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1135,2131 1135,2191 1248,2191 1248,2131"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1273,2131 1273,2191 1352,2191 1352,2131"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1377,2131 1377,2191 1609,2191 1609,2131"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1635,2131 1635,2191 1851,2191 1851,2131"
+                },
+                "text": "separately."
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1877,2130 1877,2190 1960,2190 1960,2130"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1981,2128 1981,2188 2094,2188 2094,2128"
+                },
+                "text": "would"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "352,2339 1449,2289 1983,2351 2169,2299 2169,2233 1867,2253 1640,2210 1522,2251 352,2230"
+            },
+            "baseline": {
+              "points": "364,2281 454,2281 545,2281 635,2284 726,2284 816,2284 907,2284 997,2284 1088,2284 1178,2284 1269,2284 1359,2284 1450,2284 1540,2284 1631,2284 1721,2284 1812,2284 1902,2284 1993,2284 2083,2284 2174,2284"
+            },
+            "text": "have necessitated three separate Chi Square tests, one for each temperature. I understood",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "351,2241 351,2301 433,2301 433,2241"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "457,2242 457,2302 693,2302 693,2242"
+                },
+                "text": "necessitated"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "718,2244 718,2304 809,2304 809,2244"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "834,2244 834,2304 989,2304 989,2244"
+                },
+                "text": "separate"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1013,2244 1013,2304 1080,2304 1080,2244"
+                },
+                "text": "Chi"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1100,2244 1100,2304 1225,2304 1225,2244"
+                },
+                "text": "Square"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1250,2244 1250,2304 1351,2304 1351,2244"
+                },
+                "text": "tests,"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1366,2244 1366,2304 1428,2304 1428,2244"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1453,2244 1453,2304 1505,2304 1505,2244"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1525,2244 1525,2304 1603,2304 1603,2244"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1632,2244 1632,2304 1883,2304 1883,2244"
+                },
+                "text": "temperature."
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1912,2244 1912,2304 1926,2304 1926,2244"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1941,2244 1941,2304 2158,2304 2158,2244"
+                },
+                "text": "understood"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "354,2437 754,2457 852,2408 1161,2453 1335,2410 1454,2451 1731,2421 1806,2460 1896,2403 2026,2444 2153,2417 2153,2333 1152,2367 1043,2323 922,2371 354,2339"
+            },
+            "baseline": {
+              "points": "367,2398 456,2401 546,2398 635,2401 725,2401 815,2401 904,2398 994,2401 1083,2401 1173,2401 1263,2401 1352,2398 1442,2401 1531,2398 1621,2398 1711,2398 1800,2398 1890,2398 1979,2398 2069,2398 2159,2398"
+            },
+            "text": "that this would have a lower statistical power than an Analysis of Covariance. To get an",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "358,2358 358,2418 431,2418 431,2358"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "447,2360 447,2420 510,2420 510,2360"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "535,2359 535,2419 647,2419 647,2359"
+                },
+                "text": "would"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "672,2361 672,2421 755,2421 755,2361"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "780,2361 780,2421 790,2421 790,2361"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "815,2359 815,2419 923,2419 923,2359"
+                },
+                "text": "lower"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "943,2361 943,2421 1129,2421 1129,2361"
+                },
+                "text": "statistical"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1149,2361 1149,2421 1267,2421 1267,2361"
+                },
+                "text": "power"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1282,2359 1282,2419 1355,2419 1355,2359"
+                },
+                "text": "than"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1386,2359 1386,2419 1419,2419 1419,2359"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1444,2358 1444,2418 1611,2418 1611,2358"
+                },
+                "text": "Analysis"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1631,2358 1631,2418 1670,2418 1670,2358"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1685,2358 1685,2418 1926,2418 1926,2358"
+                },
+                "text": "Covariance."
+              },
+              {
+                "id": "tr_1_tl_19_w14",
+                "coords": {
+                  "points": "1956,2358 1956,2418 1999,2418 1999,2358"
+                },
+                "text": "To"
+              },
+              {
+                "id": "tr_1_tl_19_w15",
+                "coords": {
+                  "points": "2024,2358 2024,2418 2083,2418 2083,2358"
+                },
+                "text": "get"
+              },
+              {
+                "id": "tr_1_tl_19_w16",
+                "coords": {
+                  "points": "2098,2358 2098,2418 2132,2418 2132,2358"
+                },
+                "text": "an"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "354,2537 1354,2519 1703,2567 1890,2523 2110,2564 2162,2535 2162,2476 2115,2457 838,2482 354,2439"
+            },
+            "baseline": {
+              "points": "367,2514 457,2512 547,2511 637,2514 727,2511 817,2514 907,2514 997,2514 1087,2514 1177,2514 1267,2514 1357,2514 1447,2514 1537,2514 1627,2511 1717,2511 1807,2514 1897,2511 1987,2511 2077,2511 2168,2511"
+            },
+            "text": "idea of what the results might have been, single factor Anovas were performed with each",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "354,2473 354,2533 429,2533 429,2473"
+                },
+                "text": "idea"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "454,2471 454,2531 489,2531 489,2471"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "510,2471 510,2531 605,2531 605,2471"
+                },
+                "text": "what"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "621,2473 621,2533 671,2533 671,2473"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "691,2471 691,2531 818,2531 818,2471"
+                },
+                "text": "results"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "838,2474 838,2534 954,2534 954,2474"
+                },
+                "text": "might"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "969,2474 969,2534 1055,2534 1055,2474"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1075,2474 1075,2534 1181,2534 1181,2474"
+                },
+                "text": "been,"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1196,2474 1196,2534 1307,2534 1307,2474"
+                },
+                "text": "single"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1333,2474 1333,2534 1443,2534 1443,2474"
+                },
+                "text": "factor"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1459,2474 1459,2534 1605,2534 1605,2474"
+                },
+                "text": "Anovas"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1626,2471 1626,2531 1711,2531 1711,2471"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1737,2473 1737,2533 1933,2533 1933,2473"
+                },
+                "text": "performed"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "1964,2471 1964,2531 2034,2531 2034,2471"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_20_w15",
+                "coords": {
+                  "points": "2065,2471 2065,2531 2140,2531 2140,2471"
+                },
+                "text": "each"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "352,2637 538,2694 704,2644 804,2678 895,2630 1554,2641 1633,2687 1733,2641 2171,2635 2153,2580 1937,2567 352,2587"
+            },
+            "baseline": {
+              "points": "364,2628 454,2628 545,2628 635,2628 726,2630 817,2628 907,2628 998,2629 1089,2631 1179,2629 1270,2628 1361,2630 1451,2628 1542,2628 1633,2628 1723,2628 1814,2628 1905,2628 1995,2628 2086,2628 2177,2625"
+            },
+            "text": "temperature orthogonal to treatment, and no statistical significance was seen in any of the",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "356,2588 356,2648 587,2648 587,2588"
+                },
+                "text": "temperature"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "612,2589 612,2649 829,2649 829,2589"
+                },
+                "text": "orthogonal"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "844,2588 844,2648 868,2648 868,2588"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "898,2588 898,2648 1095,2648 1095,2588"
+                },
+                "text": "treatment,"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1115,2589 1115,2649 1174,2649 1174,2589"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1199,2588 1199,2648 1233,2648 1233,2588"
+                },
+                "text": "no"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1263,2589 1263,2649 1450,2649 1450,2589"
+                },
+                "text": "statistical"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1466,2588 1466,2648 1696,2648 1696,2588"
+                },
+                "text": "significance"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1722,2588 1722,2648 1790,2648 1790,2588"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1810,2588 1810,2648 1889,2648 1889,2588"
+                },
+                "text": "seen"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1914,2588 1914,2648 1938,2648 1938,2588"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1968,2588 1968,2648 2027,2648 2027,2588"
+                },
+                "text": "any"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "2052,2588 2052,2648 2091,2648 2091,2588"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_21_w14",
+                "coords": {
+                  "points": "2106,2586 2106,2646 2160,2646 2160,2586"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "357,2771 638,2760 840,2828 943,2762 1115,2766 1288,2825 1569,2753 1797,2819 1797,2691 1685,2673 1569,2710 988,2666 740,2712 584,2673 525,2712 357,2696"
+            },
+            "baseline": {
+              "points": "370,2741 441,2744 513,2744 584,2744 656,2744 727,2744 799,2744 870,2744 942,2744 1013,2744 1085,2744 1156,2744 1228,2744 1299,2744 1371,2742 1442,2744 1514,2742 1585,2744 1657,2744 1728,2744 1800,2744"
+            },
+            "text": "three temperatures. Therefore, an Analysis of Covariance was chosen.",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "361,2702 361,2762 450,2762 450,2702"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "475,2704 475,2764 753,2764 753,2704"
+                },
+                "text": "temperatures."
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "783,2704 783,2764 991,2764 991,2704"
+                },
+                "text": "Therefore,"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "1007,2704 1007,2764 1041,2764 1041,2704"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1066,2704 1066,2764 1234,2764 1234,2704"
+                },
+                "text": "Analysis"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1255,2704 1255,2764 1294,2764 1294,2704"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1309,2703 1309,2763 1527,2763 1527,2703"
+                },
+                "text": "Covariance"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1553,2704 1553,2764 1622,2764 1622,2704"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1642,2704 1642,2764 1795,2764 1795,2704"
+                },
+                "text": "chosen."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2130 @@
+{
+  "processId": 10380334,
+  "status": "FINISHED",
+  "content": {
+    "text": "INTRODUCTION\nMetabotropic neurotransmitter receptors are linked via second messenger pathways to\ntheir intracellular effector targets. The bradykinin (Bk) B2 receptor subtype is coupled by the G-\nprotein Gyii to a wide variety of second messenger cascades, with one prominent effect being the\nactivation of the membrane-bound enzyme phospholipase C (PLCB1). PLC hydrolyzes\nphosphotidyl inositol 4,5-bisphosphate (PIP2) in the plasma membrane to form inositol 1,4,5-\ntrisphosphate (IPz) and diacylglycerol (DAG) [Rhee et al., 19891, both of which act as\nintracellular messengers. IPz diffuses in the cytosol to receptors on the surface of the endoplasmic\nreticulum. Activation of the IPz receptor leads to release of Ca into the cytosol from Ca\nstorage compartments of the endoplasmic reticulum.\nSurface receptors coupled to second messenger pathways characteristically mediate\nresponses which are slow in both onset and duration [Hartzell, 1981]. Response latencies as long\nas 30 seconds in duration have been observed for B2 receptor activation in neuroblastoma cells\n[Coggan et al., 1995]. The existence of such an appreciable delay between surface receptor\nbinding and cellular response has important consequences for the synaptic activation of cells\nDescribed here is an investigation of possible origins of the latency of responses mediated by the\nphosphoinositide signaling pathway in NIE-115 mouse neuroblastoma cells, a sympathetic\nneuronal cell line which express a number of G-protein coupled receptors including B2, Hj, Mi,\nand Ma receptors.\nIt has been suggested that the limiting factors determining response latency at high agonist\nconcentrations arise from stages in the phosphoinositide signaling cascade located between\nreceptor binding and IPz liberation. It was further suggested that at low agonist concentrations,",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "232,329 232,2975 2221,2975 2221,329"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "227,425 279,427 314,405 348,427 432,420 467,444 563,397 617,427 659,427 659,321 630,323 558,281 479,326 449,314 410,326 356,304 323,326 227,331"
+            },
+            "baseline": {
+              "points": "241,388 267,388 294,388 320,388 347,388 373,388 400,388 426,388 453,388 479,388 506,388 532,388 559,388 585,388 612,388 638,388 665,388"
+            },
+            "text": "INTRODUCTION",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "230,348 230,408 634,408 634,348"
+                },
+                "text": "INTRODUCTION"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "375,573 489,620 988,580 1368,630 1503,588 1864,630 2128,590 2128,523 2027,489 1901,528 1829,472 1639,521 1466,479 1338,526 509,491 375,528"
+            },
+            "baseline": {
+              "points": "388,564 475,567 562,567 649,567 737,567 824,567 911,567 999,567 1086,567 1173,567 1261,567 1348,567 1435,567 1522,567 1610,567 1697,568 1784,568 1872,570 1959,570 2046,570 2134,570"
+            },
+            "text": "Metabotropic neurotransmitter receptors are linked via second messenger pathways to",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "380,527 380,587 643,587 643,527"
+                },
+                "text": "Metabotropic"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "669,527 669,587 998,587 998,527"
+                },
+                "text": "neurotransmitter"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "1019,527 1019,587 1196,587 1196,527"
+                },
+                "text": "receptors"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "1217,527 1217,587 1273,587 1273,527"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1294,527 1294,587 1405,587 1405,527"
+                },
+                "text": "linked"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1431,527 1431,587 1476,587 1476,527"
+                },
+                "text": "via"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1502,527 1502,587 1629,587 1629,527"
+                },
+                "text": "second"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1660,528 1660,588 1862,588 1862,528"
+                },
+                "text": "messenger"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1883,530 1883,590 2065,590 2065,530"
+                },
+                "text": "pathways"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "2086,530 2086,590 2111,590 2111,530"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "225,713 415,743 491,706 963,696 1111,736 1200,706 1294,753 1466,713 1770,755 2168,713 2168,632 1795,617 1733,654 1353,612 1057,654 543,612 225,644"
+            },
+            "baseline": {
+              "points": "238,683 334,683 431,685 528,683 625,686 721,686 818,686 915,686 1012,686 1108,686 1205,686 1302,686 1399,686 1495,689 1592,688 1689,686 1786,689 1882,689 1979,689 2076,689 2173,689"
+            },
+            "text": "their intracellular effector targets. The bradykinin (Bk) B2 receptor subtype is coupled by the G-",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "232,643 232,703 316,703 316,643"
+                },
+                "text": "their"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "334,644 334,704 566,704 566,644"
+                },
+                "text": "intracellular"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "590,646 590,706 737,706 737,646"
+                },
+                "text": "effector"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "760,646 760,706 907,706 907,646"
+                },
+                "text": "targets."
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "920,646 920,706 987,706 987,646"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1011,646 1011,706 1210,706 1210,646"
+                },
+                "text": "bradykinin"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1239,646 1239,706 1329,706 1329,646"
+                },
+                "text": "(Bk)"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1347,646 1347,706 1386,706 1386,646"
+                },
+                "text": "B2"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1409,648 1409,708 1568,708 1568,648"
+                },
+                "text": "receptor"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1591,646 1591,706 1733,706 1733,646"
+                },
+                "text": "subtype"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1756,648 1756,708 1778,708 1778,648"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1802,649 1802,709 1949,709 1949,649"
+                },
+                "text": "coupled"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1978,649 1978,709 2011,709 2011,649"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "2035,649 2035,709 2085,709 2085,649"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w15",
+                "coords": {
+                  "points": "2109,649 2109,709 2159,709 2159,649"
+                },
+                "text": "G-"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "227,825 763,852 812,817 985,874 1128,834 1328,867 1432,825 1913,857 1987,817 2200,827 2200,758 2096,741 1958,773 1903,738 1503,770 1111,738 928,775 792,713 689,763 385,733 227,773"
+            },
+            "baseline": {
+              "points": "241,806 339,803 437,804 535,804 634,803 732,803 830,806 928,806 1027,806 1125,806 1223,806 1321,806 1420,806 1518,806 1616,806 1714,806 1813,806 1911,809 2009,809 2107,809 2206,809"
+            },
+            "text": "protein Gyii to a wide variety of second messenger cascades, with one prominent effect being the",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "232,764 232,824 361,824 361,764"
+                },
+                "text": "protein"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "387,763 387,823 475,823 475,763"
+                },
+                "text": "Gyii"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "491,764 491,824 521,824 521,764"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "549,763 549,823 558,823 558,763"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "585,763 585,823 672,823 672,763"
+                },
+                "text": "wide"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "699,763 699,823 817,823 817,763"
+                },
+                "text": "variety"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "849,766 849,826 885,826 885,766"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "902,766 902,826 1030,826 1030,766"
+                },
+                "text": "second"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1057,766 1057,826 1259,826 1259,766"
+                },
+                "text": "messenger"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1280,766 1280,826 1461,826 1461,766"
+                },
+                "text": "cascades,"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1482,766 1482,826 1555,826 1555,766"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1581,766 1581,826 1643,826 1643,766"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1669,766 1669,826 1871,826 1871,766"
+                },
+                "text": "prominent"
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "1888,769 1888,829 1996,829 1996,769"
+                },
+                "text": "effect"
+              },
+              {
+                "id": "tr_1_tl_4_w15",
+                "coords": {
+                  "points": "2012,769 2012,829 2110,829 2110,769"
+                },
+                "text": "being"
+              },
+              {
+                "id": "tr_1_tl_4_w16",
+                "coords": {
+                  "points": "2136,769 2136,829 2187,829 2187,769"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "235,955 504,943 679,985 857,938 936,978 1044,941 1257,978 2002,941 2002,879 1948,862 746,894 672,849 600,894 331,852 235,891"
+            },
+            "baseline": {
+              "points": "247,922 335,922 423,922 511,922 599,925 687,925 775,925 863,925 951,925 1039,925 1128,925 1216,925 1304,925 1392,925 1480,925 1568,925 1656,925 1744,926 1832,925 1920,926 2009,928"
+            },
+            "text": "activation of the membrane-bound enzyme phospholipase C (PLCB1). PLC hydrolyzes",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "241,882 241,942 423,942 423,882"
+                },
+                "text": "activation"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "451,882 451,942 490,942 490,882"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "507,882 507,942 557,942 557,882"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "579,885 579,945 917,945 917,885"
+                },
+                "text": "membrane-bound"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "945,885 945,945 1084,945 1084,885"
+                },
+                "text": "enzyme"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1112,885 1112,945 1383,945 1383,885"
+                },
+                "text": "phospholipase"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1406,885 1406,945 1422,945 1422,885"
+                },
+                "text": "C"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1450,885 1450,945 1644,945 1644,885"
+                },
+                "text": "(PLCB1)."
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1673,885 1673,945 1744,945 1744,885"
+                },
+                "text": "PLC"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1778,885 1778,945 1988,945 1988,885"
+                },
+                "text": "hydrolyzes"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "235,1096 427,1062 585,1111 753,1047 1076,1118 1580,1064 1990,1099 2103,1052 2103,992 1894,980 1654,1017 1585,978 235,988"
+            },
+            "baseline": {
+              "points": "247,1047 340,1044 433,1044 526,1042 619,1043 712,1042 805,1044 899,1044 992,1044 1085,1044 1178,1044 1271,1044 1364,1044 1457,1044 1551,1044 1644,1045 1737,1044 1830,1044 1923,1047 2016,1047 2110,1041"
+            },
+            "text": "phosphotidyl inositol 4,5-bisphosphate (PIP2) in the plasma membrane to form inositol 1,4,5-",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "241,1004 241,1064 495,1064 495,1004"
+                },
+                "text": "phosphotidyl"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "512,1002 512,1062 657,1062 657,1002"
+                },
+                "text": "inositol"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "674,1004 674,1064 1004,1064 1004,1004"
+                },
+                "text": "4,5-bisphosphate"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "1032,1004 1032,1064 1151,1064 1151,1004"
+                },
+                "text": "(PIP2)"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1168,1004 1168,1064 1189,1064 1189,1004"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1217,1004 1217,1064 1265,1064 1265,1004"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1293,1004 1293,1064 1417,1064 1417,1004"
+                },
+                "text": "plasma"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1445,1004 1445,1064 1640,1064 1640,1004"
+                },
+                "text": "membrane"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1662,1004 1662,1064 1688,1064 1688,1004"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1716,1004 1716,1064 1791,1064 1791,1004"
+                },
+                "text": "form"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1830,1006 1830,1066 1976,1066 1976,1006"
+                },
+                "text": "inositol"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1993,1005 1993,1065 2100,1065 2100,1005"
+                },
+                "text": "1,4,5-"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "225,1195 610,1187 659,1234 869,1195 1032,1234 1301,1170 1476,1232 1634,1185 1987,1192 1987,1121 1721,1096 1558,1131 225,1113"
+            },
+            "baseline": {
+              "points": "238,1161 325,1161 413,1164 500,1164 588,1164 676,1164 763,1164 851,1164 939,1164 1026,1164 1114,1164 1202,1164 1289,1164 1377,1165 1465,1164 1552,1164 1640,1164 1728,1164 1815,1164 1903,1167 1991,1167"
+            },
+            "text": "trisphosphate (IPz) and diacylglycerol (DAG) [Rhee et al., 19891, both of which act as",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "226,1122 226,1182 488,1182 488,1122"
+                },
+                "text": "trisphosphate"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "512,1124 512,1184 605,1184 605,1124"
+                },
+                "text": "(IPz)"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "623,1124 623,1184 687,1184 687,1124"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "711,1124 711,1184 990,1184 990,1124"
+                },
+                "text": "diacylglycerol"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1003,1124 1003,1184 1143,1184 1143,1124"
+                },
+                "text": "(DAG)"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1161,1124 1161,1184 1271,1184 1271,1124"
+                },
+                "text": "[Rhee"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1295,1124 1295,1184 1329,1184 1329,1124"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1347,1124 1347,1184 1406,1184 1406,1124"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1430,1124 1430,1184 1557,1184 1557,1124"
+                },
+                "text": "19891,"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1570,1124 1570,1184 1650,1184 1650,1124"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1674,1124 1674,1184 1715,1184 1715,1124"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1733,1124 1733,1184 1838,1184 1838,1124"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1862,1126 1862,1186 1919,1186 1919,1126"
+                },
+                "text": "act"
+              },
+              {
+                "id": "tr_1_tl_7_w14",
+                "coords": {
+                  "points": "1937,1127 1937,1187 1972,1187 1972,1127"
+                },
+                "text": "as"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "235,1341 602,1306 686,1350 783,1311 844,1343 1015,1291 1101,1331 1276,1289 1420,1353 1605,1291 2214,1331 2197,1220 1664,1257 913,1202 363,1247 235,1207"
+            },
+            "baseline": {
+              "points": "247,1277 345,1280 444,1280 543,1280 641,1280 740,1280 839,1280 937,1280 1036,1282 1135,1281 1234,1280 1332,1281 1431,1283 1530,1283 1628,1283 1727,1283 1826,1283 1924,1283 2023,1283 2122,1283 2221,1280"
+            },
+            "text": "intracellular messengers. IPz diffuses in the cytosol to receptors on the surface of the endoplasmic",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "240,1240 240,1300 470,1300 470,1240"
+                },
+                "text": "intracellular"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "491,1240 491,1300 727,1300 727,1240"
+                },
+                "text": "messengers."
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "758,1240 758,1300 813,1300 813,1240"
+                },
+                "text": "IPz"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "833,1240 833,1300 979,1300 979,1240"
+                },
+                "text": "diffuses"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "999,1241 999,1301 1024,1301 1024,1241"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1050,1241 1050,1301 1099,1301 1099,1241"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1125,1240 1125,1300 1266,1300 1266,1240"
+                },
+                "text": "cytosol"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1282,1240 1282,1300 1306,1300 1306,1240"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1337,1242 1337,1302 1513,1302 1513,1242"
+                },
+                "text": "receptors"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1539,1243 1539,1303 1573,1303 1573,1243"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1599,1243 1599,1303 1649,1303 1649,1243"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1674,1243 1674,1303 1805,1303 1805,1243"
+                },
+                "text": "surface"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1835,1243 1835,1303 1870,1303 1870,1243"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1886,1243 1886,1303 1935,1303 1935,1243"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "1961,1243 1961,1303 2197,1303 2197,1243"
+                },
+                "text": "endoplasmic"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "225,1471 444,1412 509,1457 625,1410 931,1474 1212,1424 1417,1462 1545,1424 2056,1437 2056,1345 1970,1331 1644,1368 385,1333 225,1378"
+            },
+            "baseline": {
+              "points": "238,1397 329,1397 420,1400 511,1400 602,1400 694,1400 785,1400 876,1400 967,1400 1058,1400 1150,1400 1241,1400 1332,1400 1423,1400 1514,1400 1606,1400 1697,1400 1788,1400 1879,1402 1970,1402 2062,1403"
+            },
+            "text": "reticulum. Activation of the IPz receptor leads to release of Ca into the cytosol from Ca",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "225,1357 225,1417 432,1417 432,1357"
+                },
+                "text": "reticulum."
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "459,1360 459,1420 655,1420 655,1360"
+                },
+                "text": "Activation"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "683,1360 683,1420 720,1420 720,1360"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "737,1360 737,1420 791,1420 791,1360"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "813,1360 813,1420 867,1420 867,1360"
+                },
+                "text": "IPz"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "889,1360 889,1420 1052,1420 1052,1360"
+                },
+                "text": "receptor"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1069,1360 1069,1420 1166,1420 1166,1360"
+                },
+                "text": "leads"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1183,1360 1183,1420 1210,1420 1210,1360"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1238,1360 1238,1420 1368,1420 1368,1360"
+                },
+                "text": "release"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1390,1360 1390,1420 1427,1420 1427,1360"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1450,1360 1450,1420 1493,1420 1493,1360"
+                },
+                "text": "Ca"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1548,1360 1548,1420 1612,1420 1612,1360"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1640,1360 1640,1420 1689,1420 1689,1360"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1717,1360 1717,1420 1857,1420 1857,1360"
+                },
+                "text": "cytosol"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "1874,1362 1874,1422 1944,1422 1944,1362"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_9_w16",
+                "coords": {
+                  "points": "1983,1362 1983,1422 2031,1422 2031,1362"
+                },
+                "text": "Ca"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "235,1560 827,1528 1010,1585 1104,1528 1175,1575 1294,1531 1294,1459 235,1476"
+            },
+            "baseline": {
+              "points": "247,1513 299,1516 352,1516 405,1516 457,1516 510,1516 563,1519 615,1519 668,1518 721,1518 774,1519 826,1519 879,1519 932,1517 984,1519 1037,1519 1090,1519 1142,1519 1195,1519 1248,1519 1301,1519"
+            },
+            "text": "storage compartments of the endoplasmic reticulum.",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "240,1476 240,1536 376,1536 376,1476"
+                },
+                "text": "storage"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "402,1477 402,1537 679,1537 679,1477"
+                },
+                "text": "compartments"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "700,1478 700,1538 740,1538 740,1478"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "756,1479 756,1539 806,1539 806,1479"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "832,1477 832,1537 1069,1537 1069,1477"
+                },
+                "text": "endoplasmic"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1095,1479 1095,1539 1292,1539 1292,1479"
+                },
+                "text": "reticulum."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "383,1659 518,1706 592,1671 775,1701 832,1654 1439,1654 1508,1698 1597,1659 1733,1713 1894,1654 2076,1681 2076,1602 1884,1570 383,1595"
+            },
+            "baseline": {
+              "points": "397,1633 481,1635 565,1635 649,1635 734,1635 818,1636 902,1638 987,1638 1071,1635 1155,1638 1240,1638 1324,1635 1408,1637 1492,1636 1577,1636 1661,1638 1745,1638 1830,1638 1914,1638 1998,1638 2083,1638"
+            },
+            "text": "Surface receptors coupled to second messenger pathways characteristically mediate",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "383,1594 383,1654 524,1654 524,1594"
+                },
+                "text": "Surface"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "550,1595 550,1655 727,1655 727,1595"
+                },
+                "text": "receptors"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "753,1596 753,1656 900,1656 900,1596"
+                },
+                "text": "coupled"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "926,1598 926,1658 951,1658 951,1598"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "982,1595 982,1655 1108,1655 1108,1595"
+                },
+                "text": "second"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1134,1598 1134,1658 1337,1658 1337,1598"
+                },
+                "text": "messenger"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1358,1596 1358,1656 1541,1656 1541,1596"
+                },
+                "text": "pathways"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1561,1598 1561,1658 1891,1658 1891,1598"
+                },
+                "text": "characteristically"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1917,1598 1917,1658 2059,1658 2059,1598"
+                },
+                "text": "mediate"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "232,1800 1382,1775 1471,1810 1548,1768 2197,1805 2195,1723 2091,1689 2032,1721 1276,1676 1062,1718 1007,1684 926,1723 839,1689 333,1726 230,1674"
+            },
+            "baseline": {
+              "points": "244,1752 341,1752 439,1755 537,1755 635,1755 733,1755 830,1755 928,1755 1026,1755 1124,1755 1222,1755 1319,1755 1417,1755 1515,1754 1613,1754 1711,1755 1808,1755 1906,1755 2004,1755 2102,1755 2200,1758"
+            },
+            "text": "responses which are slow in both onset and duration [Hartzell, 1981]. Response latencies as long",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "230,1712 230,1772 420,1772 420,1712"
+                },
+                "text": "responses"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "447,1715 447,1775 550,1775 550,1715"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "576,1715 576,1775 627,1775 627,1715"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "654,1715 654,1775 725,1775 725,1715"
+                },
+                "text": "slow"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "762,1715 762,1775 782,1775 782,1715"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "809,1715 809,1775 886,1775 886,1715"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "918,1715 918,1775 1016,1775 1016,1715"
+                },
+                "text": "onset"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1037,1715 1037,1775 1093,1775 1093,1715"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1120,1715 1120,1775 1274,1775 1274,1715"
+                },
+                "text": "duration"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1306,1715 1306,1775 1486,1775 1486,1715"
+                },
+                "text": "[Hartzell,"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1507,1714 1507,1774 1637,1774 1637,1714"
+                },
+                "text": "1981]."
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1663,1715 1663,1775 1843,1775 1843,1715"
+                },
+                "text": "Response"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1870,1715 1870,1775 2035,1775 2035,1715"
+                },
+                "text": "latencies"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "2056,1715 2056,1775 2091,1775 2091,1715"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_12_w15",
+                "coords": {
+                  "points": "2108,1716 2108,1776 2185,1776 2185,1716"
+                },
+                "text": "long"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "225,1901 963,1931 1173,1896 1269,1945 1442,1886 1605,1931 1701,1886 1842,1931 2138,1889 2138,1822 1382,1802 1289,1839 1148,1775 980,1842 815,1805 225,1819"
+            },
+            "baseline": {
+              "points": "238,1871 333,1871 428,1871 523,1871 619,1871 714,1871 809,1871 904,1871 1000,1874 1095,1871 1190,1871 1285,1874 1381,1872 1476,1874 1571,1874 1666,1874 1762,1874 1857,1874 1952,1873 2047,1874 2143,1871"
+            },
+            "text": "as 30 seconds in duration have been observed for B2 receptor activation in neuroblastoma cells",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "229,1831 229,1891 263,1891 263,1831"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "283,1831 283,1891 322,1891 322,1831"
+                },
+                "text": "30"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "348,1831 348,1891 500,1891 500,1831"
+                },
+                "text": "seconds"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "525,1831 525,1891 544,1891 544,1831"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "574,1831 574,1891 726,1891 726,1831"
+                },
+                "text": "duration"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "757,1831 757,1891 835,1891 835,1831"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "860,1831 860,1891 943,1891 943,1831"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "968,1832 968,1892 1135,1892 1135,1832"
+                },
+                "text": "observed"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1166,1831 1166,1891 1215,1891 1215,1831"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1235,1833 1235,1893 1279,1893 1279,1833"
+                },
+                "text": "B2"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1299,1832 1299,1892 1461,1892 1461,1832"
+                },
+                "text": "receptor"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1482,1834 1482,1894 1663,1894 1663,1834"
+                },
+                "text": "activation"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1694,1834 1694,1894 1713,1894 1713,1834"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "1738,1833 1738,1893 2028,1893 2028,1833"
+                },
+                "text": "neuroblastoma"
+              },
+              {
+                "id": "tr_1_tl_13_w15",
+                "coords": {
+                  "points": "2053,1832 2053,1892 2131,1892 2131,1832"
+                },
+                "text": "cells"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "230,2017 397,2005 509,2049 662,2019 775,2076 1121,2002 1313,2052 1563,2014 1728,2059 1847,2002 1911,2042 2086,2034 2086,1926 1321,1958 1170,1896 879,1958 617,1918 551,1953 230,1936"
+            },
+            "baseline": {
+              "points": "244,1997 336,1994 428,1994 521,1994 613,1991 706,1994 798,1994 890,1994 983,1994 1075,1994 1168,1994 1260,1994 1352,1994 1445,1992 1537,1994 1630,1993 1722,1994 1814,1994 1907,1994 1999,1991 2092,1991"
+            },
+            "text": "[Coggan et al., 1995]. The existence of such an appreciable delay between surface receptor",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "241,1954 241,2014 398,2014 398,1954"
+                },
+                "text": "[Coggan"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "420,1954 420,2014 457,2014 457,1954"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "474,1954 474,2014 533,2014 533,1954"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "555,1951 555,2011 679,2011 679,1951"
+                },
+                "text": "1995]."
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "707,1954 707,2014 777,2014 777,1954"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "799,1954 799,2014 972,2014 972,1954"
+                },
+                "text": "existence"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1000,1954 1000,2014 1037,2014 1037,1954"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1054,1954 1054,2014 1129,2014 1129,1954"
+                },
+                "text": "such"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1157,1954 1157,2014 1189,2014 1189,1954"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1217,1954 1217,2014 1433,2014 1433,1954"
+                },
+                "text": "appreciable"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1460,1953 1460,2013 1553,2013 1553,1953"
+                },
+                "text": "delay"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1575,1953 1575,2013 1731,2013 1731,1953"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1759,1954 1759,2014 1888,2014 1888,1954"
+                },
+                "text": "surface"
+              },
+              {
+                "id": "tr_1_tl_14_w14",
+                "coords": {
+                  "points": "1916,1951 1916,2011 2078,2011 2078,1951"
+                },
+                "text": "receptor"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "235,2150 1128,2138 1212,2170 1432,2128 1642,2187 1716,2148 2089,2150 2089,2071 2010,2052 235,2054"
+            },
+            "baseline": {
+              "points": "247,2110 339,2110 431,2110 524,2110 616,2111 709,2113 801,2113 893,2113 986,2113 1078,2113 1171,2113 1263,2113 1355,2113 1448,2113 1540,2113 1633,2113 1725,2113 1817,2113 1910,2113 2002,2113 2095,2113"
+            },
+            "text": "binding and cellular response has important consequences for the synaptic activation of cells",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "240,2070 240,2130 375,2130 375,2070"
+                },
+                "text": "binding"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "405,2070 405,2130 460,2130 460,2070"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "486,2070 486,2130 627,2130 627,2070"
+                },
+                "text": "cellular"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "647,2073 647,2133 813,2133 813,2073"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "834,2073 834,2133 894,2133 894,2073"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "914,2073 914,2133 1105,2133 1105,2073"
+                },
+                "text": "important"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1126,2073 1126,2133 1387,2133 1387,2073"
+                },
+                "text": "consequences"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1413,2073 1413,2133 1463,2133 1463,2073"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1483,2073 1483,2133 1533,2133 1533,2073"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1559,2073 1559,2133 1710,2133 1710,2073"
+                },
+                "text": "synaptic"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1735,2073 1735,2133 1916,2133 1916,2073"
+                },
+                "text": "activation"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1947,2073 1947,2133 1982,2133 1982,2073"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "2002,2073 2002,2133 2077,2133 2077,2073"
+                },
+                "text": "cells"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "225,2242 405,2293 1175,2284 1234,2249 1706,2286 2175,2237 2128,2170 1301,2197 743,2155 637,2195 447,2150 225,2192"
+            },
+            "baseline": {
+              "points": "238,2227 335,2230 432,2230 529,2230 626,2230 724,2230 821,2233 918,2230 1015,2230 1112,2230 1210,2230 1307,2230 1404,2230 1501,2230 1598,2230 1696,2230 1793,2230 1890,2230 1987,2230 2084,2228 2182,2230"
+            },
+            "text": "Described here is an investigation of possible origins of the latency of responses mediated by the",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "230,2189 230,2249 417,2249 417,2189"
+                },
+                "text": "Described"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "443,2190 443,2250 521,2250 521,2190"
+                },
+                "text": "here"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "543,2190 543,2250 568,2250 568,2190"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "590,2190 590,2250 625,2250 625,2190"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "652,2191 652,2251 896,2251 896,2191"
+                },
+                "text": "investigation"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "923,2190 923,2250 959,2250 959,2190"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "980,2190 980,2250 1131,2250 1131,2190"
+                },
+                "text": "possible"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1152,2190 1152,2250 1282,2250 1282,2190"
+                },
+                "text": "origins"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1303,2190 1303,2250 1345,2250 1345,2190"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1361,2190 1361,2250 1407,2250 1407,2190"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1434,2190 1434,2250 1563,2250 1563,2190"
+                },
+                "text": "latency"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1595,2190 1595,2250 1631,2250 1631,2190"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1648,2190 1648,2250 1834,2250 1834,2190"
+                },
+                "text": "responses"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "1856,2190 1856,2250 2027,2250 2027,2190"
+                },
+                "text": "mediated"
+              },
+              {
+                "id": "tr_1_tl_16_w15",
+                "coords": {
+                  "points": "2054,2188 2054,2248 2090,2248 2090,2188"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_16_w16",
+                "coords": {
+                  "points": "2116,2189 2116,2249 2168,2249 2168,2189"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "235,2387 321,2355 476,2405 741,2402 847,2358 1121,2355 1259,2405 1513,2380 1610,2422 1797,2360 1903,2402 2059,2370 2059,2306 1881,2256 1684,2308 1449,2311 1353,2264 1249,2311 1005,2276 889,2313 827,2274 657,2316 235,2291"
+            },
+            "baseline": {
+              "points": "247,2352 337,2346 428,2346 519,2346 610,2346 700,2346 791,2349 882,2346 973,2346 1063,2344 1154,2346 1245,2346 1336,2348 1426,2346 1517,2349 1608,2349 1699,2346 1789,2349 1880,2349 1971,2346 2062,2349"
+            },
+            "text": "phosphoinositide signaling pathway in NIE-115 mouse neuroblastoma cells, a sympathetic",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "240,2306 240,2366 568,2366 568,2306"
+                },
+                "text": "phosphoinositide"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "595,2306 595,2366 759,2366 759,2306"
+                },
+                "text": "signaling"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "786,2306 786,2366 944,2366 944,2306"
+                },
+                "text": "pathway"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "971,2305 971,2365 992,2365 992,2305"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "1019,2304 1019,2364 1193,2364 1193,2304"
+                },
+                "text": "NIE-115"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1215,2306 1215,2366 1336,2366 1336,2306"
+                },
+                "text": "mouse"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1358,2308 1358,2368 1644,2368 1644,2308"
+                },
+                "text": "neuroblastoma"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1671,2306 1671,2366 1766,2366 1766,2306"
+                },
+                "text": "cells,"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1782,2309 1782,2369 1798,2369 1798,2309"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1819,2307 1819,2367 2046,2367 2046,2307"
+                },
+                "text": "sympathetic"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "225,2526 314,2476 405,2518 1331,2493 1466,2550 1570,2476 1854,2533 1963,2493 2148,2521 2148,2412 1958,2395 1400,2437 1168,2397 985,2437 565,2395 225,2422"
+            },
+            "baseline": {
+              "points": "238,2462 333,2465 429,2465 525,2465 620,2465 716,2465 812,2466 907,2465 1003,2465 1099,2465 1195,2465 1290,2465 1386,2468 1482,2468 1577,2465 1673,2465 1769,2467 1864,2468 1960,2468 2056,2469 2152,2477"
+            },
+            "text": "neuronal cell line which express a number of G-protein coupled receptors including B2, Hj, Mi,",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "232,2424 232,2484 406,2484 406,2424"
+                },
+                "text": "neuronal"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "424,2425 424,2485 487,2485 487,2425"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "505,2425 505,2485 563,2485 563,2425"
+                },
+                "text": "line"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "587,2425 587,2485 696,2485 696,2425"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "720,2425 720,2485 865,2485 865,2425"
+                },
+                "text": "express"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "883,2425 883,2485 894,2485 894,2425"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "918,2425 918,2485 1063,2485 1063,2425"
+                },
+                "text": "number"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1087,2425 1087,2485 1121,2485 1121,2425"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1139,2425 1139,2485 1324,2485 1324,2425"
+                },
+                "text": "G-protein"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1348,2428 1348,2488 1493,2488 1493,2428"
+                },
+                "text": "coupled"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1523,2425 1523,2485 1702,2485 1702,2425"
+                },
+                "text": "receptors"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1721,2427 1721,2487 1894,2487 1894,2427"
+                },
+                "text": "including"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1924,2428 1924,2488 1982,2488 1982,2428"
+                },
+                "text": "B2,"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "1994,2428 1994,2488 2057,2488 2057,2428"
+                },
+                "text": "Hj,"
+              },
+              {
+                "id": "tr_1_tl_18_w15",
+                "coords": {
+                  "points": "2075,2433 2075,2493 2144,2493 2144,2433"
+                },
+                "text": "Mi,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "222,2605 328,2600 434,2659 462,2654 509,2607 602,2609 602,2528 578,2535 546,2518 467,2555 360,2533 306,2538 289,2555 264,2540 222,2555"
+            },
+            "baseline": {
+              "points": "235,2585 261,2585 288,2585 315,2585 341,2585 368,2585 395,2585 422,2585 448,2585 475,2585 502,2585 528,2585 555,2585 582,2585 609,2585"
+            },
+            "text": "and Ma receptors.",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "227,2545 227,2605 291,2605 291,2545"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "318,2545 318,2605 376,2605 376,2545"
+                },
+                "text": "Ma"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "392,2545 392,2605 605,2605 605,2545"
+                },
+                "text": "receptors."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "375,2716 652,2721 741,2767 1187,2713 1422,2758 1894,2726 2207,2755 2207,2632 2118,2619 1931,2669 1642,2619 1484,2666 1224,2622 1155,2659 955,2619 842,2669 741,2627 375,2651"
+            },
+            "baseline": {
+              "points": "388,2701 479,2704 570,2701 661,2704 752,2704 844,2702 935,2703 1026,2702 1117,2704 1208,2704 1300,2703 1391,2704 1482,2704 1573,2704 1664,2704 1756,2704 1847,2704 1938,2704 2029,2704 2120,2704 2212,2704"
+            },
+            "text": "It has been suggested that the limiting factors determining response latency at high agonist",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "380,2661 380,2721 406,2721 406,2661"
+                },
+                "text": "It"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "423,2663 423,2723 481,2723 481,2663"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "503,2661 503,2721 587,2721 587,2661"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "614,2664 614,2724 800,2724 800,2664"
+                },
+                "text": "suggested"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "827,2662 827,2722 901,2722 901,2662"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "917,2662 917,2722 965,2722 965,2662"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "992,2662 992,2722 1130,2722 1130,2662"
+                },
+                "text": "limiting"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1157,2663 1157,2723 1284,2723 1284,2663"
+                },
+                "text": "factors"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1306,2664 1306,2724 1534,2724 1534,2664"
+                },
+                "text": "determining"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1561,2664 1561,2724 1726,2724 1726,2664"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1748,2664 1748,2724 1880,2724 1880,2664"
+                },
+                "text": "latency"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1908,2664 1908,2724 1939,2724 1939,2664"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1956,2664 1956,2724 2035,2724 2035,2664"
+                },
+                "text": "high"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "2057,2664 2057,2724 2199,2724 2199,2664"
+                },
+                "text": "agonist"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "225,2856 965,2832 1212,2869 1276,2832 1348,2871 1622,2869 1703,2832 1891,2884 2069,2866 2069,2785 1936,2748 1602,2790 1402,2753 913,2753 871,2792 225,2753"
+            },
+            "baseline": {
+              "points": "238,2818 329,2821 421,2821 513,2821 605,2821 697,2821 788,2821 880,2821 972,2821 1064,2821 1156,2821 1247,2821 1339,2821 1431,2821 1523,2823 1615,2822 1706,2821 1798,2821 1890,2821 1982,2821 2074,2821"
+            },
+            "text": "concentrations arise from stages in the phosphoinositide signaling cascade located between",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "230,2781 230,2841 518,2841 518,2781"
+                },
+                "text": "concentrations"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "540,2781 540,2841 620,2841 620,2781"
+                },
+                "text": "arise"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "646,2781 646,2841 716,2841 716,2781"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "757,2781 757,2841 874,2841 874,2781"
+                },
+                "text": "stages"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "895,2781 895,2841 920,2841 920,2781"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "946,2781 946,2841 996,2841 996,2781"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1022,2781 1022,2841 1351,2841 1351,2781"
+                },
+                "text": "phosphoinositide"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1377,2781 1377,2841 1539,2841 1539,2781"
+                },
+                "text": "signaling"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1570,2781 1570,2841 1712,2841 1712,2781"
+                },
+                "text": "cascade"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1738,2781 1738,2841 1874,2841 1874,2781"
+                },
+                "text": "located"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1900,2781 1900,2841 2052,2841 2052,2781"
+                },
+                "text": "between"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "217,2987 427,2955 560,3002 639,2950 896,3009 983,2960 1066,3012 1183,2972 1289,3012 1713,2958 1926,3002 2047,2960 2158,3004 2140,2884 827,2903 657,2861 592,2901 217,2908"
+            },
+            "baseline": {
+              "points": "232,2940 328,2940 425,2942 521,2941 618,2940 715,2940 811,2940 908,2940 1004,2940 1101,2940 1198,2940 1294,2940 1391,2940 1487,2940 1584,2943 1681,2940 1777,2940 1874,2940 1970,2940 2067,2940 2164,2946"
+            },
+            "text": "receptor binding and IPz liberation. It was further suggested that at low agonist concentrations,",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "222,2900 222,2960 382,2960 382,2900"
+                },
+                "text": "receptor"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "404,2901 404,2961 541,2961 541,2901"
+                },
+                "text": "binding"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "569,2900 569,2960 627,2960 627,2900"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "654,2900 654,2960 712,2960 712,2900"
+                },
+                "text": "IPz"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "728,2900 728,2960 930,2960 930,2900"
+                },
+                "text": "liberation."
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "957,2900 957,2960 989,2960 989,2900"
+                },
+                "text": "It"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1005,2900 1005,2960 1074,2960 1074,2900"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1096,2900 1096,2960 1229,2960 1229,2900"
+                },
+                "text": "further"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1246,2900 1246,2960 1431,2960 1431,2900"
+                },
+                "text": "suggested"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1459,2900 1459,2960 1532,2960 1532,2900"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1549,2902 1549,2962 1586,2962 1586,2902"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1602,2901 1602,2961 1655,2961 1655,2901"
+                },
+                "text": "low"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "1693,2900 1693,2960 1831,2960 1831,2900"
+                },
+                "text": "agonist"
+              },
+              {
+                "id": "tr_1_tl_22_w14",
+                "coords": {
+                  "points": "1847,2900 1847,2960 2156,2960 2156,2900"
+                },
+                "text": "concentrations,"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

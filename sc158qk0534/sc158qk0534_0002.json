@@ -1,0 +1,2226 @@
+{
+  "processId": 10376242,
+  "status": "FINISHED",
+  "content": {
+    "text": "Introduction\nPrevious research in neuroscience has concentrated on studying the nervous\nsystem at the single cell level. However, the question remains, how do these single\nneurons and their intricate synaptic connections network together to allow complex\nintegrative functions of the nervous system? Several advances in this search have come\nfrom researching sensory system integration.\nIn the visual system, integration of the attributes of an object, such as color, size and\ndepth, allows us to perceive the object as a unified whole. Amazingly, each of the\ndifferent aspects of an object is processed in different regions of the brain. Perceiving a\nsingle object despite localized analysis of its features is referred to as the binding\nproblem. One proposed solution to the binding problem is synchronization.\nSynchronization is defined as the locking or entrainment of the phases of a neural\npopulation with other geographically isolated neural populations (Varela et al., 2001). In\nthe olfactory system of insects, it has been shown that disruption of synchronization\ndeteriorates odor discrimination (Stopfer et al., 1997), thus proving synchronization is\nnecessary for recognition of odor. Synchronization has not yet been proven necessary in\nother sensory systems. However, a relatively new technique, in vivo two-photon calcium\nimaging, has allowed scientists to witness synchronization in other sensory systems first\nhand via real-time monitoring of neural networks (Konnerth, 2003).\nThe advantage of Ca\u201c imaging is that it allows for the real-time analyses of both\nindividual cells and neural networks at the same time. Calcium imaging makes use of the\nfact that in living cells, calcium influx is often associated with depolarization due to\naction potentials. Hence, one can observe neuron activity through calcium flow. This",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "364,285 364,2899 2200,2899 2200,285"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "354,361 380,368 402,357 434,377 476,366 519,380 544,366 578,377 613,352 661,361 658,279 633,279 604,302 569,286 524,297 444,290 423,270 352,270"
+            },
+            "baseline": {
+              "points": "364,340 391,340 418,340 445,340 472,340 499,340 526,342 553,342 580,341 607,340 634,340 662,343"
+            },
+            "text": "Introduction",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "358,300 358,360 636,360 636,300"
+                },
+                "text": "Introduction"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "501,482 2186,466 2186,391 2140,386 1646,425 503,386"
+            },
+            "baseline": {
+              "points": "516,453 599,453 683,453 767,453 851,453 935,453 1018,453 1102,453 1186,453 1270,453 1354,453 1437,450 1521,453 1605,453 1689,451 1773,450 1856,451 1940,450 2024,450 2108,450 2192,450"
+            },
+            "text": "Previous research in neuroscience has concentrated on studying the nervous",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "505,413 505,473 673,473 673,413"
+                },
+                "text": "Previous"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "707,413 707,473 867,473 867,413"
+                },
+                "text": "research"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "905,413 905,473 932,473 932,413"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "971,413 971,473 1229,473 1229,413"
+                },
+                "text": "neuroscience"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1267,413 1267,473 1328,473 1328,413"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1362,411 1362,471 1615,471 1615,411"
+                },
+                "text": "concentrated"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1654,411 1654,471 1691,471 1691,411"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1729,410 1729,470 1898,470 1898,410"
+                },
+                "text": "studying"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1936,410 1936,470 1988,470 1988,410"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "2026,410 2026,470 2180,470 2180,410"
+                },
+                "text": "nervous"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "352,594 732,620 953,581 1015,624 1260,572 2183,581 2183,514 352,519"
+            },
+            "baseline": {
+              "points": "364,570 455,570 546,570 637,570 729,570 820,568 911,569 1002,569 1094,567 1185,568 1276,570 1367,567 1459,570 1550,568 1641,567 1732,568 1824,567 1915,567 2006,567 2097,567 2189,570"
+            },
+            "text": "system at the single cell level. However, the question remains, how do these single",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "351,530 351,590 459,590 459,530"
+                },
+                "text": "system"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "514,530 514,590 548,590 548,530"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "568,530 568,590 622,590 622,530"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "657,530 657,590 770,590 770,530"
+                },
+                "text": "single"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "805,528 805,588 879,588 879,528"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "904,529 904,589 1012,589 1012,529"
+                },
+                "text": "level."
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1037,527 1037,587 1234,587 1234,527"
+                },
+                "text": "However,"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1259,529 1259,589 1313,589 1313,529"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1343,528 1343,588 1506,588 1506,528"
+                },
+                "text": "question"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1541,527 1541,587 1713,587 1713,527"
+                },
+                "text": "remains,"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1738,527 1738,587 1807,587 1807,527"
+                },
+                "text": "how"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1852,527 1852,587 1890,587 1890,527"
+                },
+                "text": "do"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1926,527 1926,587 2019,587 2019,527"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "2054,527 2054,587 2167,587 2167,527"
+                },
+                "text": "single"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "354,713 537,745 690,695 949,729 1214,693 1310,743 1411,693 1712,732 2181,693 2181,633 2115,622 354,629"
+            },
+            "baseline": {
+              "points": "367,686 462,683 558,683 654,683 749,683 845,683 941,683 1037,685 1132,683 1228,683 1324,683 1420,683 1515,683 1611,683 1707,683 1803,683 1898,683 1994,683 2090,683 2186,683"
+            },
+            "text": "neurons and their intricate synaptic connections network together to allow complex",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "353,644 353,704 505,704 505,644"
+                },
+                "text": "neurons"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "540,643 540,703 603,703 603,643"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "638,643 638,703 726,703 726,643"
+                },
+                "text": "their"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "761,643 761,703 913,703 913,643"
+                },
+                "text": "intricate"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "953,644 953,704 1109,704 1109,644"
+                },
+                "text": "synaptic"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1144,643 1144,703 1379,703 1379,643"
+                },
+                "text": "connections"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1414,643 1414,703 1566,703 1566,643"
+                },
+                "text": "network"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1606,643 1606,703 1767,703 1767,643"
+                },
+                "text": "together"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1798,643 1798,703 1826,703 1826,643"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1861,643 1861,703 1954,703 1954,643"
+                },
+                "text": "allow"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "2004,643 2004,703 2165,703 2165,643"
+                },
+                "text": "complex"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "354,812 448,850 855,805 967,857 1118,818 1303,869 1417,809 1527,853 1728,807 2193,816 2193,732 354,757"
+            },
+            "baseline": {
+              "points": "367,800 458,800 549,800 641,800 732,800 824,800 915,800 1006,800 1098,800 1189,800 1281,800 1372,798 1463,797 1555,797 1646,797 1738,797 1829,797 1920,797 2012,797 2103,797 2195,800"
+            },
+            "text": "integrative functions of the nervous system? Several advances in this search have come",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "358,760 358,820 559,820 559,760"
+                },
+                "text": "integrative"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "589,760 589,820 771,820 771,760"
+                },
+                "text": "functions"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "796,760 796,820 834,820 834,760"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "859,760 859,820 906,820 906,760"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "936,760 936,820 1089,820 1089,760"
+                },
+                "text": "nervous"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1114,760 1114,820 1272,820 1272,760"
+                },
+                "text": "system?"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1297,758 1297,818 1446,818 1446,758"
+                },
+                "text": "Several"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1465,757 1465,817 1643,817 1643,757"
+                },
+                "text": "advances"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1672,757 1672,817 1696,817 1696,757"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1725,757 1725,817 1792,817 1792,757"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1817,757 1817,817 1932,817 1932,757"
+                },
+                "text": "search"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1966,757 1966,817 2047,817 2047,757"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "2082,757 2082,817 2177,817 2177,757"
+                },
+                "text": "come"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "354,956 428,942 480,981 672,935 725,969 796,931 1278,926 1278,878 1200,862 354,862"
+            },
+            "baseline": {
+              "points": "367,913 412,913 458,916 504,913 549,913 595,916 641,916 686,916 732,916 778,916 824,915 869,913 915,914 961,915 1006,913 1052,914 1098,916 1143,916 1189,915 1235,914 1281,913"
+            },
+            "text": "from researching sensory system integration.",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "358,873 358,933 426,933 426,873"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "470,875 470,935 693,935 693,875"
+                },
+                "text": "researching"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "718,875 718,935 863,935 863,875"
+                },
+                "text": "sensory"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "888,874 888,934 1004,934 1004,874"
+                },
+                "text": "system"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1044,875 1044,935 1277,935 1277,875"
+                },
+                "text": "integration."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "375,1070 1413,1040 1623,1084 1804,1033 2193,1040 2193,965 375,979"
+            },
+            "baseline": {
+              "points": "388,1030 478,1029 569,1030 659,1030 750,1030 840,1030 931,1030 1021,1030 1112,1030 1202,1030 1293,1030 1383,1030 1474,1027 1564,1027 1655,1030 1745,1027 1836,1027 1926,1027 2017,1027 2107,1027 2198,1027"
+            },
+            "text": "In the visual system, integration of the attributes of an object, such as color, size and",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "375,989 375,1049 404,1049 404,989"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "435,989 435,1049 485,1049 485,989"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "516,990 516,1050 638,1050 638,990"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "659,990 659,1050 810,1050 810,990"
+                },
+                "text": "system,"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "831,990 831,1050 1039,1050 1039,990"
+                },
+                "text": "integration"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1070,990 1070,1050 1110,1050 1110,990"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1131,990 1131,1050 1181,1050 1181,990"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1212,990 1212,1050 1394,1050 1394,990"
+                },
+                "text": "attributes"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1421,988 1421,1048 1460,1048 1460,988"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1481,987 1481,1047 1516,1047 1516,987"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1547,988 1547,1048 1684,1048 1684,988"
+                },
+                "text": "object,"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1705,987 1705,1047 1785,1047 1785,987"
+                },
+                "text": "such"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1816,987 1816,1047 1851,1047 1851,987"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_7_w14",
+                "coords": {
+                  "points": "1877,987 1877,1047 1994,1047 1994,987"
+                },
+                "text": "color,"
+              },
+              {
+                "id": "tr_1_tl_7_w15",
+                "coords": {
+                  "points": "2014,987 2014,1047 2085,1047 2085,987"
+                },
+                "text": "size"
+              },
+              {
+                "id": "tr_1_tl_7_w16",
+                "coords": {
+                  "points": "2116,987 2116,1047 2176,1047 2176,987"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "375,1157 494,1189 951,1155 1070,1193 1504,1155 1584,1203 1706,1152 1760,1187 2186,1161 2186,1102 1994,1081 375,1095"
+            },
+            "baseline": {
+              "points": "388,1146 478,1147 568,1146 658,1143 748,1145 839,1146 929,1146 1019,1144 1109,1146 1199,1146 1290,1146 1380,1143 1470,1143 1560,1143 1650,1143 1741,1143 1831,1143 1921,1143 2011,1143 2101,1143 2192,1143"
+            },
+            "text": "depth, allows us to perceive the object as a unified whole. Amazingly, each of the",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "380,1106 380,1166 504,1166 504,1106"
+                },
+                "text": "depth,"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "530,1105 530,1165 654,1165 654,1105"
+                },
+                "text": "allows"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "681,1103 681,1163 722,1163 722,1103"
+                },
+                "text": "us"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "748,1105 748,1165 779,1165 779,1105"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "810,1106 810,1166 976,1166 976,1106"
+                },
+                "text": "perceive"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1008,1104 1008,1164 1059,1164 1059,1104"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1090,1106 1090,1166 1214,1166 1214,1106"
+                },
+                "text": "object"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1241,1106 1241,1166 1276,1166 1276,1106"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1303,1105 1303,1165 1318,1165 1318,1105"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1350,1103 1350,1163 1484,1163 1484,1103"
+                },
+                "text": "unified"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1516,1103 1516,1163 1655,1163 1655,1103"
+                },
+                "text": "whole."
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1677,1103 1677,1163 1915,1163 1915,1103"
+                },
+                "text": "Amazingly,"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1941,1103 1941,1163 2018,1163 2018,1103"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "2055,1103 2055,1163 2096,1163 2096,1103"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "2122,1103 2122,1163 2174,1163 2174,1103"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "382,1301 2186,1287 2186,1219 2051,1193 734,1230 382,1198"
+            },
+            "baseline": {
+              "points": "394,1260 483,1260 573,1260 663,1260 753,1260 843,1260 933,1260 1023,1263 1113,1260 1203,1260 1293,1260 1382,1260 1472,1260 1562,1260 1652,1257 1742,1257 1832,1257 1922,1257 2012,1257 2102,1257 2192,1257"
+            },
+            "text": "different aspects of an object is processed in different regions of the brain. Perceiving a",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "387,1220 387,1280 556,1280 556,1220"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "578,1220 578,1280 711,1280 711,1220"
+                },
+                "text": "aspects"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "737,1220 737,1280 773,1280 773,1220"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "794,1220 794,1280 824,1280 824,1220"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "851,1220 851,1280 973,1280 973,1220"
+                },
+                "text": "object"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "990,1222 990,1282 1015,1282 1015,1222"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1036,1220 1036,1280 1221,1280 1221,1220"
+                },
+                "text": "processed"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1252,1220 1252,1280 1272,1280 1272,1220"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1299,1220 1299,1280 1473,1280 1473,1220"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1489,1220 1489,1280 1628,1280 1628,1220"
+                },
+                "text": "regions"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1654,1217 1654,1277 1689,1277 1689,1217"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1706,1217 1706,1277 1756,1277 1756,1217"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1783,1217 1783,1277 1895,1277 1895,1217"
+                },
+                "text": "brain."
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1927,1217 1927,1277 2132,1277 2132,1217"
+                },
+                "text": "Perceiving"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "2159,1217 2159,1277 2168,1277 2168,1217"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "375,1385 615,1429 1045,1381 1127,1417 1182,1385 1612,1420 1790,1381 2193,1395 2193,1333 2138,1310 1063,1344 873,1308 375,1356"
+            },
+            "baseline": {
+              "points": "388,1376 478,1376 569,1376 659,1376 750,1376 840,1376 931,1376 1021,1376 1112,1373 1202,1373 1293,1373 1383,1375 1474,1373 1564,1373 1655,1373 1745,1372 1836,1372 1926,1370 2017,1370 2107,1370 2198,1376"
+            },
+            "text": "single object despite localized analysis of its features is referred to as the binding",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "375,1336 375,1396 484,1396 484,1336"
+                },
+                "text": "single"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "521,1336 521,1396 640,1396 640,1336"
+                },
+                "text": "object"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "667,1336 667,1396 802,1396 802,1336"
+                },
+                "text": "despite"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "839,1336 839,1396 1011,1396 1011,1336"
+                },
+                "text": "localized"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1048,1333 1048,1393 1204,1393 1204,1333"
+                },
+                "text": "analysis"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1236,1333 1236,1393 1277,1393 1277,1333"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1304,1333 1304,1393 1345,1393 1345,1333"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1377,1333 1377,1393 1533,1393 1533,1333"
+                },
+                "text": "features"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1565,1333 1565,1393 1591,1393 1591,1333"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1623,1332 1623,1392 1773,1392 1773,1332"
+                },
+                "text": "referred"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1811,1332 1811,1392 1841,1392 1841,1332"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1878,1330 1878,1390 1914,1390 1914,1330"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1946,1330 1946,1390 1998,1390 1998,1330"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "2035,1330 2035,1390 2175,1390 2175,1330"
+                },
+                "text": "binding"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "375,1523 1911,1500 1882,1440 1674,1424 375,1438"
+            },
+            "baseline": {
+              "points": "388,1502 464,1493 540,1491 617,1493 693,1491 770,1493 846,1490 923,1490 999,1490 1076,1490 1152,1490 1228,1490 1305,1490 1381,1490 1458,1490 1534,1489 1611,1487 1687,1487 1764,1487 1840,1487 1917,1490"
+            },
+            "text": "problem. One proposed solution to the binding problem is synchronization.",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "376,1452 376,1512 557,1512 557,1452"
+                },
+                "text": "problem."
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "575,1452 575,1512 643,1512 643,1452"
+                },
+                "text": "One"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "672,1452 672,1512 842,1512 842,1452"
+                },
+                "text": "proposed"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "871,1450 871,1510 1019,1510 1019,1450"
+                },
+                "text": "solution"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1048,1450 1048,1510 1070,1510 1070,1450"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1099,1450 1099,1510 1150,1510 1150,1450"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1173,1450 1173,1510 1315,1510 1315,1450"
+                },
+                "text": "binding"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1344,1450 1344,1510 1481,1510 1481,1450"
+                },
+                "text": "problem"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1521,1448 1521,1508 1549,1508 1549,1448"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1573,1447 1573,1507 1908,1507 1908,1447"
+                },
+                "text": "synchronization."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "473,1623 1509,1651 2190,1612 2172,1546 1770,1568 1703,1525 1349,1578 1239,1536 1097,1571 473,1557"
+            },
+            "baseline": {
+              "points": "486,1609 571,1606 656,1606 742,1606 827,1606 913,1606 998,1606 1084,1606 1169,1606 1255,1606 1340,1606 1425,1606 1511,1603 1596,1603 1682,1603 1767,1603 1853,1603 1938,1603 2024,1603 2109,1603 2195,1603"
+            },
+            "text": "Synchronization is defined as the locking or entrainment of the phases of a neural",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "473,1566 473,1626 787,1626 787,1566"
+                },
+                "text": "Synchronization"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "819,1566 819,1626 845,1626 845,1566"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "867,1566 867,1626 1011,1626 1011,1566"
+                },
+                "text": "defined"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "1038,1566 1038,1626 1074,1626 1074,1566"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1096,1566 1096,1626 1149,1626 1149,1566"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1176,1566 1176,1626 1319,1626 1319,1566"
+                },
+                "text": "locking"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1347,1566 1347,1626 1383,1626 1383,1566"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1405,1563 1405,1623 1650,1623 1650,1563"
+                },
+                "text": "entrainment"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1666,1563 1666,1623 1703,1623 1703,1563"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1725,1563 1725,1623 1778,1623 1778,1563"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1805,1563 1805,1623 1932,1623 1932,1563"
+                },
+                "text": "phases"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1960,1563 1960,1623 1996,1623 1996,1563"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "2018,1563 2018,1623 2033,1623 2033,1563"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "2055,1563 2055,1623 2182,1623 2182,1563"
+                },
+                "text": "neural"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "364,1744 862,1733 1001,1781 1123,1738 2190,1747 2190,1667 2023,1653 364,1680"
+            },
+            "baseline": {
+              "points": "376,1729 471,1723 567,1723 663,1720 758,1723 854,1723 950,1723 1046,1722 1141,1722 1237,1723 1333,1720 1429,1720 1524,1720 1620,1720 1716,1720 1812,1717 1907,1717 2003,1720 2099,1717 2195,1717"
+            },
+            "text": "population with other geographically isolated neural populations (Varela et al., 2001). In",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "366,1683 366,1743 568,1743 568,1683"
+                },
+                "text": "population"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "599,1680 599,1740 672,1740 672,1680"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "698,1682 698,1742 802,1742 802,1682"
+                },
+                "text": "other"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "821,1682 821,1742 1109,1742 1109,1682"
+                },
+                "text": "geographically"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "1134,1682 1134,1742 1276,1742 1276,1682"
+                },
+                "text": "isolated"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1307,1680 1307,1740 1429,1740 1429,1680"
+                },
+                "text": "neural"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1449,1680 1449,1740 1675,1740 1675,1680"
+                },
+                "text": "populations"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1701,1678 1701,1738 1841,1738 1841,1678"
+                },
+                "text": "(Varela"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1867,1677 1867,1737 1897,1737 1897,1677"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1916,1678 1916,1738 1977,1738 1977,1678"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1990,1678 1990,1738 2124,1738 2124,1678"
+                },
+                "text": "2001)."
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "2137,1677 2137,1737 2167,1737 2167,1677"
+                },
+                "text": "In"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "364,1859 2190,1850 2163,1776 2037,1792 1998,1756 1888,1795 364,1795"
+            },
+            "baseline": {
+              "points": "376,1833 471,1836 567,1836 663,1833 758,1836 854,1836 950,1836 1046,1838 1141,1836 1237,1836 1333,1834 1429,1833 1524,1833 1620,1833 1716,1833 1812,1830 1907,1831 2003,1830 2099,1830 2195,1827"
+            },
+            "text": "the olfactory system of insects, it has been shown that disruption of synchronization",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "364,1793 364,1853 416,1853 416,1793"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "449,1796 449,1856 623,1856 623,1796"
+                },
+                "text": "olfactory"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "655,1794 655,1854 771,1854 771,1794"
+                },
+                "text": "system"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "819,1796 819,1856 860,1856 860,1796"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "882,1796 882,1856 1035,1856 1035,1796"
+                },
+                "text": "insects,"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1057,1797 1057,1857 1083,1857 1083,1797"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1104,1796 1104,1856 1167,1856 1167,1796"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1200,1795 1200,1855 1278,1855 1278,1795"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1316,1793 1316,1853 1437,1853 1437,1793"
+                },
+                "text": "shown"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1469,1793 1469,1853 1543,1853 1543,1793"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1570,1793 1570,1853 1765,1853 1765,1793"
+                },
+                "text": "disruption"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1797,1790 1797,1850 1839,1850 1839,1790"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1866,1790 1866,1850 2172,1850 2172,1790"
+                },
+                "text": "synchronization"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "364,1966 901,1994 1008,1959 1125,1996 1280,1959 1900,1987 2193,1955 2193,1893 364,1895"
+            },
+            "baseline": {
+              "points": "376,1950 467,1953 558,1950 649,1950 740,1950 831,1950 922,1950 1013,1950 1104,1950 1195,1950 1287,1950 1378,1948 1469,1948 1560,1950 1651,1948 1742,1947 1833,1947 1924,1947 2015,1947 2106,1944 2198,1944"
+            },
+            "text": "deteriorates odor discrimination (Stopfer et al., 1997), thus proving synchronization is",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "364,1912 364,1972 597,1972 597,1912"
+                },
+                "text": "deteriorates"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "624,1910 624,1970 710,1970 710,1910"
+                },
+                "text": "odor"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "738,1910 738,1970 1019,1970 1019,1910"
+                },
+                "text": "discrimination"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "1052,1910 1052,1970 1214,1970 1214,1910"
+                },
+                "text": "(Stopfer"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1237,1910 1237,1970 1269,1970 1269,1910"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1297,1909 1297,1969 1356,1969 1356,1909"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1378,1908 1378,1968 1508,1968 1508,1908"
+                },
+                "text": "1997),"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1530,1909 1530,1969 1605,1969 1605,1909"
+                },
+                "text": "thus"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1633,1907 1633,1967 1779,1967 1779,1907"
+                },
+                "text": "proving"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1812,1907 1812,1967 2125,1967 2125,1907"
+                },
+                "text": "synchronization"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "2158,1904 2158,1964 2185,1964 2185,1904"
+                },
+                "text": "is"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "361,2083 574,2117 889,2074 1075,2112 1500,2064 2190,2090 2190,2023 2135,2007 361,2016"
+            },
+            "baseline": {
+              "points": "373,2069 464,2064 555,2066 646,2066 737,2067 828,2066 919,2066 1010,2066 1101,2066 1192,2066 1284,2064 1375,2063 1466,2063 1557,2063 1648,2063 1739,2063 1830,2060 1921,2063 2012,2060 2103,2063 2195,2057"
+            },
+            "text": "necessary for recognition of odor. Synchronization has not yet been proven necessary in",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "362,2024 362,2084 548,2084 548,2024"
+                },
+                "text": "necessary"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "577,2026 577,2086 633,2086 633,2026"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "651,2026 651,2086 871,2086 871,2026"
+                },
+                "text": "recognition"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "900,2026 900,2086 934,2086 934,2026"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "957,2026 957,2086 1058,2086 1058,2026"
+                },
+                "text": "odor."
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1076,2025 1076,2085 1398,2085 1398,2025"
+                },
+                "text": "Synchronization"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1422,2023 1422,2083 1484,2083 1484,2023"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1507,2023 1507,2083 1569,2083 1569,2023"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1587,2023 1587,2083 1648,2083 1648,2023"
+                },
+                "text": "yet"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1666,2023 1666,2083 1750,2083 1750,2023"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1779,2020 1779,2080 1909,2080 1909,2020"
+                },
+                "text": "proven"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1933,2020 1933,2080 2119,2080 2119,2020"
+                },
+                "text": "necessary"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "2148,2019 2148,2079 2175,2079 2175,2019"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "364,2190 1091,2186 1241,2236 1349,2188 1726,2218 1829,2181 1904,2225 2190,2186 2190,2135 2115,2119 364,2131"
+            },
+            "baseline": {
+              "points": "376,2183 471,2183 567,2180 663,2181 758,2180 854,2180 950,2180 1046,2180 1141,2180 1237,2180 1333,2180 1429,2177 1524,2177 1620,2178 1716,2177 1812,2176 1907,2174 2003,2174 2099,2174 2195,2171"
+            },
+            "text": "other sensory systems. However, a relatively new technique, in vivo two-photon calcium",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "365,2143 365,2203 466,2203 466,2143"
+                },
+                "text": "other"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "483,2140 483,2200 624,2200 624,2140"
+                },
+                "text": "sensory"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "653,2140 653,2200 822,2200 822,2140"
+                },
+                "text": "systems."
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "840,2140 840,2200 1038,2200 1038,2140"
+                },
+                "text": "However,"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "1055,2140 1055,2200 1066,2200 1066,2140"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1089,2140 1089,2200 1269,2200 1269,2140"
+                },
+                "text": "relatively"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1299,2140 1299,2200 1361,2200 1361,2140"
+                },
+                "text": "new"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1395,2137 1395,2197 1604,2197 1604,2137"
+                },
+                "text": "technique,"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1622,2137 1622,2197 1649,2197 1649,2137"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1678,2137 1678,2197 1751,2197 1751,2137"
+                },
+                "text": "vivo"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1774,2134 1774,2194 1995,2194 1995,2134"
+                },
+                "text": "two-photon"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "2024,2134 2024,2194 2159,2194 2159,2134"
+                },
+                "text": "calcium"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "357,2332 2195,2298 2195,2250 2140,2234 357,2241"
+            },
+            "baseline": {
+              "points": "370,2296 461,2298 552,2296 644,2296 735,2296 827,2296 918,2295 1009,2294 1101,2293 1192,2293 1284,2294 1375,2293 1466,2293 1558,2293 1649,2291 1741,2290 1832,2290 1923,2290 2015,2290 2106,2290 2198,2287"
+            },
+            "text": "imaging, has allowed scientists to witness synchronization in other sensory systems first",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "358,2257 358,2317 536,2317 536,2257"
+                },
+                "text": "imaging,"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "553,2256 553,2316 614,2316 614,2256"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "637,2256 637,2316 787,2316 787,2256"
+                },
+                "text": "allowed"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "815,2255 815,2315 993,2315 993,2255"
+                },
+                "text": "scientists"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1016,2253 1016,2313 1043,2313 1043,2253"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1072,2253 1072,2313 1216,2313 1216,2253"
+                },
+                "text": "witness"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1245,2253 1245,2313 1557,2313 1557,2253"
+                },
+                "text": "synchronization"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1585,2252 1585,2312 1612,2312 1612,2252"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1641,2250 1641,2310 1741,2310 1741,2250"
+                },
+                "text": "other"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1764,2250 1764,2310 1903,2310 1903,2250"
+                },
+                "text": "sensory"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1931,2250 1931,2310 2087,2310 2087,2250"
+                },
+                "text": "systems"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "2110,2248 2110,2308 2187,2308 2187,2248"
+                },
+                "text": "first"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "352,2421 476,2467 526,2421 1143,2423 1205,2458 1744,2419 1699,2341 352,2362"
+            },
+            "baseline": {
+              "points": "364,2410 433,2413 502,2410 571,2413 641,2413 710,2413 779,2410 849,2410 918,2410 987,2410 1057,2410 1126,2410 1195,2410 1264,2410 1334,2410 1403,2409 1472,2407 1542,2409 1611,2407 1680,2407 1750,2410"
+            },
+            "text": "hand via real-time monitoring of neural networks (Konnerth, 2003).",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "357,2371 357,2431 440,2431 440,2371"
+                },
+                "text": "hand"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "472,2370 472,2430 518,2430 518,2370"
+                },
+                "text": "via"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "545,2373 545,2433 717,2433 717,2373"
+                },
+                "text": "real-time"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "744,2370 744,2430 958,2430 958,2370"
+                },
+                "text": "monitoring"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "985,2370 985,2430 1020,2430 1020,2370"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1037,2370 1037,2430 1161,2430 1161,2370"
+                },
+                "text": "neural"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1178,2370 1178,2430 1355,2430 1355,2370"
+                },
+                "text": "networks"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1377,2367 1377,2427 1601,2427 1601,2367"
+                },
+                "text": "(Konnerth,"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1617,2367 1617,2427 1742,2427 1742,2367"
+                },
+                "text": "2003)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "471,2563 2195,2529 2161,2458 1852,2490 471,2467"
+            },
+            "baseline": {
+              "points": "483,2526 568,2526 654,2526 740,2526 826,2525 912,2524 998,2526 1083,2526 1169,2526 1255,2523 1341,2523 1427,2523 1513,2523 1599,2523 1684,2523 1770,2523 1856,2522 1942,2520 2028,2520 2114,2517 2200,2517"
+            },
+            "text": "The advantage of Ca\u201c imaging is that it allows for the real-time analyses of both",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "472,2486 472,2546 541,2546 541,2486"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "571,2486 571,2546 763,2546 763,2486"
+                },
+                "text": "advantage"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "793,2485 793,2545 827,2545 827,2485"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "851,2484 851,2544 920,2544 920,2484"
+                },
+                "text": "Ca\u201c"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "961,2486 961,2546 1113,2546 1113,2486"
+                },
+                "text": "imaging"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1143,2486 1143,2546 1171,2546 1171,2486"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1195,2483 1195,2543 1270,2543 1270,2483"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1288,2483 1288,2543 1317,2543 1317,2483"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1335,2483 1335,2543 1462,2543 1462,2483"
+                },
+                "text": "allows"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1487,2483 1487,2543 1538,2543 1538,2483"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1562,2483 1562,2543 1614,2543 1614,2483"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1645,2483 1645,2543 1819,2543 1819,2483"
+                },
+                "text": "real-time"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1848,2480 1848,2540 2011,2540 2011,2480"
+                },
+                "text": "analyses"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "2035,2479 2035,2539 2075,2539 2075,2479"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w15",
+                "coords": {
+                  "points": "2093,2477 2093,2537 2168,2537 2168,2477"
+                },
+                "text": "both"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "361,2668 821,2698 999,2647 2190,2661 2190,2595 2090,2572 361,2590"
+            },
+            "baseline": {
+              "points": "373,2642 464,2639 555,2639 646,2639 737,2639 828,2639 919,2639 1010,2638 1101,2639 1192,2638 1284,2639 1375,2637 1466,2637 1557,2637 1648,2637 1739,2637 1830,2637 1921,2637 2012,2634 2103,2634 2195,2631"
+            },
+            "text": "individual cells and neural networks at the same time. Calcium imaging makes use of the",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "362,2599 362,2659 566,2659 566,2599"
+                },
+                "text": "individual"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "584,2599 584,2659 667,2659 667,2599"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "690,2599 690,2659 750,2659 750,2599"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "773,2599 773,2659 901,2659 901,2599"
+                },
+                "text": "neural"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "913,2598 913,2658 1090,2658 1090,2598"
+                },
+                "text": "networks"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1113,2598 1113,2658 1146,2658 1146,2598"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1164,2598 1164,2658 1213,2658 1213,2598"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1241,2598 1241,2658 1330,2658 1330,2598"
+                },
+                "text": "same"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1358,2597 1358,2657 1458,2657 1458,2597"
+                },
+                "text": "time."
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1486,2597 1486,2657 1630,2657 1630,2597"
+                },
+                "text": "Calcium"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1670,2597 1670,2657 1825,2657 1825,2597"
+                },
+                "text": "imaging"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1854,2597 1854,2657 1976,2657 1976,2597"
+                },
+                "text": "makes"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "1993,2594 1993,2654 2054,2654 2054,2594"
+                },
+                "text": "use"
+              },
+              {
+                "id": "tr_1_tl_21_w14",
+                "coords": {
+                  "points": "2077,2594 2077,2654 2115,2654 2115,2594"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_21_w15",
+                "coords": {
+                  "points": "2132,2592 2132,2652 2181,2652 2181,2592"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "364,2780 1699,2757 1774,2794 2193,2755 2193,2711 2124,2698 1820,2686 364,2702"
+            },
+            "baseline": {
+              "points": "376,2753 467,2756 558,2756 649,2753 740,2755 831,2754 922,2753 1013,2753 1104,2753 1195,2753 1287,2753 1378,2751 1469,2750 1560,2750 1651,2750 1742,2750 1833,2750 1924,2750 2015,2750 2106,2747 2198,2750"
+            },
+            "text": "fact that in living cells, calcium influx is often associated with depolarization due to",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "364,2713 364,2773 430,2773 430,2713"
+                },
+                "text": "fact"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "457,2716 457,2776 529,2776 529,2716"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "555,2715 555,2775 581,2775 581,2715"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "617,2713 617,2773 725,2773 725,2713"
+                },
+                "text": "living"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "757,2714 757,2774 860,2774 860,2714"
+                },
+                "text": "cells,"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "887,2713 887,2773 1021,2773 1021,2713"
+                },
+                "text": "calcium"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1068,2713 1068,2773 1176,2773 1176,2713"
+                },
+                "text": "influx"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1213,2713 1213,2773 1238,2773 1238,2713"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1270,2712 1270,2772 1358,2772 1358,2712"
+                },
+                "text": "often"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1394,2710 1394,2770 1590,2770 1590,2710"
+                },
+                "text": "associated"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1627,2710 1627,2770 1704,2770 1704,2710"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1736,2710 1736,2770 2015,2770 2015,2710"
+                },
+                "text": "depolarization"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "2052,2707 2052,2767 2113,2767 2113,2707"
+                },
+                "text": "due"
+              },
+              {
+                "id": "tr_1_tl_22_w14",
+                "coords": {
+                  "points": "2145,2708 2145,2768 2175,2768 2175,2708"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "359,2915 674,2906 741,2867 844,2899 1196,2874 1319,2931 1433,2874 1651,2878 1722,2922 1799,2874 2193,2890 2156,2794 1948,2828 361,2817"
+            },
+            "baseline": {
+              "points": "373,2872 464,2869 555,2869 646,2869 738,2869 829,2869 920,2869 1011,2869 1103,2867 1194,2866 1285,2866 1376,2866 1468,2866 1559,2865 1650,2866 1741,2866 1833,2863 1924,2863 2015,2863 2106,2863 2198,2863"
+            },
+            "text": "action potentials. Hence, one can observe neuron activity through calcium flow. This",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "360,2830 360,2890 468,2890 468,2830"
+                },
+                "text": "action"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "503,2829 503,2889 714,2889 714,2829"
+                },
+                "text": "potentials."
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "732,2829 732,2889 880,2889 880,2829"
+                },
+                "text": "Hence,"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "898,2829 898,2889 966,2889 966,2829"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "995,2828 995,2888 1051,2888 1051,2828"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1086,2826 1086,2886 1234,2886 1234,2826"
+                },
+                "text": "observe"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1269,2826 1269,2886 1400,2886 1400,2826"
+                },
+                "text": "neuron"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1435,2825 1435,2885 1572,2885 1572,2825"
+                },
+                "text": "activity"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1607,2826 1607,2886 1755,2886 1755,2826"
+                },
+                "text": "through"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1790,2823 1790,2883 1927,2883 1927,2823"
+                },
+                "text": "calcium"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1973,2823 1973,2883 2081,2883 2081,2823"
+                },
+                "text": "flow."
+              },
+              {
+                "id": "tr_1_tl_23_w12",
+                "coords": {
+                  "points": "2105,2823 2105,2883 2184,2883 2184,2823"
+                },
+                "text": "This"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

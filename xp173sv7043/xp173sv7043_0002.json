@@ -1,0 +1,2145 @@
+{
+  "processId": 10405886,
+  "status": "FINISHED",
+  "content": {
+    "text": "Introduction: Carbon-fiber microelectrodes are, and have been for years,\nused in electrochemistry. The method has great potential for looking at\nbiological problems because it has fantastic speed, within milliseconds, and\nsensitivity, detection down to 100 nM (Wightman, 1981). It has even be used\nto measure single vesicle release (Chow et al., 1992 and Wightman, 1991).\nThe technique takes advantage of the fact that amine-comtaining\nneurotransmitters are easily oxidizable. All catecholamines for instance,\noxidize in a two-electron process, shown for epinephrine in Figure 1.\nBecause the two released electrons are constant, they are, theoretically, a\nmeasure of the amount of oxidation that has occured. The carbon-fiber\nelectrode takes advantage of this on a small scale and uses a 8 micron\ndiameter carbon-fiber. As shown in Figure 2, when the voltage potential of\nthe electrode, as locked in by a patch clamp amplifier, is above the oxidation\npotential of the neurotransmitters, which is different for each substance, the\ncarbon filament oxidizes the neurotransmitter. The higher above this the\noxidation point the potential is set, the greater the rate of oxidation at the\nelectrode surface.\nWhen a range of set voltages for the carbon-fiber is scanned, a leak and\ncapacitance base current causes a fluctuation of current, higher when it\nincreases and lower when it decreases. Above +1 V water is oxidized causing\na large peak. To determine the exact current for a disk shaped electrode\nwhich is totally irreversible (assuming low concentration so that the oxidized\nproduct diffuses away before being reduced) the equation for the current can\nbe solved to:\ni= Covl2k",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "408,370 408,2847 2237,2847 2237,370"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "398,454 2213,454 2216,325 1932,375 1820,330 1618,384 1477,339 1134,389 802,345 618,386 398,366"
+            },
+            "baseline": {
+              "points": "411,426 501,426 591,426 681,426 772,426 862,423 952,420 1042,420 1133,420 1223,423 1313,423 1403,420 1494,420 1584,423 1674,420 1764,420 1855,420 1945,420 2035,419 2125,420 2216,426"
+            },
+            "text": "Introduction: Carbon-fiber microelectrodes are, and have been for years,",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "399,386 399,446 748,446 748,386"
+                },
+                "text": "Introduction:"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "778,380 778,440 1081,440 1081,380"
+                },
+                "text": "Carbon-fiber"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "1105,383 1105,443 1477,443 1477,383"
+                },
+                "text": "microelectrodes"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "1501,381 1501,441 1588,441 1588,381"
+                },
+                "text": "are,"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "1613,380 1613,440 1688,440 1688,380"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "1718,380 1718,440 1822,440 1822,380"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1852,380 1852,440 1956,440 1956,380"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1992,379 1992,439 2055,439 2055,379"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "2079,381 2079,441 2218,441 2218,381"
+                },
+                "text": "years,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "405,557 950,570 1068,520 1325,579 1452,539 1504,575 1770,534 2223,550 2223,475 2036,459 405,495"
+            },
+            "baseline": {
+              "points": "417,528 507,528 598,528 688,528 779,527 869,523 960,522 1050,519 1141,525 1231,522 1322,525 1413,525 1503,522 1594,523 1684,522 1775,522 1865,522 1956,522 2046,522 2137,522 2228,522"
+            },
+            "text": "used in electrochemistry. The method has great potential for looking at",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "407,488 407,548 507,548 507,488"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "546,488 546,548 576,548 576,488"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "615,485 615,545 1029,545 1029,485"
+                },
+                "text": "electrochemistry."
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "1081,483 1081,543 1155,543 1155,483"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1194,483 1194,543 1357,543 1357,483"
+                },
+                "text": "method"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1389,484 1389,544 1464,544 1464,484"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1496,482 1496,542 1615,542 1615,482"
+                },
+                "text": "great"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1635,482 1635,542 1848,542 1848,482"
+                },
+                "text": "potential"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1874,482 1874,542 1936,542 1936,482"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1968,482 1968,542 2137,542 2137,482"
+                },
+                "text": "looking"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "2176,482 2176,542 2213,542 2213,482"
+                },
+                "text": "at"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "405,639 768,670 1982,634 2052,670 2225,636 2225,559 2132,595 1825,550 405,575"
+            },
+            "baseline": {
+              "points": "417,623 507,626 598,626 689,626 779,624 870,626 961,623 1051,623 1142,623 1233,623 1324,623 1414,621 1505,622 1596,621 1686,620 1777,620 1868,620 1958,623 2049,620 2140,623 2231,620"
+            },
+            "text": "biological problems because it has fantastic speed, within milliseconds, and",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "407,586 407,646 647,646 647,586"
+                },
+                "text": "biological"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "667,584 667,644 876,644 876,584"
+                },
+                "text": "problems"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "902,583 902,643 1081,643 1081,583"
+                },
+                "text": "because"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "1106,583 1106,643 1137,643 1137,583"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "1162,583 1162,643 1230,643 1230,583"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1255,582 1255,642 1440,642 1440,582"
+                },
+                "text": "fantastic"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1472,581 1472,641 1614,641 1614,581"
+                },
+                "text": "speed,"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1639,580 1639,640 1775,640 1775,580"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1807,582 1807,642 2122,642 2122,582"
+                },
+                "text": "milliseconds,"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "2141,581 2141,641 2208,641 2208,581"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "411,745 836,779 945,736 1466,770 1913,727 2036,777 2223,736 2223,673 2020,661 411,691"
+            },
+            "baseline": {
+              "points": "423,725 513,727 603,725 693,725 784,725 874,725 964,725 1054,722 1145,723 1235,722 1325,722 1415,721 1506,722 1596,725 1686,722 1776,719 1867,722 1957,722 2047,722 2137,722 2228,719"
+            },
+            "text": "sensitivity, detection down to 100 nM (Wightman, 1981). It has even be used",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "414,686 414,746 672,746 672,686"
+                },
+                "text": "sensitivity,"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "686,685 686,745 886,745 886,685"
+                },
+                "text": "detection"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "913,684 913,744 1026,744 1026,684"
+                },
+                "text": "down"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "1060,682 1060,742 1085,742 1085,682"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "1120,682 1120,742 1192,742 1192,682"
+                },
+                "text": "100"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1219,682 1219,742 1258,742 1258,682"
+                },
+                "text": "nM"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1312,681 1312,741 1585,741 1585,681"
+                },
+                "text": "(Wightman,"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1606,682 1606,742 1751,742 1751,682"
+                },
+                "text": "1981)."
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1779,679 1779,739 1812,739 1812,679"
+                },
+                "text": "It"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1833,681 1833,741 1898,741 1898,681"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1919,682 1919,742 2018,742 2018,682"
+                },
+                "text": "even"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "2045,682 2045,742 2091,742 2091,682"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "2119,681 2119,741 2204,741 2204,681"
+                },
+                "text": "used"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "402,850 2127,845 2127,773 2068,757 1963,791 402,782"
+            },
+            "baseline": {
+              "points": "414,829 504,826 594,826 685,826 775,824 866,824 956,826 1047,826 1137,823 1228,823 1318,823 1409,823 1499,826 1590,823 1680,823 1771,820 1861,820 1952,823 2042,820 2133,826"
+            },
+            "text": "to measure single vesicle release (Chow et al., 1992 and Wightman, 1991).",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "405,788 405,848 437,848 437,788"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "470,786 470,846 647,846 647,786"
+                },
+                "text": "measure"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "680,784 680,844 797,844 797,784"
+                },
+                "text": "single"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "831,784 831,844 975,844 975,784"
+                },
+                "text": "vesicle"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "1002,785 1002,845 1145,845 1145,785"
+                },
+                "text": "release"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1179,783 1179,843 1303,843 1303,783"
+                },
+                "text": "(Chow"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1343,783 1343,843 1381,843 1381,783"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1395,783 1395,843 1460,843 1460,783"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1480,785 1480,845 1578,845 1578,785"
+                },
+                "text": "1992"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1612,783 1612,843 1676,843 1676,783"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1710,780 1710,840 1965,840 1965,780"
+                },
+                "text": "Wightman,"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1986,781 1986,841 2129,841 2129,781"
+                },
+                "text": "1991)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "557,964 2216,957 2216,886 1877,852 1502,889 557,866"
+            },
+            "baseline": {
+              "points": "569,927 651,924 734,924 816,924 899,924 982,924 1064,921 1147,924 1230,921 1312,922 1395,921 1478,921 1560,921 1643,921 1726,921 1808,921 1891,921 1974,921 2056,921 2139,921 2222,927"
+            },
+            "text": "The technique takes advantage of the fact that amine-comtaining",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "558,885 558,945 635,945 635,885"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "672,884 672,944 897,944 897,884"
+                },
+                "text": "technique"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "939,883 939,943 1058,943 1058,883"
+                },
+                "text": "takes"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "1088,881 1088,941 1320,941 1320,881"
+                },
+                "text": "advantage"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1362,881 1362,941 1403,941 1403,881"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1434,881 1434,941 1498,941 1498,881"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1535,881 1535,941 1623,941 1623,881"
+                },
+                "text": "fact"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1654,881 1654,941 1742,941 1742,881"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1773,881 1773,941 2201,941 2201,881"
+                },
+                "text": "amine-comtaining"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "395,1043 1175,1075 1509,1023 1568,1061 2079,1032 2223,1077 2223,975 2152,959 1159,991 1052,948 395,993"
+            },
+            "baseline": {
+              "points": "408,1026 498,1026 589,1024 680,1025 771,1023 862,1023 953,1023 1043,1023 1134,1021 1225,1023 1316,1022 1407,1021 1498,1020 1589,1020 1679,1020 1770,1020 1861,1020 1952,1020 2043,1020 2134,1020 2225,1023"
+            },
+            "text": "neurotransmitters are easily oxidizable. All catecholamines for instance,",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "397,984 397,1044 821,1044 821,984"
+                },
+                "text": "neurotransmitters"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "853,983 853,1043 913,1043 913,983"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "950,983 950,1043 1083,1043 1083,983"
+                },
+                "text": "easily"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "1120,982 1120,1042 1381,1042 1381,982"
+                },
+                "text": "oxidizable."
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1406,980 1406,1040 1478,1040 1478,980"
+                },
+                "text": "All"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1509,980 1509,1040 1873,1040 1873,980"
+                },
+                "text": "catecholamines"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1910,980 1910,1040 1976,1040 1976,980"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "2002,980 2002,1040 2214,1040 2214,980"
+                },
+                "text": "instance,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "411,1141 1777,1168 1868,1129 2216,1129 2216,1068 2018,1057 411,1091"
+            },
+            "baseline": {
+              "points": "423,1124 517,1127 612,1124 707,1124 801,1124 896,1124 991,1124 1085,1124 1180,1124 1275,1121 1369,1121 1464,1121 1559,1121 1653,1123 1748,1121 1843,1121 1937,1121 2032,1116 2127,1118 2222,1121"
+            },
+            "text": "oxidize in a two-electron process, shown for epinephrine in Figure 1.",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "413,1086 413,1146 584,1146 584,1086"
+                },
+                "text": "oxidize"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "628,1084 628,1144 658,1144 658,1084"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "696,1084 696,1144 714,1144 714,1084"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "752,1084 752,1144 1053,1144 1053,1084"
+                },
+                "text": "two-electron"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1091,1083 1091,1143 1287,1143 1287,1083"
+                },
+                "text": "process,"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1313,1081 1313,1141 1460,1141 1460,1081"
+                },
+                "text": "shown"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1498,1081 1498,1141 1565,1141 1565,1081"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1596,1081 1596,1141 1873,1141 1873,1081"
+                },
+                "text": "epinephrine"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1917,1081 1917,1141 1947,1141 1947,1081"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1991,1076 1991,1136 2138,1136 2138,1076"
+                },
+                "text": "Figure"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "2182,1080 2182,1140 2218,1140 2218,1080"
+                },
+                "text": "1."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "407,1248 1129,1275 1202,1236 1961,1268 2211,1236 2211,1182 2125,1166 407,1179"
+            },
+            "baseline": {
+              "points": "420,1226 509,1226 599,1226 689,1226 779,1223 869,1226 958,1226 1048,1223 1138,1223 1228,1223 1318,1223 1407,1223 1497,1223 1587,1223 1677,1223 1767,1223 1856,1223 1946,1220 2036,1220 2126,1220 2216,1220"
+            },
+            "text": "Because the two released electrons are constant, they are, theoretically, a",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "409,1186 409,1246 595,1246 595,1186"
+                },
+                "text": "Because"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "632,1186 632,1246 692,1246 692,1186"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "723,1183 723,1243 801,1243 801,1183"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "838,1186 838,1246 1020,1246 1020,1186"
+                },
+                "text": "released"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "1057,1183 1057,1243 1262,1243 1262,1183"
+                },
+                "text": "electrons"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1293,1183 1293,1243 1353,1243 1353,1183"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1384,1183 1384,1243 1595,1243 1595,1183"
+                },
+                "text": "constant,"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1620,1183 1620,1243 1710,1243 1710,1183"
+                },
+                "text": "they"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1747,1183 1747,1243 1832,1243 1832,1183"
+                },
+                "text": "are,"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1857,1180 1857,1240 2171,1240 2171,1180"
+                },
+                "text": "theoretically,"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "2196,1180 2196,1240 2207,1240 2207,1180"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "405,1343 618,1375 2220,1334 2220,1270 1861,1245 1586,1291 405,1284"
+            },
+            "baseline": {
+              "points": "417,1327 507,1327 597,1327 688,1326 778,1326 869,1327 959,1324 1049,1324 1140,1324 1230,1324 1321,1324 1411,1324 1501,1324 1592,1324 1682,1321 1773,1321 1863,1321 1953,1321 2044,1318 2134,1318 2225,1321"
+            },
+            "text": "measure of the amount of oxidation that has occured. The carbon-fiber",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "407,1287 407,1347 595,1347 595,1287"
+                },
+                "text": "measure"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "634,1286 634,1346 684,1346 684,1286"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "710,1286 710,1346 765,1346 765,1286"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "804,1286 804,1346 986,1346 986,1286"
+                },
+                "text": "amount"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1012,1284 1012,1344 1055,1344 1055,1284"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1088,1284 1088,1344 1295,1344 1295,1284"
+                },
+                "text": "oxidation"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1334,1284 1334,1344 1421,1344 1421,1284"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1441,1284 1441,1344 1516,1344 1516,1284"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1548,1282 1548,1342 1755,1342 1755,1282"
+                },
+                "text": "occured."
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1800,1281 1800,1341 1881,1341 1881,1281"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1920,1278 1920,1338 2215,1338 2215,1278"
+                },
+                "text": "carbon-fiber"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "398,1448 2225,1443 2225,1382 2020,1359 398,1384"
+            },
+            "baseline": {
+              "points": "411,1426 501,1426 592,1426 683,1426 774,1424 865,1425 956,1426 1046,1426 1137,1423 1228,1423 1319,1423 1410,1423 1501,1423 1592,1423 1682,1423 1773,1421 1864,1423 1955,1420 2046,1420 2137,1420 2228,1420"
+            },
+            "text": "electrode takes advantage of this on a small scale and uses a 8 micron",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "400,1386 400,1446 612,1446 612,1386"
+                },
+                "text": "electrode"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "655,1385 655,1445 770,1445 770,1385"
+                },
+                "text": "takes"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "801,1385 801,1445 1037,1445 1037,1385"
+                },
+                "text": "advantage"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "1074,1384 1074,1444 1122,1444 1122,1384"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1147,1383 1147,1443 1231,1443 1231,1383"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1262,1383 1262,1443 1304,1443 1304,1383"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1341,1383 1341,1443 1359,1443 1359,1383"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1396,1383 1396,1443 1523,1443 1523,1383"
+                },
+                "text": "small"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1548,1383 1548,1443 1663,1443 1663,1383"
+                },
+                "text": "scale"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1700,1381 1700,1441 1772,1441 1772,1381"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1809,1382 1809,1442 1906,1442 1906,1382"
+                },
+                "text": "uses"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1943,1380 1943,1440 1960,1440 1960,1380"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1991,1380 1991,1440 2009,1440 2009,1380"
+                },
+                "text": "8"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "2052,1380 2052,1440 2203,1440 2203,1380"
+                },
+                "text": "micron"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "407,1550 641,1582 750,1532 1314,1570 2223,1543 2223,1468 1211,1463 975,1509 739,1454 407,1470"
+            },
+            "baseline": {
+              "points": "420,1527 510,1525 600,1524 691,1524 781,1522 872,1523 962,1524 1052,1523 1143,1521 1233,1520 1324,1519 1414,1521 1504,1521 1595,1518 1685,1518 1776,1518 1866,1521 1956,1518 2047,1518 2137,1518 2228,1518"
+            },
+            "text": "diameter carbon-fiber. As shown in Figure 2, when the voltage potential of",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "416,1484 416,1544 614,1544 614,1484"
+                },
+                "text": "diameter"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "640,1482 640,1542 947,1542 947,1482"
+                },
+                "text": "carbon-fiber."
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "980,1483 980,1543 1038,1543 1038,1483"
+                },
+                "text": "As"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "1064,1481 1064,1541 1198,1541 1198,1481"
+                },
+                "text": "shown"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1231,1479 1231,1539 1262,1539 1262,1479"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1295,1479 1295,1539 1429,1539 1429,1479"
+                },
+                "text": "Figure"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1462,1481 1462,1541 1506,1541 1506,1481"
+                },
+                "text": "2,"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1526,1478 1526,1538 1635,1538 1635,1478"
+                },
+                "text": "when"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1668,1478 1668,1538 1724,1538 1724,1478"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1757,1480 1757,1540 1917,1540 1917,1480"
+                },
+                "text": "voltage"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1950,1478 1950,1538 2154,1538 2154,1478"
+                },
+                "text": "potential"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "2174,1478 2174,1538 2212,1538 2212,1478"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "405,1652 777,1638 875,1679 1048,1629 1607,1675 1743,1629 2038,1629 2100,1663 2220,1638 2223,1561 407,1593"
+            },
+            "baseline": {
+              "points": "417,1626 507,1626 598,1628 688,1626 779,1626 869,1626 960,1623 1050,1623 1141,1623 1231,1623 1322,1621 1413,1622 1503,1623 1594,1621 1684,1617 1775,1617 1865,1620 1956,1620 2046,1620 2137,1620 2228,1620"
+            },
+            "text": "the electrode, as locked in by a patch clamp amplifier, is above the oxidation",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "407,1586 407,1646 464,1646 464,1586"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "497,1587 497,1647 728,1647 728,1587"
+                },
+                "text": "electrode,"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "748,1586 748,1646 786,1646 786,1586"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "812,1585 812,1645 953,1645 953,1585"
+                },
+                "text": "locked"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "986,1583 986,1643 1011,1643 1011,1583"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1044,1583 1044,1643 1088,1643 1088,1583"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1121,1583 1121,1643 1133,1643 1133,1583"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1159,1583 1159,1643 1268,1643 1268,1583"
+                },
+                "text": "patch"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1301,1581 1301,1641 1422,1641 1422,1581"
+                },
+                "text": "clamp"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1455,1581 1455,1641 1679,1641 1679,1581"
+                },
+                "text": "amplifier,"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1699,1577 1699,1637 1730,1637 1730,1577"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1757,1578 1757,1638 1885,1638 1885,1578"
+                },
+                "text": "above"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1911,1580 1911,1640 1968,1640 1968,1580"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "2001,1580 2001,1640 2206,1640 2206,1580"
+                },
+                "text": "oxidation"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "405,1748 2225,1732 2225,1670 2157,1657 1757,1693 704,1654 405,1693"
+            },
+            "baseline": {
+              "points": "417,1727 507,1727 598,1727 689,1724 779,1724 870,1724 961,1724 1051,1724 1142,1724 1233,1722 1324,1721 1414,1721 1505,1721 1596,1721 1686,1721 1777,1721 1868,1721 1958,1721 2049,1721 2140,1721 2231,1718"
+            },
+            "text": "potential of the neurotransmitters, which is different for each substance, the",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "407,1687 407,1747 613,1747 613,1687"
+                },
+                "text": "potential"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "633,1685 633,1745 677,1745 677,1685"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "698,1684 698,1744 755,1744 755,1684"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "788,1684 788,1744 1220,1744 1220,1684"
+                },
+                "text": "neurotransmitters,"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "1240,1681 1240,1741 1362,1741 1362,1681"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1395,1681 1395,1741 1426,1741 1426,1681"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1453,1681 1453,1741 1653,1741 1653,1681"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1673,1681 1673,1741 1736,1741 1736,1681"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1757,1681 1757,1741 1852,1741 1852,1681"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1886,1681 1886,1741 2130,1741 2130,1681"
+                },
+                "text": "substance,"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "2150,1679 2150,1739 2207,1739 2207,1679"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "405,1845 1027,1838 1098,1873 1161,1836 1459,1868 2020,1827 2225,1863 2225,1786 2093,1754 1875,1791 911,1759 405,1795"
+            },
+            "baseline": {
+              "points": "417,1826 507,1825 598,1826 689,1826 779,1826 870,1826 961,1824 1051,1823 1142,1823 1233,1823 1324,1823 1414,1821 1505,1823 1596,1822 1686,1823 1777,1820 1868,1820 1958,1820 2049,1820 2140,1820 2231,1823"
+            },
+            "text": "carbon filament oxidizes the neurotransmitter. The higher above this the",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "407,1785 407,1845 561,1845 561,1785"
+                },
+                "text": "carbon"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "598,1786 598,1846 796,1846 796,1786"
+                },
+                "text": "filament"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "821,1784 821,1844 1013,1844 1013,1784"
+                },
+                "text": "oxidizes"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "1045,1783 1045,1843 1099,1843 1099,1783"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1137,1782 1137,1842 1546,1842 1546,1782"
+                },
+                "text": "neurotransmitter."
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1590,1782 1590,1842 1669,1842 1669,1782"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1701,1780 1701,1840 1849,1840 1849,1780"
+                },
+                "text": "higher"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1881,1780 1881,1840 2011,1840 2011,1780"
+                },
+                "text": "above"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "2048,1780 2048,1840 2122,1840 2122,1780"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "2153,1781 2153,1841 2214,1841 2214,1781"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "405,1948 568,1979 961,1943 1043,1977 1243,1941 1400,1988 1795,1945 1859,1988 2068,1929 2223,1945 2188,1854 405,1888"
+            },
+            "baseline": {
+              "points": "417,1927 507,1927 598,1924 688,1924 779,1924 869,1924 960,1924 1050,1924 1141,1922 1231,1924 1322,1924 1413,1923 1503,1922 1594,1921 1684,1921 1775,1921 1865,1921 1956,1921 2046,1921 2137,1921 2228,1918"
+            },
+            "text": "oxidation point the potential is set, the greater the rate of oxidation at the",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "408,1886 408,1946 623,1946 623,1886"
+                },
+                "text": "oxidation"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "663,1884 663,1944 781,1944 781,1884"
+                },
+                "text": "point"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "801,1884 801,1944 860,1944 860,1884"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "900,1884 900,1944 1102,1944 1102,1884"
+                },
+                "text": "potential"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "1130,1882 1130,1942 1162,1942 1162,1882"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1189,1883 1189,1943 1266,1943 1266,1883"
+                },
+                "text": "set,"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1287,1884 1287,1944 1345,1944 1345,1884"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1379,1882 1379,1942 1536,1942 1536,1882"
+                },
+                "text": "greater"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1563,1881 1563,1941 1627,1941 1627,1881"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1661,1881 1661,1941 1739,1941 1739,1881"
+                },
+                "text": "rate"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1772,1881 1772,1941 1817,1941 1817,1881"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1844,1881 1844,1941 2054,1941 2054,1881"
+                },
+                "text": "oxidation"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "2094,1881 2094,1941 2126,1941 2126,1881"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "2153,1879 2153,1939 2211,1939 2211,1879"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "405,2045 579,2066 639,2036 704,2070 759,2045 827,2066 827,1986 793,1986 766,1961 686,1988 616,1970 545,1991 520,1968 441,1984 405,1968"
+            },
+            "baseline": {
+              "points": "417,2025 442,2027 468,2028 494,2026 520,2025 546,2025 572,2025 598,2025 624,2025 650,2024 676,2023 702,2023 728,2025 754,2025 780,2025 806,2025 832,2025"
+            },
+            "text": "electrode surface.",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "412,1985 412,2045 614,2045 614,1985"
+                },
+                "text": "electrode"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "644,1985 644,2045 823,2045 823,1985"
+                },
+                "text": "surface."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "557,2141 1029,2175 1309,2134 2225,2138 2225,2050 2188,2038 2000,2086 1473,2045 1388,2086 1166,2088 1077,2045 918,2088 852,2054 802,2091 557,2086"
+            },
+            "baseline": {
+              "points": "569,2118 652,2124 735,2127 818,2125 901,2124 984,2124 1067,2124 1150,2124 1233,2123 1316,2121 1400,2121 1483,2121 1566,2120 1649,2121 1732,2118 1815,2121 1898,2121 1981,2120 2064,2121 2147,2121 2231,2121"
+            },
+            "text": "When a range of set voltages for the carbon-fiber is scanned, a leak and",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "565,2082 565,2142 685,2142 685,2082"
+                },
+                "text": "When"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "716,2086 716,2146 728,2146 728,2086"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "753,2085 753,2145 867,2145 867,2085"
+                },
+                "text": "range"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "899,2084 899,2144 940,2144 940,2084"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "965,2084 965,2144 1025,2144 1025,2084"
+                },
+                "text": "set"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1044,2084 1044,2144 1225,2144 1225,2084"
+                },
+                "text": "voltages"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1251,2081 1251,2141 1310,2141 1310,2081"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1329,2081 1329,2141 1383,2141 1383,2081"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1414,2080 1414,2140 1693,2140 1693,2080"
+                },
+                "text": "carbon-fiber"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1718,2078 1718,2138 1747,2138 1747,2078"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1772,2081 1772,2141 1972,2141 1972,2081"
+                },
+                "text": "scanned,"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1991,2080 1991,2140 2002,2140 2002,2080"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "2027,2081 2027,2141 2112,2141 2112,2081"
+                },
+                "text": "leak"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "2143,2081 2143,2141 2209,2141 2209,2081"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "405,2252 1234,2225 1807,2272 2225,2229 2225,2173 2102,2161 407,2179"
+            },
+            "baseline": {
+              "points": "420,2228 510,2228 601,2228 691,2225 782,2225 872,2225 963,2225 1053,2222 1144,2223 1234,2222 1325,2222 1416,2222 1506,2222 1597,2222 1687,2222 1778,2222 1868,2219 1959,2222 2049,2219 2140,2219 2231,2222"
+            },
+            "text": "capacitance base current causes a fluctuation of current, higher when it",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "407,2188 407,2248 685,2248 685,2188"
+                },
+                "text": "capacitance"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "723,2185 723,2245 815,2245 815,2185"
+                },
+                "text": "base"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "852,2185 852,2245 1025,2245 1025,2185"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "1051,2182 1051,2242 1199,2242 1199,2182"
+                },
+                "text": "causes"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1231,2182 1231,2242 1248,2242 1248,2182"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1280,2182 1280,2242 1527,2242 1527,2182"
+                },
+                "text": "fluctuation"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1571,2182 1571,2242 1614,2242 1614,2182"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1645,2182 1645,2242 1831,2242 1831,2182"
+                },
+                "text": "current,"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1856,2181 1856,2241 2011,2241 2011,2181"
+                },
+                "text": "higher"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "2042,2179 2042,2239 2153,2239 2153,2179"
+                },
+                "text": "when"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "2190,2181 2190,2241 2227,2241 2227,2181"
+                },
+                "text": "it"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "405,2366 2223,2343 2223,2277 2143,2261 405,2270"
+            },
+            "baseline": {
+              "points": "417,2327 507,2328 598,2327 688,2325 779,2325 869,2324 960,2326 1050,2324 1141,2324 1231,2324 1322,2324 1413,2322 1503,2321 1594,2321 1684,2321 1775,2321 1865,2321 1956,2321 2046,2321 2137,2318 2228,2324"
+            },
+            "text": "increases and lower when it decreases. Above +1 V water is oxidized causing",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "407,2287 407,2347 612,2347 612,2287"
+                },
+                "text": "increases"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "643,2285 643,2345 709,2345 709,2285"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "740,2284 740,2344 861,2344 861,2284"
+                },
+                "text": "lower"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "886,2285 886,2345 994,2345 994,2285"
+                },
+                "text": "when"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "1025,2284 1025,2344 1055,2344 1055,2284"
+                },
+                "text": "it"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1074,2284 1074,2344 1303,2344 1303,2284"
+                },
+                "text": "decreases."
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1334,2282 1334,2342 1473,2342 1473,2282"
+                },
+                "text": "Above"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1498,2281 1498,2341 1552,2341 1552,2281"
+                },
+                "text": "+1"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1577,2281 1577,2341 1600,2341 1600,2281"
+                },
+                "text": "V"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1638,2281 1638,2341 1758,2341 1758,2281"
+                },
+                "text": "water"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1777,2281 1777,2341 1807,2341 1807,2281"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1832,2281 1832,2341 2019,2341 2019,2281"
+                },
+                "text": "oxidized"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "2050,2278 2050,2338 2207,2338 2207,2278"
+                },
+                "text": "causing"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "405,2459 2225,2450 2211,2354 405,2391"
+            },
+            "baseline": {
+              "points": "417,2425 507,2428 598,2426 689,2428 779,2425 870,2425 961,2425 1051,2425 1142,2423 1233,2424 1324,2422 1414,2422 1505,2422 1596,2422 1686,2420 1777,2422 1868,2422 1958,2419 2049,2419 2140,2419 2231,2419"
+            },
+            "text": "a large peak. To determine the exact current for a disk shaped electrode",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "407,2385 407,2445 426,2445 426,2385"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "459,2387 459,2447 567,2447 567,2387"
+                },
+                "text": "large"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "600,2387 600,2447 728,2447 728,2387"
+                },
+                "text": "peak."
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "768,2385 768,2445 825,2445 825,2385"
+                },
+                "text": "To"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "858,2385 858,2445 1089,2445 1089,2385"
+                },
+                "text": "determine"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1121,2383 1121,2443 1185,2443 1185,2383"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1218,2383 1218,2443 1339,2443 1339,2383"
+                },
+                "text": "exact"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1360,2382 1360,2442 1526,2442 1526,2382"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1553,2382 1553,2442 1616,2442 1616,2382"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1643,2380 1643,2440 1661,2440 1661,2380"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1694,2381 1694,2441 1777,2441 1777,2381"
+                },
+                "text": "disk"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1816,2381 1816,2441 1970,2441 1970,2381"
+                },
+                "text": "shaped"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "2003,2379 2003,2439 2208,2439 2208,2379"
+                },
+                "text": "electrode"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "414,2550 2232,2536 2232,2461 2143,2452 1823,2486 414,2468"
+            },
+            "baseline": {
+              "points": "426,2527 516,2527 607,2527 697,2526 788,2524 878,2524 969,2522 1059,2524 1150,2524 1240,2524 1331,2522 1422,2521 1512,2523 1603,2521 1693,2521 1784,2521 1874,2521 1965,2521 2055,2521 2146,2521 2237,2521"
+            },
+            "text": "which is totally irreversible (assuming low concentration so that the oxidized",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "416,2487 416,2547 547,2547 547,2487"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "580,2487 580,2547 610,2547 610,2487"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "630,2485 630,2545 767,2545 767,2485"
+                },
+                "text": "totally"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "800,2482 800,2542 1051,2542 1051,2482"
+                },
+                "text": "irreversible"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1083,2484 1083,2544 1302,2544 1302,2484"
+                },
+                "text": "(assuming"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1335,2481 1335,2541 1390,2541 1390,2481"
+                },
+                "text": "low"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1435,2481 1435,2541 1737,2541 1737,2481"
+                },
+                "text": "concentration"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1769,2481 1769,2541 1806,2541 1806,2481"
+                },
+                "text": "so"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1838,2481 1838,2541 1919,2541 1919,2481"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1939,2481 1939,2541 2001,2541 2001,2481"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "2027,2481 2027,2541 2215,2541 2215,2481"
+                },
+                "text": "oxidized"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "402,2675 989,2695 1111,2650 1284,2688 1429,2641 1834,2670 1948,2632 2120,2684 2232,2661 2207,2570 405,2577"
+            },
+            "baseline": {
+              "points": "417,2628 507,2630 598,2628 689,2628 780,2626 871,2626 962,2625 1052,2625 1143,2626 1234,2625 1325,2625 1416,2625 1507,2625 1598,2625 1688,2623 1779,2622 1870,2622 1961,2622 2052,2622 2143,2622 2234,2622"
+            },
+            "text": "product diffuses away before being reduced) the equation for the current can",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "404,2589 404,2649 587,2649 587,2589"
+                },
+                "text": "product"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "606,2587 606,2647 783,2647 783,2587"
+                },
+                "text": "diffuses"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "809,2586 809,2646 922,2646 922,2586"
+                },
+                "text": "away"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "955,2585 955,2645 1087,2645 1087,2585"
+                },
+                "text": "before"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "1120,2585 1120,2645 1233,2645 1233,2585"
+                },
+                "text": "being"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1265,2585 1265,2645 1461,2645 1461,2585"
+                },
+                "text": "reduced)"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1487,2585 1487,2645 1537,2645 1537,2585"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1569,2583 1569,2643 1759,2643 1759,2583"
+                },
+                "text": "equation"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1791,2582 1791,2642 1854,2642 1854,2582"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1880,2582 1880,2642 1937,2642 1937,2582"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1969,2582 1969,2642 2132,2642 2132,2582"
+                },
+                "text": "current"
+              },
+              {
+                "id": "tr_1_tl_23_w12",
+                "coords": {
+                  "points": "2152,2582 2152,2642 2215,2642 2215,2582"
+                },
+                "text": "can"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "405,2788 459,2786 473,2772 504,2795 629,2752 677,2768 698,2750 727,2754 727,2672 668,2675 650,2659 616,2679 548,2677 518,2700 491,2702 430,2672 405,2682"
+            },
+            "baseline": {
+              "points": "417,2730 443,2730 469,2730 496,2730 522,2730 548,2730 575,2730 601,2730 627,2730 654,2730 680,2730 706,2730 733,2730"
+            },
+            "text": "be solved to:",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "407,2690 407,2750 455,2750 455,2690"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "487,2690 487,2750 636,2750 636,2690"
+                },
+                "text": "solved"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "668,2690 668,2750 729,2750 729,2690"
+                },
+                "text": "to:"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "1139,2843 1179,2859 1223,2841 1268,2877 1302,2852 1386,2852 1411,2832 1452,2861 1482,2852 1482,2734 1452,2732 1429,2752 1409,2736 1373,2763 1325,2766 1250,2734 1139,2750"
+            },
+            "baseline": {
+              "points": "1151,2819 1176,2817 1202,2816 1228,2818 1254,2819 1280,2819 1306,2820 1332,2822 1358,2820 1384,2818 1410,2817 1436,2816 1462,2816 1488,2819"
+            },
+            "text": "i= Covl2k",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "1144,2777 1144,2837 1191,2837 1191,2777"
+                },
+                "text": "i="
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "1239,2780 1239,2840 1459,2840 1459,2780"
+                },
+                "text": "Covl2k"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

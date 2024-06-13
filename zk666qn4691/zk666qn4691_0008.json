@@ -1,0 +1,2431 @@
+{
+  "processId": 10408095,
+  "status": "FINISHED",
+  "content": {
+    "text": "Felton 9\nnature of units of S\u00d6D vs. % inhibition, is the range of inhibitions over which the assay is most\naccurate (McCord & Fridovich 1969).\nEach day, the average background rate of cytochrome c oxidation was determined to\naccount for innate daily variation. Each sample was assayed three times. The data were\ncollected in excel, and a linear regression was run on the first 20 seconds of each data file in\norder to avoid possible curvature due to slowing down of reactions as they run out of substrate.\nA visual inspection of a scatter plot of the data from each assay determined whether any small\njumps or dips in the data (1 or 2 points) were likely to be significantly affecting the p-value.\nThese values were discarded and the regression re-run. The slope of the regression was\nconverted to units of S\u00d6D using the relationship: units of inhibition = (standardized activity of\nsample) / (100 - standardized activity of sample) and standardized activity of sample = ((rate of\nchange in absorbance of daily average background - rate of change in absorbance of individual\nassay) / rate of change in absorbance of daily average background rate) * 100. Given this\nrelationship, one unit is defined as 50% inhibition of the \u201ccontrol rate\" (rate of change in\nabsorbance of daily average background) of cytochrome c inhibition. The p-values for each\nregression were checked, and those below 0.95 were discarded. The choice to reject p-values\nbelow 0.95 was arbitrary, but driven by the consistent ability to attain p-values above 0.98 (data\nnot shown). Very few samples were rejected (less than 5%). The remaining two assays for each\nsample were averaged to yield the S\u00d6D activity. For those samples that all three assays had\nsufficiently high p-values, the two closer trials were averaged to yield overall activity.\nCatalase Activity Assay:",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "283,130 283,2783 2274,2783 2274,130"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "2084,203 2116,196 2143,205 2165,201 2207,240 2233,225 2251,242 2268,242 2268,147 2241,142 2209,152 2182,142 2123,93 2087,98"
+            },
+            "baseline": {
+              "points": "2098,188 2123,188 2148,188 2173,188 2198,187 2223,186 2248,186 2274,188"
+            },
+            "text": "Felton 9",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "2090,148 2090,208 2210,208 2210,148"
+                },
+                "text": "Felton"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "2244,146 2244,206 2254,206 2254,146"
+                },
+                "text": "9"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "279,355 873,396 939,362 1698,364 1791,418 2221,369 2221,303 2067,259 1693,308 1490,259 996,298 690,254 418,298 279,269"
+            },
+            "baseline": {
+              "points": "292,340 388,337 485,337 581,336 678,335 775,336 871,337 968,337 1064,337 1161,337 1258,337 1354,337 1451,339 1547,337 1644,337 1741,337 1837,340 1934,340 2030,340 2127,340 2224,337"
+            },
+            "text": "nature of units of S\u00d6D vs. % inhibition, is the range of inhibitions over which the assay is most",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "279,298 279,358 394,358 394,298"
+                },
+                "text": "nature"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "420,297 420,357 460,357 460,297"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "475,296 475,356 566,356 566,296"
+                },
+                "text": "units"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "586,295 586,355 627,355 627,295"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "643,295 643,355 723,355 723,295"
+                },
+                "text": "S\u00d6D"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "759,296 759,356 814,356 814,296"
+                },
+                "text": "vs."
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "824,296 824,356 839,356 839,296"
+                },
+                "text": "%"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "880,297 880,357 1092,357 1092,297"
+                },
+                "text": "inhibition,"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1108,297 1108,357 1127,357 1127,297"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1153,297 1153,357 1203,357 1203,297"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1224,297 1224,357 1325,357 1325,297"
+                },
+                "text": "range"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1350,297 1350,357 1390,357 1390,297"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "1406,297 1406,357 1613,357 1613,297"
+                },
+                "text": "inhibitions"
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "1639,297 1639,357 1719,357 1719,297"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_2_w15",
+                "coords": {
+                  "points": "1740,298 1740,358 1850,358 1850,298"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_2_w16",
+                "coords": {
+                  "points": "1876,300 1876,360 1926,360 1926,300"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w17",
+                "coords": {
+                  "points": "1952,300 1952,360 2048,360 2048,300"
+                },
+                "text": "assay"
+              },
+              {
+                "id": "tr_1_tl_2_w18",
+                "coords": {
+                  "points": "2073,300 2073,360 2098,360 2098,300"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_2_w19",
+                "coords": {
+                  "points": "2124,298 2124,358 2214,358 2214,298"
+                },
+                "text": "most"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "269,479 1062,479 1062,409 998,396 470,421 433,396 269,428"
+            },
+            "baseline": {
+              "points": "283,450 322,453 361,453 400,451 440,450 479,451 518,453 557,453 597,450 636,450 675,452 714,453 754,451 793,450 832,450 871,450 911,450 950,447 989,447 1028,449 1068,450"
+            },
+            "text": "accurate (McCord & Fridovich 1969).",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "269,413 269,473 427,473 427,413"
+                },
+                "text": "accurate"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "454,413 454,473 634,473 634,413"
+                },
+                "text": "(McCord"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "662,412 662,472 694,472 694,412"
+                },
+                "text": "&"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "716,410 716,470 901,470 901,410"
+                },
+                "text": "Fridovich"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "935,407 935,467 1065,467 1065,407"
+                },
+                "text": "1969)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "428,612 660,582 712,619 763,580 829,619 1064,582 1174,621 1551,580 1685,582 1734,626 1822,580 2153,612 2153,528 1791,541 1661,489 1612,538 1363,501 1162,531 1089,492 873,533 790,482 624,536 428,504"
+            },
+            "baseline": {
+              "points": "441,567 526,567 612,567 698,566 784,569 870,568 956,570 1041,570 1127,570 1213,569 1299,567 1385,567 1471,567 1557,567 1642,570 1728,567 1814,567 1900,567 1986,568 2072,570 2158,570"
+            },
+            "text": "Each day, the average background rate of cytochrome c oxidation was determined to",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "432,527 432,587 518,587 518,527"
+                },
+                "text": "Each"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "542,527 542,587 628,587 628,527"
+                },
+                "text": "day,"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "643,526 643,586 691,586 691,526"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "720,528 720,588 864,588 864,528"
+                },
+                "text": "average"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "888,530 888,590 1114,590 1114,530"
+                },
+                "text": "background"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1143,529 1143,589 1205,589 1205,529"
+                },
+                "text": "rate"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1230,528 1230,588 1267,588 1267,528"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1287,527 1287,587 1512,587 1512,527"
+                },
+                "text": "cytochrome"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1537,527 1537,587 1551,587 1551,527"
+                },
+                "text": "c"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1571,529 1571,589 1753,589 1753,529"
+                },
+                "text": "oxidation"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1778,527 1778,587 1849,587 1849,527"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1869,527 1869,587 2084,587 2084,527"
+                },
+                "text": "determined"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "2114,530 2114,590 2137,590 2137,530"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "279,746 1032,692 1230,739 1341,692 1580,695 1639,741 1959,700 2082,746 2057,616 1764,651 1206,609 1150,651 279,634"
+            },
+            "baseline": {
+              "points": "292,683 381,680 471,680 561,680 651,683 741,680 831,683 920,683 1010,683 1100,683 1190,683 1280,683 1370,683 1460,683 1549,680 1639,683 1729,683 1819,683 1909,683 1999,683 2089,686"
+            },
+            "text": "account for innate daily variation. Each sample was assayed three times. The data were",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "278,640 278,700 431,700 431,640"
+                },
+                "text": "account"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "447,640 447,700 499,700 499,640"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "519,640 519,700 629,700 629,640"
+                },
+                "text": "innate"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "654,641 654,701 745,701 745,641"
+                },
+                "text": "daily"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "770,643 770,703 962,703 962,643"
+                },
+                "text": "variation."
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "991,643 991,703 1078,703 1078,643"
+                },
+                "text": "Each"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1103,643 1103,703 1237,703 1237,643"
+                },
+                "text": "sample"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1261,643 1261,703 1329,703 1329,643"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1354,643 1354,703 1497,703 1497,643"
+                },
+                "text": "assayed"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1522,640 1522,700 1613,700 1613,640"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1638,643 1638,703 1758,703 1758,643"
+                },
+                "text": "times."
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1787,643 1787,703 1855,703 1855,643"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1884,643 1884,703 1956,703 1956,643"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "1980,643 1980,703 2066,703 2066,643"
+                },
+                "text": "were"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "276,844 585,805 976,851 1115,822 1255,854 1365,810 1546,844 1788,815 1889,861 1991,810 2153,824 2153,756 2067,741 276,744"
+            },
+            "baseline": {
+              "points": "289,794 382,794 475,797 569,797 662,797 756,798 849,798 943,796 1036,800 1130,797 1223,800 1316,800 1410,800 1503,800 1597,798 1690,800 1784,797 1877,800 1971,800 2064,800 2158,797"
+            },
+            "text": "collected in excel, and a linear regression was run on the first 20 seconds of each data file in",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "280,754 280,814 447,814 447,754"
+                },
+                "text": "collected"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "477,757 477,817 500,817 500,757"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "525,757 525,817 645,817 645,757"
+                },
+                "text": "excel,"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "660,757 660,817 722,817 722,757"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "747,757 747,817 756,817 756,757"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "785,758 785,818 891,818 891,758"
+                },
+                "text": "linear"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "910,758 910,818 1107,818 1107,758"
+                },
+                "text": "regression"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1132,758 1132,818 1203,818 1203,758"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1223,760 1223,820 1276,820 1276,760"
+                },
+                "text": "run"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1305,760 1305,820 1343,820 1343,760"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1368,760 1368,820 1415,820 1415,760"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1445,760 1445,820 1521,820 1521,760"
+                },
+                "text": "first"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1536,758 1536,818 1574,818 1574,758"
+                },
+                "text": "20"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1603,759 1603,819 1752,819 1752,759"
+                },
+                "text": "seconds"
+              },
+              {
+                "id": "tr_1_tl_6_w15",
+                "coords": {
+                  "points": "1777,757 1777,817 1815,817 1815,757"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w16",
+                "coords": {
+                  "points": "1835,759 1835,819 1911,819 1911,759"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_6_w17",
+                "coords": {
+                  "points": "1941,760 1941,820 2012,820 2012,760"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_6_w18",
+                "coords": {
+                  "points": "2037,760 2037,820 2089,820 2089,760"
+                },
+                "text": "file"
+              },
+              {
+                "id": "tr_1_tl_6_w19",
+                "coords": {
+                  "points": "2119,757 2119,817 2142,817 2142,757"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "276,949 1037,959 1211,922 1301,966 1392,925 1593,961 1737,925 1933,971 2207,939 2207,861 1950,837 1783,876 276,876"
+            },
+            "baseline": {
+              "points": "289,910 385,910 481,910 577,910 673,910 769,912 865,913 961,910 1057,910 1153,913 1249,913 1345,913 1441,913 1537,913 1633,913 1729,913 1825,913 1921,913 2017,913 2113,913 2209,916"
+            },
+            "text": "order to avoid possible curvature due to slowing down of reactions as they run out of substrate.",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "280,870 280,930 380,930 380,870"
+                },
+                "text": "order"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "400,870 400,930 428,930 428,870"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "453,870 453,930 553,930 553,870"
+                },
+                "text": "avoid"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "578,870 578,930 731,930 731,870"
+                },
+                "text": "possible"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "760,872 760,932 937,932 937,872"
+                },
+                "text": "curvature"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "962,870 962,930 1024,930 1024,870"
+                },
+                "text": "due"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1048,870 1048,930 1072,930 1072,870"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1102,873 1102,933 1245,933 1245,873"
+                },
+                "text": "slowing"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1274,873 1274,933 1370,933 1370,873"
+                },
+                "text": "down"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1400,873 1400,933 1437,933 1437,873"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1452,873 1452,933 1629,933 1629,873"
+                },
+                "text": "reactions"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1649,873 1649,933 1682,933 1682,873"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1707,873 1707,933 1778,933 1778,873"
+                },
+                "text": "they"
+              },
+              {
+                "id": "tr_1_tl_7_w14",
+                "coords": {
+                  "points": "1808,873 1808,933 1860,933 1860,873"
+                },
+                "text": "run"
+              },
+              {
+                "id": "tr_1_tl_7_w15",
+                "coords": {
+                  "points": "1889,873 1889,933 1947,933 1947,873"
+                },
+                "text": "out"
+              },
+              {
+                "id": "tr_1_tl_7_w16",
+                "coords": {
+                  "points": "1967,873 1967,933 2004,933 2004,873"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w17",
+                "coords": {
+                  "points": "2019,873 2019,933 2211,933 2211,873"
+                },
+                "text": "substrate."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "276,1059 817,1084 1113,1040 1218,1084 1360,1047 2185,1047 2185,976 2133,971 1108,996 917,947 719,996 511,954 276,996"
+            },
+            "baseline": {
+              "points": "289,1024 384,1026 479,1026 574,1026 669,1026 764,1026 859,1026 954,1026 1049,1029 1144,1029 1240,1029 1335,1029 1430,1029 1525,1029 1620,1028 1715,1029 1810,1029 1905,1026 2000,1026 2095,1027 2191,1026"
+            },
+            "text": "A visual inspection of a scatter plot of the data from each assay determined whether any small",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "275,984 275,1044 285,1044 285,984"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "320,985 320,1045 438,1045 438,985"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "453,986 453,1046 650,1046 650,986"
+                },
+                "text": "inspection"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "676,986 676,1046 715,1046 715,986"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "735,986 735,1046 744,1046 744,986"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "770,986 770,1046 892,1046 892,986"
+                },
+                "text": "scatter"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "913,986 913,1046 992,1046 992,986"
+                },
+                "text": "plot"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1007,988 1007,1048 1041,1048 1041,988"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1062,989 1062,1049 1110,1049 1110,989"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1136,989 1136,1049 1209,1049 1209,989"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1235,989 1235,1049 1303,1049 1303,989"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1343,989 1343,1049 1422,1049 1422,989"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1452,989 1452,1049 1545,1049 1545,989"
+                },
+                "text": "assay"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1571,988 1571,1048 1788,1048 1788,988"
+                },
+                "text": "determined"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "1818,986 1818,1046 1976,1046 1976,986"
+                },
+                "text": "whether"
+              },
+              {
+                "id": "tr_1_tl_8_w16",
+                "coords": {
+                  "points": "1991,986 1991,1046 2055,1046 2055,986"
+                },
+                "text": "any"
+              },
+              {
+                "id": "tr_1_tl_8_w17",
+                "coords": {
+                  "points": "2080,986 2080,1046 2183,1046 2183,986"
+                },
+                "text": "small"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "284,1182 374,1213 448,1155 499,1201 631,1150 851,1194 932,1157 1155,1194 1287,1160 1475,1208 1558,1160 1627,1204 1690,1164 1774,1213 1896,1177 1986,1213 2057,1157 2143,1164 2143,1103 2096,1091 1788,1106 1744,1069 1649,1106 284,1086"
+            },
+            "baseline": {
+              "points": "298,1143 390,1143 483,1143 575,1140 668,1143 760,1143 853,1144 945,1145 1038,1143 1130,1143 1223,1143 1316,1143 1408,1143 1501,1143 1593,1143 1686,1143 1778,1143 1871,1146 1963,1143 2056,1143 2149,1146"
+            },
+            "text": "jumps or dips in the data (1 or 2 points) were likely to be significantly affecting the p-value.",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "284,1103 284,1163 402,1163 402,1103"
+                },
+                "text": "jumps"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "423,1103 423,1163 458,1163 458,1103"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "480,1101 480,1161 551,1161 551,1101"
+                },
+                "text": "dips"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "578,1100 578,1160 598,1160 598,1100"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "624,1102 624,1162 675,1162 675,1102"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "701,1103 701,1163 774,1163 774,1103"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "800,1103 800,1163 830,1163 830,1103"
+                },
+                "text": "(1"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "852,1104 852,1164 887,1164 887,1104"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "908,1104 908,1164 918,1164 918,1104"
+                },
+                "text": "2"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "949,1103 949,1163 1083,1163 1083,1103"
+                },
+                "text": "points)"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1099,1103 1099,1163 1186,1163 1186,1103"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1207,1103 1207,1163 1310,1163 1310,1103"
+                },
+                "text": "likely"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1337,1103 1337,1163 1362,1163 1362,1103"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "1388,1103 1388,1163 1424,1163 1424,1103"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "1450,1103 1450,1163 1687,1163 1687,1103"
+                },
+                "text": "significantly"
+              },
+              {
+                "id": "tr_1_tl_9_w16",
+                "coords": {
+                  "points": "1714,1103 1714,1163 1883,1163 1883,1103"
+                },
+                "text": "affecting"
+              },
+              {
+                "id": "tr_1_tl_9_w17",
+                "coords": {
+                  "points": "1910,1103 1910,1163 1960,1163 1960,1103"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w18",
+                "coords": {
+                  "points": "1982,1103 1982,1163 2146,1163 2146,1103"
+                },
+                "text": "p-value."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "279,1309 438,1284 563,1323 675,1272 873,1270 1123,1309 1309,1270 1375,1309 1641,1270 1756,1314 2067,1274 2067,1226 1920,1196 279,1213"
+            },
+            "baseline": {
+              "points": "292,1253 381,1253 470,1256 559,1256 648,1256 737,1256 826,1256 915,1259 1004,1259 1093,1256 1183,1259 1272,1259 1361,1259 1450,1259 1539,1259 1628,1259 1717,1259 1806,1259 1895,1259 1984,1256 2074,1259"
+            },
+            "text": "These values were discarded and the regression re-run. The slope of the regression was",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "278,1213 278,1273 382,1273 382,1213"
+                },
+                "text": "These"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "407,1215 407,1275 530,1275 530,1215"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "551,1216 551,1276 634,1276 634,1216"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "665,1216 665,1276 842,1276 842,1216"
+                },
+                "text": "discarded"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "873,1218 873,1278 932,1278 932,1218"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "957,1219 957,1279 1006,1279 1006,1219"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1031,1217 1031,1277 1229,1277 1229,1217"
+                },
+                "text": "regression"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1254,1219 1254,1279 1387,1279 1387,1219"
+                },
+                "text": "re-run."
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1418,1219 1418,1279 1486,1279 1486,1219"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1507,1219 1507,1279 1605,1279 1605,1219"
+                },
+                "text": "slope"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1631,1219 1631,1279 1670,1279 1670,1219"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1685,1219 1685,1279 1734,1279 1734,1219"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "1759,1219 1759,1279 1957,1279 1957,1219"
+                },
+                "text": "regression"
+              },
+              {
+                "id": "tr_1_tl_10_w14",
+                "coords": {
+                  "points": "1987,1217 1987,1277 2056,1277 2056,1217"
+                },
+                "text": "was"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "269,1389 568,1434 851,1385 1054,1434 1160,1387 1908,1434 2204,1392 2204,1311 269,1319"
+            },
+            "baseline": {
+              "points": "283,1373 379,1370 475,1370 571,1370 668,1371 764,1370 860,1373 957,1373 1053,1373 1149,1373 1246,1373 1342,1373 1438,1373 1534,1373 1631,1373 1727,1373 1823,1373 1920,1373 2016,1373 2112,1373 2209,1373"
+            },
+            "text": "converted to units of S\u00d6D using the relationship: units of inhibition = (standardized activity of",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "269,1330 269,1390 451,1390 451,1330"
+                },
+                "text": "converted"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "477,1330 477,1390 502,1390 502,1330"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "533,1330 533,1390 619,1390 619,1330"
+                },
+                "text": "units"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "645,1330 645,1390 680,1390 680,1330"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "701,1330 701,1390 777,1390 777,1330"
+                },
+                "text": "S\u00d6D"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "813,1333 813,1393 910,1393 910,1333"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "941,1333 941,1393 986,1393 986,1333"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1012,1333 1012,1393 1266,1393 1266,1333"
+                },
+                "text": "relationship:"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1282,1333 1282,1393 1373,1393 1373,1333"
+                },
+                "text": "units"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1394,1333 1394,1393 1434,1393 1434,1333"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1449,1333 1449,1393 1632,1393 1632,1333"
+                },
+                "text": "inhibition"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1658,1333 1658,1393 1668,1393 1668,1333"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1704,1333 1704,1393 1963,1393 1963,1333"
+                },
+                "text": "(standardized"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "1994,1333 1994,1393 2131,1393 2131,1333"
+                },
+                "text": "activity"
+              },
+              {
+                "id": "tr_1_tl_11_w15",
+                "coords": {
+                  "points": "2157,1333 2157,1393 2197,1393 2197,1333"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "276,1504 399,1556 599,1490 775,1539 925,1497 1526,1553 1744,1512 1813,1539 1859,1500 2236,1539 2236,1441 2096,1431 276,1451"
+            },
+            "baseline": {
+              "points": "289,1486 386,1486 484,1486 581,1484 679,1489 777,1489 874,1489 972,1489 1070,1487 1167,1489 1265,1489 1363,1489 1460,1489 1558,1489 1656,1489 1753,1486 1851,1489 1949,1489 2046,1489 2144,1489 2242,1489"
+            },
+            "text": "sample) / (100 - standardized activity of sample) and standardized activity of sample = ((rate of",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "271,1446 271,1506 426,1506 426,1446"
+                },
+                "text": "sample)"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "442,1446 442,1506 452,1506 452,1446"
+                },
+                "text": "/"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "468,1445 468,1505 550,1505 550,1445"
+                },
+                "text": "(100"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "572,1444 572,1504 582,1504 582,1444"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "613,1449 613,1509 857,1509 857,1449"
+                },
+                "text": "standardized"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "889,1449 889,1509 1023,1509 1023,1449"
+                },
+                "text": "activity"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1050,1447 1050,1507 1091,1507 1091,1447"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1107,1449 1107,1509 1262,1509 1262,1449"
+                },
+                "text": "sample)"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1279,1449 1279,1509 1340,1509 1340,1449"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1367,1449 1367,1509 1611,1509 1611,1449"
+                },
+                "text": "standardized"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1637,1447 1637,1507 1777,1507 1777,1447"
+                },
+                "text": "activity"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1804,1448 1804,1508 1839,1508 1839,1448"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1855,1449 1855,1509 1990,1509 1990,1449"
+                },
+                "text": "sample"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "2011,1449 2011,1509 2021,1509 2021,1449"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_12_w15",
+                "coords": {
+                  "points": "2058,1449 2058,1509 2166,1509 2166,1449"
+                },
+                "text": "((rate"
+              },
+              {
+                "id": "tr_1_tl_12_w16",
+                "coords": {
+                  "points": "2193,1449 2193,1509 2229,1509 2229,1449"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "276,1673 736,1612 925,1659 1057,1615 1248,1659 1353,1610 1644,1661 1862,1615 2211,1666 2211,1553 2023,1539 1947,1578 1480,1539 1208,1570 1147,1536 974,1578 785,1531 734,1573 450,1536 276,1575"
+            },
+            "baseline": {
+              "points": "289,1600 385,1603 481,1603 578,1603 674,1603 771,1603 867,1606 964,1603 1060,1606 1157,1606 1253,1606 1349,1606 1446,1606 1542,1606 1639,1606 1735,1603 1832,1603 1928,1604 2025,1603 2121,1603 2218,1603"
+            },
+            "text": "change in absorbance of daily average background - rate of change in absorbance of individual",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "275,1561 275,1621 408,1621 408,1561"
+                },
+                "text": "change"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "433,1563 433,1623 457,1623 457,1563"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "487,1563 487,1623 703,1623 703,1563"
+                },
+                "text": "absorbance"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "728,1563 728,1623 767,1623 767,1563"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "783,1564 783,1624 871,1624 871,1564"
+                },
+                "text": "daily"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "896,1563 896,1623 1043,1623 1043,1563"
+                },
+                "text": "average"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1068,1566 1068,1626 1294,1626 1294,1566"
+                },
+                "text": "background"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1314,1566 1314,1626 1324,1626 1324,1566"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1359,1566 1359,1626 1417,1626 1417,1566"
+                },
+                "text": "rate"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1447,1566 1447,1626 1481,1626 1481,1566"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1502,1566 1502,1626 1629,1626 1629,1566"
+                },
+                "text": "change"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1659,1565 1659,1625 1683,1625 1683,1565"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1708,1563 1708,1623 1924,1623 1924,1563"
+                },
+                "text": "absorbance"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "1950,1563 1950,1623 1988,1623 1988,1563"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w15",
+                "coords": {
+                  "points": "2009,1563 2009,1623 2205,1623 2205,1563"
+                },
+                "text": "individual"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "269,1771 472,1729 577,1774 660,1729 724,1766 993,1729 1270,1766 1815,1737 1959,1786 2116,1756 2116,1659 1871,1678 1825,1637 1668,1683 269,1663"
+            },
+            "baseline": {
+              "points": "283,1719 379,1713 476,1719 573,1719 670,1717 766,1719 863,1719 960,1719 1057,1719 1154,1719 1250,1720 1347,1719 1444,1719 1541,1719 1638,1719 1734,1722 1831,1717 1928,1719 2025,1719 2122,1719"
+            },
+            "text": "assay) / rate of change in absorbance of daily average background rate) * 100. Given this",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "269,1676 269,1736 388,1736 388,1676"
+                },
+                "text": "assay)"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "400,1674 400,1734 415,1734 415,1674"
+                },
+                "text": "/"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "431,1678 431,1738 493,1738 493,1678"
+                },
+                "text": "rate"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "520,1679 520,1739 561,1739 561,1679"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "577,1677 577,1737 707,1737 707,1677"
+                },
+                "text": "change"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "734,1678 734,1738 760,1738 760,1678"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "786,1679 786,1739 1005,1739 1005,1679"
+                },
+                "text": "absorbance"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1032,1679 1032,1739 1068,1739 1068,1679"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1089,1679 1089,1739 1172,1739 1172,1679"
+                },
+                "text": "daily"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1200,1679 1200,1739 1346,1739 1346,1679"
+                },
+                "text": "average"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1372,1679 1372,1739 1602,1739 1602,1679"
+                },
+                "text": "background"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1628,1680 1628,1740 1732,1740 1732,1680"
+                },
+                "text": "rate)"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1749,1680 1749,1740 1764,1740 1764,1680"
+                },
+                "text": "*"
+              },
+              {
+                "id": "tr_1_tl_14_w14",
+                "coords": {
+                  "points": "1790,1677 1790,1737 1873,1737 1873,1677"
+                },
+                "text": "100."
+              },
+              {
+                "id": "tr_1_tl_14_w15",
+                "coords": {
+                  "points": "1900,1679 1900,1739 2014,1739 2014,1679"
+                },
+                "text": "Given"
+              },
+              {
+                "id": "tr_1_tl_14_w16",
+                "coords": {
+                  "points": "2041,1679 2041,1739 2103,1739 2103,1679"
+                },
+                "text": "this"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "269,1874 394,1898 746,1849 783,1884 1360,1896 1465,1847 1551,1886 1759,1844 1837,1898 1964,1862 2089,1891 2089,1796 2048,1778 269,1793"
+            },
+            "baseline": {
+              "points": "283,1830 373,1833 464,1833 554,1833 645,1833 736,1833 826,1836 917,1836 1007,1833 1098,1833 1189,1833 1279,1833 1370,1834 1460,1833 1551,1834 1642,1836 1732,1833 1823,1833 1913,1833 2004,1834 2095,1836"
+            },
+            "text": "relationship, one unit is defined as 50% inhibition of the \u201ccontrol rate\" (rate of change in",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "269,1793 269,1853 523,1853 523,1793"
+                },
+                "text": "relationship,"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "539,1793 539,1853 599,1853 599,1793"
+                },
+                "text": "one"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "625,1793 625,1853 701,1853 701,1793"
+                },
+                "text": "unit"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "717,1793 717,1853 742,1853 742,1793"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "763,1796 763,1856 905,1856 905,1796"
+                },
+                "text": "defined"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "931,1794 931,1854 966,1854 966,1794"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "987,1793 987,1853 1048,1853 1048,1793"
+                },
+                "text": "50%"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1094,1793 1094,1853 1277,1853 1277,1793"
+                },
+                "text": "inhibition"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1303,1793 1303,1853 1343,1853 1343,1793"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1359,1793 1359,1853 1409,1853 1409,1793"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1435,1793 1435,1853 1598,1853 1598,1793"
+                },
+                "text": "\u201ccontrol"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1614,1795 1614,1855 1700,1855 1700,1795"
+                },
+                "text": "rate\""
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1726,1793 1726,1853 1807,1853 1807,1793"
+                },
+                "text": "(rate"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "1833,1793 1833,1853 1873,1853 1873,1793"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w15",
+                "coords": {
+                  "points": "1889,1793 1889,1853 2026,1853 2026,1793"
+                },
+                "text": "change"
+              },
+              {
+                "id": "tr_1_tl_15_w16",
+                "coords": {
+                  "points": "2052,1795 2052,1855 2072,1855 2072,1795"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "276,1957 599,2013 775,1962 1145,2013 1338,1967 1416,2006 1456,1972 1656,2003 1742,1969 1908,2016 1972,1969 2060,2011 2148,1986 2121,1884 276,1898"
+            },
+            "baseline": {
+              "points": "289,1946 382,1946 475,1946 568,1946 662,1946 755,1947 848,1948 942,1949 1035,1949 1128,1949 1222,1949 1315,1946 1408,1949 1501,1949 1595,1946 1688,1948 1781,1948 1875,1949 1968,1949 2061,1949 2155,1946"
+            },
+            "text": "absorbance of daily average background) of cytochrome c inhibition. The p-values for each",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "271,1906 271,1966 483,1966 483,1906"
+                },
+                "text": "absorbance"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "514,1906 514,1966 549,1966 549,1906"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "570,1906 570,1966 655,1966 655,1906"
+                },
+                "text": "daily"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "681,1906 681,1966 828,1966 828,1906"
+                },
+                "text": "average"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "854,1909 854,1969 1107,1969 1107,1909"
+                },
+                "text": "background)"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1122,1909 1122,1969 1162,1969 1162,1909"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1178,1906 1178,1966 1406,1966 1406,1906"
+                },
+                "text": "cytochrome"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1427,1909 1427,1969 1441,1969 1441,1909"
+                },
+                "text": "c"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1467,1906 1467,1966 1675,1966 1675,1906"
+                },
+                "text": "inhibition."
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1706,1908 1706,1968 1771,1968 1771,1908"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1797,1909 1797,1969 1958,1969 1958,1909"
+                },
+                "text": "p-values"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1984,1909 1984,1969 2035,1969 2035,1909"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "2055,1907 2055,1967 2131,1967 2131,1907"
+                },
+                "text": "each"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "272,2072 492,2114 1380,2074 1465,2116 2180,2074 2180,1994 272,2018"
+            },
+            "baseline": {
+              "points": "286,2059 385,2059 485,2059 585,2060 685,2063 785,2062 885,2062 985,2062 1085,2060 1185,2060 1285,2062 1385,2062 1485,2062 1585,2062 1685,2062 1785,2062 1885,2061 1985,2060 2085,2062 2185,2056"
+            },
+            "text": "regression were checked, and those below 0.95 were discarded. The choice to reject p-values",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "271,2019 271,2079 464,2079 464,2019"
+                },
+                "text": "regression"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "494,2019 494,2079 578,2079 578,2019"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "603,2022 603,2082 786,2082 786,2022"
+                },
+                "text": "checked,"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "801,2022 801,2082 860,2082 860,2022"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "886,2022 886,2082 979,2082 979,2022"
+                },
+                "text": "those"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1009,2020 1009,2080 1108,2080 1108,2020"
+                },
+                "text": "below"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1144,2020 1144,2080 1222,2080 1222,2020"
+                },
+                "text": "0.95"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1247,2022 1247,2082 1331,2082 1331,2022"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1356,2022 1356,2082 1564,2082 1564,2022"
+                },
+                "text": "discarded."
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1590,2022 1590,2082 1658,2082 1658,2022"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1684,2022 1684,2082 1807,2082 1807,2022"
+                },
+                "text": "choice"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1833,2021 1833,2081 1857,2081 1857,2021"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1882,2020 1882,2080 1995,2080 1995,2020"
+                },
+                "text": "reject"
+              },
+              {
+                "id": "tr_1_tl_17_w14",
+                "coords": {
+                  "points": "2011,2021 2011,2081 2173,2081 2173,2021"
+                },
+                "text": "p-values"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "276,2185 700,2204 744,2243 871,2202 915,2243 996,2204 1123,2231 1172,2194 1336,2233 1426,2185 2226,2229 2226,2133 2106,2114 1544,2140 1394,2099 1348,2138 717,2145 492,2114 362,2148 276,2094"
+            },
+            "baseline": {
+              "points": "289,2176 386,2176 483,2176 580,2176 677,2177 775,2179 872,2179 969,2177 1066,2179 1163,2179 1261,2179 1358,2176 1455,2176 1552,2178 1649,2179 1747,2176 1844,2176 1941,2176 2038,2176 2135,2176 2233,2173"
+            },
+            "text": "below 0.95 was arbitrary, but driven by the consistent ability to attain p-values above 0.98 (data",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "276,2136 276,2196 376,2196 376,2136"
+                },
+                "text": "below"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "417,2136 417,2196 487,2196 487,2136"
+                },
+                "text": "0.95"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "518,2136 518,2196 588,2196 588,2136"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "610,2137 610,2197 791,2197 791,2137"
+                },
+                "text": "arbitrary,"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "812,2139 812,2199 872,2199 872,2139"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "888,2137 888,2197 1004,2197 1004,2137"
+                },
+                "text": "driven"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1030,2138 1030,2198 1065,2198 1065,2138"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1091,2139 1091,2199 1141,2199 1141,2139"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1166,2138 1166,2198 1369,2198 1369,2138"
+                },
+                "text": "consistent"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1384,2136 1384,2196 1500,2196 1500,2136"
+                },
+                "text": "ability"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1526,2137 1526,2197 1551,2197 1551,2137"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1577,2138 1577,2198 1678,2198 1678,2138"
+                },
+                "text": "attain"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1704,2136 1704,2196 1870,2196 1870,2136"
+                },
+                "text": "p-values"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "1891,2136 1891,2196 2002,2196 2002,2136"
+                },
+                "text": "above"
+              },
+              {
+                "id": "tr_1_tl_18_w15",
+                "coords": {
+                  "points": "2023,2136 2023,2196 2103,2196 2103,2136"
+                },
+                "text": "0.98"
+              },
+              {
+                "id": "tr_1_tl_18_w16",
+                "coords": {
+                  "points": "2129,2134 2129,2194 2214,2194 2214,2134"
+                },
+                "text": "(data"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "269,2341 450,2307 981,2348 1243,2302 1632,2348 2236,2302 2236,2231 465,2258 269,2221"
+            },
+            "baseline": {
+              "points": "283,2292 380,2291 478,2291 576,2292 674,2289 772,2295 869,2293 967,2292 1065,2293 1163,2292 1261,2292 1358,2292 1456,2291 1554,2291 1652,2292 1750,2292 1847,2289 1945,2291 2043,2289 2141,2289 2239,2286"
+            },
+            "text": "not shown). Very few samples were rejected (less than 5%). The remaining two assays for each",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "269,2251 269,2311 330,2311 330,2251"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "347,2251 347,2311 507,2311 507,2251"
+                },
+                "text": "shown)."
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "539,2251 539,2311 626,2311 626,2251"
+                },
+                "text": "Very"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "653,2249 653,2309 704,2309 704,2249"
+                },
+                "text": "few"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "741,2254 741,2314 896,2314 896,2254"
+                },
+                "text": "samples"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "917,2252 917,2312 1005,2312 1005,2252"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1026,2252 1026,2312 1176,2312 1176,2252"
+                },
+                "text": "rejected"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1202,2252 1202,2312 1285,2312 1285,2252"
+                },
+                "text": "(less"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1306,2252 1306,2312 1378,2312 1378,2252"
+                },
+                "text": "than"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1410,2251 1410,2311 1503,2311 1503,2251"
+                },
+                "text": "5%)."
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1529,2251 1529,2311 1596,2311 1596,2251"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1622,2252 1622,2312 1814,2312 1814,2252"
+                },
+                "text": "remaining"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1840,2249 1840,2309 1907,2309 1907,2249"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_19_w14",
+                "coords": {
+                  "points": "1934,2250 1934,2310 2052,2310 2052,2250"
+                },
+                "text": "assays"
+              },
+              {
+                "id": "tr_1_tl_19_w15",
+                "coords": {
+                  "points": "2074,2249 2074,2309 2125,2309 2125,2249"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_19_w16",
+                "coords": {
+                  "points": "2146,2247 2146,2307 2223,2307 2223,2247"
+                },
+                "text": "each"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "269,2441 976,2463 1289,2419 1348,2458 1617,2461 1715,2422 1857,2476 1999,2427 2153,2458 2153,2356 2025,2348 1101,2375 910,2331 822,2373 599,2339 497,2378 269,2341"
+            },
+            "baseline": {
+              "points": "283,2406 376,2408 470,2408 564,2406 658,2409 751,2407 845,2409 939,2409 1033,2406 1126,2406 1220,2406 1314,2406 1408,2406 1501,2406 1595,2406 1689,2406 1783,2406 1876,2406 1970,2406 2064,2406 2158,2403"
+            },
+            "text": "sample were averaged to yield the S\u00d6D activity. For those samples that all three assays had",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "269,2367 269,2427 395,2427 395,2367"
+                },
+                "text": "sample"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "422,2368 422,2428 507,2428 507,2368"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "534,2367 534,2427 707,2427 707,2367"
+                },
+                "text": "averaged"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "733,2367 733,2427 758,2427 758,2367"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "784,2368 784,2428 875,2428 875,2368"
+                },
+                "text": "yield"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "902,2369 902,2429 952,2429 952,2369"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "978,2366 978,2426 1054,2426 1054,2366"
+                },
+                "text": "S\u00d6D"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1090,2366 1090,2426 1258,2426 1258,2366"
+                },
+                "text": "activity."
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1284,2366 1284,2426 1350,2426 1350,2366"
+                },
+                "text": "For"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1366,2366 1366,2426 1462,2426 1462,2366"
+                },
+                "text": "those"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1488,2366 1488,2426 1646,2426 1646,2366"
+                },
+                "text": "samples"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1667,2366 1667,2426 1743,2426 1743,2366"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1759,2366 1759,2426 1804,2426 1804,2366"
+                },
+                "text": "all"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "1820,2366 1820,2426 1912,2426 1912,2366"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_20_w15",
+                "coords": {
+                  "points": "1938,2366 1938,2426 2059,2426 2059,2366"
+                },
+                "text": "assays"
+              },
+              {
+                "id": "tr_1_tl_20_w16",
+                "coords": {
+                  "points": "2080,2364 2080,2424 2141,2424 2141,2364"
+                },
+                "text": "had"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "269,2554 685,2581 878,2532 915,2569 1067,2547 1184,2586 1416,2547 1487,2603 1644,2561 1832,2598 1915,2532 2021,2539 2021,2480 1957,2458 1752,2485 1629,2451 1563,2493 1071,2449 905,2488 269,2473"
+            },
+            "baseline": {
+              "points": "283,2519 370,2522 457,2519 544,2522 631,2522 719,2522 806,2522 893,2522 980,2522 1067,2522 1155,2521 1242,2520 1329,2519 1416,2520 1503,2522 1591,2519 1678,2519 1765,2519 1852,2522 1939,2519 2027,2522"
+            },
+            "text": "sufficiently high p-values, the two closer trials were averaged to yield overall activity.",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "268,2481 268,2541 486,2541 486,2481"
+                },
+                "text": "sufficiently"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "511,2482 511,2542 585,2542 585,2482"
+                },
+                "text": "high"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "616,2482 616,2542 799,2542 799,2482"
+                },
+                "text": "p-values,"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "814,2482 814,2542 863,2542 863,2482"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "888,2482 888,2542 952,2542 952,2482"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "978,2482 978,2542 1092,2542 1092,2482"
+                },
+                "text": "closer"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1112,2480 1112,2540 1206,2540 1206,2480"
+                },
+                "text": "trials"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1231,2479 1231,2539 1315,2539 1315,2479"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1341,2480 1341,2540 1508,2540 1508,2480"
+                },
+                "text": "averaged"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1539,2480 1539,2540 1563,2540 1563,2480"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1588,2479 1588,2539 1677,2539 1677,2479"
+                },
+                "text": "yield"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1708,2479 1708,2539 1846,2539 1846,2479"
+                },
+                "text": "overall"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "1861,2479 1861,2539 2024,2539 2024,2479"
+                },
+                "text": "activity."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "272,2764 460,2762 541,2789 565,2767 619,2789 643,2772 700,2794 788,2776 788,2696 719,2708 673,2681 602,2684 550,2662 482,2684 391,2647 313,2696 272,2696"
+            },
+            "baseline": {
+              "points": "286,2746 311,2748 336,2749 362,2751 387,2752 413,2752 438,2753 463,2755 489,2753 514,2752 540,2752 565,2752 590,2752 616,2752 641,2752 667,2752 692,2752 717,2752 743,2752 768,2752 794,2752"
+            },
+            "text": "Catalase Activity Assay:",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "277,2710 277,2770 436,2770 436,2710"
+                },
+                "text": "Catalase"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "463,2712 463,2772 621,2772 621,2712"
+                },
+                "text": "Activity"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "649,2712 649,2772 786,2772 786,2712"
+                },
+                "text": "Assay:"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

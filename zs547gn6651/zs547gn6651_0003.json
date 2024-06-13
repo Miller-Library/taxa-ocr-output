@@ -1,0 +1,2244 @@
+{
+  "processId": 10409278,
+  "status": "FINISHED",
+  "content": {
+    "text": "opposite manner. The axonal projections of retinal ganglion cells aggregate to form the optic\nnerve. In non-mammalian vertebrates, these axons synapse onto the optic tectum (Fig. 2). In fish,\nthe optic tectum is the largest center for visual processing and appears to play a significant role\nin predator/prey discrimination by initiating either escape or hunting, respectively. The\nmammalian analog of the optic tectum is known as the superior colliculus. Another group of\nneurons connects the superior colliculus to the cerebral cortex, the primary visual center in\nmammalian vertebrates that is absent in lower vertebrates. Interestingly, the number of retinal\nfibers in the visual afferent pathway to the optic tectum decreases considerably from lower\nvertebrates to mammals (Cajal 1995). From the optic tectum, signals are relayed to the pair of\nMauthner neurons that surround the brainstem (Zottoli 1987). Each Mauthner cell sends a\ncrossed projection to a group of motoneurons and simultaneously inhibits the M-cell located on\nthe opposite side of the fish. These motoneurons are responsible for the contraction of muscle\nfibers along the entire length of the zebrafish flank, which ultimately creates a visible startle\nresponse.\nIn this study, we recorded both behavioral and electrophysiological responses of zebrafish to\nthe looming stimulus. We stimulated on-center and off-center cells in the retina to create action\npotentials that traveled along the optic nerve to the optic tectum, which were then measured\nusing electrophysiological techniques. Our objective was to resolve differences in the processing\nof on- and off-responses in the optic nerve and at the optic tectum. By observing discrepancies in\nshape, relative amplitude, and duration, we hoped to elucidate whether higher-order processing\nof visual input occurs in the optic tectum of adult zebrafish.",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "286,282 286,2665 2274,2665 2274,282"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "285,395 544,355 1127,385 1306,350 1408,390 2257,357 2257,300 2113,271 2021,305 285,283"
+            },
+            "baseline": {
+              "points": "298,337 396,340 494,340 592,340 690,340 789,337 887,340 985,337 1083,338 1181,337 1280,340 1378,337 1476,339 1574,338 1672,340 1771,340 1869,340 1967,340 2065,340 2163,338 2262,340"
+            },
+            "text": "opposite manner. The axonal projections of retinal ganglion cells aggregate to form the optic",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "290,299 290,359 450,359 450,299"
+                },
+                "text": "opposite"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "481,300 481,360 646,360 646,300"
+                },
+                "text": "manner."
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "667,299 667,359 731,359 731,299"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "762,298 762,358 897,358 897,298"
+                },
+                "text": "axonal"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "918,297 918,357 1139,357 1139,297"
+                },
+                "text": "projections"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "1164,297 1164,357 1204,357 1204,297"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1225,299 1225,359 1355,359 1355,299"
+                },
+                "text": "retinal"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1371,298 1371,358 1541,358 1541,298"
+                },
+                "text": "ganglion"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1572,298 1572,358 1657,358 1657,298"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1683,300 1683,360 1873,360 1873,300"
+                },
+                "text": "aggregate"
+              },
+              {
+                "id": "tr_1_tl_1_w11",
+                "coords": {
+                  "points": "1899,300 1899,360 1928,360 1928,300"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_1_w12",
+                "coords": {
+                  "points": "1959,300 1959,360 2029,360 2029,300"
+                },
+                "text": "form"
+              },
+              {
+                "id": "tr_1_tl_1_w13",
+                "coords": {
+                  "points": "2075,299 2075,359 2124,359 2124,299"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_1_w14",
+                "coords": {
+                  "points": "2155,298 2155,358 2245,358 2245,298"
+                },
+                "text": "optic"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "278,479 633,514 772,467 1338,511 1658,464 2252,484 2252,415 2187,397 278,412"
+            },
+            "baseline": {
+              "points": "292,450 390,451 488,453 587,452 685,453 783,453 882,451 980,453 1078,453 1177,452 1275,453 1373,453 1472,453 1570,453 1668,453 1767,453 1865,453 1963,453 2062,456 2160,454 2259,453"
+            },
+            "text": "nerve. In non-mammalian vertebrates, these axons synapse onto the optic tectum (Fig. 2). In fish,",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "277,410 277,470 405,470 405,410"
+                },
+                "text": "nerve."
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "420,411 420,471 449,471 449,411"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "474,412 474,472 794,472 794,412"
+                },
+                "text": "non-mammalian"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "824,412 824,472 1054,472 1054,412"
+                },
+                "text": "vertebrates,"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1070,412 1070,472 1158,472 1158,412"
+                },
+                "text": "these"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1188,412 1188,472 1296,472 1296,412"
+                },
+                "text": "axons"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1316,413 1316,473 1463,473 1463,413"
+                },
+                "text": "synapse"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1488,413 1488,473 1566,473 1566,413"
+                },
+                "text": "onto"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1592,413 1592,473 1645,473 1645,413"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1670,413 1670,473 1758,473 1758,413"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1783,413 1783,473 1896,473 1896,413"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1936,413 1936,473 2029,473 2029,413"
+                },
+                "text": "(Fig."
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "2044,415 2044,475 2098,475 2098,415"
+                },
+                "text": "2)."
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "2113,414 2113,474 2142,474 2142,414"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_2_w15",
+                "coords": {
+                  "points": "2167,413 2167,473 2255,473 2255,413"
+                },
+                "text": "fish,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "276,586 1475,618 2259,581 2259,529 2068,514 276,511"
+            },
+            "baseline": {
+              "points": "289,567 387,567 486,570 584,568 683,567 782,570 880,570 979,570 1078,568 1176,570 1275,567 1374,570 1472,568 1571,570 1670,570 1768,570 1867,570 1966,570 2064,570 2163,570 2262,567"
+            },
+            "text": "the optic tectum is the largest center for visual processing and appears to play a significant role",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "275,527 275,587 324,587 324,527"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "355,527 355,587 443,587 443,527"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "468,529 468,589 581,589 581,529"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "627,527 627,587 651,587 651,527"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "671,527 671,587 725,587 725,527"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "750,530 750,590 883,590 883,530"
+                },
+                "text": "largest"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "903,530 903,590 1022,590 1022,530"
+                },
+                "text": "center"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1047,528 1047,588 1096,588 1096,528"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1121,529 1121,589 1239,589 1239,529"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1255,529 1255,589 1462,589 1462,529"
+                },
+                "text": "processing"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1492,529 1492,589 1551,589 1551,529"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1581,530 1581,590 1729,590 1729,530"
+                },
+                "text": "appears"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1749,530 1749,590 1778,590 1778,530"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "1809,530 1809,590 1882,590 1882,530"
+                },
+                "text": "play"
+              },
+              {
+                "id": "tr_1_tl_3_w15",
+                "coords": {
+                  "points": "1912,530 1912,590 1922,590 1922,530"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_3_w16",
+                "coords": {
+                  "points": "1947,530 1947,590 2164,590 2164,530"
+                },
+                "text": "significant"
+              },
+              {
+                "id": "tr_1_tl_3_w17",
+                "coords": {
+                  "points": "2179,528 2179,588 2248,588 2248,528"
+                },
+                "text": "role"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "273,685 586,732 923,735 1063,693 1278,735 2262,703 2262,645 2212,631 2152,663 1519,613 1288,660 1202,613 273,640"
+            },
+            "baseline": {
+              "points": "286,680 385,683 484,683 583,683 682,683 781,683 880,686 979,685 1078,685 1177,686 1277,686 1376,686 1475,685 1574,686 1673,686 1772,686 1871,686 1970,685 2069,684 2168,686 2268,686"
+            },
+            "text": "in predator/prey discrimination by initiating either escape or hunting, respectively. The",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "273,640 273,700 304,700 304,640"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "341,643 341,703 617,703 617,643"
+                },
+                "text": "predator/prey"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "654,643 654,703 956,703 956,643"
+                },
+                "text": "discrimination"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "993,645 993,705 1034,705 1034,645"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "1071,645 1071,705 1253,705 1253,645"
+                },
+                "text": "initiating"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1295,646 1295,706 1410,706 1410,646"
+                },
+                "text": "either"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1442,645 1442,705 1571,705 1571,645"
+                },
+                "text": "escape"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1608,646 1608,706 1649,706 1649,646"
+                },
+                "text": "or"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1681,646 1681,706 1858,706 1858,646"
+                },
+                "text": "hunting,"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1885,644 1885,704 2156,704 2156,644"
+                },
+                "text": "respectively."
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "2188,646 2188,706 2255,706 2255,646"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "278,819 385,812 439,859 539,822 660,859 1194,814 1333,859 1542,814 1931,814 1984,851 2262,819 2262,737 2204,775 2008,735 1693,770 278,760"
+            },
+            "baseline": {
+              "points": "292,799 390,799 489,799 587,799 686,796 785,799 883,797 982,800 1081,799 1179,799 1278,799 1377,799 1475,799 1574,799 1673,799 1771,799 1870,799 1969,799 2067,797 2166,796 2265,799"
+            },
+            "text": "mammalian analog of the optic tectum is known as the superior colliculus. Another group of",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "282,759 282,819 513,819 513,759"
+                },
+                "text": "mammalian"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "543,758 543,818 665,818 665,758"
+                },
+                "text": "analog"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "700,757 700,817 739,817 739,757"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "759,758 759,818 808,818 808,758"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "838,757 838,817 931,817 931,757"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "962,759 962,819 1074,819 1074,759"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1119,759 1119,819 1143,819 1143,759"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1173,759 1173,819 1296,819 1296,759"
+                },
+                "text": "known"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1326,759 1326,819 1365,819 1365,759"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1390,759 1390,819 1438,819 1438,759"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1468,759 1468,819 1636,819 1636,759"
+                },
+                "text": "superior"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1656,759 1656,819 1872,819 1872,759"
+                },
+                "text": "colliculus."
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1892,758 1892,818 2054,818 2054,758"
+                },
+                "text": "Another"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "2079,756 2079,816 2182,816 2182,756"
+                },
+                "text": "group"
+              },
+              {
+                "id": "tr_1_tl_5_w15",
+                "coords": {
+                  "points": "2217,758 2217,818 2251,818 2251,758"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "276,938 2259,933 2224,864 276,871"
+            },
+            "baseline": {
+              "points": "289,910 387,913 486,913 584,913 683,913 782,913 880,914 979,916 1078,916 1176,916 1275,913 1374,913 1472,916 1571,915 1670,916 1768,916 1867,915 1966,913 2064,914 2163,916 2262,910"
+            },
+            "text": "neurons connects the superior colliculus to the cerebral cortex, the primary visual center in",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "280,872 280,932 433,932 433,872"
+                },
+                "text": "neurons"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "462,873 462,933 639,933 639,873"
+                },
+                "text": "connects"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "663,873 663,933 719,933 719,873"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "747,873 747,933 915,933 915,873"
+                },
+                "text": "superior"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "939,876 939,936 1135,936 1135,876"
+                },
+                "text": "colliculus"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1164,875 1164,935 1191,935 1191,875"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1225,873 1225,933 1275,933 1275,873"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1304,873 1304,933 1472,933 1472,873"
+                },
+                "text": "cerebral"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1496,875 1496,935 1636,935 1636,875"
+                },
+                "text": "cortex,"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1660,876 1660,936 1711,936 1711,876"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1744,875 1744,935 1893,935 1893,875"
+                },
+                "text": "primary"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1927,873 1927,933 2048,933 2048,873"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "2072,875 2072,935 2193,935 2193,875"
+                },
+                "text": "center"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "2221,871 2221,931 2244,931 2244,871"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "273,1048 827,1040 871,1082 951,1048 1048,1082 1100,1045 1576,1050 1708,1090 1859,1043 2257,1045 2257,976 2108,953 2013,995 273,976"
+            },
+            "baseline": {
+              "points": "286,1029 384,1029 483,1029 582,1026 681,1029 780,1029 878,1029 977,1029 1076,1029 1175,1029 1274,1026 1372,1029 1471,1027 1570,1029 1669,1029 1768,1029 1866,1029 1965,1029 2064,1029 2163,1026 2262,1026"
+            },
+            "text": "mammalian vertebrates that is absent in lower vertebrates. Interestingly, the number of retinal",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "272,989 272,1049 504,1049 504,989"
+                },
+                "text": "mammalian"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "534,987 534,1047 751,1047 751,987"
+                },
+                "text": "vertebrates"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "776,989 776,1049 854,1049 854,989"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "870,989 870,1049 899,1049 899,989"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "924,989 924,1049 1052,1049 1052,989"
+                },
+                "text": "absent"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1072,989 1072,1049 1101,1049 1101,989"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1131,988 1131,1048 1239,1048 1239,988"
+                },
+                "text": "lower"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1265,988 1265,1048 1501,1048 1501,988"
+                },
+                "text": "vertebrates."
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1516,989 1516,1049 1792,1049 1792,989"
+                },
+                "text": "Interestingly,"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1812,989 1812,1049 1861,1049 1861,989"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1891,989 1891,1049 2044,1049 2044,989"
+                },
+                "text": "number"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "2064,988 2064,1048 2103,1048 2103,988"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "2123,986 2123,1046 2256,1046 2256,986"
+                },
+                "text": "retinal"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "281,1157 866,1194 961,1154 1030,1189 1507,1152 1693,1189 2140,1164 2204,1204 2264,1174 2264,1102 2023,1077 281,1105"
+            },
+            "baseline": {
+              "points": "295,1143 393,1140 492,1146 590,1146 689,1146 788,1146 886,1146 985,1145 1084,1145 1182,1146 1281,1146 1380,1146 1478,1146 1577,1146 1676,1146 1774,1146 1873,1146 1972,1143 2070,1145 2169,1144 2268,1140"
+            },
+            "text": "fibers in the visual afferent pathway to the optic tectum decreases considerably from lower",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "280,1101 280,1161 388,1161 388,1101"
+                },
+                "text": "fibers"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "418,1102 418,1162 442,1162 442,1102"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "478,1106 478,1166 531,1166 531,1106"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "561,1106 561,1166 684,1166 684,1106"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "704,1106 704,1166 866,1166 866,1106"
+                },
+                "text": "afferent"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "887,1105 887,1165 1049,1165 1049,1105"
+                },
+                "text": "pathway"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1084,1105 1084,1165 1113,1165 1113,1105"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1144,1105 1144,1165 1197,1165 1197,1105"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1227,1106 1227,1166 1320,1166 1320,1106"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1351,1106 1351,1166 1468,1166 1468,1106"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1513,1106 1513,1166 1705,1166 1705,1106"
+                },
+                "text": "decreases"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1731,1106 1731,1166 1986,1166 1986,1106"
+                },
+                "text": "considerably"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "2022,1104 2022,1164 2095,1164 2095,1104"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "2140,1102 2140,1162 2253,1162 2253,1102"
+                },
+                "text": "lower"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "276,1276 765,1306 1182,1271 1326,1306 1420,1269 1941,1269 2150,1323 2271,1269 2271,1206 2060,1197 1197,1229 968,1184 909,1219 276,1229"
+            },
+            "baseline": {
+              "points": "289,1250 388,1259 487,1259 586,1259 686,1262 785,1262 884,1259 983,1258 1083,1259 1182,1262 1281,1262 1380,1260 1480,1260 1579,1262 1678,1259 1777,1259 1877,1259 1976,1259 2075,1259 2174,1259 2274,1253"
+            },
+            "text": "vertebrates to mammals (Cajal 1995). From the optic tectum, signals are relayed to the pair of",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "276,1218 276,1278 493,1278 493,1218"
+                },
+                "text": "vertebrates"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "519,1219 519,1279 544,1279 544,1219"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "575,1221 575,1281 768,1281 768,1221"
+                },
+                "text": "mammals"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "794,1219 794,1279 916,1279 916,1219"
+                },
+                "text": "(Cajal"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "937,1218 937,1278 1069,1278 1069,1218"
+                },
+                "text": "1995)."
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1084,1220 1084,1280 1170,1280 1170,1220"
+                },
+                "text": "From"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1211,1222 1211,1282 1262,1282 1262,1222"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1293,1220 1293,1280 1384,1280 1384,1220"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1410,1220 1410,1280 1562,1280 1562,1220"
+                },
+                "text": "tectum,"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1583,1219 1583,1279 1715,1279 1715,1219"
+                },
+                "text": "signals"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1741,1219 1741,1279 1791,1279 1791,1219"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1822,1219 1822,1279 1959,1279 1959,1219"
+                },
+                "text": "relayed"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1990,1219 1990,1279 2015,1279 2015,1219"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "2046,1219 2046,1279 2101,1279 2101,1219"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "2128,1219 2128,1279 2203,1279 2203,1219"
+                },
+                "text": "pair"
+              },
+              {
+                "id": "tr_1_tl_9_w16",
+                "coords": {
+                  "points": "2224,1214 2224,1274 2264,1274 2264,1214"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "276,1393 1085,1385 1226,1427 1375,1390 1452,1427 1547,1385 1586,1418 2259,1388 2259,1333 1842,1336 1810,1303 1770,1336 1557,1301 1492,1336 276,1318"
+            },
+            "baseline": {
+              "points": "289,1372 387,1375 486,1372 585,1372 684,1372 783,1372 881,1372 980,1372 1079,1375 1178,1372 1277,1375 1375,1372 1474,1372 1573,1371 1672,1372 1771,1372 1869,1372 1968,1372 2067,1371 2166,1372 2265,1369"
+            },
+            "text": "Mauthner neurons that surround the brainstem (Zottoli 1987). Each Mauthner cell sends a",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "276,1334 276,1394 472,1394 472,1334"
+                },
+                "text": "Mauthner"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "499,1332 499,1392 659,1392 659,1332"
+                },
+                "text": "neurons"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "686,1332 686,1392 763,1392 763,1332"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "789,1332 789,1392 965,1392 965,1332"
+                },
+                "text": "surround"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "997,1333 997,1393 1048,1393 1048,1333"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1080,1332 1080,1392 1261,1392 1261,1332"
+                },
+                "text": "brainstem"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1308,1332 1308,1392 1469,1392 1469,1332"
+                },
+                "text": "(Zottoli"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1495,1331 1495,1391 1629,1391 1629,1331"
+                },
+                "text": "1987)."
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1651,1332 1651,1392 1743,1392 1743,1332"
+                },
+                "text": "Each"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1775,1332 1775,1392 1972,1392 1972,1332"
+                },
+                "text": "Mauthner"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1998,1331 1998,1391 2075,1391 2075,1331"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "2097,1331 2097,1391 2205,1391 2205,1331"
+                },
+                "text": "sends"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "2237,1329 2237,1389 2246,1389 2246,1329"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "278,1509 576,1542 834,1509 869,1542 1142,1507 1231,1547 1537,1499 1822,1547 1964,1502 2264,1519 2264,1455 2185,1435 278,1465"
+            },
+            "baseline": {
+              "points": "292,1486 396,1489 500,1486 604,1489 708,1489 812,1489 916,1489 1021,1489 1125,1489 1229,1489 1333,1489 1437,1489 1541,1489 1646,1486 1750,1486 1854,1489 1958,1487 2062,1489 2166,1489 2271,1486"
+            },
+            "text": "crossed projection to a group of motoneurons and simultaneously inhibits the M-cell located on",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "277,1447 277,1507 415,1507 415,1447"
+                },
+                "text": "crossed"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "445,1447 445,1507 637,1507 637,1447"
+                },
+                "text": "projection"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "667,1449 667,1509 697,1509 697,1449"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "722,1449 722,1509 736,1509 736,1449"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "761,1449 761,1509 864,1509 864,1449"
+                },
+                "text": "group"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "895,1449 895,1509 933,1509 933,1449"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "954,1449 954,1509 1210,1509 1210,1449"
+                },
+                "text": "motoneurons"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1236,1449 1236,1509 1294,1509 1294,1449"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1324,1449 1324,1509 1620,1509 1620,1449"
+                },
+                "text": "simultaneously"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1651,1446 1651,1506 1793,1506 1793,1446"
+                },
+                "text": "inhibits"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1818,1448 1818,1508 1867,1508 1867,1448"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1898,1447 1898,1507 2031,1507 2031,1447"
+                },
+                "text": "M-cell"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "2046,1449 2046,1509 2183,1509 2183,1449"
+                },
+                "text": "located"
+              },
+              {
+                "id": "tr_1_tl_11_w14",
+                "coords": {
+                  "points": "2209,1447 2209,1507 2248,1507 2248,1447"
+                },
+                "text": "on"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "276,1606 752,1658 851,1619 948,1658 1043,1621 1502,1658 1720,1609 2180,1648 2259,1616 2229,1544 1802,1581 1671,1547 276,1564"
+            },
+            "baseline": {
+              "points": "289,1602 387,1602 486,1605 584,1605 683,1603 782,1605 880,1605 979,1605 1078,1605 1176,1605 1275,1605 1374,1604 1472,1605 1571,1605 1670,1602 1768,1602 1867,1602 1966,1602 2064,1602 2163,1602 2262,1599"
+            },
+            "text": "the opposite side of the fish. These motoneurons are responsible for the contraction of muscle",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "276,1562 276,1622 331,1622 331,1562"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "357,1563 357,1623 518,1623 518,1563"
+                },
+                "text": "opposite"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "549,1564 549,1624 620,1624 620,1564"
+                },
+                "text": "side"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "651,1563 651,1623 685,1623 685,1563"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "706,1564 706,1624 761,1624 761,1564"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "787,1565 787,1625 878,1625 878,1565"
+                },
+                "text": "fish."
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "894,1565 894,1625 1005,1625 1005,1565"
+                },
+                "text": "These"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1036,1565 1036,1625 1294,1625 1294,1565"
+                },
+                "text": "motoneurons"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1320,1564 1320,1624 1370,1624 1370,1564"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1401,1565 1401,1625 1623,1625 1623,1565"
+                },
+                "text": "responsible"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1654,1562 1654,1622 1705,1622 1705,1562"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1726,1562 1726,1622 1781,1622 1781,1562"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1807,1562 1807,1622 2029,1622 2029,1562"
+                },
+                "text": "contraction"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "2060,1562 2060,1622 2095,1622 2095,1562"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w15",
+                "coords": {
+                  "points": "2116,1561 2116,1621 2252,1621 2252,1561"
+                },
+                "text": "muscle"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "278,1750 1172,1733 1288,1787 1378,1740 2262,1733 2229,1651 1323,1686 1249,1653 1137,1683 278,1651"
+            },
+            "baseline": {
+              "points": "292,1716 390,1719 489,1719 588,1719 687,1719 786,1719 884,1721 983,1719 1082,1722 1181,1719 1280,1719 1378,1719 1477,1719 1576,1719 1675,1719 1774,1716 1872,1719 1971,1719 2070,1717 2169,1719 2268,1719"
+            },
+            "text": "fibers along the entire length of the zebrafish flank, which ultimately creates a visible startle",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "278,1677 278,1737 388,1737 388,1677"
+                },
+                "text": "fibers"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "414,1679 414,1739 515,1739 515,1679"
+                },
+                "text": "along"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "546,1679 546,1739 601,1739 601,1679"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "627,1679 627,1739 737,1739 737,1679"
+                },
+                "text": "entire"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "763,1679 763,1739 879,1739 879,1679"
+                },
+                "text": "length"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "915,1680 915,1740 950,1740 950,1680"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "976,1679 976,1739 1025,1739 1025,1679"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1056,1680 1056,1740 1233,1740 1233,1680"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1264,1679 1264,1739 1380,1739 1380,1679"
+                },
+                "text": "flank,"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1401,1679 1401,1739 1512,1739 1512,1679"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1543,1679 1543,1739 1739,1739 1739,1679"
+                },
+                "text": "ultimately"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1770,1677 1770,1737 1906,1737 1906,1677"
+                },
+                "text": "creates"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1937,1679 1937,1739 1947,1739 1947,1679"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "1978,1677 1978,1737 2103,1737 2103,1677"
+                },
+                "text": "visible"
+              },
+              {
+                "id": "tr_1_tl_13_w15",
+                "coords": {
+                  "points": "2134,1679 2134,1739 2245,1739 2245,1679"
+                },
+                "text": "startle"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "281,1859 300,1857 320,1874 350,1874 357,1867 400,1879 434,1869 444,1874 467,1854 492,1859 492,1797 474,1797 464,1787 444,1800 385,1795 375,1785 340,1797 281,1790"
+            },
+            "baseline": {
+              "points": "295,1829 320,1832 345,1835 371,1833 396,1833 421,1834 447,1835 472,1835 498,1832"
+            },
+            "text": "response.",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "285,1793 285,1853 491,1853 491,1793"
+                },
+                "text": "response."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "350,1956 737,2006 886,1964 2259,1984 2232,1882 1487,1879 1435,1914 1316,1874 871,1907 350,1869"
+            },
+            "baseline": {
+              "points": "364,1948 458,1948 553,1948 648,1945 743,1948 838,1947 933,1945 1028,1948 1123,1948 1218,1948 1313,1947 1407,1945 1502,1942 1597,1945 1692,1945 1787,1944 1882,1945 1977,1945 2072,1945 2167,1945 2262,1945"
+            },
+            "text": "In this study, we recorded both behavioral and electrophysiological responses of zebrafish to",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "350,1908 350,1968 379,1968 379,1908"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "411,1908 411,1968 471,1968 471,1908"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "497,1907 497,1967 618,1967 618,1907"
+                },
+                "text": "study,"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "634,1905 634,1965 679,1965 679,1905"
+                },
+                "text": "we"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "705,1907 705,1967 872,1967 872,1907"
+                },
+                "text": "recorded"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "898,1905 898,1965 978,1965 978,1905"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1004,1908 1004,1968 1216,1968 1216,1908"
+                },
+                "text": "behavioral"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1232,1907 1232,1967 1293,1967 1293,1907"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1319,1902 1319,1962 1735,1962 1735,1902"
+                },
+                "text": "electrophysiological"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1750,1904 1750,1964 1943,1964 1943,1904"
+                },
+                "text": "responses"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1963,1905 1963,1965 2003,1965 2003,1905"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "2019,1905 2019,1965 2191,1965 2191,1905"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "2222,1905 2222,1965 2247,1965 2247,1905"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "285,2075 770,2118 1060,2075 2259,2100 2259,2003 285,2023"
+            },
+            "baseline": {
+              "points": "298,2062 396,2065 494,2065 593,2061 691,2062 789,2062 888,2065 986,2062 1084,2060 1183,2059 1281,2059 1379,2061 1478,2059 1576,2058 1674,2059 1773,2059 1871,2059 1969,2059 2068,2059 2166,2059 2265,2059"
+            },
+            "text": "the looming stimulus. We stimulated on-center and off-center cells in the retina to create action",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "290,2022 290,2082 339,2082 339,2022"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "365,2025 365,2085 521,2085 521,2025"
+                },
+                "text": "looming"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "551,2021 551,2081 732,2081 732,2021"
+                },
+                "text": "stimulus."
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "753,2022 753,2082 807,2082 807,2022"
+                },
+                "text": "We"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "838,2023 838,2083 1034,2083 1034,2023"
+                },
+                "text": "stimulated"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1065,2019 1065,2079 1250,2079 1250,2019"
+                },
+                "text": "on-center"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1271,2019 1271,2079 1331,2079 1331,2019"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1357,2019 1357,2079 1552,2079 1552,2019"
+                },
+                "text": "off-center"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1573,2018 1573,2078 1658,2078 1658,2018"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1684,2019 1684,2079 1708,2079 1708,2019"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1734,2019 1734,2079 1789,2079 1789,2019"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1815,2019 1815,2079 1920,2079 1920,2019"
+                },
+                "text": "retina"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1946,2019 1946,2079 1970,2079 1970,2019"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "2001,2019 2001,2079 2111,2079 2111,2019"
+                },
+                "text": "create"
+              },
+              {
+                "id": "tr_1_tl_16_w15",
+                "coords": {
+                  "points": "2137,2019 2137,2079 2247,2079 2247,2019"
+                },
+                "text": "action"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "285,2204 2262,2217 2262,2115 285,2135"
+            },
+            "baseline": {
+              "points": "298,2178 396,2178 495,2178 593,2178 692,2175 790,2178 889,2178 987,2177 1086,2177 1184,2173 1283,2175 1381,2175 1480,2177 1578,2175 1677,2175 1775,2175 1874,2172 1972,2175 2071,2175 2169,2173 2268,2172"
+            },
+            "text": "potentials that traveled along the optic nerve to the optic tectum, which were then measured",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "285,2138 285,2198 480,2198 480,2138"
+                },
+                "text": "potentials"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "506,2138 506,2198 581,2198 581,2138"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "602,2135 602,2195 758,2195 758,2135"
+                },
+                "text": "traveled"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "789,2138 789,2198 889,2198 889,2138"
+                },
+                "text": "along"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "920,2137 920,2197 974,2197 974,2137"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1005,2137 1005,2197 1095,2197 1095,2137"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1121,2133 1121,2193 1226,2193 1226,2133"
+                },
+                "text": "nerve"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1257,2134 1257,2194 1287,2194 1287,2134"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1313,2135 1313,2195 1368,2195 1368,2135"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1399,2136 1399,2196 1489,2196 1489,2136"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1520,2135 1520,2195 1671,2195 1671,2135"
+                },
+                "text": "tectum,"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1696,2135 1696,2195 1807,2195 1807,2135"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_17_w13",
+                "coords": {
+                  "points": "1837,2132 1837,2192 1928,2192 1928,2132"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_17_w14",
+                "coords": {
+                  "points": "1953,2135 1953,2195 2033,2195 2033,2135"
+                },
+                "text": "then"
+              },
+              {
+                "id": "tr_1_tl_17_w15",
+                "coords": {
+                  "points": "2064,2133 2064,2193 2250,2193 2250,2133"
+                },
+                "text": "measured"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "281,2324 2264,2316 2264,2254 2204,2237 281,2252"
+            },
+            "baseline": {
+              "points": "295,2289 393,2292 492,2294 590,2293 689,2292 788,2292 886,2292 985,2292 1084,2293 1182,2292 1281,2292 1380,2292 1478,2292 1577,2291 1676,2292 1774,2289 1873,2292 1972,2292 2070,2291 2169,2289 2268,2295"
+            },
+            "text": "using electrophysiological techniques. Our objective was to resolve differences in the processing",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "286,2250 286,2310 381,2310 381,2250"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "407,2252 407,2312 821,2312 821,2252"
+                },
+                "text": "electrophysiological"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "832,2252 832,2312 1064,2312 1064,2252"
+                },
+                "text": "techniques."
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "1080,2252 1080,2312 1150,2312 1150,2252"
+                },
+                "text": "Our"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1170,2252 1170,2312 1347,2312 1347,2252"
+                },
+                "text": "objective"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1373,2252 1373,2312 1443,2312 1443,2252"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1464,2252 1464,2312 1488,2312 1488,2252"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1514,2251 1514,2311 1651,2311 1651,2251"
+                },
+                "text": "resolve"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1677,2249 1677,2309 1893,2309 1893,2249"
+                },
+                "text": "differences"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1919,2252 1919,2312 1944,2312 1944,2252"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1970,2251 1970,2311 2020,2311 2020,2251"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "2046,2249 2046,2309 2252,2309 2252,2249"
+                },
+                "text": "processing"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "276,2428 991,2425 1030,2458 1283,2420 1390,2458 1648,2418 1800,2458 1847,2425 1894,2475 2262,2445 2262,2368 2214,2351 519,2373 276,2341"
+            },
+            "baseline": {
+              "points": "289,2402 393,2410 497,2411 601,2408 705,2406 809,2410 913,2408 1018,2408 1122,2408 1226,2408 1330,2408 1434,2407 1538,2408 1643,2405 1747,2405 1851,2405 1955,2405 2059,2405 2163,2405 2268,2405"
+            },
+            "text": "of on- and off-responses in the optic nerve and at the optic tectum. By observing discrepancies in",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "275,2362 275,2422 314,2422 314,2362"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "335,2367 335,2427 393,2427 393,2367"
+                },
+                "text": "on-"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "414,2370 414,2430 472,2430 472,2370"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "503,2367 503,2427 764,2427 764,2367"
+                },
+                "text": "off-responses"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "789,2369 789,2429 813,2429 813,2369"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "838,2368 838,2428 892,2428 892,2368"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "917,2368 917,2428 1006,2428 1006,2368"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1031,2368 1031,2428 1129,2428 1129,2368"
+                },
+                "text": "nerve"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1159,2368 1159,2428 1218,2428 1218,2368"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "1243,2368 1243,2428 1278,2428 1278,2368"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "1293,2368 1293,2428 1342,2428 1342,2368"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w12",
+                "coords": {
+                  "points": "1367,2367 1367,2427 1460,2427 1460,2367"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_19_w13",
+                "coords": {
+                  "points": "1481,2367 1481,2427 1633,2427 1633,2367"
+                },
+                "text": "tectum."
+              },
+              {
+                "id": "tr_1_tl_19_w14",
+                "coords": {
+                  "points": "1649,2365 1649,2425 1693,2425 1693,2365"
+                },
+                "text": "By"
+              },
+              {
+                "id": "tr_1_tl_19_w15",
+                "coords": {
+                  "points": "1723,2365 1723,2425 1910,2425 1910,2365"
+                },
+                "text": "observing"
+              },
+              {
+                "id": "tr_1_tl_19_w16",
+                "coords": {
+                  "points": "1935,2365 1935,2425 2201,2425 2201,2365"
+                },
+                "text": "discrepancies"
+              },
+              {
+                "id": "tr_1_tl_19_w17",
+                "coords": {
+                  "points": "2222,2365 2222,2425 2246,2425 2246,2365"
+                },
+                "text": "in"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "276,2527 437,2577 601,2537 750,2577 812,2540 1519,2572 1619,2535 1837,2579 1941,2532 2177,2532 2259,2574 2262,2485 1373,2485 1318,2445 1259,2482 276,2482"
+            },
+            "baseline": {
+              "points": "289,2519 393,2524 497,2524 601,2524 705,2523 809,2524 913,2522 1018,2522 1122,2522 1226,2519 1330,2522 1434,2522 1538,2522 1643,2519 1747,2519 1851,2519 1955,2521 2059,2522 2163,2522 2268,2522"
+            },
+            "text": "shape, relative amplitude, and duration, we hoped to elucidate whether higher-order processing",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "270,2481 270,2541 399,2541 399,2481"
+                },
+                "text": "shape,"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "414,2484 414,2544 557,2544 557,2484"
+                },
+                "text": "relative"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "583,2483 583,2543 801,2543 801,2483"
+                },
+                "text": "amplitude,"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "822,2483 822,2543 880,2543 880,2483"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "911,2482 911,2542 1094,2542 1094,2482"
+                },
+                "text": "duration,"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1114,2481 1114,2541 1158,2541 1158,2481"
+                },
+                "text": "we"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1184,2479 1184,2539 1298,2539 1298,2479"
+                },
+                "text": "hoped"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1328,2482 1328,2542 1352,2542 1352,2482"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1383,2482 1383,2542 1556,2542 1556,2482"
+                },
+                "text": "elucidate"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1586,2479 1586,2539 1744,2539 1744,2479"
+                },
+                "text": "whether"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1764,2479 1764,2539 2022,2539 2022,2479"
+                },
+                "text": "higher-order"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "2043,2482 2043,2542 2250,2542 2250,2482"
+                },
+                "text": "processing"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "278,2646 429,2689 479,2659 519,2701 601,2651 809,2691 847,2654 1504,2649 1504,2602 1306,2567 278,2599"
+            },
+            "baseline": {
+              "points": "292,2635 352,2638 413,2638 474,2638 535,2638 595,2638 656,2638 717,2638 778,2638 838,2637 899,2635 960,2638 1021,2635 1081,2637 1142,2638 1203,2635 1264,2635 1324,2635 1385,2635 1446,2635 1507,2638"
+            },
+            "text": "of visual input occurs in the optic tectum of adult zebrafish.",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "277,2595 277,2655 317,2655 317,2595"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "337,2598 337,2658 457,2658 457,2598"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "473,2598 473,2658 572,2658 572,2598"
+                },
+                "text": "input"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "592,2598 592,2658 717,2658 717,2598"
+                },
+                "text": "occurs"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "737,2598 737,2658 762,2658 762,2598"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "792,2597 792,2657 842,2657 842,2597"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "868,2595 868,2655 957,2655 957,2595"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "983,2595 983,2655 1092,2655 1092,2595"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1138,2597 1138,2657 1173,2657 1173,2597"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1193,2595 1193,2655 1292,2655 1292,2595"
+                },
+                "text": "adult"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1308,2595 1308,2655 1507,2655 1507,2595"
+                },
+                "text": "zebrafish."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

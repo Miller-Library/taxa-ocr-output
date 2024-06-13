@@ -1,0 +1,502 @@
+{
+  "processId": 10410258,
+  "status": "FINISHED",
+  "content": {
+    "text": "Fig. 4.\nbel-2 B, nucleotide sequence, Botryllus schlosseri\nGAATTCGAACTGTTTCGAGATGGCGTAAACTGGGGTAGGATTGTCTCCCTTIT\nTGTGCTCGGTAGTATTCTTGCTCGCAAGAACGAGGATGAACATCATGGGGAG\nCATATAGAAGCTATCATACAGACAGTCGGAAATCACATTGCTAGCAGAAGAC\nTAAAGTGGATACAAGACAACGGAGGATGGGACTCTAGA\n\u00bb bel-2 B+, nucleotide sequence, Botryllus schlosseri\nGAATTCGAACTGTTTCGAGATGGTGTGAACTGGGGTAGGATTGTCTCCCTTTI\nTGTGCTCGGTAGTATTCTTGCTCGCAAGAACGAGGATGAGCATCACGGTGAT\nAATATAGAAGGTATCATACAGTCAGTCGGGAATTACNTTGGTAGTAGAAGGC\nGAAAGTGGATACAAGACAACGGAGGATGGGACTCTAGA\nBcl-2 B, protein sequence, Botryllus schlosseri\nELFRDGVNWGRIVSLFVLGSILARKNEDEHHGEGIEAIIOTVGNHIASRRLKWIQD\nNGGW\nBcl-2 B+, protein sequence, Botryllus schlosseri\nELFRDGVNWGRIVSLFVLGSILARKNEDEHHGDNIEGIIOSVGNYXGSRRRK WIQ\nDNGGW",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "382,279 382,2435 2236,2435 2236,279"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "392,355 418,358 436,346 462,365 475,360 485,369 519,374 540,369 538,252 503,265 471,291 422,263 392,279"
+            },
+            "baseline": {
+              "points": "406,337 434,339 462,340 490,340 518,340 546,340"
+            },
+            "text": "Fig. 4.",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "395,299 395,359 485,359 485,299"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "500,300 500,360 541,360 541,300"
+                },
+                "text": "4."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "388,591 727,637 1006,591 1244,637 1315,595 1465,605 1468,512 1329,480 1223,538 1048,496 835,542 614,494 480,542 390,512"
+            },
+            "baseline": {
+              "points": "400,576 453,578 507,581 560,579 614,579 667,579 721,579 774,579 828,579 881,579 935,579 989,579 1042,579 1096,579 1149,579 1203,579 1256,579 1310,578 1363,576 1417,576 1471,573"
+            },
+            "text": "bel-2 B, nucleotide sequence, Botryllus schlosseri",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "425,539 425,599 524,599 524,539"
+                },
+                "text": "bel-2"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "551,539 551,599 592,599 592,539"
+                },
+                "text": "B,"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "609,539 609,599 813,599 813,539"
+                },
+                "text": "nucleotide"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "840,539 840,599 1040,599 1040,539"
+                },
+                "text": "sequence,"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1056,539 1056,599 1240,599 1240,539"
+                },
+                "text": "Botryllus"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1262,536 1262,596 1460,596 1460,536"
+                },
+                "text": "schlosseri"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "390,748 2234,734 2234,621 390,651"
+            },
+            "baseline": {
+              "points": "403,698 494,701 586,698 677,701 769,698 861,701 952,698 1044,698 1136,698 1227,698 1319,700 1411,699 1502,697 1594,697 1686,697 1777,698 1869,695 1961,695 2052,692 2144,695 2236,695"
+            },
+            "text": "GAATTCGAACTGTTTCGAGATGGCGTAAACTGGGGTAGGATTGTCTCCCTTIT",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "396,659 396,719 2217,719 2217,659"
+                },
+                "text": "GAATTCGAACTGTTTCGAGATGGCGTAAACTGGGGTAGGATTGTCTCCCTTIT"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "390,842 639,868 953,828 1068,886 1336,842 2227,849 2227,773 1975,745 390,775"
+            },
+            "baseline": {
+              "points": "403,820 494,818 586,820 677,819 769,820 860,820 952,820 1043,820 1135,819 1226,820 1318,820 1409,819 1501,818 1592,818 1684,818 1775,818 1867,815 1958,818 2050,815 2141,815 2233,815"
+            },
+            "text": "TGTGCTCGGTAGTATTCTTGCTCGCAAGAACGAGGATGAACATCATGGGGAG",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "392,780 392,840 2203,840 2203,780"
+                },
+                "text": "TGTGCTCGGTAGTATTCTTGCTCGCAAGAACGAGGATGAACATCATGGGGAG"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "390,976 2234,974 2234,888 2118,877 1495,905 1297,870 1175,907 1020,861 872,898 390,872"
+            },
+            "baseline": {
+              "points": "403,937 494,943 586,943 677,943 769,940 861,940 952,940 1044,940 1136,940 1227,940 1319,940 1411,940 1502,940 1594,940 1686,937 1777,937 1869,937 1961,937 2052,937 2144,937 2236,937"
+            },
+            "text": "CATATAGAAGCTATCATACAGACAGTCGGAAATCACATTGCTAGCAGAAGAC",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "398,900 398,960 2211,960 2211,900"
+                },
+                "text": "CATATAGAAGCTATCATACAGACAGTCGGAAATCACATTGCTAGCAGAAGAC"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "388,1091 914,1082 1085,1126 1274,1085 1357,1131 1606,1080 1761,1105 1744,997 388,1008"
+            },
+            "baseline": {
+              "points": "400,1062 468,1064 536,1062 605,1062 673,1059 741,1061 810,1062 878,1062 946,1061 1015,1059 1083,1062 1151,1062 1220,1062 1288,1059 1356,1059 1425,1059 1493,1059 1561,1059 1630,1059 1698,1059 1767,1065"
+            },
+            "text": "TAAAGTGGATACAAGACAACGGAGGATGGGACTCTAGA",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "393,1021 393,1081 1730,1081 1730,1021"
+                },
+                "text": "TAAAGTGGATACAAGACAACGGAGGATGGGACTCTAGA"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "385,1202 641,1202 718,1244 900,1198 1359,1235 1498,1195 1498,1142 1364,1128 385,1140"
+            },
+            "baseline": {
+              "points": "397,1179 452,1186 507,1188 563,1188 618,1185 673,1185 729,1185 784,1185 839,1185 895,1185 950,1185 1005,1185 1061,1185 1116,1185 1171,1185 1227,1185 1282,1185 1337,1185 1393,1184 1448,1182 1504,1179"
+            },
+            "text": "\u00bb bel-2 B+, nucleotide sequence, Botryllus schlosseri",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "385,1139 385,1199 400,1199 400,1139"
+                },
+                "text": "\u00bb"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "432,1146 432,1206 525,1206 525,1146"
+                },
+                "text": "bel-2"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "552,1146 552,1206 629,1206 629,1146"
+                },
+                "text": "B+,"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "646,1145 646,1205 849,1205 849,1145"
+                },
+                "text": "nucleotide"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "876,1145 876,1205 1073,1205 1073,1145"
+                },
+                "text": "sequence,"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1089,1145 1089,1205 1272,1205 1272,1145"
+                },
+                "text": "Botryllus"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1293,1143 1293,1203 1496,1203 1496,1143"
+                },
+                "text": "schlosseri"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "388,1329 632,1371 713,1331 1151,1327 1267,1364 2208,1313 2208,1241 1742,1258 1671,1225 1380,1269 791,1225 388,1271"
+            },
+            "baseline": {
+              "points": "400,1304 490,1309 581,1307 672,1307 763,1307 853,1304 944,1304 1035,1304 1126,1304 1216,1304 1307,1304 1398,1304 1489,1303 1579,1304 1670,1304 1761,1304 1852,1301 1942,1301 2033,1298 2124,1301 2215,1298"
+            },
+            "text": "GAATTCGAACTGTTTCGAGATGGTGTGAACTGGGGTAGGATTGTCTCCCTTTI",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "395,1264 395,1324 2199,1324 2199,1264"
+                },
+                "text": "GAATTCGAACTGTTTCGAGATGGTGTGAACTGGGGTAGGATTGTCTCCCTTTI"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "390,1447 900,1474 1078,1435 1151,1472 1458,1435 1624,1491 1890,1435 2213,1444 2190,1361 390,1380"
+            },
+            "baseline": {
+              "points": "403,1427 493,1427 584,1430 675,1429 766,1430 856,1427 947,1427 1038,1427 1129,1427 1219,1427 1310,1425 1401,1427 1492,1424 1582,1424 1673,1424 1764,1424 1855,1424 1945,1424 2036,1421 2127,1421 2218,1418"
+            },
+            "text": "TGTGCTCGGTAGTATTCTTGCTCGCAAGAACGAGGATGAGCATCACGGTGAT",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "393,1385 393,1445 2194,1445 2194,1385"
+                },
+                "text": "TGTGCTCGGTAGTATTCTTGCTCGCAAGAACGAGGATGAGCATCACGGTGAT"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "385,1601 1574,1560 1874,1608 1938,1562 2093,1564 2231,1608 2231,1477 385,1504"
+            },
+            "baseline": {
+              "points": "397,1552 493,1552 590,1551 687,1551 784,1549 880,1549 977,1549 1074,1549 1171,1549 1268,1548 1364,1546 1461,1546 1558,1546 1655,1546 1752,1543 1848,1543 1945,1543 2042,1543 2139,1543 2236,1543"
+            },
+            "text": "AATATAGAAGGTATCATACAGTCAGTCGGGAATTACNTTGGTAGTAGAAGGC",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "388,1507 388,1567 2218,1567 2218,1507"
+                },
+                "text": "AATATAGAAGGTATCATACAGTCAGTCGGGAATTACNTTGGTAGTAGAAGGC"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "385,1701 678,1738 833,1696 1355,1731 1749,1701 1749,1618 1701,1601 385,1634"
+            },
+            "baseline": {
+              "points": "397,1668 464,1671 532,1674 600,1672 668,1674 736,1672 804,1671 872,1671 940,1671 1008,1671 1076,1671 1143,1671 1211,1670 1279,1668 1347,1668 1415,1666 1483,1668 1551,1668 1619,1668 1687,1668 1755,1668"
+            },
+            "text": "GAAAGTGGATACAAGACAACGGAGGATGGGACTCTAGA",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "397,1631 397,1691 1734,1691 1734,1631"
+                },
+                "text": "GAAAGTGGATACAAGACAACGGAGGATGGGACTCTAGA"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "378,1814 549,1809 741,1864 948,1802 1403,1832 1403,1754 1271,1740 378,1756"
+            },
+            "baseline": {
+              "points": "391,1788 441,1794 492,1794 543,1794 594,1796 644,1795 695,1794 746,1794 797,1794 847,1794 898,1793 949,1792 1000,1792 1050,1793 1101,1791 1152,1791 1203,1791 1253,1791 1304,1791 1355,1789 1406,1788"
+            },
+            "text": "Bcl-2 B, protein sequence, Botryllus schlosseri",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "383,1754 383,1814 510,1814 510,1754"
+                },
+                "text": "Bcl-2"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "538,1754 538,1814 580,1814 580,1754"
+                },
+                "text": "B,"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "601,1754 601,1814 734,1814 734,1754"
+                },
+                "text": "protein"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "762,1753 762,1813 969,1813 969,1753"
+                },
+                "text": "sequence,"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "986,1751 986,1811 1172,1811 1172,1751"
+                },
+                "text": "Botryllus"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1194,1751 1194,1811 1395,1811 1395,1751"
+                },
+                "text": "schlosseri"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "378,1954 2234,1936 2211,1844 565,1867 378,1818"
+            },
+            "baseline": {
+              "points": "391,1916 483,1916 575,1913 667,1913 760,1916 852,1913 944,1910 1036,1913 1129,1913 1221,1913 1313,1913 1405,1912 1498,1910 1590,1911 1682,1910 1774,1907 1867,1910 1959,1908 2051,1907 2143,1907 2236,1907"
+            },
+            "text": "ELFRDGVNWGRIVSLFVLGSILARKNEDEHHGEGIEAIIOTVGNHIASRRLKWIQD",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "381,1873 381,1933 2208,1933 2208,1873"
+                },
+                "text": "ELFRDGVNWGRIVSLFVLGSILARKNEDEHHGEGIEAIIOTVGNHIASRRLKWIQD"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "376,2098 390,2095 413,2109 422,2100 434,2104 455,2084 466,2093 473,2086 485,2091 524,2070 565,2070 568,1994 528,1984 517,1971 443,2001 425,1989 411,1996 395,1984 378,1984"
+            },
+            "baseline": {
+              "points": "391,2033 417,2035 443,2036 469,2036 495,2035 521,2033 547,2033 573,2033"
+            },
+            "text": "NGGW",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "379,1996 379,2056 534,2056 534,1996"
+                },
+                "text": "NGGW"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "385,2188 1352,2192 1421,2167 1424,2065 1080,2121 771,2063 625,2139 503,2081 385,2104"
+            },
+            "baseline": {
+              "points": "397,2158 448,2161 499,2161 551,2161 602,2157 653,2157 705,2158 756,2161 807,2158 859,2158 910,2158 961,2158 1013,2158 1064,2158 1115,2158 1167,2158 1218,2158 1269,2156 1321,2155 1372,2152 1424,2149"
+            },
+            "text": "Bcl-2 B+, protein sequence, Botryllus schlosseri",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "386,2121 386,2181 512,2181 512,2121"
+                },
+                "text": "Bcl-2"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "541,2118 541,2178 617,2178 617,2118"
+                },
+                "text": "B+,"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "635,2117 635,2177 767,2177 767,2117"
+                },
+                "text": "protein"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "795,2118 795,2178 1000,2178 1000,2118"
+                },
+                "text": "sequence,"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1017,2118 1017,2178 1200,2178 1200,2118"
+                },
+                "text": "Botryllus"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1217,2115 1217,2175 1421,2175 1421,2115"
+                },
+                "text": "schlosseri"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "376,2303 725,2347 833,2289 967,2340 1463,2294 1661,2342 2213,2291 2213,2220 1710,2231 1643,2197 1421,2238 1371,2208 376,2241"
+            },
+            "baseline": {
+              "points": "388,2283 479,2283 571,2280 662,2280 754,2280 845,2277 937,2279 1028,2277 1120,2277 1211,2277 1303,2274 1394,2274 1486,2274 1577,2274 1669,2277 1760,2274 1852,2277 1943,2277 2035,2277 2126,2277 2218,2280"
+            },
+            "text": "ELFRDGVNWGRIVSLFVLGSILARKNEDEHHGDNIEGIIOSVGNYXGSRRRK WIQ",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "379,2236 379,2296 2089,2296 2089,2236"
+                },
+                "text": "ELFRDGVNWGRIVSLFVLGSILARKNEDEHHGDNIEGIIOSVGNYXGSRRRK"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "2117,2237 2117,2297 2195,2297 2195,2237"
+                },
+                "text": "WIQ"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "369,2411 397,2416 445,2462 498,2453 542,2481 561,2464 600,2462 602,2356 558,2351 531,2363 468,2344 445,2363 369,2365"
+            },
+            "baseline": {
+              "points": "382,2406 407,2406 432,2406 457,2404 482,2403 508,2403 533,2403 558,2403 583,2403 609,2403"
+            },
+            "text": "DNGGW",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "372,2363 372,2423 563,2423 563,2363"
+                },
+                "text": "DNGGW"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

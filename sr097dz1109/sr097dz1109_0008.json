@@ -1,0 +1,2071 @@
+{
+  "processId": 10377914,
+  "status": "FINISHED",
+  "content": {
+    "text": "schematic was constructed for this purpose (See Fig. 4). Data\nfrom the oxygen depletion and addition experiments provided\nvalues to be assigned to the arrows in the diagram. The\ndependency of various fluxes on the ambient oxygen level itself\nimplied by the data - is depicted in the schematic in the form of\ndashed-line informational controls, and was entered into the\ncomputer program within the flux equations (See Appendices 1 and\n4). Oxygen addition rates were assumed to be dependent upon solar\nirradiance, which can be modeled as:\nL = Lmax X SIN(/daylength X time of day)\nSince photosynthetic rates do not increase linearly with\nirradiance, but rather in a fashion described in Fig. 5, oxygen\naddition was assumed to ascend during the morning (and descend\nduring the evening) proportionally to the square root of the\nsine, which seems to accurately model the increase in oxygen levels\nobserved during early morning in directly sunlit pools (See Fig.\n10).\nI introduced an ad hoc equation for diffusion of oxygen to\nthe atmosphere at levels above supersaturation (28 ppm):\nRate = (K) (Surface Area) ([0) - 7.966)\n((o) in uM/1, S.A. in sq. m)\nSuch a development in the model can necessitate additional model\ninputs - in this example, tidepool surface area. A full listing\nof the oxygen model inputs can be found in Table 1. Note that the\ntimes of sunrise and sunset are necessary inputs to define the\ndaylength, and subsequently influence oxygen addition in the\nmodel.",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "259,108 259,2816 2332,2816 2332,108"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "248,178 2146,194 2146,62 2063,54 1874,101 1763,54 1572,57 1375,114 1075,106 951,59 706,119 248,78"
+            },
+            "baseline": {
+              "points": "262,161 356,158 451,158 545,158 640,159 734,160 829,159 923,158 1018,158 1112,158 1207,158 1302,158 1396,158 1491,158 1585,158 1680,155 1774,157 1869,158 1963,159 2058,158 2153,158"
+            },
+            "text": "schematic was constructed for this purpose (See Fig. 4). Data",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "248,118 248,178 511,178 511,118"
+                },
+                "text": "schematic"
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "557,118 557,178 637,178 637,118"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "683,118 683,178 1008,178 1008,118"
+                },
+                "text": "constructed"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "1054,118 1054,178 1134,178 1134,118"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "1176,118 1176,178 1282,178 1282,118"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "1328,118 1328,178 1530,178 1530,118"
+                },
+                "text": "purpose"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "1587,116 1587,176 1688,176 1688,116"
+                },
+                "text": "(See"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1734,117 1734,177 1845,177 1845,117"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1891,118 1891,178 1972,178 1972,118"
+                },
+                "text": "4)."
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "2018,118 2018,178 2124,178 2124,118"
+                },
+                "text": "Data"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "248,290 564,277 618,310 765,271 944,310 1057,269 1292,313 1722,277 2084,331 2084,204 248,225"
+            },
+            "baseline": {
+              "points": "262,256 353,259 444,259 536,256 627,259 719,259 810,259 901,256 993,256 1084,257 1176,256 1267,256 1358,256 1450,256 1541,256 1633,256 1724,256 1815,258 1907,256 1998,256 2090,259"
+            },
+            "text": "from the oxygen depletion and addition experiments provided",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "248,217 248,277 349,277 349,217"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "395,219 395,279 476,279 476,219"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "522,218 522,278 694,278 694,218"
+                },
+                "text": "oxygen"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "741,216 741,276 1004,276 1004,216"
+                },
+                "text": "depletion"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1051,216 1051,276 1126,276 1126,216"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1173,216 1173,276 1406,276 1406,216"
+                },
+                "text": "addition"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1452,216 1452,276 1777,276 1777,216"
+                },
+                "text": "experiments"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1823,216 1823,276 2062,276 2062,216"
+                },
+                "text": "provided"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "248,401 773,411 941,364 1086,411 1158,377 1965,408 1965,302 1866,295 1551,328 1155,295 1016,339 838,295 657,339 248,292"
+            },
+            "baseline": {
+              "points": "262,358 347,361 432,359 518,361 603,361 689,361 774,361 859,361 945,361 1030,358 1116,361 1201,361 1286,361 1372,359 1457,359 1543,361 1628,361 1713,361 1799,360 1884,359 1970,361"
+            },
+            "text": "values to be assigned to the arrows in the diagram. The",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "247,320 247,380 415,380 415,320"
+                },
+                "text": "values"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "465,320 465,380 514,380 514,320"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "560,321 560,381 604,381 604,321"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "654,321 654,381 882,381 882,321"
+                },
+                "text": "assigned"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "932,320 932,380 976,380 976,320"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1026,319 1026,379 1100,379 1100,319"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1145,321 1145,381 1319,381 1319,321"
+                },
+                "text": "arrows"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1364,319 1364,379 1413,379 1413,319"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1458,319 1458,379 1537,379 1537,319"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1582,321 1582,381 1820,381 1820,321"
+                },
+                "text": "diagram."
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1865,319 1865,379 1939,379 1939,319"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "248,499 1016,507 1130,470 1675,520 1905,478 2040,520 2223,483 2223,370 2164,364 2102,411 1869,427 1670,393 918,434 248,401"
+            },
+            "baseline": {
+              "points": "262,462 360,462 458,462 556,462 655,462 753,462 851,462 949,462 1048,462 1146,462 1244,462 1342,462 1441,461 1539,461 1637,462 1735,462 1834,461 1932,460 2030,462 2128,459 2227,456"
+            },
+            "text": "dependency of various fluxes on the ambient oxygen level itself",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "248,422 248,482 551,482 551,422"
+                },
+                "text": "dependency"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "593,422 593,482 650,482 650,422"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "687,422 687,482 891,482 891,422"
+                },
+                "text": "various"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "939,422 939,482 1106,482 1106,422"
+                },
+                "text": "fluxes"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "1154,422 1154,482 1200,482 1200,422"
+                },
+                "text": "on"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1248,422 1248,482 1326,482 1326,422"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1373,421 1373,481 1577,481 1577,421"
+                },
+                "text": "ambient"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1620,422 1620,482 1792,482 1792,422"
+                },
+                "text": "oxygen"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1840,420 1840,480 1985,480 1985,420"
+                },
+                "text": "level"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "2028,419 2028,479 2205,479 2205,419"
+                },
+                "text": "itself"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "256,592 1184,574 1398,628 1804,564 1856,600 2259,595 2241,496 2182,533 256,504"
+            },
+            "baseline": {
+              "points": "271,561 370,561 470,561 570,561 670,561 769,564 869,561 969,561 1069,562 1168,561 1268,562 1368,561 1468,561 1567,564 1667,561 1767,561 1867,561 1966,561 2066,558 2166,560 2266,561"
+            },
+            "text": "implied by the data - is depicted in the schematic in the form of",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "256,521 256,581 447,581 447,521"
+                },
+                "text": "implied"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "493,521 493,581 543,581 543,521"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "589,521 589,581 664,581 664,521"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "711,523 711,583 821,583 821,523"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "867,521 867,581 882,581 882,521"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "928,521 928,581 973,581 973,521"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1019,521 1019,581 1251,581 1251,521"
+                },
+                "text": "depicted"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1297,521 1297,581 1342,581 1342,521"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1388,521 1388,581 1468,581 1468,521"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1514,521 1514,581 1777,581 1777,521"
+                },
+                "text": "schematic"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1823,521 1823,581 1868,581 1868,521"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1914,521 1914,581 1995,581 1995,521"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "2041,518 2041,578 2151,578 2151,518"
+                },
+                "text": "form"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "2197,520 2197,580 2247,580 2247,520"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "248,677 923,721 1055,664 1202,711 1251,677 1461,711 2122,690 2122,610 1908,595 248,628"
+            },
+            "baseline": {
+              "points": "262,662 355,662 448,659 542,662 635,662 728,662 822,662 915,662 1008,662 1102,662 1195,662 1288,662 1382,662 1475,662 1568,662 1662,662 1755,662 1848,662 1942,660 2035,659 2129,662"
+            },
+            "text": "dashed-line informational controls, and was entered into the",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "247,620 247,680 574,680 574,620"
+                },
+                "text": "dashed-line"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "624,622 624,682 1010,682 1010,622"
+                },
+                "text": "informational"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "1055,622 1055,682 1323,682 1323,622"
+                },
+                "text": "controls,"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "1363,622 1363,682 1442,682 1442,622"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "1487,622 1487,682 1565,682 1565,622"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1611,622 1611,682 1813,682 1813,622"
+                },
+                "text": "entered"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1863,620 1863,680 1972,680 1972,620"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "2017,619 2017,679 2096,679 2096,619"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "248,786 853,812 941,781 1008,814 1158,778 1471,819 1569,783 2171,812 2241,778 2241,701 248,726"
+            },
+            "baseline": {
+              "points": "262,761 361,764 460,764 559,762 659,761 758,764 857,764 957,764 1056,764 1155,764 1255,764 1354,764 1453,762 1552,761 1652,761 1751,763 1850,761 1950,762 2049,761 2148,761 2248,764"
+            },
+            "text": "computer program within the flux equations (See Appendices 1 and",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "247,724 247,784 484,784 484,724"
+                },
+                "text": "computer"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "529,721 529,781 731,781 731,721"
+                },
+                "text": "program"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "776,724 776,784 949,784 949,724"
+                },
+                "text": "within"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "994,724 994,784 1068,784 1068,724"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1118,724 1118,784 1226,784 1226,724"
+                },
+                "text": "flux"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1271,723 1271,783 1533,783 1533,723"
+                },
+                "text": "equations"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1588,721 1588,781 1686,781 1686,721"
+                },
+                "text": "(See"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1736,721 1736,781 2032,781 2032,721"
+                },
+                "text": "Appendices"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "2082,721 2082,781 2101,781 2101,721"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "2141,721 2141,781 2220,781 2220,721"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "251,915 427,884 476,923 615,874 1158,920 1349,881 1874,923 2257,894 2257,819 2065,801 251,812"
+            },
+            "baseline": {
+              "points": "265,860 364,865 464,865 564,865 664,865 764,865 864,865 964,865 1064,865 1164,865 1264,864 1363,865 1463,864 1563,863 1663,863 1763,865 1863,865 1963,865 2063,865 2163,865 2263,863"
+            },
+            "text": "4). Oxygen addition rates were assumed to be dependent upon solar",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "250,821 250,881 331,881 331,821"
+                },
+                "text": "4)."
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "370,825 370,885 542,885 542,825"
+                },
+                "text": "Oxygen"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "591,825 591,885 821,885 821,825"
+                },
+                "text": "addition"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "869,825 869,885 1008,885 1008,825"
+                },
+                "text": "rates"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1051,825 1051,885 1161,885 1161,825"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1205,824 1205,884 1406,884 1406,824"
+                },
+                "text": "assumed"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1455,823 1455,883 1497,883 1497,823"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1541,823 1541,883 1589,883 1589,823"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1637,825 1637,885 1906,885 1906,825"
+                },
+                "text": "dependent"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1949,825 1949,885 2059,885 2059,825"
+                },
+                "text": "upon"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "2103,824 2103,884 2241,884 2241,824"
+                },
+                "text": "solar"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "246,998 1373,998 1373,933 1122,905 246,915"
+            },
+            "baseline": {
+              "points": "259,964 315,966 371,965 427,967 483,964 539,967 595,967 651,967 707,967 763,967 819,967 875,967 931,967 987,967 1043,967 1099,967 1155,967 1211,966 1267,964 1323,964 1379,964"
+            },
+            "text": "irradiance, which can be modeled as:",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "246,926 246,986 578,986 578,926"
+                },
+                "text": "irradiance,"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "619,927 619,987 760,987 760,927"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "806,927 806,987 886,987 886,927"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "933,927 933,987 982,987 982,927"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "1028,927 1028,987 1235,987 1235,927"
+                },
+                "text": "modeled"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1281,924 1281,984 1361,984 1361,924"
+                },
+                "text": "as:"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "556,1096 1923,1099 1923,1026 1791,1013 1140,1026 1055,987 556,1034"
+            },
+            "baseline": {
+              "points": "570,1066 637,1063 705,1066 773,1069 841,1066 909,1066 976,1069 1044,1069 1112,1069 1180,1069 1248,1069 1315,1069 1383,1069 1451,1067 1519,1068 1587,1066 1654,1068 1722,1068 1790,1067 1858,1067 1926,1072"
+            },
+            "text": "L = Lmax X SIN(/daylength X time of day)",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "557,1026 557,1086 568,1086 568,1026"
+                },
+                "text": "L"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "614,1023 614,1083 625,1083 625,1023"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "678,1027 678,1087 786,1087 786,1027"
+                },
+                "text": "Lmax"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "827,1026 827,1086 850,1086 850,1026"
+                },
+                "text": "X"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "891,1029 891,1089 1408,1089 1408,1029"
+                },
+                "text": "SIN(/daylength"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1449,1027 1449,1087 1471,1087 1471,1027"
+                },
+                "text": "X"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1518,1026 1518,1086 1626,1086 1626,1026"
+                },
+                "text": "time"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1673,1028 1673,1088 1724,1088 1724,1028"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1765,1027 1765,1087 1914,1087 1914,1027"
+                },
+                "text": "day)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "248,1202 1996,1202 1996,1119 1905,1096 1435,1135 1197,1099 892,1145 750,1096 460,1135 248,1106"
+            },
+            "baseline": {
+              "points": "262,1167 349,1167 436,1167 523,1167 610,1167 697,1166 784,1170 871,1167 958,1167 1045,1170 1132,1170 1219,1170 1306,1168 1393,1169 1480,1167 1567,1167 1654,1167 1741,1170 1828,1167 1915,1167 2003,1167"
+            },
+            "text": "Since photosynthetic rates do not increase linearly with",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "248,1127 248,1187 384,1187 384,1127"
+                },
+                "text": "Since"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "430,1126 430,1186 851,1186 851,1126"
+                },
+                "text": "photosynthetic"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "898,1127 898,1187 1034,1187 1034,1127"
+                },
+                "text": "rates"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "1081,1130 1081,1190 1131,1190 1131,1130"
+                },
+                "text": "do"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1172,1130 1172,1190 1258,1190 1258,1130"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1299,1128 1299,1188 1532,1188 1532,1128"
+                },
+                "text": "increase"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1578,1128 1578,1188 1811,1188 1811,1128"
+                },
+                "text": "linearly"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1858,1127 1858,1187 1969,1187 1969,1127"
+                },
+                "text": "with"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "248,1313 2205,1285 2205,1228 2135,1207 248,1210"
+            },
+            "baseline": {
+              "points": "262,1269 359,1269 457,1269 554,1269 652,1272 749,1270 847,1272 944,1271 1042,1269 1139,1272 1237,1271 1334,1271 1432,1267 1529,1269 1627,1269 1724,1269 1822,1272 1919,1271 2017,1272 2114,1270 2212,1266"
+            },
+            "text": "irradiance, but rather in a fashion described in Fig. 5, oxygen",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "248,1229 248,1289 573,1289 573,1229"
+                },
+                "text": "irradiance,"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "614,1231 614,1291 695,1291 695,1231"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "737,1231 737,1291 909,1291 909,1231"
+                },
+                "text": "rather"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "956,1230 956,1290 1001,1290 1001,1230"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "1047,1229 1047,1289 1062,1289 1062,1229"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1113,1231 1113,1291 1312,1291 1312,1231"
+                },
+                "text": "fashion"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1358,1228 1358,1288 1622,1288 1622,1228"
+                },
+                "text": "described"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1669,1229 1669,1289 1720,1289 1720,1229"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1761,1231 1761,1291 1877,1291 1877,1231"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1919,1231 1919,1291 1974,1291 1974,1231"
+                },
+                "text": "5,"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "2015,1230 2015,1290 2188,1290 2188,1230"
+                },
+                "text": "oxygen"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "248,1393 675,1391 776,1430 897,1391 1344,1430 1432,1396 2171,1401 2171,1316 1980,1300 1781,1347 248,1316"
+            },
+            "baseline": {
+              "points": "262,1370 357,1370 453,1370 549,1370 645,1370 741,1370 837,1370 932,1370 1028,1370 1124,1370 1220,1370 1316,1370 1412,1370 1508,1370 1603,1370 1699,1370 1795,1372 1891,1372 1987,1370 2083,1370 2179,1367"
+            },
+            "text": "addition was assumed to ascend during the morning (and descend",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "247,1330 247,1390 478,1390 478,1330"
+                },
+                "text": "addition"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "522,1330 522,1390 598,1390 598,1330"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "647,1330 647,1390 849,1390 849,1330"
+                },
+                "text": "assumed"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "893,1330 893,1390 941,1390 941,1330"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "989,1330 989,1390 1157,1390 1157,1330"
+                },
+                "text": "ascend"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1206,1330 1206,1390 1374,1390 1374,1330"
+                },
+                "text": "during"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1423,1330 1423,1390 1500,1390 1500,1330"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1544,1330 1544,1390 1746,1390 1746,1330"
+                },
+                "text": "morning"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1799,1332 1799,1392 1900,1392 1900,1332"
+                },
+                "text": "(and"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1949,1330 1949,1390 2150,1390 2150,1330"
+                },
+                "text": "descend"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "256,1494 719,1525 1047,1486 1093,1525 1543,1479 1665,1523 2120,1494 2120,1440 2024,1414 1910,1448 1574,1409 607,1442 256,1409"
+            },
+            "baseline": {
+              "points": "271,1472 363,1472 456,1472 549,1471 642,1472 734,1472 827,1473 920,1472 1013,1472 1105,1472 1198,1472 1291,1472 1384,1469 1476,1472 1569,1472 1662,1472 1755,1469 1847,1472 1940,1470 2033,1470 2126,1472"
+            },
+            "text": "during the evening) proportionally to the square root of the",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "255,1432 255,1492 418,1492 418,1432"
+                },
+                "text": "during"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "468,1431 468,1491 547,1491 547,1431"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "592,1432 592,1492 828,1492 828,1432"
+                },
+                "text": "evening)"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "869,1432 869,1492 1288,1492 1288,1432"
+                },
+                "text": "proportionally"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "1333,1429 1333,1489 1382,1489 1382,1429"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1427,1431 1427,1491 1506,1491 1506,1431"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1551,1432 1551,1492 1723,1492 1723,1432"
+                },
+                "text": "square"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1769,1431 1769,1491 1882,1491 1882,1431"
+                },
+                "text": "root"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1922,1430 1922,1490 1976,1490 1976,1430"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "2021,1430 2021,1490 2094,1490 2094,1430"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "251,1587 491,1621 667,1587 788,1631 876,1590 1189,1626 2329,1598 2329,1499 1939,1538 1877,1504 251,1515"
+            },
+            "baseline": {
+              "points": "265,1570 368,1570 471,1570 575,1570 678,1570 781,1570 885,1570 988,1570 1091,1570 1195,1570 1298,1570 1401,1570 1505,1570 1608,1570 1711,1570 1815,1570 1918,1570 2021,1570 2125,1570 2228,1570 2332,1567"
+            },
+            "text": "sine, which seems to accurately model the increase in oxygen levels",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "250,1530 250,1590 393,1590 393,1530"
+                },
+                "text": "sine,"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "437,1530 437,1590 575,1590 575,1530"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "624,1530 624,1590 762,1590 762,1530"
+                },
+                "text": "seems"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "806,1530 806,1590 853,1590 853,1530"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "901,1530 901,1590 1193,1590 1193,1530"
+                },
+                "text": "accurately"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1237,1530 1237,1590 1380,1590 1380,1530"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1423,1530 1423,1590 1499,1590 1499,1530"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1548,1530 1548,1590 1777,1590 1777,1530"
+                },
+                "text": "increase"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1826,1530 1826,1590 1868,1590 1868,1530"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1917,1530 1917,1590 2088,1590 2088,1530"
+                },
+                "text": "oxygen"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "2137,1530 2137,1590 2304,1590 2304,1530"
+                },
+                "text": "levels"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "248,1698 455,1740 592,1704 662,1747 783,1704 1161,1729 1267,1683 1339,1740 1742,1680 1830,1724 2151,1698 2228,1729 2228,1618 2014,1605 1939,1641 1667,1600 1422,1641 1099,1608 682,1639 574,1603 248,1636"
+            },
+            "baseline": {
+              "points": "262,1672 360,1673 459,1672 558,1675 656,1675 755,1672 854,1675 952,1675 1051,1675 1150,1675 1249,1675 1347,1674 1446,1675 1545,1672 1643,1675 1742,1675 1841,1675 1939,1675 2038,1673 2137,1672 2236,1675"
+            },
+            "text": "observed during early morning in directly sunlit pools (See Fig.",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "248,1632 248,1692 480,1692 480,1632"
+                },
+                "text": "observed"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "527,1635 527,1695 697,1695 697,1635"
+                },
+                "text": "during"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "745,1633 745,1693 884,1693 884,1633"
+                },
+                "text": "early"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "926,1635 926,1695 1128,1695 1128,1635"
+                },
+                "text": "morning"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "1180,1635 1180,1695 1226,1695 1226,1635"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1269,1634 1269,1694 1501,1694 1501,1634"
+                },
+                "text": "directly"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1548,1634 1548,1694 1718,1694 1718,1634"
+                },
+                "text": "sunlit"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1761,1635 1761,1695 1905,1695 1905,1635"
+                },
+                "text": "pools"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1957,1633 1957,1693 2060,1693 2060,1633"
+                },
+                "text": "(See"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "2107,1632 2107,1692 2221,1692 2221,1632"
+                },
+                "text": "Fig."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "246,1789 258,1789 271,1802 305,1789 331,1810 354,1791 364,1799 375,1789 385,1789 385,1724 336,1727 328,1722 313,1727 302,1719 271,1740 264,1732 246,1732"
+            },
+            "baseline": {
+              "points": "259,1776 285,1776 311,1776 338,1778 364,1778 391,1776"
+            },
+            "text": "10).",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "250,1736 250,1796 379,1796 379,1736"
+                },
+                "text": "10)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "401,1895 2112,1913 2202,1890 2205,1802 2130,1838 1773,1784 1336,1843 1285,1802 1150,1838 1091,1781 1037,1835 835,1830 794,1791 711,1833 558,1786 403,1820"
+            },
+            "baseline": {
+              "points": "415,1878 504,1875 594,1875 684,1875 774,1875 864,1878 954,1875 1043,1875 1133,1875 1223,1878 1313,1875 1403,1875 1493,1875 1583,1875 1672,1875 1762,1875 1852,1875 1942,1875 2032,1875 2122,1875 2212,1872"
+            },
+            "text": "I introduced an ad hoc equation for diffusion of oxygen to",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "401,1838 401,1898 411,1898 411,1838"
+                },
+                "text": "I"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "458,1835 458,1895 749,1895 749,1835"
+                },
+                "text": "introduced"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "797,1836 797,1896 843,1896 843,1836"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "891,1836 891,1896 937,1896 937,1836"
+                },
+                "text": "ad"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "985,1835 985,1895 1062,1895 1062,1835"
+                },
+                "text": "hoc"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1110,1837 1110,1897 1338,1897 1338,1837"
+                },
+                "text": "equation"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1391,1835 1391,1895 1469,1895 1469,1835"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1511,1835 1511,1895 1776,1895 1776,1835"
+                },
+                "text": "diffusion"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1824,1835 1824,1895 1875,1895 1875,1835"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1917,1835 1917,1895 2089,1895 2089,1835"
+                },
+                "text": "oxygen"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "2136,1833 2136,1893 2183,1893 2183,1833"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "248,1983 509,2021 763,1993 850,2042 954,2003 1081,2042 1311,2001 1985,2006 1985,1936 1923,1913 1215,1908 1026,1947 248,1910"
+            },
+            "baseline": {
+              "points": "262,1976 348,1976 434,1976 521,1976 607,1976 694,1976 780,1976 867,1973 953,1974 1040,1976 1126,1975 1212,1975 1299,1976 1385,1976 1472,1976 1558,1976 1645,1976 1731,1976 1818,1979 1904,1976 1991,1973"
+            },
+            "text": "the atmosphere at levels above supersaturation (28 ppm):",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "247,1936 247,1996 316,1996 316,1936"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "366,1936 366,1996 663,1996 663,1936"
+                },
+                "text": "atmosphere"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "709,1936 709,1996 758,1996 758,1936"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "803,1933 803,1993 971,1993 971,1933"
+                },
+                "text": "levels"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1021,1935 1021,1995 1160,1995 1160,1935"
+                },
+                "text": "above"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1205,1936 1205,1996 1656,1996 1656,1936"
+                },
+                "text": "supersaturation"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1711,1936 1711,1996 1780,1996 1780,1936"
+                },
+                "text": "(28"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1830,1936 1830,1996 1973,1996 1973,1936"
+                },
+                "text": "ppm):"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "677,2084 739,2122 863,2089 1851,2120 1851,2011 941,2014 892,2047 677,2003"
+            },
+            "baseline": {
+              "points": "692,2078 750,2078 808,2076 866,2075 925,2078 983,2078 1041,2078 1099,2081 1158,2080 1216,2078 1274,2078 1332,2078 1391,2080 1449,2081 1507,2080 1565,2078 1624,2078 1682,2081 1740,2078 1798,2078 1857,2075"
+            },
+            "text": "Rate = (K) (Surface Area) ([0) - 7.966)",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "678,2038 678,2098 786,2098 786,2038"
+                },
+                "text": "Rate"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "827,2035 827,2095 843,2095 843,2035"
+                },
+                "text": "="
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "901,2038 901,2098 975,2098 975,2038"
+                },
+                "text": "(K)"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "999,2040 999,2100 1222,2100 1222,2040"
+                },
+                "text": "(Surface"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "1269,2038 1269,2098 1411,2098 1411,2038"
+                },
+                "text": "Area)"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1435,2040 1435,2100 1573,2100 1573,2040"
+                },
+                "text": "([0)"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1608,2038 1608,2098 1624,2098 1624,2038"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1671,2038 1671,2098 1848,2098 1848,2038"
+                },
+                "text": "7.966)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "783,2213 982,2236 1057,2205 1329,2228 1409,2189 1481,2228 1742,2200 1742,2122 1616,2158 1579,2127 1380,2151 1267,2112 1052,2146 783,2115"
+            },
+            "baseline": {
+              "points": "797,2188 844,2188 892,2185 939,2182 987,2182 1035,2182 1082,2182 1130,2182 1177,2182 1225,2182 1273,2182 1320,2182 1368,2182 1415,2182 1463,2182 1511,2182 1558,2182 1606,2182 1653,2179 1701,2179 1749,2182"
+            },
+            "text": "((o) in uM/1, S.A. in sq. m)",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "785,2146 785,2206 953,2206 953,2146"
+                },
+                "text": "((o)"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "998,2142 998,2202 1041,2202 1041,2142"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "1086,2142 1086,2202 1235,2202 1235,2142"
+                },
+                "text": "uM/1,"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "1275,2142 1275,2202 1393,2202 1393,2142"
+                },
+                "text": "S.A."
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1437,2142 1437,2202 1481,2202 1481,2142"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1525,2142 1525,2202 1612,2202 1612,2142"
+                },
+                "text": "sq."
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1650,2139 1650,2199 1737,2199 1737,2139"
+                },
+                "text": "m)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "256,2314 1238,2293 1481,2329 1771,2288 2006,2337 2231,2293 2231,2236 1794,2195 1716,2241 256,2231"
+            },
+            "baseline": {
+              "points": "271,2281 369,2282 467,2281 565,2281 664,2281 762,2281 860,2281 958,2281 1057,2283 1155,2281 1253,2281 1351,2283 1450,2281 1548,2281 1646,2281 1744,2281 1843,2281 1941,2281 2039,2281 2137,2279 2236,2278"
+            },
+            "text": "Such a development in the model can necessitate additional model",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "256,2241 256,2301 361,2301 361,2241"
+                },
+                "text": "Such"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "407,2241 407,2301 426,2301 426,2241"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "472,2241 472,2301 799,2301 799,2241"
+                },
+                "text": "development"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "845,2241 845,2301 884,2301 884,2241"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "935,2241 935,2301 1010,2301 1010,2241"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1056,2241 1056,2301 1197,2301 1197,2241"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1243,2241 1243,2301 1318,2301 1318,2241"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1364,2241 1364,2301 1685,2301 1685,2241"
+                },
+                "text": "necessitate"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1731,2241 1731,2301 2033,2301 2033,2241"
+                },
+                "text": "additional"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "2074,2238 2074,2298 2219,2298 2219,2238"
+                },
+                "text": "model"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "251,2435 1990,2396 2099,2445 2208,2401 2208,2350 2125,2316 1970,2352 1685,2314 1334,2355 1148,2321 1013,2358 910,2319 794,2352 251,2332"
+            },
+            "baseline": {
+              "points": "265,2382 362,2382 460,2379 557,2382 655,2382 752,2382 850,2385 947,2382 1045,2382 1142,2382 1240,2382 1337,2382 1435,2382 1532,2382 1630,2382 1727,2382 1825,2382 1922,2382 2020,2382 2117,2382 2215,2382"
+            },
+            "text": "inputs - in this example, tidepool surface area. A full listing",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "251,2342 251,2402 416,2402 416,2342"
+                },
+                "text": "inputs"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "464,2339 464,2399 480,2399 480,2339"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "528,2341 528,2401 571,2401 571,2341"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "620,2342 620,2402 726,2402 726,2342"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "774,2343 774,2403 1014,2403 1014,2343"
+                },
+                "text": "example,"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1052,2342 1052,2402 1292,2402 1292,2342"
+                },
+                "text": "tidepool"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1336,2342 1336,2402 1538,2402 1538,2342"
+                },
+                "text": "surface"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1582,2342 1582,2402 1725,2402 1725,2342"
+                },
+                "text": "area."
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1768,2342 1768,2402 1784,2402 1784,2342"
+                },
+                "text": "A"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1832,2342 1832,2402 1944,2402 1944,2342"
+                },
+                "text": "full"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1988,2342 1988,2402 2195,2402 2195,2342"
+                },
+                "text": "listing"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "253,2523 512,2502 600,2549 688,2510 809,2544 977,2497 1303,2531 1352,2495 1499,2526 1647,2495 2267,2526 2267,2445 2200,2430 1202,2456 1039,2417 933,2453 695,2412 253,2453"
+            },
+            "baseline": {
+              "points": "268,2484 368,2484 468,2484 568,2484 668,2487 769,2486 869,2487 969,2487 1069,2487 1169,2487 1270,2485 1370,2487 1470,2487 1570,2487 1670,2487 1771,2484 1871,2484 1971,2484 2071,2485 2171,2484 2272,2481"
+            },
+            "text": "of the oxygen model inputs can be found in Table 1. Note that the",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "253,2444 253,2504 299,2504 299,2444"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "341,2444 341,2504 418,2504 418,2444"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "466,2444 466,2504 636,2504 636,2444"
+                },
+                "text": "oxygen"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "683,2446 683,2506 823,2506 823,2446"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "870,2447 870,2507 1041,2507 1041,2447"
+                },
+                "text": "inputs"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "1088,2447 1088,2507 1165,2507 1165,2447"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1207,2445 1207,2505 1259,2505 1259,2445"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1306,2447 1306,2507 1440,2507 1440,2447"
+                },
+                "text": "found"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1487,2447 1487,2507 1533,2507 1533,2447"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1581,2447 1581,2507 1720,2507 1720,2447"
+                },
+                "text": "Table"
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "1768,2444 1768,2504 1819,2504 1819,2444"
+                },
+                "text": "1."
+              },
+              {
+                "id": "tr_1_tl_24_w12",
+                "coords": {
+                  "points": "1856,2444 1856,2504 1969,2504 1969,2444"
+                },
+                "text": "Note"
+              },
+              {
+                "id": "tr_1_tl_24_w13",
+                "coords": {
+                  "points": "2016,2444 2016,2504 2130,2504 2130,2444"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_24_w14",
+                "coords": {
+                  "points": "2172,2442 2172,2502 2249,2502 2249,2442"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "258,2603 2177,2621 2146,2533 258,2536"
+            },
+            "baseline": {
+              "points": "274,2586 369,2586 464,2588 560,2588 655,2589 751,2589 846,2589 941,2589 1037,2589 1132,2589 1228,2589 1323,2586 1418,2589 1514,2589 1609,2587 1705,2586 1800,2586 1895,2586 1991,2586 2086,2586 2182,2583"
+            },
+            "text": "times of sunrise and sunset are necessary inputs to define the",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "257,2546 257,2606 391,2606 391,2546"
+                },
+                "text": "times"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "439,2548 439,2608 491,2608 491,2548"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "530,2548 530,2608 731,2608 731,2548"
+                },
+                "text": "sunrise"
+              },
+              {
+                "id": "tr_1_tl_25_w4",
+                "coords": {
+                  "points": "780,2549 780,2609 856,2609 856,2549"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_25_w5",
+                "coords": {
+                  "points": "900,2549 900,2609 1077,2609 1077,2549"
+                },
+                "text": "sunset"
+              },
+              {
+                "id": "tr_1_tl_25_w6",
+                "coords": {
+                  "points": "1116,2549 1116,2609 1197,2609 1197,2549"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_25_w7",
+                "coords": {
+                  "points": "1241,2547 1241,2607 1504,2607 1504,2547"
+                },
+                "text": "necessary"
+              },
+              {
+                "id": "tr_1_tl_25_w8",
+                "coords": {
+                  "points": "1553,2546 1553,2606 1720,2606 1720,2546"
+                },
+                "text": "inputs"
+              },
+              {
+                "id": "tr_1_tl_25_w9",
+                "coords": {
+                  "points": "1769,2546 1769,2606 1811,2606 1811,2546"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_25_w10",
+                "coords": {
+                  "points": "1860,2546 1860,2606 2032,2606 2032,2546"
+                },
+                "text": "define"
+              },
+              {
+                "id": "tr_1_tl_25_w11",
+                "coords": {
+                  "points": "2080,2544 2080,2604 2157,2604 2157,2544"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_26",
+            "coords": {
+              "points": "248,2722 1075,2740 1153,2701 1207,2740 1373,2699 1517,2738 2120,2738 2120,2626 2086,2619 248,2647"
+            },
+            "baseline": {
+              "points": "262,2687 355,2687 448,2689 541,2690 634,2690 727,2687 820,2690 913,2690 1006,2690 1099,2690 1192,2690 1285,2687 1378,2687 1471,2688 1564,2689 1657,2688 1750,2687 1843,2687 1936,2687 2029,2687 2123,2684"
+            },
+            "text": "daylength, and subsequently influence oxygen addition in the",
+            "words": [
+              {
+                "id": "tr_1_tl_26_w1",
+                "coords": {
+                  "points": "248,2647 248,2707 548,2707 548,2647"
+                },
+                "text": "daylength,"
+              },
+              {
+                "id": "tr_1_tl_26_w2",
+                "coords": {
+                  "points": "595,2650 595,2710 667,2710 667,2650"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_26_w3",
+                "coords": {
+                  "points": "714,2650 714,2710 1071,2710 1071,2650"
+                },
+                "text": "subsequently"
+              },
+              {
+                "id": "tr_1_tl_26_w4",
+                "coords": {
+                  "points": "1118,2648 1118,2708 1382,2708 1382,2648"
+                },
+                "text": "influence"
+              },
+              {
+                "id": "tr_1_tl_26_w5",
+                "coords": {
+                  "points": "1424,2648 1424,2708 1595,2708 1595,2648"
+                },
+                "text": "oxygen"
+              },
+              {
+                "id": "tr_1_tl_26_w6",
+                "coords": {
+                  "points": "1642,2647 1642,2707 1874,2707 1874,2647"
+                },
+                "text": "addition"
+              },
+              {
+                "id": "tr_1_tl_26_w7",
+                "coords": {
+                  "points": "1922,2647 1922,2707 1968,2707 1968,2647"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_26_w8",
+                "coords": {
+                  "points": "2015,2646 2015,2706 2092,2706 2092,2646"
+                },
+                "text": "the"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_27",
+            "coords": {
+              "points": "251,2820 300,2833 310,2825 318,2833 344,2831 352,2823 370,2831 396,2812 429,2820 442,2807 455,2807 452,2745 434,2748 406,2735 380,2756 336,2730 295,2748 277,2738 248,2740"
+            },
+            "baseline": {
+              "points": "262,2792 290,2790 318,2789 346,2789 374,2789 402,2789 430,2791 459,2792"
+            },
+            "text": "model.",
+            "words": [
+              {
+                "id": "tr_1_tl_27_w1",
+                "coords": {
+                  "points": "248,2749 248,2809 447,2809 447,2749"
+                },
+                "text": "model."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

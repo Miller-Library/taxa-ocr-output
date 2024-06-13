@@ -1,0 +1,2399 @@
+{
+  "processId": 10384715,
+  "status": "FINISHED",
+  "content": {
+    "text": "Introduction\nThe TRP - transient receptor potential - family consists of ion channel subunits\ncomprised of six membrane-spanning domains (Clapham et al., 2001). All eukaryotic cells\nexpress some member(s) of the TRP family. The mammalian TRP channels are classified into\nthree groups: C - short, V - vanilloid, and M - melastatin. Of the TRPM family of cation\nchannels, TRPM6 and TRPM7 are unique in that they both contain kinase domains. The\nfunction of the TRPM7 kinase domain is not well understood, and this domain's activity has\nbeen characterized only very recently (Ryazanova et al., 2004), though the kinase is known not\nto be required for TRPM7 channel gating (Schmitz et al., 2003). The TRPM7 channel is\ninactivated by phospholipase C (PLC) activity and resultant phosphatidylinositol 4,5\u00ac\nbisphosphate (PIP\u00bb) hydrolysis (Runnels et al., 2002) and is activated by low intracellular\nmagnesium (Nadler et al., 2001). The channel conducts divalent cations inwardly and\nmonovalent cations outwardly and is outwardly-rectifying (Runnels et al., 2001). TRPM7 is\nwidely expressed in the human body, and likely has a central role in Mg\u201c homeostasis (Schmitz\net al., 2003). TRPM7 Ca\u201c may be essential for cell viability (Nadler et al., 2001). In addition to\nnormal physiological transport of Ca* and Mg*, TRPM7 acts as a trace and nonphysiological\nmetal divalent cation influx pathway, exhibiting especially high permeation of Zn\u201c (Monteilh-\nZoller et al., 2003), albeit at concentrations of zinc 1000x above physiological levels (Perveen et\nal., 2002).\nZinc is involved in a number of normal physiological functions, ranging from synaptic\nrelease during brain function (Zatta et al., 2003) to immune response (Shankar and Prasad,\n1998). However, excessive levels of zinc in neurons can be toxic via nitric oxide-implicated\nneuron cell death (Bossy-Wetzel et al., 2004) and elevated glutamate excitotoxicity (Siddiq and\nPage 1 of 8",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "346,430 346,3033 2215,3033 2215,430"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "338,499 443,492 455,504 483,499 509,520 558,516 581,495 600,506 667,499 667,432 649,425 593,418 567,439 544,439 504,422 432,420 420,432 380,397 338,406"
+            },
+            "baseline": {
+              "points": "352,486 378,483 405,483 432,483 459,483 486,483 513,483 539,483 566,483 593,483 620,483 647,483 674,483"
+            },
+            "text": "Introduction",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "345,443 345,503 641,503 641,443"
+                },
+                "text": "Introduction"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "483,653 684,611 1328,670 1771,623 2210,651 2177,546 1379,572 1153,537 1039,581 481,541"
+            },
+            "baseline": {
+              "points": "495,612 581,612 667,609 753,611 839,612 925,610 1011,611 1097,612 1183,612 1269,612 1355,609 1441,612 1527,612 1613,612 1699,612 1785,612 1871,612 1957,615 2043,612 2129,615 2215,615"
+            },
+            "text": "The TRP - transient receptor potential - family consists of ion channel subunits",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "480,572 480,632 542,632 542,572"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "576,570 576,630 653,630 653,570"
+                },
+                "text": "TRP"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "687,569 687,629 701,629 701,569"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "735,571 735,631 908,631 908,571"
+                },
+                "text": "transient"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "933,571 933,631 1096,631 1096,571"
+                },
+                "text": "receptor"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1121,572 1121,632 1298,632 1298,572"
+                },
+                "text": "potential"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1318,570 1318,630 1327,630 1327,570"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1366,571 1366,631 1486,631 1486,571"
+                },
+                "text": "family"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1520,572 1520,632 1674,632 1674,572"
+                },
+                "text": "consists"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1704,572 1704,632 1742,632 1742,572"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1771,572 1771,632 1824,632 1824,572"
+                },
+                "text": "ion"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1858,574 1858,634 2011,634 2011,574"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "2036,574 2036,634 2199,634 2199,574"
+                },
+                "text": "subunits"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "343,765 782,730 868,779 1034,733 1340,782 1459,737 1701,765 1785,723 1832,761 1967,733 2093,772 2203,737 2203,656 2112,691 1797,651 343,686"
+            },
+            "baseline": {
+              "points": "355,719 447,719 540,719 633,719 725,719 818,719 911,719 1003,719 1096,722 1189,722 1282,722 1374,722 1467,722 1560,722 1652,719 1745,722 1838,722 1930,722 2023,722 2116,722 2209,722"
+            },
+            "text": "comprised of six membrane-spanning domains (Clapham et al., 2001). All eukaryotic cells",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "342,679 342,739 534,739 534,679"
+                },
+                "text": "comprised"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "564,679 564,739 598,739 598,679"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "623,679 623,739 667,739 667,679"
+                },
+                "text": "six"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "697,679 697,739 1085,739 1085,679"
+                },
+                "text": "membrane-spanning"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "1110,682 1110,742 1272,742 1272,682"
+                },
+                "text": "domains"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1297,682 1297,742 1459,742 1459,682"
+                },
+                "text": "(Clapham"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1504,682 1504,742 1538,742 1538,682"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1558,681 1558,741 1616,741 1616,681"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1642,680 1642,740 1764,740 1764,680"
+                },
+                "text": "2001)."
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1804,682 1804,742 1867,742 1867,682"
+                },
+                "text": "All"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1888,682 1888,742 2084,742 2084,682"
+                },
+                "text": "eukaryotic"
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "2114,682 2114,742 2197,742 2197,682"
+                },
+                "text": "cells"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "345,870 649,840 938,889 1295,842 1344,877 1428,845 1725,877 1841,840 2201,884 2201,782 2075,789 2037,751 1977,798 1417,800 1176,756 345,796"
+            },
+            "baseline": {
+              "points": "358,830 450,830 542,830 635,830 727,830 820,830 912,830 1004,830 1097,830 1189,833 1282,833 1374,833 1466,833 1559,832 1651,830 1744,833 1836,833 1928,833 2021,833 2113,833 2206,833"
+            },
+            "text": "express some member(s) of the TRP family. The mammalian TRP channels are classified into",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "349,790 349,850 486,850 486,790"
+                },
+                "text": "express"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "511,790 511,850 598,850 598,790"
+                },
+                "text": "some"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "623,790 623,850 828,850 828,790"
+                },
+                "text": "member(s)"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "848,790 848,850 882,850 882,790"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "902,790 902,850 946,850 946,790"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "976,790 976,850 1049,850 1049,790"
+                },
+                "text": "TRP"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1079,791 1079,851 1210,851 1210,791"
+                },
+                "text": "family."
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1240,793 1240,853 1304,853 1304,793"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1329,793 1329,853 1544,853 1544,793"
+                },
+                "text": "mammalian"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1574,790 1574,850 1646,850 1646,790"
+                },
+                "text": "TRP"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1671,793 1671,853 1832,853 1832,793"
+                },
+                "text": "channels"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1857,793 1857,853 1906,853 1906,793"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "1931,793 1931,853 2102,853 2102,793"
+                },
+                "text": "classified"
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "2132,793 2132,853 2190,853 2190,793"
+                },
+                "text": "into"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "343,964 2203,969 2203,891 1869,875 1314,910 1095,875 936,917 523,870 343,894"
+            },
+            "baseline": {
+              "points": "355,937 447,937 540,937 633,937 725,937 818,937 911,937 1003,938 1096,940 1189,940 1282,938 1374,940 1467,940 1560,937 1652,937 1745,940 1838,940 1930,940 2023,938 2116,940 2209,943"
+            },
+            "text": "three groups: C - short, V - vanilloid, and M - melastatin. Of the TRPM family of cation",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "343,897 343,957 428,957 428,897"
+                },
+                "text": "three"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "459,897 459,957 599,957 599,897"
+                },
+                "text": "groups:"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "620,897 620,957 640,957 640,897"
+                },
+                "text": "C"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "671,897 671,957 681,957 681,897"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "716,897 716,957 827,957 827,897"
+                },
+                "text": "short,"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "848,897 848,957 862,957 862,897"
+                },
+                "text": "V"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "893,897 893,957 907,957 907,897"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "943,898 943,958 1125,958 1125,898"
+                },
+                "text": "vanilloid,"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1146,900 1146,960 1201,960 1201,900"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1232,898 1232,958 1246,958 1246,898"
+                },
+                "text": "M"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1293,898 1293,958 1302,958 1302,898"
+                },
+                "text": "-"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1333,900 1333,960 1549,960 1549,900"
+                },
+                "text": "melastatin."
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1580,897 1580,957 1631,957 1631,897"
+                },
+                "text": "Of"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "1651,897 1651,957 1701,957 1701,897"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w15",
+                "coords": {
+                  "points": "1732,900 1732,960 1832,960 1832,900"
+                },
+                "text": "TRPM"
+              },
+              {
+                "id": "tr_1_tl_5_w16",
+                "coords": {
+                  "points": "1883,899 1883,959 1999,959 1999,899"
+                },
+                "text": "family"
+              },
+              {
+                "id": "tr_1_tl_5_w17",
+                "coords": {
+                  "points": "2030,898 2030,958 2065,958 2065,898"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w18",
+                "coords": {
+                  "points": "2086,900 2086,960 2191,960 2191,900"
+                },
+                "text": "cation"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "345,1060 941,1092 1580,1057 1746,1106 1841,1064 2009,1109 2203,1060 2166,997 345,992"
+            },
+            "baseline": {
+              "points": "358,1045 450,1045 543,1045 635,1045 728,1045 820,1045 913,1045 1005,1045 1098,1047 1190,1048 1283,1046 1376,1048 1468,1045 1561,1048 1653,1048 1746,1048 1838,1048 1931,1048 2023,1048 2116,1048 2209,1051"
+            },
+            "text": "channels, TRPM6 and TRPM7 are unique in that they both contain kinase domains. The",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "350,1005 350,1065 530,1065 530,1005"
+                },
+                "text": "channels,"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "551,1005 551,1065 694,1065 694,1005"
+                },
+                "text": "TRPM6"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "727,1005 727,1065 788,1065 788,1005"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "819,1005 819,1065 963,1065 963,1005"
+                },
+                "text": "TRPM7"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "989,1005 989,1065 1040,1065 1040,1005"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "1072,1007 1072,1067 1195,1067 1195,1007"
+                },
+                "text": "unique"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1227,1006 1227,1066 1252,1066 1252,1006"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1278,1006 1278,1066 1350,1066 1350,1006"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1371,1006 1371,1066 1448,1066 1448,1006"
+                },
+                "text": "they"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1480,1006 1480,1066 1551,1066 1551,1006"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1583,1008 1583,1068 1716,1068 1716,1008"
+                },
+                "text": "contain"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1748,1008 1748,1068 1861,1068 1861,1008"
+                },
+                "text": "kinase"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1893,1008 1893,1068 2072,1068 2072,1008"
+                },
+                "text": "domains."
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "2129,1009 2129,1069 2196,1069 2196,1009"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "334,1174 674,1216 737,1188 793,1225 966,1176 1039,1211 1349,1165 1629,1204 2005,1174 2077,1211 2203,1169 2203,1097 2075,1085 1998,1120 334,1111"
+            },
+            "baseline": {
+              "points": "346,1152 439,1155 532,1152 625,1155 718,1153 811,1155 904,1155 998,1155 1091,1155 1184,1155 1277,1155 1370,1155 1463,1155 1556,1155 1650,1158 1743,1155 1836,1157 1929,1155 2022,1155 2115,1157 2209,1158"
+            },
+            "text": "function of the TRPM7 kinase domain is not well understood, and this domain's activity has",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "339,1114 339,1174 485,1174 485,1114"
+                },
+                "text": "function"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "516,1112 516,1172 551,1172 551,1112"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "571,1114 571,1174 621,1174 621,1114"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "652,1113 652,1173 799,1173 799,1113"
+                },
+                "text": "TRPM7"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "825,1115 825,1175 935,1175 935,1115"
+                },
+                "text": "kinase"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "966,1115 966,1175 1097,1175 1097,1115"
+                },
+                "text": "domain"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1128,1115 1128,1175 1153,1175 1153,1115"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1179,1115 1179,1175 1234,1175 1234,1115"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1255,1115 1255,1175 1336,1175 1336,1115"
+                },
+                "text": "well"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1357,1115 1357,1175 1584,1175 1584,1115"
+                },
+                "text": "understood,"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1605,1117 1605,1177 1660,1177 1660,1117"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1686,1115 1686,1175 1751,1175 1751,1115"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1777,1116 1777,1176 1953,1176 1953,1116"
+                },
+                "text": "domain's"
+              },
+              {
+                "id": "tr_1_tl_7_w14",
+                "coords": {
+                  "points": "1974,1115 1974,1175 2110,1175 2110,1115"
+                },
+                "text": "activity"
+              },
+              {
+                "id": "tr_1_tl_7_w15",
+                "coords": {
+                  "points": "2141,1117 2141,1177 2196,1177 2196,1117"
+                },
+                "text": "has"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "338,1286 2205,1295 2205,1223 2096,1202 2019,1235 1578,1190 1442,1232 338,1211"
+            },
+            "baseline": {
+              "points": "352,1260 445,1263 538,1263 631,1263 724,1263 817,1263 910,1263 1003,1266 1096,1266 1189,1266 1282,1266 1375,1266 1468,1266 1561,1263 1654,1266 1747,1266 1840,1266 1933,1266 2026,1266 2119,1266 2212,1263"
+            },
+            "text": "been characterized only very recently (Ryazanova et al., 2004), though the kinase is known not",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "342,1220 342,1280 423,1280 423,1220"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "447,1223 447,1283 690,1283 690,1223"
+                },
+                "text": "characterized"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "720,1223 720,1283 791,1283 791,1223"
+                },
+                "text": "only"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "821,1223 821,1283 892,1283 892,1223"
+                },
+                "text": "very"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "916,1225 916,1285 1059,1285 1059,1225"
+                },
+                "text": "recently"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1089,1226 1089,1286 1304,1286 1304,1226"
+                },
+                "text": "(Ryazanova"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1328,1226 1328,1286 1361,1286 1361,1226"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1376,1226 1376,1286 1438,1286 1438,1226"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1453,1224 1453,1284 1577,1284 1577,1224"
+                },
+                "text": "2004),"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1591,1225 1591,1285 1710,1285 1710,1225"
+                },
+                "text": "though"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1740,1226 1740,1286 1788,1286 1788,1226"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1812,1226 1812,1286 1922,1286 1922,1226"
+                },
+                "text": "kinase"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "1951,1226 1951,1286 1974,1286 1974,1226"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_8_w14",
+                "coords": {
+                  "points": "1994,1226 1994,1286 2113,1286 2113,1226"
+                },
+                "text": "known"
+              },
+              {
+                "id": "tr_1_tl_8_w15",
+                "coords": {
+                  "points": "2142,1224 2142,1284 2199,1284 2199,1224"
+                },
+                "text": "not"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "334,1412 665,1424 735,1386 1221,1435 1309,1391 1540,1433 1659,1393 2014,1382 2121,1421 2205,1389 2205,1326 2147,1316 334,1326"
+            },
+            "baseline": {
+              "points": "346,1370 439,1373 532,1373 625,1373 719,1373 812,1373 905,1374 999,1375 1092,1376 1185,1376 1279,1376 1372,1376 1465,1376 1558,1376 1652,1376 1745,1376 1838,1375 1932,1376 2025,1374 2118,1376 2212,1376"
+            },
+            "text": "to be required for TRPM7 channel gating (Schmitz et al., 2003). The TRPM7 channel is",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "334,1330 334,1390 360,1390 360,1330"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "393,1332 393,1392 429,1392 429,1332"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "457,1333 457,1393 611,1393 611,1333"
+                },
+                "text": "required"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "644,1333 644,1393 697,1393 697,1333"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "724,1333 724,1393 873,1393 873,1333"
+                },
+                "text": "TRPM7"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "900,1334 900,1394 1054,1394 1054,1334"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1076,1336 1076,1396 1188,1396 1188,1336"
+                },
+                "text": "gating"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1221,1336 1221,1396 1385,1396 1385,1336"
+                },
+                "text": "(Schmitz"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1419,1336 1419,1396 1450,1396 1450,1336"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1472,1336 1472,1396 1535,1396 1535,1336"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1557,1336 1557,1396 1685,1396 1685,1336"
+                },
+                "text": "2003)."
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1723,1335 1723,1395 1792,1395 1792,1335"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1824,1335 1824,1395 1973,1395 1973,1335"
+                },
+                "text": "TRPM7"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "2001,1335 2001,1395 2155,1395 2155,1335"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_9_w15",
+                "coords": {
+                  "points": "2177,1336 2177,1396 2203,1396 2203,1336"
+                },
+                "text": "is"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "334,1494 551,1489 646,1531 985,1487 1634,1524 2201,1494 2201,1442 2019,1426 334,1428"
+            },
+            "baseline": {
+              "points": "346,1481 439,1481 532,1481 625,1481 718,1481 811,1481 904,1483 997,1483 1090,1484 1183,1484 1276,1482 1369,1481 1462,1484 1555,1484 1648,1484 1741,1484 1834,1484 1927,1482 2020,1484 2113,1482 2206,1481"
+            },
+            "text": "inactivated by phospholipase C (PLC) activity and resultant phosphatidylinositol 4,5\u00ac",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "333,1441 333,1501 545,1501 545,1441"
+                },
+                "text": "inactivated"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "580,1441 580,1501 624,1501 624,1441"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "659,1441 659,1501 940,1501 940,1441"
+                },
+                "text": "phospholipase"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "976,1443 976,1503 995,1503 995,1443"
+                },
+                "text": "C"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1035,1444 1035,1504 1162,1504 1162,1444"
+                },
+                "text": "(PLC)"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1188,1442 1188,1502 1330,1502 1330,1442"
+                },
+                "text": "activity"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1370,1442 1370,1502 1434,1502 1434,1442"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1469,1444 1469,1504 1647,1504 1647,1444"
+                },
+                "text": "resultant"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1672,1442 1672,1502 2091,1502 2091,1442"
+                },
+                "text": "phosphatidylinositol"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "2121,1441 2121,1501 2194,1501 2194,1441"
+                },
+                "text": "4,5\u00ac"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "334,1624 2198,1622 2198,1552 2140,1538 334,1536"
+            },
+            "baseline": {
+              "points": "346,1588 438,1588 531,1591 624,1590 717,1591 810,1591 903,1591 995,1591 1088,1591 1181,1591 1274,1593 1367,1591 1460,1591 1553,1591 1645,1591 1738,1591 1831,1591 1924,1591 2017,1591 2110,1591 2203,1591"
+            },
+            "text": "bisphosphate (PIP\u00bb) hydrolysis (Runnels et al., 2002) and is activated by low intracellular",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "339,1548 339,1608 580,1608 580,1548"
+                },
+                "text": "bisphosphate"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "611,1550 611,1610 726,1610 726,1550"
+                },
+                "text": "(PIP\u00bb)"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "747,1551 747,1611 949,1611 949,1551"
+                },
+                "text": "hydrolysis"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "980,1551 980,1611 1146,1611 1146,1551"
+                },
+                "text": "(Runnels"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1177,1551 1177,1611 1206,1611 1206,1551"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1232,1552 1232,1612 1293,1612 1293,1552"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1313,1551 1313,1611 1424,1611 1424,1551"
+                },
+                "text": "2002)"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1450,1551 1450,1611 1510,1611 1510,1551"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1540,1551 1540,1611 1565,1611 1565,1551"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "1596,1551 1596,1611 1762,1611 1762,1551"
+                },
+                "text": "activated"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "1798,1551 1798,1611 1833,1611 1833,1551"
+                },
+                "text": "by"
+              },
+              {
+                "id": "tr_1_tl_11_w12",
+                "coords": {
+                  "points": "1869,1551 1869,1611 1919,1611 1919,1551"
+                },
+                "text": "low"
+              },
+              {
+                "id": "tr_1_tl_11_w13",
+                "coords": {
+                  "points": "1960,1551 1960,1611 2196,1611 2196,1551"
+                },
+                "text": "intracellular"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "334,1736 600,1718 698,1753 835,1711 992,1743 1074,1701 1197,1767 1358,1713 1524,1760 1757,1711 1799,1750 1862,1715 1949,1750 2201,1727 2201,1652 2037,1636 1767,1669 1564,1636 334,1652"
+            },
+            "baseline": {
+              "points": "346,1702 439,1699 532,1699 625,1699 718,1699 811,1699 904,1702 997,1700 1090,1702 1183,1702 1276,1700 1369,1702 1462,1702 1555,1699 1648,1699 1741,1702 1834,1702 1927,1701 2020,1700 2113,1702 2206,1702"
+            },
+            "text": "magnesium (Nadler et al., 2001). The channel conducts divalent cations inwardly and",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "333,1659 333,1719 540,1719 540,1659"
+                },
+                "text": "magnesium"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "590,1659 590,1719 737,1719 737,1659"
+                },
+                "text": "(Nadler"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "767,1659 767,1719 801,1719 801,1659"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "826,1660 826,1720 889,1720 889,1660"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "915,1660 915,1720 1042,1720 1042,1660"
+                },
+                "text": "2001)."
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1087,1662 1087,1722 1156,1722 1156,1662"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1191,1660 1191,1720 1343,1720 1343,1660"
+                },
+                "text": "channel"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1368,1662 1368,1722 1540,1722 1540,1662"
+                },
+                "text": "conducts"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1570,1659 1570,1719 1732,1719 1732,1659"
+                },
+                "text": "divalent"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1757,1662 1757,1722 1895,1722 1895,1662"
+                },
+                "text": "cations"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1925,1660 1925,1720 2092,1720 2092,1660"
+                },
+                "text": "inwardly"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "2132,1662 2132,1722 2190,1722 2190,1662"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "334,1834 1267,1832 1384,1876 1473,1827 2203,1839 2203,1743 877,1778 672,1743 334,1783"
+            },
+            "baseline": {
+              "points": "346,1806 439,1809 532,1809 625,1809 718,1809 811,1809 904,1809 998,1809 1091,1809 1184,1809 1277,1809 1370,1809 1463,1809 1556,1809 1650,1809 1743,1809 1836,1809 1929,1809 2022,1809 2115,1809 2209,1809"
+            },
+            "text": "monovalent cations outwardly and is outwardly-rectifying (Runnels et al., 2001). TRPM7 is",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "333,1769 333,1829 560,1829 560,1769"
+                },
+                "text": "monovalent"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "576,1769 576,1829 709,1829 709,1769"
+                },
+                "text": "cations"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "734,1769 734,1829 921,1829 921,1769"
+                },
+                "text": "outwardly"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "952,1769 952,1829 1010,1829 1010,1769"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "1036,1769 1036,1829 1065,1829 1065,1769"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1085,1769 1085,1829 1480,1829 1480,1769"
+                },
+                "text": "outwardly-rectifying"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1510,1769 1510,1829 1678,1829 1678,1769"
+                },
+                "text": "(Runnels"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1703,1769 1703,1829 1737,1829 1737,1769"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1758,1769 1758,1829 1816,1829 1816,1769"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1837,1769 1837,1829 1960,1829 1960,1769"
+                },
+                "text": "2001)."
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1995,1769 1995,1829 2143,1829 2143,1769"
+                },
+                "text": "TRPM7"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "2168,1769 2168,1829 2192,1829 2192,1769"
+                },
+                "text": "is"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "343,1937 719,1930 934,1981 1398,1925 1501,1967 1666,1928 1921,1974 2012,1930 2196,1951 2196,1867 2026,1848 1970,1881 1559,1851 898,1886 581,1883 469,1837 343,1888"
+            },
+            "baseline": {
+              "points": "355,1914 447,1917 539,1917 632,1916 724,1917 817,1917 909,1917 1001,1917 1094,1917 1186,1917 1279,1917 1371,1917 1463,1917 1556,1918 1648,1917 1741,1917 1833,1917 1925,1917 2018,1917 2110,1917 2203,1917"
+            },
+            "text": "widely expressed in the human body, and likely has a central role in Mg\u201c homeostasis (Schmitz",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "342,1875 342,1935 461,1935 461,1875"
+                },
+                "text": "widely"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "486,1876 486,1936 662,1936 662,1876"
+                },
+                "text": "expressed"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "687,1876 687,1936 710,1936 710,1876"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "740,1877 740,1937 782,1937 782,1877"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "807,1877 807,1937 926,1937 926,1877"
+                },
+                "text": "human"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "955,1877 955,1937 1060,1937 1060,1877"
+                },
+                "text": "body,"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1075,1877 1075,1937 1132,1937 1132,1877"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1156,1877 1156,1937 1251,1937 1251,1877"
+                },
+                "text": "likely"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1276,1877 1276,1937 1333,1937 1333,1877"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1353,1877 1353,1937 1366,1937 1366,1877"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1386,1877 1386,1937 1515,1937 1515,1877"
+                },
+                "text": "central"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "1530,1877 1530,1937 1596,1937 1596,1877"
+                },
+                "text": "role"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "1621,1877 1621,1937 1644,1937 1644,1877"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_14_w14",
+                "coords": {
+                  "points": "1669,1877 1669,1937 1749,1937 1749,1877"
+                },
+                "text": "Mg\u201c"
+              },
+              {
+                "id": "tr_1_tl_14_w15",
+                "coords": {
+                  "points": "1779,1877 1779,1937 2008,1937 2008,1877"
+                },
+                "text": "homeostasis"
+              },
+              {
+                "id": "tr_1_tl_14_w16",
+                "coords": {
+                  "points": "2028,1877 2028,1937 2190,1937 2190,1877"
+                },
+                "text": "(Schmitz"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "336,2063 805,2035 1288,2077 1671,2035 1837,2068 1925,2028 2203,2063 2182,1974 1043,1951 917,1993 336,1986"
+            },
+            "baseline": {
+              "points": "349,2021 442,2027 535,2024 628,2021 721,2024 814,2025 907,2027 1000,2024 1093,2024 1186,2024 1279,2024 1372,2024 1465,2024 1558,2024 1651,2024 1744,2024 1837,2024 1930,2024 2023,2024 2116,2024 2209,2027"
+            },
+            "text": "et al., 2003). TRPM7 Ca\u201c may be essential for cell viability (Nadler et al., 2001). In addition to",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "336,1981 336,2041 368,2041 368,1981"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "385,1985 385,2045 439,2045 439,1985"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "456,1984 456,2044 580,2044 580,1984"
+                },
+                "text": "2003)."
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "603,1982 603,2042 749,2042 749,1982"
+                },
+                "text": "TRPM7"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "771,1984 771,2044 836,2044 836,1984"
+                },
+                "text": "Ca\u201c"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "869,1986 869,2046 939,2046 939,1986"
+                },
+                "text": "may"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "962,1984 962,2044 994,2044 994,1984"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1022,1984 1022,2044 1184,2044 1184,1984"
+                },
+                "text": "essential"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1196,1984 1196,2044 1249,2044 1249,1984"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1266,1984 1266,2044 1331,2044 1331,1984"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "1348,1984 1348,2044 1494,2044 1494,1984"
+                },
+                "text": "viability"
+              },
+              {
+                "id": "tr_1_tl_15_w12",
+                "coords": {
+                  "points": "1516,1984 1516,2044 1657,2044 1657,1984"
+                },
+                "text": "(Nadler"
+              },
+              {
+                "id": "tr_1_tl_15_w13",
+                "coords": {
+                  "points": "1674,1984 1674,2044 1706,2044 1706,1984"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_15_w14",
+                "coords": {
+                  "points": "1723,1984 1723,2044 1782,2044 1782,1984"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_15_w15",
+                "coords": {
+                  "points": "1799,1984 1799,2044 1918,2044 1918,1984"
+                },
+                "text": "2001)."
+              },
+              {
+                "id": "tr_1_tl_15_w16",
+                "coords": {
+                  "points": "1946,1984 1946,2044 1973,2044 1973,1984"
+                },
+                "text": "In"
+              },
+              {
+                "id": "tr_1_tl_15_w17",
+                "coords": {
+                  "points": "2000,1984 2000,2044 2141,2044 2141,1984"
+                },
+                "text": "addition"
+              },
+              {
+                "id": "tr_1_tl_15_w18",
+                "coords": {
+                  "points": "2169,1986 2169,2046 2190,2046 2190,1986"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "343,2173 597,2194 847,2149 957,2196 1099,2140 1393,2189 1452,2142 2203,2173 2203,2084 1809,2100 1757,2068 1615,2103 1354,2065 1132,2098 1081,2065 730,2103 637,2054 343,2096"
+            },
+            "baseline": {
+              "points": "355,2132 447,2135 540,2135 633,2135 725,2135 818,2135 911,2135 1003,2135 1096,2135 1189,2135 1282,2135 1374,2132 1467,2135 1560,2135 1652,2135 1745,2135 1838,2135 1930,2135 2023,2133 2116,2135 2209,2135"
+            },
+            "text": "normal physiological transport of Ca* and Mg*, TRPM7 acts as a trace and nonphysiological",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "348,2093 348,2153 481,2153 481,2093"
+                },
+                "text": "normal"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "497,2095 497,2155 755,2155 755,2095"
+                },
+                "text": "physiological"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "771,2095 771,2155 941,2155 941,2095"
+                },
+                "text": "transport"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "962,2095 962,2155 998,2155 998,2095"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "1019,2095 1019,2155 1080,2155 1080,2095"
+                },
+                "text": "Ca*"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1117,2095 1117,2155 1168,2155 1168,2095"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1200,2095 1200,2155 1308,2155 1308,2095"
+                },
+                "text": "Mg*,"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1324,2092 1324,2152 1468,2152 1468,2092"
+                },
+                "text": "TRPM7"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1495,2095 1495,2155 1561,2155 1561,2095"
+                },
+                "text": "acts"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1582,2095 1582,2155 1618,2155 1618,2095"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1639,2095 1639,2155 1654,2155 1654,2095"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1675,2095 1675,2155 1757,2155 1757,2095"
+                },
+                "text": "trace"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1788,2095 1788,2155 1845,2155 1845,2095"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "1877,2093 1877,2153 2201,2153 2201,2093"
+                },
+                "text": "nonphysiological"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "338,2282 2203,2264 2203,2208 2149,2189 1914,2177 1729,2212 1503,2180 338,2201"
+            },
+            "baseline": {
+              "points": "352,2242 444,2242 537,2242 630,2242 723,2242 816,2242 909,2244 1001,2242 1094,2242 1187,2242 1280,2242 1373,2242 1466,2245 1559,2242 1651,2242 1744,2242 1837,2242 1930,2242 2023,2242 2116,2242 2209,2242"
+            },
+            "text": "metal divalent cation influx pathway, exhibiting especially high permeation of Zn\u201c (Monteilh-",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "338,2202 338,2262 443,2262 443,2202"
+                },
+                "text": "metal"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "459,2202 459,2262 615,2262 615,2202"
+                },
+                "text": "divalent"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "631,2202 631,2262 736,2262 736,2202"
+                },
+                "text": "cation"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "762,2202 762,2262 867,2262 867,2202"
+                },
+                "text": "influx"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "893,2202 893,2262 1070,2262 1070,2202"
+                },
+                "text": "pathway,"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1085,2202 1085,2262 1267,2262 1267,2202"
+                },
+                "text": "exhibiting"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1297,2202 1297,2262 1479,2262 1479,2202"
+                },
+                "text": "especially"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1505,2202 1505,2262 1575,2262 1575,2202"
+                },
+                "text": "high"
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1606,2202 1606,2262 1812,2262 1812,2202"
+                },
+                "text": "permeation"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1838,2202 1838,2262 1878,2262 1878,2202"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_17_w11",
+                "coords": {
+                  "points": "1894,2202 1894,2262 1959,2262 1959,2202"
+                },
+                "text": "Zn\u201c"
+              },
+              {
+                "id": "tr_1_tl_17_w12",
+                "coords": {
+                  "points": "1995,2202 1995,2262 2196,2262 2196,2202"
+                },
+                "text": "(Monteilh-"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "338,2369 422,2401 653,2366 712,2413 1078,2371 1288,2385 1344,2432 1421,2385 1557,2415 1755,2366 2205,2371 2205,2310 2110,2285 338,2301"
+            },
+            "baseline": {
+              "points": "352,2350 445,2350 538,2350 631,2350 724,2350 817,2350 910,2353 1003,2351 1096,2353 1189,2350 1282,2350 1375,2350 1468,2350 1561,2350 1654,2350 1747,2353 1840,2350 1933,2350 2026,2350 2119,2350 2212,2350"
+            },
+            "text": "Zoller et al., 2003), albeit at concentrations of zinc 1000x above physiological levels (Perveen et",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "337,2310 337,2370 445,2370 445,2310"
+                },
+                "text": "Zoller"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "466,2310 466,2370 495,2370 495,2310"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "515,2310 515,2370 569,2370 569,2310"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "584,2310 584,2370 707,2370 707,2310"
+                },
+                "text": "2003),"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "723,2310 723,2370 826,2370 826,2310"
+                },
+                "text": "albeit"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "841,2311 841,2371 875,2371 875,2311"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "890,2311 890,2371 1162,2371 1162,2311"
+                },
+                "text": "concentrations"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1182,2310 1182,2370 1216,2370 1216,2310"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1236,2310 1236,2370 1305,2370 1305,2310"
+                },
+                "text": "zinc"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1330,2310 1330,2370 1433,2370 1433,2310"
+                },
+                "text": "1000x"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1458,2310 1458,2370 1562,2370 1562,2310"
+                },
+                "text": "above"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1587,2311 1587,2371 1843,2371 1843,2311"
+                },
+                "text": "physiological"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "1859,2310 1859,2370 1967,2370 1967,2310"
+                },
+                "text": "levels"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "1987,2310 1987,2370 2144,2370 2144,2310"
+                },
+                "text": "(Perveen"
+              },
+              {
+                "id": "tr_1_tl_18_w15",
+                "coords": {
+                  "points": "2169,2310 2169,2370 2198,2370 2198,2310"
+                },
+                "text": "et"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "334,2511 359,2520 383,2499 429,2539 448,2520 462,2525 511,2495 548,2506 546,2397 527,2392 490,2418 401,2411 392,2420 359,2422 352,2432 331,2429"
+            },
+            "baseline": {
+              "points": "346,2457 372,2459 398,2460 424,2460 450,2460 476,2460 502,2460 528,2460 555,2460"
+            },
+            "text": "al., 2002).",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "333,2418 333,2478 396,2478 396,2418"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "410,2420 410,2480 550,2480 550,2420"
+                },
+                "text": "2002)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "476,2609 2196,2609 2196,2511 2037,2502 1671,2523 1498,2478 1309,2530 1193,2497 758,2525 602,2481 476,2525"
+            },
+            "baseline": {
+              "points": "489,2565 574,2568 660,2568 746,2568 831,2568 917,2570 1003,2568 1088,2569 1174,2568 1260,2570 1346,2568 1431,2568 1517,2568 1603,2568 1688,2568 1774,2569 1860,2569 1945,2568 2031,2568 2117,2568 2203,2568"
+            },
+            "text": "Zinc is involved in a number of normal physiological functions, ranging from synaptic",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "475,2525 475,2585 554,2585 554,2525"
+                },
+                "text": "Zinc"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "579,2528 579,2588 603,2588 603,2528"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "629,2528 629,2588 786,2588 786,2528"
+                },
+                "text": "involved"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "816,2528 816,2588 840,2588 840,2528"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "866,2528 866,2588 880,2588 880,2528"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "905,2528 905,2588 1048,2588 1048,2528"
+                },
+                "text": "number"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1068,2528 1068,2588 1102,2588 1102,2528"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1122,2528 1122,2588 1255,2588 1255,2528"
+                },
+                "text": "normal"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1276,2528 1276,2588 1537,2588 1537,2528"
+                },
+                "text": "physiological"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1553,2528 1553,2588 1745,2588 1745,2528"
+                },
+                "text": "functions,"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1765,2529 1765,2589 1898,2589 1898,2529"
+                },
+                "text": "ranging"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1928,2528 1928,2588 1997,2588 1997,2528"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "2042,2528 2042,2588 2189,2588 2189,2528"
+                },
+                "text": "synaptic"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "336,2730 721,2686 1302,2726 1445,2691 1552,2740 1655,2698 2201,2700 2201,2616 2103,2609 1977,2642 1123,2611 1027,2644 952,2609 434,2644 336,2595"
+            },
+            "baseline": {
+              "points": "349,2678 441,2675 534,2678 627,2678 720,2678 813,2678 906,2678 998,2678 1091,2678 1184,2678 1277,2678 1370,2678 1463,2678 1556,2678 1648,2678 1741,2678 1834,2678 1927,2678 2020,2678 2113,2675 2206,2681"
+            },
+            "text": "release during brain function (Zatta et al., 2003) to immune response (Shankar and Prasad,",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "335,2636 335,2696 460,2696 460,2636"
+                },
+                "text": "release"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "489,2638 489,2698 604,2698 604,2638"
+                },
+                "text": "during"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "633,2638 633,2698 724,2698 724,2638"
+                },
+                "text": "brain"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "753,2638 753,2698 907,2698 907,2638"
+                },
+                "text": "function"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "941,2638 941,2698 1046,2698 1046,2638"
+                },
+                "text": "(Zatta"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1076,2638 1076,2698 1109,2698 1109,2638"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1129,2638 1129,2698 1190,2698 1190,2638"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1210,2638 1210,2698 1320,2698 1320,2638"
+                },
+                "text": "2003)"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1345,2638 1345,2698 1368,2698 1368,2638"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "1398,2638 1398,2698 1551,2698 1551,2638"
+                },
+                "text": "immune"
+              },
+              {
+                "id": "tr_1_tl_21_w11",
+                "coords": {
+                  "points": "1581,2638 1581,2698 1743,2698 1743,2638"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_21_w12",
+                "coords": {
+                  "points": "1773,2638 1773,2698 1945,2698 1945,2638"
+                },
+                "text": "(Shankar"
+              },
+              {
+                "id": "tr_1_tl_21_w13",
+                "coords": {
+                  "points": "1970,2638 1970,2698 2027,2698 2027,2638"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_21_w14",
+                "coords": {
+                  "points": "2057,2636 2057,2696 2200,2696 2200,2636"
+                },
+                "text": "Prasad,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "338,2803 406,2843 478,2796 880,2838 1041,2786 1428,2838 1907,2801 2019,2840 2194,2796 2161,2733 338,2730"
+            },
+            "baseline": {
+              "points": "352,2783 444,2783 536,2783 629,2784 721,2784 814,2783 906,2786 998,2786 1091,2786 1183,2786 1276,2786 1368,2786 1460,2786 1553,2786 1645,2786 1738,2786 1830,2786 1922,2786 2015,2783 2107,2786 2200,2783"
+            },
+            "text": "1998). However, excessive levels of zinc in neurons can be toxic via nitric oxide-implicated",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "337,2743 337,2803 459,2803 459,2743"
+                },
+                "text": "1998)."
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "491,2743 491,2803 682,2803 682,2743"
+                },
+                "text": "However,"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "701,2743 701,2803 873,2803 873,2743"
+                },
+                "text": "excessive"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "906,2746 906,2806 1010,2806 1010,2746"
+                },
+                "text": "levels"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1033,2746 1033,2806 1069,2806 1069,2746"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1092,2746 1092,2806 1160,2806 1160,2746"
+                },
+                "text": "zinc"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1188,2746 1188,2806 1215,2806 1215,2746"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1243,2746 1243,2806 1388,2806 1388,2746"
+                },
+                "text": "neurons"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1411,2746 1411,2806 1465,2806 1465,2746"
+                },
+                "text": "can"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1493,2746 1493,2806 1529,2806 1529,2746"
+                },
+                "text": "be"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1557,2746 1557,2806 1647,2806 1647,2746"
+                },
+                "text": "toxic"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1675,2746 1675,2806 1720,2806 1720,2746"
+                },
+                "text": "via"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "1748,2746 1748,2806 1843,2806 1843,2746"
+                },
+                "text": "nitric"
+              },
+              {
+                "id": "tr_1_tl_22_w14",
+                "coords": {
+                  "points": "1871,2743 1871,2803 2189,2803 2189,2743"
+                },
+                "text": "oxide-implicated"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "334,2927 1554,2957 1676,2910 1876,2971 1953,2915 2086,2962 2203,2931 2203,2843 1400,2847 1193,2798 1057,2859 681,2826 334,2859"
+            },
+            "baseline": {
+              "points": "346,2893 439,2893 532,2893 625,2893 718,2893 811,2890 904,2891 998,2893 1091,2895 1184,2894 1277,2893 1370,2893 1463,2893 1556,2893 1650,2893 1743,2893 1836,2893 1929,2893 2022,2893 2115,2893 2209,2893"
+            },
+            "text": "neuron cell death (Bossy-Wetzel et al., 2004) and elevated glutamate excitotoxicity (Siddiq and",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "333,2853 333,2913 451,2913 451,2853"
+                },
+                "text": "neuron"
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "482,2853 482,2913 550,2913 550,2853"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_23_w3",
+                "coords": {
+                  "points": "566,2853 566,2913 654,2913 654,2853"
+                },
+                "text": "death"
+              },
+              {
+                "id": "tr_1_tl_23_w4",
+                "coords": {
+                  "points": "684,2850 684,2910 966,2910 966,2850"
+                },
+                "text": "(Bossy-Wetzel"
+              },
+              {
+                "id": "tr_1_tl_23_w5",
+                "coords": {
+                  "points": "986,2853 986,2913 1015,2913 1015,2853"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_23_w6",
+                "coords": {
+                  "points": "1036,2854 1036,2914 1089,2914 1089,2854"
+                },
+                "text": "al.,"
+              },
+              {
+                "id": "tr_1_tl_23_w7",
+                "coords": {
+                  "points": "1105,2854 1105,2914 1218,2914 1218,2854"
+                },
+                "text": "2004)"
+              },
+              {
+                "id": "tr_1_tl_23_w8",
+                "coords": {
+                  "points": "1233,2853 1233,2913 1292,2913 1292,2853"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_23_w9",
+                "coords": {
+                  "points": "1312,2853 1312,2913 1465,2913 1465,2853"
+                },
+                "text": "elevated"
+              },
+              {
+                "id": "tr_1_tl_23_w10",
+                "coords": {
+                  "points": "1490,2853 1490,2913 1668,2913 1668,2853"
+                },
+                "text": "glutamate"
+              },
+              {
+                "id": "tr_1_tl_23_w11",
+                "coords": {
+                  "points": "1693,2853 1693,2913 1949,2913 1949,2853"
+                },
+                "text": "excitotoxicity"
+              },
+              {
+                "id": "tr_1_tl_23_w12",
+                "coords": {
+                  "points": "1980,2853 1980,2913 2108,2913 2108,2853"
+                },
+                "text": "(Siddiq"
+              },
+              {
+                "id": "tr_1_tl_23_w13",
+                "coords": {
+                  "points": "2138,2853 2138,2913 2192,2913 2192,2853"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "1146,3050 1181,3053 1270,3013 1300,3027 1347,3029 1361,3043 1391,3041 1393,2943 1335,2948 1319,2934 1300,2950 1270,2941 1246,2955 1225,2934 1200,2934 1148,2966"
+            },
+            "baseline": {
+              "points": "1158,3004 1184,3006 1211,3007 1237,3007 1264,3007 1290,3007 1317,3005 1343,3004 1370,3006 1397,3004"
+            },
+            "text": "Page 1 of 8",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "1153,2966 1153,3026 1237,3026 1237,2966"
+                },
+                "text": "Page"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "1269,2967 1269,3027 1280,3027 1280,2967"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "1305,2964 1305,3024 1340,3024 1340,2964"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "1360,2965 1360,3025 1371,3025 1371,2965"
+                },
+                "text": "8"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

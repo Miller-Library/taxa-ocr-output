@@ -1,0 +1,4543 @@
+{
+  "processId": 10409284,
+  "status": "FINISHED",
+  "content": {
+    "text": "Fig. 1 Dorsal view of typical startle response in zebrafish. Silhouettes are drawn at 5 ms\nintervals beginning approximately 5 ms before onset of vibrational stimulus (reproduced\nfrom Eaton et al. 1977)\nFig. 2 Frontal section through a teleost (Barbus fluviatilis) optic tectum (after P. Ram\u00f3n)\nstained using the Golgi method. A, deep regions of layer 5; B, middle region and central\nplexus of layer 5; C, superficial region of layer 5 consisting primarily of fusiform cell\ndendritic branches; a, layer 5 ganglion cell; b, pyramidal cells with a central axon; c,\nshepherd\u2019s crook cell with some of its dendritic branches extending into the central\nplexus; d, layer 5 transverse cell; e, small stellate cell (reproduced from Cajal 1995).\nDorsal view of zebrafish eye and surrounding tissue after extraction from socket. The\nFig. 3.\nthin, light tissue is the optic nerve, which contains the axonal projections of ganglion\ncells. Encircling the optic nerve are fat globules that supply nutrients to the region.\nTop-down view of zebrafish tectal region after surgical removal of protective head plate.\nFig. 4.\nClearly visible are the right and left lobes of the optic tectum, along with the cerebellum,\nwhich lies posterior to and between the tecta.\nFig. 5 Diagram of an optic chiasm and the compensatory decussation of motor and\nsomatosensory pathways in lower vertebrates. C, second-order visual centers; G, spinal\nganglia and sensory roots; M, motor pathway; O, crossed optic nerves; R, spinal motor\nroots; S, crossed second-order somatosensory pathway (reproduced from Cajal 1995).\nVoltage data recorded from the retina at five repetitions given baseline parameters (flash\nFig. 6.\nduration of 100 ms and an interstimulus interval of 1900 ms). Single dip responses occur\nfollowing each flash. Each response lasts longer than the corresponding flash itself.\nVoltage data recorded from the retina given a flash duration and an interstimulus\nFig. 7\ninterval of 10 s. Both an on- and an off-response are visible and are similar in peak\namplitude.\nVoltage data recorded from the retina given a flash duration and an interstimulus\nFig. 8\ninterval of 20 s. On- and off-responses remain constant in the duration, between 200 and\n300 ms, as flash duration increases.\nVoltage data recorded from the right optic tectum at five repetitions given baseline\nFig. 9\nparameters. Both on- and off-responses result from repeated light stimuli. High levels of\nelectrical noise are present in this run.\nFig. 10 Voltage data recorded from the right optic tectum at five repetitions given a flash\nduration and an interstimulus interval of 5 s. The ratio of off-response magnitude to on-\nresponse magnitude increases as a function of repetition number.\nFig. 11 Voltage data recorded from the right optic tectum at five repetitions given a flash\nduration and an interstimulus interval of 10 s. Off-response magnitude displays a\nnoticeable decrease of approximately 25 percent over the complete series of light\nflashes.\nFig. 12 Voltage data recorded from the left optic tectum at five repetitions given baseline\nparameters. Both on- and off-responses result from repeated light stimuli, and no clear\ntrend governs their magnitudes. High levels of electrical noise are present in this run.\nFig. 13. Voltage data recorded from the left optic tectum at five repetitions given a flash duration\nand an interstimulus interval of 5 s. The ratio of off-response magnitude to on-response\nmagnitude decreases as a function of repetition number.\n29",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "289,306 289,3147 2274,3147 2274,306"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "285,354 2255,351 2255,270 285,285"
+            },
+            "baseline": {
+              "points": "298,337 396,340 494,337 592,337 690,337 789,337 887,338 985,337 1083,338 1181,337 1280,337 1378,340 1476,340 1574,337 1672,339 1771,340 1869,337 1967,337 2065,337 2163,337 2262,334"
+            },
+            "text": "Fig. 1 Dorsal view of typical startle response in zebrafish. Silhouettes are drawn at 5 ms",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "285,297 285,357 367,357 367,297"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_1_w2",
+                "coords": {
+                  "points": "388,299 388,359 408,359 408,299"
+                },
+                "text": "1"
+              },
+              {
+                "id": "tr_1_tl_1_w3",
+                "coords": {
+                  "points": "455,297 455,357 589,357 589,297"
+                },
+                "text": "Dorsal"
+              },
+              {
+                "id": "tr_1_tl_1_w4",
+                "coords": {
+                  "points": "615,297 615,357 692,357 692,297"
+                },
+                "text": "view"
+              },
+              {
+                "id": "tr_1_tl_1_w5",
+                "coords": {
+                  "points": "734,297 734,357 775,357 775,297"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_1_w6",
+                "coords": {
+                  "points": "797,297 797,357 940,357 940,297"
+                },
+                "text": "typical"
+              },
+              {
+                "id": "tr_1_tl_1_w7",
+                "coords": {
+                  "points": "962,297 962,357 1080,357 1080,297"
+                },
+                "text": "startle"
+              },
+              {
+                "id": "tr_1_tl_1_w8",
+                "coords": {
+                  "points": "1111,297 1111,357 1282,357 1282,297"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_1_w9",
+                "coords": {
+                  "points": "1313,298 1313,358 1344,358 1344,298"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_1_w10",
+                "coords": {
+                  "points": "1375,299 1375,359 1581,359 1581,299"
+                },
+                "text": "zebrafish."
+              },
+              {
+                "id": "tr_1_tl_1_w11",
+                "coords": {
+                  "points": "1602,299 1602,359 1830,359 1830,299"
+                },
+                "text": "Silhouettes"
+              },
+              {
+                "id": "tr_1_tl_1_w12",
+                "coords": {
+                  "points": "1856,297 1856,357 1907,357 1907,297"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_1_w13",
+                "coords": {
+                  "points": "1939,297 1939,357 2057,357 2057,297"
+                },
+                "text": "drawn"
+              },
+              {
+                "id": "tr_1_tl_1_w14",
+                "coords": {
+                  "points": "2094,297 2094,357 2129,357 2129,297"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_1_w15",
+                "coords": {
+                  "points": "2150,297 2150,357 2165,357 2165,297"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_1_w16",
+                "coords": {
+                  "points": "2197,295 2197,355 2248,355 2248,295"
+                },
+                "text": "ms"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "455,408 2252,408 2252,349 455,351"
+            },
+            "baseline": {
+              "points": "468,396 557,393 647,393 736,393 826,396 915,396 1005,393 1094,393 1184,393 1273,396 1363,393 1453,393 1542,396 1632,393 1721,396 1811,396 1900,396 1990,393 2079,393 2169,393 2259,390"
+            },
+            "text": "intervals beginning approximately 5 ms before onset of vibrational stimulus (reproduced",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "455,353 455,413 619,413 619,353"
+                },
+                "text": "intervals"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "641,353 641,413 832,413 832,353"
+                },
+                "text": "beginning"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "858,353 858,413 1137,413 1137,353"
+                },
+                "text": "approximately"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "1164,353 1164,413 1179,413 1179,353"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "1200,354 1200,414 1251,414 1251,354"
+                },
+                "text": "ms"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "1277,353 1277,413 1391,413 1391,353"
+                },
+                "text": "before"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1418,353 1418,413 1520,413 1520,353"
+                },
+                "text": "onset"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1542,355 1542,415 1577,415 1577,355"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1593,355 1593,415 1810,415 1810,355"
+                },
+                "text": "vibrational"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1826,355 1826,415 1992,415 1992,355"
+                },
+                "text": "stimulus"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "2013,353 2013,413 2245,413 2245,353"
+                },
+                "text": "(reproduced"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "446,465 502,478 522,463 765,478 893,465 940,480 940,416 785,411 705,431 577,406 547,426 488,408 446,418"
+            },
+            "baseline": {
+              "points": "459,453 484,453 510,453 535,453 561,453 587,453 612,453 638,453 664,453 689,453 715,453 740,452 766,450 792,450 817,450 843,448 869,447 894,449 920,451 946,453"
+            },
+            "text": "from Eaton et al. 1977)",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "452,413 452,473 519,473 519,413"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "565,413 565,473 671,473 671,413"
+                },
+                "text": "Eaton"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "701,412 701,472 734,472 734,412"
+                },
+                "text": "et"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "751,410 751,470 802,470 802,410"
+                },
+                "text": "al."
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "819,407 819,467 937,467 937,407"
+                },
+                "text": "1977)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "277,530 2250,532 2250,460 2190,441 985,483 436,455 386,488 277,441"
+            },
+            "baseline": {
+              "points": "292,507 390,511 488,510 586,511 684,510 783,507 881,510 979,510 1077,510 1175,513 1274,510 1372,510 1470,510 1568,510 1666,510 1765,510 1863,510 1961,510 2059,508 2157,507 2256,507"
+            },
+            "text": "Fig. 2 Frontal section through a teleost (Barbus fluviatilis) optic tectum (after P. Ram\u00f3n)",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "277,468 277,528 366,528 366,468"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "383,470 383,530 398,530 398,470"
+                },
+                "text": "2"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "452,470 452,530 600,530 600,470"
+                },
+                "text": "Frontal"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "621,469 621,529 758,529 758,469"
+                },
+                "text": "section"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "791,469 791,529 944,529 944,469"
+                },
+                "text": "through"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "976,470 976,530 986,530 986,470"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1019,470 1019,530 1156,530 1156,470"
+                },
+                "text": "teleost"
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1178,470 1178,530 1336,530 1336,470"
+                },
+                "text": "(Barbus"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1358,470 1358,530 1570,530 1570,470"
+                },
+                "text": "fluviatilis)"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1597,470 1597,530 1691,530 1691,470"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1724,470 1724,530 1840,530 1840,470"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1888,470 1888,530 1999,530 1999,470"
+                },
+                "text": "(after"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "2026,468 2026,528 2067,528 2067,468"
+                },
+                "text": "P."
+              },
+              {
+                "id": "tr_1_tl_4_w14",
+                "coords": {
+                  "points": "2089,467 2089,527 2253,527 2253,467"
+                },
+                "text": "Ram\u00f3n)"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "450,589 2247,579 2247,537 2106,520 450,540"
+            },
+            "baseline": {
+              "points": "465,564 554,567 643,567 733,567 822,567 912,570 1001,570 1090,570 1180,570 1269,570 1359,570 1448,567 1537,570 1627,570 1716,567 1806,570 1895,567 1984,567 2074,567 2163,567 2253,567"
+            },
+            "text": "stained using the Golgi method. A, deep regions of layer 5; B, middle region and central",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "450,525 450,585 579,585 579,525"
+                },
+                "text": "stained"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "610,527 610,587 703,587 703,527"
+                },
+                "text": "using"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "730,527 730,587 781,587 781,527"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "808,528 808,588 921,588 921,528"
+                },
+                "text": "Golgi"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "937,530 937,590 1103,590 1103,530"
+                },
+                "text": "method."
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1114,530 1114,590 1160,590 1160,530"
+                },
+                "text": "A,"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1176,530 1176,590 1259,590 1259,530"
+                },
+                "text": "deep"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1285,530 1285,590 1425,590 1425,530"
+                },
+                "text": "regions"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1452,527 1452,587 1487,587 1487,527"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1503,530 1503,590 1601,590 1601,530"
+                },
+                "text": "layer"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1623,529 1623,589 1659,589 1659,529"
+                },
+                "text": "5;"
+              },
+              {
+                "id": "tr_1_tl_5_w12",
+                "coords": {
+                  "points": "1675,527 1675,587 1716,587 1716,527"
+                },
+                "text": "B,"
+              },
+              {
+                "id": "tr_1_tl_5_w13",
+                "coords": {
+                  "points": "1732,529 1732,589 1861,589 1861,529"
+                },
+                "text": "middle"
+              },
+              {
+                "id": "tr_1_tl_5_w14",
+                "coords": {
+                  "points": "1887,527 1887,587 2007,587 2007,527"
+                },
+                "text": "region"
+              },
+              {
+                "id": "tr_1_tl_5_w15",
+                "coords": {
+                  "points": "2033,527 2033,587 2095,587 2095,527"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_5_w16",
+                "coords": {
+                  "points": "2121,527 2121,587 2250,587 2250,527"
+                },
+                "text": "central"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "458,651 2252,634 2232,582 458,589"
+            },
+            "baseline": {
+              "points": "471,626 560,626 649,623 739,623 828,623 918,626 1007,626 1096,626 1186,623 1275,623 1365,626 1454,626 1543,626 1633,626 1722,623 1812,626 1901,623 1990,623 2080,620 2169,620 2259,620"
+            },
+            "text": "plexus of layer 5; C, superficial region of layer 5 consisting primarily of fusiform cell",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "459,586 459,646 585,646 585,586"
+                },
+                "text": "plexus"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "613,583 613,643 651,643 651,583"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "668,583 668,643 767,643 767,583"
+                },
+                "text": "layer"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "785,583 785,643 823,643 823,583"
+                },
+                "text": "5;"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "840,584 840,644 889,644 889,584"
+                },
+                "text": "C,"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "906,586 906,646 1121,646 1121,586"
+                },
+                "text": "superficial"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1138,583 1138,643 1254,643 1254,583"
+                },
+                "text": "region"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1282,583 1282,643 1320,643 1320,583"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1343,586 1343,646 1442,646 1442,586"
+                },
+                "text": "layer"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1459,586 1459,646 1475,646 1475,586"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1504,586 1504,646 1696,646 1696,586"
+                },
+                "text": "consisting"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1730,585 1730,645 1906,645 1906,585"
+                },
+                "text": "primarily"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1935,583 1935,643 1973,643 1973,583"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "1995,580 1995,640 2144,640 2144,580"
+                },
+                "text": "fusiform"
+              },
+              {
+                "id": "tr_1_tl_6_w15",
+                "coords": {
+                  "points": "2184,580 2184,640 2255,640 2255,580"
+                },
+                "text": "cell"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "455,698 2250,695 2250,648 2077,636 455,651"
+            },
+            "baseline": {
+              "points": "468,683 557,683 646,683 736,686 825,686 915,686 1004,683 1093,686 1183,686 1272,683 1362,686 1451,686 1540,683 1630,683 1719,683 1809,683 1898,683 1987,680 2077,683 2166,683 2256,686"
+            },
+            "text": "dendritic branches; a, layer 5 ganglion cell; b, pyramidal cells with a central axon; c,",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "460,643 460,703 634,703 634,643"
+                },
+                "text": "dendritic"
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "661,646 661,706 856,706 856,646"
+                },
+                "text": "branches;"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "877,646 877,706 918,706 918,646"
+                },
+                "text": "a,"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "934,643 934,703 1031,703 1031,643"
+                },
+                "text": "layer"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1053,644 1053,704 1068,704 1068,644"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1094,646 1094,706 1258,706 1258,646"
+                },
+                "text": "ganglion"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1290,645 1290,705 1377,705 1377,645"
+                },
+                "text": "cell;"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1398,646 1398,706 1434,706 1434,646"
+                },
+                "text": "b,"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1450,643 1450,703 1656,703 1656,643"
+                },
+                "text": "pyramidal"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "1677,643 1677,703 1764,703 1764,643"
+                },
+                "text": "cells"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "1790,643 1790,703 1867,703 1867,643"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_7_w12",
+                "coords": {
+                  "points": "1893,642 1893,702 1908,702 1908,642"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_7_w13",
+                "coords": {
+                  "points": "1934,640 1934,700 2073,700 2073,640"
+                },
+                "text": "central"
+              },
+              {
+                "id": "tr_1_tl_7_w14",
+                "coords": {
+                  "points": "2089,643 2089,703 2202,703 2202,643"
+                },
+                "text": "axon;"
+              },
+              {
+                "id": "tr_1_tl_7_w15",
+                "coords": {
+                  "points": "2218,645 2218,705 2253,705 2253,645"
+                },
+                "text": "c,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "450,757 2255,757 2255,698 2210,693 450,700"
+            },
+            "baseline": {
+              "points": "465,737 554,743 644,740 734,743 823,740 913,737 1003,740 1092,740 1182,743 1272,743 1362,740 1451,740 1541,743 1631,740 1720,740 1810,740 1900,743 1989,737 2079,737 2169,737 2259,740"
+            },
+            "text": "shepherd\u2019s crook cell with some of its dendritic branches extending into the central",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "450,702 450,762 666,762 666,702"
+                },
+                "text": "shepherd\u2019s"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "692,702 692,762 798,762 798,702"
+                },
+                "text": "crook"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "829,698 829,758 904,758 904,698"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "925,698 925,758 1005,758 1005,698"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1036,700 1036,760 1131,760 1131,700"
+                },
+                "text": "some"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1167,703 1167,763 1202,763 1202,703"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1228,703 1228,763 1268,763 1268,703"
+                },
+                "text": "its"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1294,700 1294,760 1470,760 1470,700"
+                },
+                "text": "dendritic"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1501,701 1501,761 1677,761 1677,701"
+                },
+                "text": "branches"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1708,700 1708,760 1899,760 1899,700"
+                },
+                "text": "extending"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1930,698 1930,758 1995,758 1995,698"
+                },
+                "text": "into"
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "2031,697 2031,757 2081,757 2081,697"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "2112,697 2112,757 2253,757 2253,697"
+                },
+                "text": "central"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "460,819 2161,819 2161,755 2099,745 460,772"
+            },
+            "baseline": {
+              "points": "474,802 558,802 643,802 727,799 812,802 897,798 981,798 1066,799 1150,801 1235,801 1320,799 1404,799 1489,799 1573,799 1658,799 1743,797 1827,797 1912,797 1996,795 2081,790 2166,799"
+            },
+            "text": "plexus; d, layer 5 transverse cell; e, small stellate cell (reproduced from Cajal 1995).",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "460,762 460,822 600,822 600,762"
+                },
+                "text": "plexus;"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "617,762 617,822 654,822 654,762"
+                },
+                "text": "d,"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "671,759 671,819 762,819 762,759"
+                },
+                "text": "layer"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "785,761 785,821 795,821 795,761"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "817,758 817,818 1011,818 1011,758"
+                },
+                "text": "transverse"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1034,759 1034,819 1120,819 1120,759"
+                },
+                "text": "cell;"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1137,761 1137,821 1168,821 1168,761"
+                },
+                "text": "e,"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1185,760 1185,820 1287,820 1287,760"
+                },
+                "text": "small"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1304,759 1304,819 1433,819 1433,759"
+                },
+                "text": "stellate"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1461,759 1461,819 1531,819 1531,759"
+                },
+                "text": "cell"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1548,758 1548,818 1780,818 1780,758"
+                },
+                "text": "(reproduced"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1808,757 1808,817 1877,817 1877,757"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "1916,755 1916,815 2018,815 2018,755"
+                },
+                "text": "Cajal"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "2035,751 2035,811 2164,811 2164,751"
+                },
+                "text": "1995)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "450,866 2255,874 2255,817 2210,807 450,819"
+            },
+            "baseline": {
+              "points": "465,856 554,859 644,856 734,856 824,856 914,856 1004,856 1093,856 1183,856 1273,856 1363,856 1453,856 1543,856 1633,856 1722,856 1812,856 1902,853 1992,853 2082,853 2172,853 2262,856"
+            },
+            "text": "Dorsal view of zebrafish eye and surrounding tissue after extraction from socket. The",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "449,817 449,877 587,877 587,817"
+                },
+                "text": "Dorsal"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "602,816 602,876 680,876 680,816"
+                },
+                "text": "view"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "720,816 720,876 759,876 759,816"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "780,816 780,876 956,876 956,816"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "987,816 987,876 1045,876 1045,816"
+                },
+                "text": "eye"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1076,816 1076,876 1134,876 1134,816"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1164,816 1164,876 1401,876 1401,816"
+                },
+                "text": "surrounding"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1431,816 1431,876 1538,876 1538,816"
+                },
+                "text": "tissue"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1564,816 1564,876 1657,876 1657,816"
+                },
+                "text": "after"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1677,816 1677,876 1869,876 1869,816"
+                },
+                "text": "extraction"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1904,813 1904,873 1973,873 1973,813"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "2018,813 2018,873 2160,873 2160,813"
+                },
+                "text": "socket."
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "2180,814 2180,874 2249,874 2249,814"
+                },
+                "text": "The"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "277,876 290,876 297,884 312,874 324,884 389,881 398,886 416,871 428,871 426,807 411,804 396,822 374,819 366,824 327,787 292,809 275,807"
+            },
+            "baseline": {
+              "points": "289,856 317,856 346,857 374,859 403,857 432,859"
+            },
+            "text": "Fig. 3.",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "286,816 286,876 372,876 372,816"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "394,817 394,877 429,877 429,817"
+                },
+                "text": "3."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "458,928 2252,923 2252,874 2193,864 458,879"
+            },
+            "baseline": {
+              "points": "471,913 560,916 649,916 739,913 828,913 918,913 1007,913 1096,916 1186,913 1275,916 1365,913 1454,913 1543,913 1633,913 1722,913 1812,913 1901,913 1990,910 2080,913 2169,913 2259,910"
+            },
+            "text": "thin, light tissue is the optic nerve, which contains the axonal projections of ganglion",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "458,874 458,934 548,934 548,874"
+                },
+                "text": "thin,"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "568,876 568,936 658,936 658,876"
+                },
+                "text": "light"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "674,873 674,933 784,933 784,873"
+                },
+                "text": "tissue"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "810,873 810,933 835,933 835,873"
+                },
+                "text": "is"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "860,873 860,933 915,933 915,873"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "941,873 941,933 1036,933 1036,873"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1062,875 1062,935 1187,935 1187,875"
+                },
+                "text": "nerve,"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1208,875 1208,935 1318,935 1318,875"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1349,873 1349,933 1510,933 1510,873"
+                },
+                "text": "contains"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1536,873 1536,933 1591,933 1591,873"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1616,873 1616,933 1752,933 1752,873"
+                },
+                "text": "axonal"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1772,873 1772,933 1993,933 1993,873"
+                },
+                "text": "projections"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "2019,871 2019,931 2054,931 2054,871"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "2080,873 2080,933 2245,933 2245,873"
+                },
+                "text": "ganglion"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "455,985 2136,983 2136,940 2062,926 455,928"
+            },
+            "baseline": {
+              "points": "468,972 551,972 635,972 718,972 802,969 885,972 969,972 1052,972 1136,970 1219,972 1303,969 1387,969 1470,969 1554,969 1637,969 1721,969 1804,968 1888,967 1971,967 2055,967 2139,967"
+            },
+            "text": "cells. Encircling the optic nerve are fat globules that supply nutrients to the region.",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "455,932 455,992 558,992 558,932"
+                },
+                "text": "cells."
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "574,932 574,992 771,992 771,932"
+                },
+                "text": "Encircling"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "802,929 802,989 848,989 848,929"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "875,932 875,992 962,992 962,932"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "989,932 989,992 1087,992 1087,932"
+                },
+                "text": "nerve"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "1113,930 1113,990 1165,990 1165,930"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "1191,931 1191,991 1237,991 1237,931"
+                },
+                "text": "fat"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1254,929 1254,989 1419,989 1419,929"
+                },
+                "text": "globules"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1440,929 1440,989 1512,989 1512,929"
+                },
+                "text": "that"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1528,929 1528,989 1647,989 1647,929"
+                },
+                "text": "supply"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1674,928 1674,988 1844,988 1844,928"
+                },
+                "text": "nutrients"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1865,927 1865,987 1891,987 1891,927"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1917,927 1917,987 1969,987 1969,927"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "1995,927 1995,987 2134,987 2134,927"
+                },
+                "text": "region."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "458,1047 2252,1044 2225,980 458,985"
+            },
+            "baseline": {
+              "points": "471,1029 560,1029 649,1026 739,1029 828,1026 918,1029 1007,1026 1096,1026 1186,1029 1275,1029 1365,1029 1454,1026 1543,1029 1633,1026 1722,1026 1812,1026 1901,1026 1990,1023 2080,1026 2169,1026 2259,1026"
+            },
+            "text": "Top-down view of zebrafish tectal region after surgical removal of protective head plate.",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "458,989 458,1049 653,1049 653,989"
+                },
+                "text": "Top-down"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "684,988 684,1048 754,1048 754,988"
+                },
+                "text": "view"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "795,986 795,1046 829,1046 829,986"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "850,988 850,1048 1021,1048 1021,988"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "1047,986 1047,1046 1152,1046 1152,986"
+                },
+                "text": "tectal"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1168,989 1168,1049 1283,1049 1283,989"
+                },
+                "text": "region"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1309,989 1309,1049 1399,1049 1399,989"
+                },
+                "text": "after"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1420,987 1420,1047 1575,1047 1575,987"
+                },
+                "text": "surgical"
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1591,986 1591,1046 1751,1046 1751,986"
+                },
+                "text": "removal"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1767,986 1767,1046 1807,1046 1807,986"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1823,985 1823,1045 2014,1045 2014,985"
+                },
+                "text": "protective"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "2039,985 2039,1045 2119,1045 2119,985"
+                },
+                "text": "head"
+              },
+              {
+                "id": "tr_1_tl_14_w13",
+                "coords": {
+                  "points": "2150,986 2150,1046 2255,1046 2255,986"
+                },
+                "text": "plate."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "282,1049 324,1044 349,1067 356,1059 381,1067 413,1042 428,1042 428,978 416,978 401,988 386,983 366,997 339,978 307,978 302,983 282,978"
+            },
+            "baseline": {
+              "points": "295,1029 322,1029 349,1029 377,1029 404,1029 432,1029"
+            },
+            "text": "Fig. 4.",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "292,989 292,1049 374,1049 374,989"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "389,989 389,1049 429,1049 429,989"
+                },
+                "text": "4."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "458,1099 2255,1101 2255,1049 2176,1037 458,1047"
+            },
+            "baseline": {
+              "points": "471,1086 560,1086 650,1086 739,1086 829,1086 918,1089 1008,1089 1097,1086 1187,1086 1276,1083 1366,1086 1456,1086 1545,1086 1635,1086 1724,1086 1814,1083 1903,1083 1993,1083 2082,1083 2172,1083 2262,1086"
+            },
+            "text": "Clearly visible are the right and left lobes of the optic tectum, along with the cerebellum,",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "458,1046 458,1106 586,1106 586,1046"
+                },
+                "text": "Clearly"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "618,1046 618,1106 736,1106 736,1046"
+                },
+                "text": "visible"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "763,1046 763,1106 814,1106 814,1046"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "841,1047 841,1107 887,1107 887,1047"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "913,1049 913,1109 1006,1109 1006,1049"
+                },
+                "text": "right"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1022,1047 1022,1107 1083,1107 1083,1047"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1110,1046 1110,1106 1171,1106 1171,1046"
+                },
+                "text": "left"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1193,1044 1193,1104 1285,1104 1285,1044"
+                },
+                "text": "lobes"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1312,1044 1312,1104 1347,1104 1347,1044"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1363,1046 1363,1106 1414,1106 1414,1046"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1441,1046 1441,1106 1528,1106 1528,1046"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "1555,1046 1555,1106 1704,1106 1704,1046"
+                },
+                "text": "tectum,"
+              },
+              {
+                "id": "tr_1_tl_16_w13",
+                "coords": {
+                  "points": "1721,1044 1721,1104 1818,1104 1818,1044"
+                },
+                "text": "along"
+              },
+              {
+                "id": "tr_1_tl_16_w14",
+                "coords": {
+                  "points": "1845,1043 1845,1103 1922,1103 1922,1043"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_16_w15",
+                "coords": {
+                  "points": "1949,1043 1949,1103 2000,1103 2000,1043"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_16_w16",
+                "coords": {
+                  "points": "2021,1043 2021,1103 2258,1103 2258,1043"
+                },
+                "text": "cerebellum,"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "458,1156 1374,1158 1374,1109 1336,1101 458,1111"
+            },
+            "baseline": {
+              "points": "471,1143 516,1146 562,1146 607,1143 653,1143 698,1146 744,1146 789,1146 835,1146 880,1146 926,1146 971,1146 1017,1146 1062,1145 1108,1144 1153,1145 1199,1143 1244,1143 1290,1143 1335,1143 1381,1143"
+            },
+            "text": "which lies posterior to and between the tecta.",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "457,1105 457,1165 567,1165 567,1105"
+                },
+                "text": "which"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "597,1103 597,1163 654,1163 654,1103"
+                },
+                "text": "lies"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "678,1106 678,1166 852,1166 852,1106"
+                },
+                "text": "posterior"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "872,1106 872,1166 895,1166 895,1106"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "925,1106 925,1166 987,1166 987,1106"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1012,1104 1012,1164 1166,1164 1166,1104"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1195,1103 1195,1163 1243,1163 1243,1103"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1267,1103 1267,1163 1373,1163 1373,1103"
+                },
+                "text": "tecta."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "282,1213 2260,1215 2260,1151 2213,1146 1327,1181 1262,1148 282,1153"
+            },
+            "baseline": {
+              "points": "295,1199 393,1199 492,1202 590,1204 689,1202 787,1202 886,1202 984,1202 1083,1202 1181,1201 1280,1202 1378,1202 1477,1199 1575,1200 1674,1199 1772,1202 1871,1199 1969,1196 2068,1199 2166,1197 2265,1199"
+            },
+            "text": "Fig. 5 Diagram of an optic chiasm and the compensatory decussation of motor and",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "287,1159 287,1219 372,1219 372,1159"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "403,1159 403,1219 417,1219 417,1159"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "453,1162 453,1222 614,1222 614,1162"
+                },
+                "text": "Diagram"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "670,1162 670,1222 710,1222 710,1162"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "740,1162 740,1222 780,1222 780,1162"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "821,1162 821,1222 921,1222 921,1162"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "957,1162 957,1222 1083,1222 1083,1162"
+                },
+                "text": "chiasm"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1139,1161 1139,1221 1204,1221 1204,1161"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1245,1161 1245,1221 1300,1221 1300,1161"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "1341,1159 1341,1219 1628,1219 1628,1159"
+                },
+                "text": "compensatory"
+              },
+              {
+                "id": "tr_1_tl_18_w11",
+                "coords": {
+                  "points": "1669,1161 1669,1221 1910,1221 1910,1161"
+                },
+                "text": "decussation"
+              },
+              {
+                "id": "tr_1_tl_18_w12",
+                "coords": {
+                  "points": "1951,1156 1951,1216 1991,1216 1991,1156"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w13",
+                "coords": {
+                  "points": "2022,1158 2022,1218 2147,1218 2147,1158"
+                },
+                "text": "motor"
+              },
+              {
+                "id": "tr_1_tl_18_w14",
+                "coords": {
+                  "points": "2183,1158 2183,1218 2248,1218 2248,1158"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "450,1275 2255,1275 2255,1215 2180,1208 450,1223"
+            },
+            "baseline": {
+              "points": "465,1259 554,1262 644,1262 734,1259 824,1259 914,1259 1004,1262 1093,1259 1183,1259 1273,1259 1363,1259 1453,1259 1543,1259 1633,1256 1722,1256 1812,1256 1902,1256 1992,1256 2082,1253 2172,1253 2262,1259"
+            },
+            "text": "somatosensory pathways in lower vertebrates. C, second-order visual centers; G, spinal",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "449,1222 449,1282 740,1282 740,1222"
+                },
+                "text": "somatosensory"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "770,1219 770,1279 952,1279 952,1219"
+                },
+                "text": "pathways"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "977,1221 977,1281 1001,1281 1001,1221"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "1031,1219 1031,1279 1144,1279 1144,1219"
+                },
+                "text": "lower"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "1164,1219 1164,1279 1401,1279 1401,1219"
+                },
+                "text": "vertebrates."
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1416,1219 1416,1279 1460,1279 1460,1219"
+                },
+                "text": "C,"
+              },
+              {
+                "id": "tr_1_tl_19_w7",
+                "coords": {
+                  "points": "1480,1216 1480,1276 1741,1276 1741,1216"
+                },
+                "text": "second-order"
+              },
+              {
+                "id": "tr_1_tl_19_w8",
+                "coords": {
+                  "points": "1761,1216 1761,1276 1884,1276 1884,1216"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_19_w9",
+                "coords": {
+                  "points": "1899,1216 1899,1276 2056,1276 2056,1216"
+                },
+                "text": "centers;"
+              },
+              {
+                "id": "tr_1_tl_19_w10",
+                "coords": {
+                  "points": "2072,1213 2072,1273 2120,1273 2120,1213"
+                },
+                "text": "G,"
+              },
+              {
+                "id": "tr_1_tl_19_w11",
+                "coords": {
+                  "points": "2136,1214 2136,1274 2253,1274 2253,1214"
+                },
+                "text": "spinal"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_20",
+            "coords": {
+              "points": "460,1341 2252,1336 2255,1275 2101,1267 463,1287"
+            },
+            "baseline": {
+              "points": "474,1322 563,1319 652,1319 741,1319 831,1319 920,1319 1009,1319 1098,1319 1188,1316 1277,1316 1366,1316 1455,1316 1545,1316 1634,1316 1723,1313 1812,1313 1902,1313 1991,1313 2080,1313 2169,1313 2259,1313"
+            },
+            "text": "ganglia and sensory roots; M, motor pathway; O, crossed optic nerves; R, spinal motor",
+            "words": [
+              {
+                "id": "tr_1_tl_20_w1",
+                "coords": {
+                  "points": "460,1280 460,1340 595,1340 595,1280"
+                },
+                "text": "ganglia"
+              },
+              {
+                "id": "tr_1_tl_20_w2",
+                "coords": {
+                  "points": "623,1279 623,1339 682,1339 682,1279"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_20_w3",
+                "coords": {
+                  "points": "709,1279 709,1339 855,1339 855,1279"
+                },
+                "text": "sensory"
+              },
+              {
+                "id": "tr_1_tl_20_w4",
+                "coords": {
+                  "points": "882,1279 882,1339 995,1339 995,1279"
+                },
+                "text": "roots;"
+              },
+              {
+                "id": "tr_1_tl_20_w5",
+                "coords": {
+                  "points": "1012,1279 1012,1339 1072,1339 1072,1279"
+                },
+                "text": "M,"
+              },
+              {
+                "id": "tr_1_tl_20_w6",
+                "coords": {
+                  "points": "1089,1277 1089,1337 1202,1337 1202,1277"
+                },
+                "text": "motor"
+              },
+              {
+                "id": "tr_1_tl_20_w7",
+                "coords": {
+                  "points": "1224,1276 1224,1336 1407,1336 1407,1276"
+                },
+                "text": "pathway;"
+              },
+              {
+                "id": "tr_1_tl_20_w8",
+                "coords": {
+                  "points": "1424,1276 1424,1336 1472,1336 1472,1276"
+                },
+                "text": "O,"
+              },
+              {
+                "id": "tr_1_tl_20_w9",
+                "coords": {
+                  "points": "1489,1276 1489,1336 1629,1336 1629,1276"
+                },
+                "text": "crossed"
+              },
+              {
+                "id": "tr_1_tl_20_w10",
+                "coords": {
+                  "points": "1657,1273 1657,1333 1749,1333 1749,1273"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_20_w11",
+                "coords": {
+                  "points": "1777,1273 1777,1333 1922,1333 1922,1273"
+                },
+                "text": "nerves;"
+              },
+              {
+                "id": "tr_1_tl_20_w12",
+                "coords": {
+                  "points": "1939,1273 1939,1333 1982,1333 1982,1273"
+                },
+                "text": "R,"
+              },
+              {
+                "id": "tr_1_tl_20_w13",
+                "coords": {
+                  "points": "1999,1273 1999,1333 2117,1333 2117,1273"
+                },
+                "text": "spinal"
+              },
+              {
+                "id": "tr_1_tl_20_w14",
+                "coords": {
+                  "points": "2134,1273 2134,1333 2252,1333 2252,1273"
+                },
+                "text": "motor"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_21",
+            "coords": {
+              "points": "450,1393 2193,1386 2193,1334 2136,1324 450,1341"
+            },
+            "baseline": {
+              "points": "465,1375 551,1375 638,1375 724,1375 811,1375 897,1372 984,1372 1070,1372 1157,1374 1243,1372 1330,1372 1417,1374 1503,1372 1590,1372 1676,1372 1763,1371 1849,1372 1936,1372 2022,1369 2109,1363 2196,1372"
+            },
+            "text": "roots; S, crossed second-order somatosensory pathway (reproduced from Cajal 1995).",
+            "words": [
+              {
+                "id": "tr_1_tl_21_w1",
+                "coords": {
+                  "points": "450,1335 450,1395 563,1395 563,1335"
+                },
+                "text": "roots;"
+              },
+              {
+                "id": "tr_1_tl_21_w2",
+                "coords": {
+                  "points": "580,1335 580,1395 615,1395 615,1335"
+                },
+                "text": "S,"
+              },
+              {
+                "id": "tr_1_tl_21_w3",
+                "coords": {
+                  "points": "631,1335 631,1395 771,1395 771,1335"
+                },
+                "text": "crossed"
+              },
+              {
+                "id": "tr_1_tl_21_w4",
+                "coords": {
+                  "points": "797,1332 797,1392 1056,1392 1056,1332"
+                },
+                "text": "second-order"
+              },
+              {
+                "id": "tr_1_tl_21_w5",
+                "coords": {
+                  "points": "1072,1332 1072,1392 1362,1392 1362,1332"
+                },
+                "text": "somatosensory"
+              },
+              {
+                "id": "tr_1_tl_21_w6",
+                "coords": {
+                  "points": "1388,1332 1388,1392 1543,1392 1543,1332"
+                },
+                "text": "pathway"
+              },
+              {
+                "id": "tr_1_tl_21_w7",
+                "coords": {
+                  "points": "1570,1331 1570,1391 1803,1391 1803,1331"
+                },
+                "text": "(reproduced"
+              },
+              {
+                "id": "tr_1_tl_21_w8",
+                "coords": {
+                  "points": "1829,1332 1829,1392 1901,1392 1901,1332"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_21_w9",
+                "coords": {
+                  "points": "1943,1329 1943,1389 2046,1389 2046,1329"
+                },
+                "text": "Cajal"
+              },
+              {
+                "id": "tr_1_tl_21_w10",
+                "coords": {
+                  "points": "2062,1324 2062,1384 2191,1384 2191,1324"
+                },
+                "text": "1995)."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_22",
+            "coords": {
+              "points": "463,1450 2260,1438 2237,1381 463,1393"
+            },
+            "baseline": {
+              "points": "477,1429 566,1432 655,1435 745,1432 834,1432 924,1432 1013,1432 1102,1432 1192,1432 1281,1429 1371,1429 1460,1432 1549,1429 1639,1429 1728,1429 1818,1429 1907,1426 1996,1429 2086,1426 2175,1426 2265,1429"
+            },
+            "text": "Voltage data recorded from the retina at five repetitions given baseline parameters (flash",
+            "words": [
+              {
+                "id": "tr_1_tl_22_w1",
+                "coords": {
+                  "points": "467,1391 467,1451 608,1451 608,1391"
+                },
+                "text": "Voltage"
+              },
+              {
+                "id": "tr_1_tl_22_w2",
+                "coords": {
+                  "points": "638,1394 638,1454 706,1454 706,1394"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_22_w3",
+                "coords": {
+                  "points": "731,1392 731,1452 897,1452 897,1392"
+                },
+                "text": "recorded"
+              },
+              {
+                "id": "tr_1_tl_22_w4",
+                "coords": {
+                  "points": "922,1392 922,1452 995,1452 995,1392"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_22_w5",
+                "coords": {
+                  "points": "1035,1392 1035,1452 1084,1452 1084,1392"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_22_w6",
+                "coords": {
+                  "points": "1109,1392 1109,1452 1211,1452 1211,1392"
+                },
+                "text": "retina"
+              },
+              {
+                "id": "tr_1_tl_22_w7",
+                "coords": {
+                  "points": "1241,1389 1241,1449 1270,1449 1270,1389"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_22_w8",
+                "coords": {
+                  "points": "1290,1389 1290,1449 1353,1449 1353,1389"
+                },
+                "text": "five"
+              },
+              {
+                "id": "tr_1_tl_22_w9",
+                "coords": {
+                  "points": "1378,1391 1378,1451 1583,1451 1583,1391"
+                },
+                "text": "repetitions"
+              },
+              {
+                "id": "tr_1_tl_22_w10",
+                "coords": {
+                  "points": "1608,1389 1608,1449 1706,1449 1706,1389"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_22_w11",
+                "coords": {
+                  "points": "1731,1389 1731,1449 1887,1449 1887,1389"
+                },
+                "text": "baseline"
+              },
+              {
+                "id": "tr_1_tl_22_w12",
+                "coords": {
+                  "points": "1912,1388 1912,1448 2121,1448 2121,1388"
+                },
+                "text": "parameters"
+              },
+              {
+                "id": "tr_1_tl_22_w13",
+                "coords": {
+                  "points": "2147,1386 2147,1446 2244,1446 2244,1386"
+                },
+                "text": "(flash"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_23",
+            "coords": {
+              "points": "277,1438 290,1438 299,1448 314,1445 339,1468 359,1455 366,1458 391,1438 418,1455 431,1455 428,1379 411,1379 394,1391 376,1386 364,1374 332,1386 304,1386 292,1374 275,1376"
+            },
+            "baseline": {
+              "points": "292,1429 321,1431 350,1432 379,1432 408,1432 438,1432"
+            },
+            "text": "Fig. 6.",
+            "words": [
+              {
+                "id": "tr_1_tl_23_w1",
+                "coords": {
+                  "points": "279,1391 279,1451 373,1451 373,1391"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_23_w2",
+                "coords": {
+                  "points": "389,1392 389,1452 431,1452 431,1392"
+                },
+                "text": "6."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_24",
+            "coords": {
+              "points": "450,1495 2260,1500 2260,1453 2188,1443 450,1465"
+            },
+            "baseline": {
+              "points": "465,1492 555,1492 645,1492 735,1490 825,1492 915,1492 1005,1489 1095,1489 1185,1492 1275,1489 1365,1489 1455,1489 1545,1486 1635,1489 1725,1486 1815,1486 1905,1486 1995,1486 2085,1486 2175,1486 2265,1486"
+            },
+            "text": "duration of 100 ms and an interstimulus interval of 1900 ms). Single dip responses occur",
+            "words": [
+              {
+                "id": "tr_1_tl_24_w1",
+                "coords": {
+                  "points": "455,1452 455,1512 608,1512 608,1452"
+                },
+                "text": "duration"
+              },
+              {
+                "id": "tr_1_tl_24_w2",
+                "coords": {
+                  "points": "641,1451 641,1511 677,1511 677,1451"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_24_w3",
+                "coords": {
+                  "points": "694,1450 694,1510 757,1510 757,1450"
+                },
+                "text": "100"
+              },
+              {
+                "id": "tr_1_tl_24_w4",
+                "coords": {
+                  "points": "779,1451 779,1511 831,1511 831,1451"
+                },
+                "text": "ms"
+              },
+              {
+                "id": "tr_1_tl_24_w5",
+                "coords": {
+                  "points": "853,1452 853,1512 911,1512 911,1452"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_24_w6",
+                "coords": {
+                  "points": "943,1450 943,1510 974,1510 974,1450"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_24_w7",
+                "coords": {
+                  "points": "1001,1450 1001,1510 1255,1510 1255,1450"
+                },
+                "text": "interstimulus"
+              },
+              {
+                "id": "tr_1_tl_24_w8",
+                "coords": {
+                  "points": "1277,1449 1277,1509 1431,1509 1431,1449"
+                },
+                "text": "interval"
+              },
+              {
+                "id": "tr_1_tl_24_w9",
+                "coords": {
+                  "points": "1447,1448 1447,1508 1484,1508 1484,1448"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_24_w10",
+                "coords": {
+                  "points": "1505,1446 1505,1506 1589,1506 1589,1446"
+                },
+                "text": "1900"
+              },
+              {
+                "id": "tr_1_tl_24_w11",
+                "coords": {
+                  "points": "1616,1448 1616,1508 1701,1508 1701,1448"
+                },
+                "text": "ms)."
+              },
+              {
+                "id": "tr_1_tl_24_w12",
+                "coords": {
+                  "points": "1718,1446 1718,1506 1834,1506 1834,1446"
+                },
+                "text": "Single"
+              },
+              {
+                "id": "tr_1_tl_24_w13",
+                "coords": {
+                  "points": "1861,1446 1861,1506 1913,1506 1913,1446"
+                },
+                "text": "dip"
+              },
+              {
+                "id": "tr_1_tl_24_w14",
+                "coords": {
+                  "points": "1940,1446 1940,1506 2125,1506 2125,1446"
+                },
+                "text": "responses"
+              },
+              {
+                "id": "tr_1_tl_24_w15",
+                "coords": {
+                  "points": "2147,1446 2147,1506 2252,1506 2252,1446"
+                },
+                "text": "occur"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_25",
+            "coords": {
+              "points": "455,1562 2141,1554 2141,1495 455,1500"
+            },
+            "baseline": {
+              "points": "468,1549 552,1549 636,1549 720,1549 804,1549 888,1549 972,1549 1056,1547 1140,1549 1224,1547 1308,1548 1392,1546 1476,1546 1560,1546 1644,1546 1728,1546 1812,1546 1896,1545 1980,1545 2064,1543 2148,1543"
+            },
+            "text": "following each flash. Each response lasts longer than the corresponding flash itself.",
+            "words": [
+              {
+                "id": "tr_1_tl_25_w1",
+                "coords": {
+                  "points": "460,1509 460,1569 640,1569 640,1509"
+                },
+                "text": "following"
+              },
+              {
+                "id": "tr_1_tl_25_w2",
+                "coords": {
+                  "points": "667,1509 667,1569 746,1569 746,1509"
+                },
+                "text": "each"
+              },
+              {
+                "id": "tr_1_tl_25_w3",
+                "coords": {
+                  "points": "773,1509 773,1569 878,1569 878,1509"
+                },
+                "text": "flash."
+              },
+              {
+                "id": "tr_1_tl_25_w4",
+                "coords": {
+                  "points": "894,1509 894,1569 984,1569 984,1509"
+                },
+                "text": "Each"
+              },
+              {
+                "id": "tr_1_tl_25_w5",
+                "coords": {
+                  "points": "1006,1507 1006,1567 1174,1567 1174,1507"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_25_w6",
+                "coords": {
+                  "points": "1196,1507 1196,1567 1280,1567 1280,1507"
+                },
+                "text": "lasts"
+              },
+              {
+                "id": "tr_1_tl_25_w7",
+                "coords": {
+                  "points": "1303,1506 1303,1566 1424,1566 1424,1506"
+                },
+                "text": "longer"
+              },
+              {
+                "id": "tr_1_tl_25_w8",
+                "coords": {
+                  "points": "1446,1506 1446,1566 1514,1566 1514,1506"
+                },
+                "text": "than"
+              },
+              {
+                "id": "tr_1_tl_25_w9",
+                "coords": {
+                  "points": "1541,1506 1541,1566 1593,1566 1593,1506"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_25_w10",
+                "coords": {
+                  "points": "1615,1506 1615,1566 1895,1566 1895,1506"
+                },
+                "text": "corresponding"
+              },
+              {
+                "id": "tr_1_tl_25_w11",
+                "coords": {
+                  "points": "1922,1505 1922,1565 2006,1565 2006,1505"
+                },
+                "text": "flash"
+              },
+              {
+                "id": "tr_1_tl_25_w12",
+                "coords": {
+                  "points": "2028,1503 2028,1563 2144,1563 2144,1503"
+                },
+                "text": "itself."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_26",
+            "coords": {
+              "points": "465,1616 2257,1616 2257,1539 1965,1574 465,1562"
+            },
+            "baseline": {
+              "points": "480,1605 569,1604 658,1605 747,1605 836,1605 925,1605 1014,1605 1103,1605 1192,1602 1281,1605 1371,1605 1460,1602 1549,1605 1638,1602 1727,1605 1816,1602 1905,1602 1994,1599 2083,1599 2172,1599 2262,1599"
+            },
+            "text": "Voltage data recorded from the retina given a flash duration and an interstimulus",
+            "words": [
+              {
+                "id": "tr_1_tl_26_w1",
+                "coords": {
+                  "points": "465,1564 465,1624 613,1624 613,1564"
+                },
+                "text": "Voltage"
+              },
+              {
+                "id": "tr_1_tl_26_w2",
+                "coords": {
+                  "points": "645,1565 645,1625 722,1625 722,1565"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_26_w3",
+                "coords": {
+                  "points": "758,1565 758,1625 927,1625 927,1565"
+                },
+                "text": "recorded"
+              },
+              {
+                "id": "tr_1_tl_26_w4",
+                "coords": {
+                  "points": "964,1565 964,1625 1036,1625 1036,1565"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_26_w5",
+                "coords": {
+                  "points": "1083,1564 1083,1624 1139,1624 1139,1564"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_26_w6",
+                "coords": {
+                  "points": "1170,1563 1170,1623 1277,1623 1277,1563"
+                },
+                "text": "retina"
+              },
+              {
+                "id": "tr_1_tl_26_w7",
+                "coords": {
+                  "points": "1309,1565 1309,1625 1416,1625 1416,1565"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_26_w8",
+                "coords": {
+                  "points": "1448,1562 1448,1622 1463,1622 1463,1562"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_26_w9",
+                "coords": {
+                  "points": "1494,1564 1494,1624 1581,1624 1581,1564"
+                },
+                "text": "flash"
+              },
+              {
+                "id": "tr_1_tl_26_w10",
+                "coords": {
+                  "points": "1618,1564 1618,1624 1782,1624 1782,1564"
+                },
+                "text": "duration"
+              },
+              {
+                "id": "tr_1_tl_26_w11",
+                "coords": {
+                  "points": "1814,1562 1814,1622 1880,1622 1880,1562"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_26_w12",
+                "coords": {
+                  "points": "1911,1561 1911,1621 1947,1621 1947,1561"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_26_w13",
+                "coords": {
+                  "points": "1983,1559 1983,1619 2250,1619 2250,1559"
+                },
+                "text": "interstimulus"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_27",
+            "coords": {
+              "points": "277,1634 312,1634 322,1621 334,1634 366,1636 389,1624 418,1646 436,1643 433,1557 413,1559 403,1552 371,1564 337,1552 319,1537 290,1562 275,1562"
+            },
+            "baseline": {
+              "points": "292,1602 321,1602 351,1603 381,1605 411,1605 441,1605"
+            },
+            "text": "Fig. 7",
+            "words": [
+              {
+                "id": "tr_1_tl_27_w1",
+                "coords": {
+                  "points": "280,1562 280,1622 381,1622 381,1562"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_27_w2",
+                "coords": {
+                  "points": "406,1565 406,1625 428,1625 428,1565"
+                },
+                "text": "7"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_28",
+            "coords": {
+              "points": "450,1698 2114,1671 2180,1705 2260,1671 2237,1611 450,1616"
+            },
+            "baseline": {
+              "points": "465,1662 555,1662 645,1665 735,1662 825,1662 915,1665 1005,1662 1095,1662 1185,1662 1275,1662 1365,1659 1455,1659 1545,1662 1635,1662 1725,1659 1815,1662 1905,1659 1995,1659 2085,1659 2175,1659 2265,1659"
+            },
+            "text": "interval of 10 s. Both an on- and an off-response are visible and are similar in peak",
+            "words": [
+              {
+                "id": "tr_1_tl_28_w1",
+                "coords": {
+                  "points": "450,1622 450,1682 606,1682 606,1622"
+                },
+                "text": "interval"
+              },
+              {
+                "id": "tr_1_tl_28_w2",
+                "coords": {
+                  "points": "626,1624 626,1684 666,1684 666,1624"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_28_w3",
+                "coords": {
+                  "points": "692,1622 692,1682 732,1682 732,1622"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_28_w4",
+                "coords": {
+                  "points": "758,1622 758,1682 792,1682 792,1622"
+                },
+                "text": "s."
+              },
+              {
+                "id": "tr_1_tl_28_w5",
+                "coords": {
+                  "points": "813,1623 813,1683 899,1683 899,1623"
+                },
+                "text": "Both"
+              },
+              {
+                "id": "tr_1_tl_28_w6",
+                "coords": {
+                  "points": "930,1623 930,1683 969,1683 969,1623"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_28_w7",
+                "coords": {
+                  "points": "1000,1622 1000,1682 1060,1682 1060,1622"
+                },
+                "text": "on-"
+              },
+              {
+                "id": "tr_1_tl_28_w8",
+                "coords": {
+                  "points": "1086,1622 1086,1682 1146,1682 1146,1622"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_28_w9",
+                "coords": {
+                  "points": "1182,1622 1182,1682 1217,1682 1217,1622"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_28_w10",
+                "coords": {
+                  "points": "1248,1619 1248,1679 1495,1679 1495,1619"
+                },
+                "text": "off-response"
+              },
+              {
+                "id": "tr_1_tl_28_w11",
+                "coords": {
+                  "points": "1526,1622 1526,1682 1576,1682 1576,1622"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_28_w12",
+                "coords": {
+                  "points": "1607,1620 1607,1680 1733,1680 1733,1620"
+                },
+                "text": "visible"
+              },
+              {
+                "id": "tr_1_tl_28_w13",
+                "coords": {
+                  "points": "1764,1621 1764,1681 1829,1681 1829,1621"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_28_w14",
+                "coords": {
+                  "points": "1855,1619 1855,1679 1910,1679 1910,1619"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_28_w15",
+                "coords": {
+                  "points": "1941,1619 1941,1679 2081,1679 2081,1619"
+                },
+                "text": "similar"
+              },
+              {
+                "id": "tr_1_tl_28_w16",
+                "coords": {
+                  "points": "2102,1619 2102,1679 2132,1679 2132,1619"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_28_w17",
+                "coords": {
+                  "points": "2163,1619 2163,1679 2243,1679 2243,1619"
+                },
+                "text": "peak"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_29",
+            "coords": {
+              "points": "450,1740 475,1732 517,1732 527,1740 554,1732 606,1740 639,1732 676,1737 676,1690 644,1676 619,1685 606,1676 554,1676 537,1688 517,1678 502,1688 485,1681 463,1700 450,1700"
+            },
+            "baseline": {
+              "points": "465,1722 492,1722 519,1721 546,1720 574,1720 601,1722 628,1720 655,1720 683,1722"
+            },
+            "text": "amplitude.",
+            "words": [
+              {
+                "id": "tr_1_tl_29_w1",
+                "coords": {
+                  "points": "445,1680 445,1740 678,1740 678,1680"
+                },
+                "text": "amplitude."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_31",
+            "coords": {
+              "points": "463,1784 2262,1789 2262,1730 2205,1715 463,1735"
+            },
+            "baseline": {
+              "points": "477,1775 566,1778 656,1778 745,1781 835,1778 924,1778 1014,1778 1103,1778 1193,1778 1282,1778 1372,1778 1462,1775 1551,1775 1641,1775 1730,1775 1820,1775 1909,1775 1999,1772 2088,1772 2178,1769 2268,1772"
+            },
+            "text": "Voltage data recorded from the retina given a flash duration and an interstimulus",
+            "words": [
+              {
+                "id": "tr_1_tl_31_w1",
+                "coords": {
+                  "points": "468,1737 468,1797 617,1797 617,1737"
+                },
+                "text": "Voltage"
+              },
+              {
+                "id": "tr_1_tl_31_w2",
+                "coords": {
+                  "points": "648,1739 648,1799 728,1799 728,1739"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_31_w3",
+                "coords": {
+                  "points": "759,1738 759,1798 929,1798 929,1738"
+                },
+                "text": "recorded"
+              },
+              {
+                "id": "tr_1_tl_31_w4",
+                "coords": {
+                  "points": "965,1738 965,1798 1040,1798 1040,1738"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_31_w5",
+                "coords": {
+                  "points": "1085,1738 1085,1798 1140,1798 1140,1738"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_31_w6",
+                "coords": {
+                  "points": "1171,1738 1171,1798 1280,1798 1280,1738"
+                },
+                "text": "retina"
+              },
+              {
+                "id": "tr_1_tl_31_w7",
+                "coords": {
+                  "points": "1311,1738 1311,1798 1417,1798 1417,1738"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_31_w8",
+                "coords": {
+                  "points": "1452,1735 1452,1795 1467,1795 1467,1735"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_31_w9",
+                "coords": {
+                  "points": "1497,1735 1497,1795 1587,1795 1587,1735"
+                },
+                "text": "flash"
+              },
+              {
+                "id": "tr_1_tl_31_w10",
+                "coords": {
+                  "points": "1618,1735 1618,1795 1783,1795 1783,1735"
+                },
+                "text": "duration"
+              },
+              {
+                "id": "tr_1_tl_31_w11",
+                "coords": {
+                  "points": "1819,1735 1819,1795 1884,1795 1884,1735"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_31_w12",
+                "coords": {
+                  "points": "1915,1734 1915,1794 1949,1794 1949,1734"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_31_w13",
+                "coords": {
+                  "points": "1985,1731 1985,1791 2250,1791 2250,1731"
+                },
+                "text": "interstimulus"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_30",
+            "coords": {
+              "points": "282,1799 302,1802 332,1789 354,1812 371,1807 381,1812 396,1797 433,1807 436,1715 403,1710 366,1740 322,1710 304,1728 285,1725"
+            },
+            "baseline": {
+              "points": "298,1775 326,1777 355,1776 383,1773 412,1774 441,1775"
+            },
+            "text": "Fig. 8",
+            "words": [
+              {
+                "id": "tr_1_tl_30_w1",
+                "coords": {
+                  "points": "286,1736 286,1796 379,1796 379,1736"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_30_w2",
+                "coords": {
+                  "points": "402,1734 402,1794 422,1794 422,1734"
+                },
+                "text": "8"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_32",
+            "coords": {
+              "points": "455,1851 2262,1856 2262,1789 455,1792"
+            },
+            "baseline": {
+              "points": "468,1838 558,1837 648,1838 738,1836 828,1838 918,1835 1008,1835 1098,1835 1188,1835 1278,1835 1368,1835 1458,1832 1548,1835 1638,1832 1728,1832 1818,1832 1908,1832 1998,1829 2088,1832 2178,1829 2268,1832"
+            },
+            "text": "interval of 20 s. On- and off-responses remain constant in the duration, between 200 and",
+            "words": [
+              {
+                "id": "tr_1_tl_32_w1",
+                "coords": {
+                  "points": "455,1797 455,1857 609,1857 609,1797"
+                },
+                "text": "interval"
+              },
+              {
+                "id": "tr_1_tl_32_w2",
+                "coords": {
+                  "points": "625,1797 625,1857 661,1857 661,1797"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_32_w3",
+                "coords": {
+                  "points": "682,1796 682,1856 718,1856 718,1796"
+                },
+                "text": "20"
+              },
+              {
+                "id": "tr_1_tl_32_w4",
+                "coords": {
+                  "points": "744,1796 744,1856 775,1856 775,1796"
+                },
+                "text": "s."
+              },
+              {
+                "id": "tr_1_tl_32_w5",
+                "coords": {
+                  "points": "791,1797 791,1857 863,1857 863,1797"
+                },
+                "text": "On-"
+              },
+              {
+                "id": "tr_1_tl_32_w6",
+                "coords": {
+                  "points": "884,1795 884,1855 940,1855 940,1795"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_32_w7",
+                "coords": {
+                  "points": "972,1795 972,1855 1235,1855 1235,1795"
+                },
+                "text": "off-responses"
+              },
+              {
+                "id": "tr_1_tl_32_w8",
+                "coords": {
+                  "points": "1257,1795 1257,1855 1386,1855 1386,1795"
+                },
+                "text": "remain"
+              },
+              {
+                "id": "tr_1_tl_32_w9",
+                "coords": {
+                  "points": "1412,1793 1412,1853 1577,1853 1577,1793"
+                },
+                "text": "constant"
+              },
+              {
+                "id": "tr_1_tl_32_w10",
+                "coords": {
+                  "points": "1593,1793 1593,1853 1618,1853 1618,1793"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_32_w11",
+                "coords": {
+                  "points": "1645,1792 1645,1852 1696,1852 1696,1792"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_32_w12",
+                "coords": {
+                  "points": "1723,1792 1723,1852 1903,1852 1903,1792"
+                },
+                "text": "duration,"
+              },
+              {
+                "id": "tr_1_tl_32_w13",
+                "coords": {
+                  "points": "1919,1789 1919,1849 2074,1849 2074,1789"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_32_w14",
+                "coords": {
+                  "points": "2100,1790 2100,1850 2167,1850 2167,1790"
+                },
+                "text": "200"
+              },
+              {
+                "id": "tr_1_tl_32_w15",
+                "coords": {
+                  "points": "2188,1790 2188,1850 2250,1850 2250,1790"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_33",
+            "coords": {
+              "points": "458,1908 1178,1913 1178,1859 1064,1846 458,1851"
+            },
+            "baseline": {
+              "points": "471,1892 506,1892 542,1894 577,1895 613,1895 649,1895 684,1895 720,1895 756,1894 791,1892 827,1892 863,1892 898,1892 934,1892 970,1892 1005,1892 1041,1892 1077,1890 1112,1888 1148,1887 1184,1892"
+            },
+            "text": "300 ms, as flash duration increases.",
+            "words": [
+              {
+                "id": "tr_1_tl_33_w1",
+                "coords": {
+                  "points": "458,1852 458,1912 517,1912 517,1852"
+                },
+                "text": "300"
+              },
+              {
+                "id": "tr_1_tl_33_w2",
+                "coords": {
+                  "points": "543,1855 543,1915 613,1915 613,1855"
+                },
+                "text": "ms,"
+              },
+              {
+                "id": "tr_1_tl_33_w3",
+                "coords": {
+                  "points": "628,1855 628,1915 663,1915 663,1855"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_33_w4",
+                "coords": {
+                  "points": "684,1854 684,1914 769,1914 769,1854"
+                },
+                "text": "flash"
+              },
+              {
+                "id": "tr_1_tl_33_w5",
+                "coords": {
+                  "points": "799,1852 799,1912 955,1912 955,1852"
+                },
+                "text": "duration"
+              },
+              {
+                "id": "tr_1_tl_33_w6",
+                "coords": {
+                  "points": "986,1849 986,1909 1181,1909 1181,1849"
+                },
+                "text": "increases."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_34",
+            "coords": {
+              "points": "465,1960 2257,1958 2257,1911 2064,1883 465,1908"
+            },
+            "baseline": {
+              "points": "480,1951 569,1951 658,1951 747,1951 836,1951 925,1951 1014,1951 1103,1951 1192,1951 1281,1951 1371,1948 1460,1948 1549,1948 1638,1948 1727,1948 1816,1948 1905,1948 1994,1945 2083,1945 2172,1942 2262,1942"
+            },
+            "text": "Voltage data recorded from the right optic tectum at five repetitions given baseline",
+            "words": [
+              {
+                "id": "tr_1_tl_34_w1",
+                "coords": {
+                  "points": "466,1911 466,1971 619,1971 619,1911"
+                },
+                "text": "Voltage"
+              },
+              {
+                "id": "tr_1_tl_34_w2",
+                "coords": {
+                  "points": "648,1911 648,1971 724,1971 724,1911"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_34_w3",
+                "coords": {
+                  "points": "752,1911 752,1971 923,1971 923,1911"
+                },
+                "text": "recorded"
+              },
+              {
+                "id": "tr_1_tl_34_w4",
+                "coords": {
+                  "points": "957,1911 957,1971 1028,1971 1028,1911"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_34_w5",
+                "coords": {
+                  "points": "1073,1911 1073,1971 1127,1971 1127,1911"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_34_w6",
+                "coords": {
+                  "points": "1156,1911 1156,1971 1254,1971 1254,1911"
+                },
+                "text": "right"
+              },
+              {
+                "id": "tr_1_tl_34_w7",
+                "coords": {
+                  "points": "1277,1909 1277,1969 1371,1969 1371,1909"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_34_w8",
+                "coords": {
+                  "points": "1399,1908 1399,1968 1514,1968 1514,1908"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_34_w9",
+                "coords": {
+                  "points": "1559,1908 1559,1968 1597,1968 1597,1908"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_34_w10",
+                "coords": {
+                  "points": "1614,1908 1614,1968 1685,1968 1685,1908"
+                },
+                "text": "five"
+              },
+              {
+                "id": "tr_1_tl_34_w11",
+                "coords": {
+                  "points": "1719,1908 1719,1968 1929,1968 1929,1908"
+                },
+                "text": "repetitions"
+              },
+              {
+                "id": "tr_1_tl_34_w12",
+                "coords": {
+                  "points": "1957,1905 1957,1965 2061,1965 2061,1905"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_34_w13",
+                "coords": {
+                  "points": "2095,1902 2095,1962 2249,1962 2249,1902"
+                },
+                "text": "baseline"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_35",
+            "coords": {
+              "points": "282,1987 297,1987 304,1980 317,1990 344,1973 359,1987 379,1992 398,1973 431,1973 431,1898 411,1903 394,1888 364,1918 329,1898 282,1898"
+            },
+            "baseline": {
+              "points": "295,1951 323,1951 352,1952 380,1954 409,1952 438,1951"
+            },
+            "text": "Fig. 9",
+            "words": [
+              {
+                "id": "tr_1_tl_35_w1",
+                "coords": {
+                  "points": "286,1911 286,1971 376,1971 376,1911"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_35_w2",
+                "coords": {
+                  "points": "398,1912 398,1972 418,1972 418,1912"
+                },
+                "text": "9"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_36",
+            "coords": {
+              "points": "458,2034 2260,2015 2260,1958 2180,1955 460,1978"
+            },
+            "baseline": {
+              "points": "474,2011 563,2008 653,2011 742,2008 832,2008 921,2008 1011,2008 1100,2005 1190,2005 1279,2008 1369,2005 1459,2005 1548,2005 1638,2005 1727,2005 1817,2005 1906,2005 1996,2005 2085,1999 2175,2002 2265,2002"
+            },
+            "text": "parameters. Both on- and off-responses result from repeated light stimuli. High levels of",
+            "words": [
+              {
+                "id": "tr_1_tl_36_w1",
+                "coords": {
+                  "points": "459,1968 459,2028 696,2028 696,1968"
+                },
+                "text": "parameters."
+              },
+              {
+                "id": "tr_1_tl_36_w2",
+                "coords": {
+                  "points": "708,1968 708,2028 792,2028 792,1968"
+                },
+                "text": "Both"
+              },
+              {
+                "id": "tr_1_tl_36_w3",
+                "coords": {
+                  "points": "821,1968 821,2028 882,2028 882,1968"
+                },
+                "text": "on-"
+              },
+              {
+                "id": "tr_1_tl_36_w4",
+                "coords": {
+                  "points": "906,1968 906,2028 962,2028 962,1968"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_36_w5",
+                "coords": {
+                  "points": "990,1965 990,2025 1250,2025 1250,1965"
+                },
+                "text": "off-responses"
+              },
+              {
+                "id": "tr_1_tl_36_w6",
+                "coords": {
+                  "points": "1273,1966 1273,2026 1386,2026 1386,1966"
+                },
+                "text": "result"
+              },
+              {
+                "id": "tr_1_tl_36_w7",
+                "coords": {
+                  "points": "1403,1965 1403,2025 1471,2025 1471,1965"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_36_w8",
+                "coords": {
+                  "points": "1511,1965 1511,2025 1669,2025 1669,1965"
+                },
+                "text": "repeated"
+              },
+              {
+                "id": "tr_1_tl_36_w9",
+                "coords": {
+                  "points": "1698,1965 1698,2025 1787,2025 1787,1965"
+                },
+                "text": "light"
+              },
+              {
+                "id": "tr_1_tl_36_w10",
+                "coords": {
+                  "points": "1805,1965 1805,2025 1957,2025 1957,1965"
+                },
+                "text": "stimuli."
+              },
+              {
+                "id": "tr_1_tl_36_w11",
+                "coords": {
+                  "points": "1969,1963 1969,2023 2059,2023 2059,1963"
+                },
+                "text": "High"
+              },
+              {
+                "id": "tr_1_tl_36_w12",
+                "coords": {
+                  "points": "2088,1960 2088,2020 2195,2020 2195,1960"
+                },
+                "text": "levels"
+              },
+              {
+                "id": "tr_1_tl_36_w13",
+                "coords": {
+                  "points": "2218,1962 2218,2022 2257,2022 2257,1962"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_37",
+            "coords": {
+              "points": "460,2081 1238,2077 1238,2020 460,2034"
+            },
+            "baseline": {
+              "points": "474,2068 512,2067 550,2068 589,2068 627,2068 665,2068 704,2065 742,2065 780,2065 819,2065 857,2065 895,2066 934,2068 972,2065 1010,2065 1049,2065 1087,2065 1125,2065 1164,2065 1202,2065 1241,2065"
+            },
+            "text": "electrical noise are present in this run.",
+            "words": [
+              {
+                "id": "tr_1_tl_37_w1",
+                "coords": {
+                  "points": "464,2028 464,2088 647,2088 647,2028"
+                },
+                "text": "electrical"
+              },
+              {
+                "id": "tr_1_tl_37_w2",
+                "coords": {
+                  "points": "662,2025 662,2085 758,2085 758,2025"
+                },
+                "text": "noise"
+              },
+              {
+                "id": "tr_1_tl_37_w3",
+                "coords": {
+                  "points": "783,2025 783,2085 836,2085 836,2025"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_37_w4",
+                "coords": {
+                  "points": "861,2027 861,2087 1005,2087 1005,2027"
+                },
+                "text": "present"
+              },
+              {
+                "id": "tr_1_tl_37_w5",
+                "coords": {
+                  "points": "1020,2025 1020,2085 1044,2085 1044,2025"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_37_w6",
+                "coords": {
+                  "points": "1073,2025 1073,2085 1136,2085 1136,2025"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_37_w7",
+                "coords": {
+                  "points": "1160,2025 1160,2085 1237,2085 1237,2025"
+                },
+                "text": "run."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_38",
+            "coords": {
+              "points": "287,2146 2260,2141 2260,2067 287,2079"
+            },
+            "baseline": {
+              "points": "301,2122 399,2122 497,2122 595,2125 693,2125 792,2125 890,2124 988,2122 1086,2122 1184,2122 1283,2122 1381,2121 1479,2122 1577,2122 1675,2119 1774,2119 1872,2119 1970,2119 2068,2119 2166,2116 2265,2116"
+            },
+            "text": "Fig. 10 Voltage data recorded from the right optic tectum at five repetitions given a flash",
+            "words": [
+              {
+                "id": "tr_1_tl_38_w1",
+                "coords": {
+                  "points": "287,2082 287,2142 373,2142 373,2082"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_38_w2",
+                "coords": {
+                  "points": "395,2082 395,2142 433,2142 433,2082"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_38_w3",
+                "coords": {
+                  "points": "466,2083 466,2143 611,2143 611,2083"
+                },
+                "text": "Voltage"
+              },
+              {
+                "id": "tr_1_tl_38_w4",
+                "coords": {
+                  "points": "644,2085 644,2145 720,2145 720,2085"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_38_w5",
+                "coords": {
+                  "points": "753,2084 753,2144 925,2144 925,2084"
+                },
+                "text": "recorded"
+              },
+              {
+                "id": "tr_1_tl_38_w6",
+                "coords": {
+                  "points": "958,2082 958,2142 1033,2142 1033,2082"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_38_w7",
+                "coords": {
+                  "points": "1078,2082 1078,2142 1131,2142 1131,2082"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_38_w8",
+                "coords": {
+                  "points": "1165,2082 1165,2142 1261,2142 1261,2082"
+                },
+                "text": "right"
+              },
+              {
+                "id": "tr_1_tl_38_w9",
+                "coords": {
+                  "points": "1283,2081 1283,2141 1380,2141 1380,2081"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_38_w10",
+                "coords": {
+                  "points": "1408,2081 1408,2141 1527,2141 1527,2081"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_38_w11",
+                "coords": {
+                  "points": "1576,2081 1576,2141 1608,2141 1608,2081"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_38_w12",
+                "coords": {
+                  "points": "1630,2079 1630,2139 1705,2139 1705,2079"
+                },
+                "text": "five"
+              },
+              {
+                "id": "tr_1_tl_38_w13",
+                "coords": {
+                  "points": "1733,2079 1733,2139 1949,2139 1949,2079"
+                },
+                "text": "repetitions"
+              },
+              {
+                "id": "tr_1_tl_38_w14",
+                "coords": {
+                  "points": "1977,2079 1977,2139 2084,2139 2084,2079"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_38_w15",
+                "coords": {
+                  "points": "2117,2077 2117,2137 2128,2137 2128,2077"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_38_w16",
+                "coords": {
+                  "points": "2161,2076 2161,2136 2247,2136 2247,2076"
+                },
+                "text": "flash"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_39",
+            "coords": {
+              "points": "460,2200 2255,2195 2255,2143 2044,2128 460,2143"
+            },
+            "baseline": {
+              "points": "474,2181 563,2181 652,2181 742,2181 831,2181 921,2178 1010,2181 1099,2178 1189,2178 1278,2178 1368,2178 1457,2178 1546,2178 1636,2175 1725,2175 1815,2175 1904,2175 1993,2175 2083,2175 2172,2172 2262,2169"
+            },
+            "text": "duration and an interstimulus interval of 5 s. The ratio of off-response magnitude to on-",
+            "words": [
+              {
+                "id": "tr_1_tl_39_w1",
+                "coords": {
+                  "points": "461,2141 461,2201 610,2201 610,2141"
+                },
+                "text": "duration"
+              },
+              {
+                "id": "tr_1_tl_39_w2",
+                "coords": {
+                  "points": "638,2141 638,2201 699,2201 699,2141"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_39_w3",
+                "coords": {
+                  "points": "727,2141 727,2201 760,2201 760,2141"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_39_w4",
+                "coords": {
+                  "points": "788,2138 788,2198 1048,2198 1048,2138"
+                },
+                "text": "interstimulus"
+              },
+              {
+                "id": "tr_1_tl_39_w5",
+                "coords": {
+                  "points": "1071,2138 1071,2198 1220,2198 1220,2138"
+                },
+                "text": "interval"
+              },
+              {
+                "id": "tr_1_tl_39_w6",
+                "coords": {
+                  "points": "1238,2138 1238,2198 1276,2198 1276,2138"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_39_w7",
+                "coords": {
+                  "points": "1293,2138 1293,2198 1309,2198 1309,2138"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_39_w8",
+                "coords": {
+                  "points": "1332,2138 1332,2198 1365,2198 1365,2138"
+                },
+                "text": "s."
+              },
+              {
+                "id": "tr_1_tl_39_w9",
+                "coords": {
+                  "points": "1382,2138 1382,2198 1448,2198 1448,2138"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_39_w10",
+                "coords": {
+                  "points": "1476,2138 1476,2198 1553,2198 1553,2138"
+                },
+                "text": "ratio"
+              },
+              {
+                "id": "tr_1_tl_39_w11",
+                "coords": {
+                  "points": "1582,2136 1582,2196 1620,2196 1620,2136"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_39_w12",
+                "coords": {
+                  "points": "1637,2135 1637,2195 1881,2195 1881,2135"
+                },
+                "text": "off-response"
+              },
+              {
+                "id": "tr_1_tl_39_w13",
+                "coords": {
+                  "points": "1909,2135 1909,2195 2114,2195 2114,2135"
+                },
+                "text": "magnitude"
+              },
+              {
+                "id": "tr_1_tl_39_w14",
+                "coords": {
+                  "points": "2137,2132 2137,2192 2164,2192 2164,2132"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_39_w15",
+                "coords": {
+                  "points": "2192,2130 2192,2190 2253,2190 2253,2130"
+                },
+                "text": "on-"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_40",
+            "coords": {
+              "points": "458,2250 1775,2245 1775,2195 1713,2185 458,2200"
+            },
+            "baseline": {
+              "points": "471,2235 536,2236 602,2238 667,2238 733,2238 798,2238 864,2238 929,2238 995,2235 1060,2235 1126,2235 1191,2235 1257,2235 1322,2235 1388,2235 1453,2233 1519,2235 1584,2232 1650,2235 1715,2232 1781,2232"
+            },
+            "text": "response magnitude increases as a function of repetition number.",
+            "words": [
+              {
+                "id": "tr_1_tl_40_w1",
+                "coords": {
+                  "points": "452,2196 452,2256 620,2256 620,2196"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_40_w2",
+                "coords": {
+                  "points": "645,2198 645,2258 848,2258 848,2198"
+                },
+                "text": "magnitude"
+              },
+              {
+                "id": "tr_1_tl_40_w3",
+                "coords": {
+                  "points": "873,2196 873,2256 1050,2256 1050,2196"
+                },
+                "text": "increases"
+              },
+              {
+                "id": "tr_1_tl_40_w4",
+                "coords": {
+                  "points": "1071,2195 1071,2255 1105,2255 1105,2195"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_40_w5",
+                "coords": {
+                  "points": "1126,2195 1126,2255 1140,2255 1140,2195"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_40_w6",
+                "coords": {
+                  "points": "1165,2195 1165,2255 1318,2255 1318,2195"
+                },
+                "text": "function"
+              },
+              {
+                "id": "tr_1_tl_40_w7",
+                "coords": {
+                  "points": "1344,2195 1344,2255 1383,2255 1383,2195"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_40_w8",
+                "coords": {
+                  "points": "1398,2194 1398,2254 1580,2254 1580,2194"
+                },
+                "text": "repetition"
+              },
+              {
+                "id": "tr_1_tl_40_w9",
+                "coords": {
+                  "points": "1606,2193 1606,2253 1773,2253 1773,2193"
+                },
+                "text": "number."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_41",
+            "coords": {
+              "points": "277,2297 2262,2307 2262,2252 2190,2235 277,2255"
+            },
+            "baseline": {
+              "points": "292,2295 390,2295 489,2293 588,2295 687,2295 786,2295 884,2295 983,2294 1082,2294 1181,2294 1280,2295 1378,2292 1477,2292 1576,2294 1675,2292 1774,2292 1872,2292 1971,2292 2070,2289 2169,2289 2268,2286"
+            },
+            "text": "Fig. 11 Voltage data recorded from the right optic tectum at five repetitions given a flash",
+            "words": [
+              {
+                "id": "tr_1_tl_41_w1",
+                "coords": {
+                  "points": "278,2255 278,2315 363,2315 363,2255"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_41_w2",
+                "coords": {
+                  "points": "386,2254 386,2314 431,2314 431,2254"
+                },
+                "text": "11"
+              },
+              {
+                "id": "tr_1_tl_41_w3",
+                "coords": {
+                  "points": "454,2253 454,2313 607,2313 607,2253"
+                },
+                "text": "Voltage"
+              },
+              {
+                "id": "tr_1_tl_41_w4",
+                "coords": {
+                  "points": "636,2255 636,2315 715,2315 715,2255"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_41_w5",
+                "coords": {
+                  "points": "744,2255 744,2315 914,2315 914,2255"
+                },
+                "text": "recorded"
+              },
+              {
+                "id": "tr_1_tl_41_w6",
+                "coords": {
+                  "points": "950,2254 950,2314 1023,2314 1023,2254"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_41_w7",
+                "coords": {
+                  "points": "1069,2254 1069,2314 1126,2314 1126,2254"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_41_w8",
+                "coords": {
+                  "points": "1155,2254 1155,2314 1257,2314 1257,2254"
+                },
+                "text": "right"
+              },
+              {
+                "id": "tr_1_tl_41_w9",
+                "coords": {
+                  "points": "1280,2253 1280,2313 1376,2313 1376,2253"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_41_w10",
+                "coords": {
+                  "points": "1405,2252 1405,2312 1518,2312 1518,2252"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_41_w11",
+                "coords": {
+                  "points": "1570,2253 1570,2313 1604,2313 1604,2253"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_41_w12",
+                "coords": {
+                  "points": "1628,2252 1628,2312 1701,2312 1701,2252"
+                },
+                "text": "five"
+              },
+              {
+                "id": "tr_1_tl_41_w13",
+                "coords": {
+                  "points": "1730,2252 1730,2312 1946,2312 1946,2252"
+                },
+                "text": "repetitions"
+              },
+              {
+                "id": "tr_1_tl_41_w14",
+                "coords": {
+                  "points": "1975,2250 1975,2310 2082,2310 2082,2250"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_41_w15",
+                "coords": {
+                  "points": "2117,2249 2117,2309 2128,2309 2128,2249"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_41_w16",
+                "coords": {
+                  "points": "2157,2248 2157,2308 2247,2308 2247,2248"
+                },
+                "text": "flash"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_42",
+            "coords": {
+              "points": "455,2364 2262,2356 2265,2304 458,2319"
+            },
+            "baseline": {
+              "points": "471,2348 561,2353 651,2353 741,2352 831,2351 921,2351 1011,2351 1101,2351 1191,2351 1281,2348 1371,2351 1461,2351 1551,2348 1641,2348 1731,2348 1821,2348 1911,2345 2001,2345 2091,2345 2181,2345 2271,2342"
+            },
+            "text": "duration and an interstimulus interval of 10 s. Off-response magnitude displays a",
+            "words": [
+              {
+                "id": "tr_1_tl_42_w1",
+                "coords": {
+                  "points": "455,2311 455,2371 619,2371 619,2311"
+                },
+                "text": "duration"
+              },
+              {
+                "id": "tr_1_tl_42_w2",
+                "coords": {
+                  "points": "656,2312 656,2372 719,2372 719,2312"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_42_w3",
+                "coords": {
+                  "points": "752,2311 752,2371 789,2371 789,2311"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_42_w4",
+                "coords": {
+                  "points": "826,2311 826,2371 1091,2371 1091,2311"
+                },
+                "text": "interstimulus"
+              },
+              {
+                "id": "tr_1_tl_42_w5",
+                "coords": {
+                  "points": "1123,2310 1123,2370 1281,2370 1281,2310"
+                },
+                "text": "interval"
+              },
+              {
+                "id": "tr_1_tl_42_w6",
+                "coords": {
+                  "points": "1309,2309 1309,2369 1350,2369 1350,2309"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_42_w7",
+                "coords": {
+                  "points": "1378,2311 1378,2371 1414,2371 1414,2311"
+                },
+                "text": "10"
+              },
+              {
+                "id": "tr_1_tl_42_w8",
+                "coords": {
+                  "points": "1447,2310 1447,2370 1483,2370 1483,2310"
+                },
+                "text": "s."
+              },
+              {
+                "id": "tr_1_tl_42_w9",
+                "coords": {
+                  "points": "1505,2308 1505,2368 1770,2368 1770,2308"
+                },
+                "text": "Off-response"
+              },
+              {
+                "id": "tr_1_tl_42_w10",
+                "coords": {
+                  "points": "1802,2305 1802,2365 2014,2365 2014,2305"
+                },
+                "text": "magnitude"
+              },
+              {
+                "id": "tr_1_tl_42_w11",
+                "coords": {
+                  "points": "2046,2305 2046,2365 2210,2365 2210,2305"
+                },
+                "text": "displays"
+              },
+              {
+                "id": "tr_1_tl_42_w12",
+                "coords": {
+                  "points": "2242,2302 2242,2362 2257,2362 2257,2302"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_43",
+            "coords": {
+              "points": "450,2433 2267,2421 2228,2354 450,2386"
+            },
+            "baseline": {
+              "points": "465,2411 555,2411 645,2411 736,2411 826,2411 917,2411 1007,2411 1098,2411 1188,2411 1279,2408 1369,2408 1459,2408 1550,2408 1640,2408 1731,2408 1821,2408 1912,2408 2002,2405 2093,2405 2183,2405 2274,2402"
+            },
+            "text": "noticeable decrease of approximately 25 percent over the complete series of light",
+            "words": [
+              {
+                "id": "tr_1_tl_43_w1",
+                "coords": {
+                  "points": "451,2371 451,2431 656,2431 656,2371"
+                },
+                "text": "noticeable"
+              },
+              {
+                "id": "tr_1_tl_43_w2",
+                "coords": {
+                  "points": "690,2371 690,2431 862,2431 862,2371"
+                },
+                "text": "decrease"
+              },
+              {
+                "id": "tr_1_tl_43_w3",
+                "coords": {
+                  "points": "896,2371 896,2431 934,2431 934,2371"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_43_w4",
+                "coords": {
+                  "points": "963,2371 963,2431 1251,2431 1251,2371"
+                },
+                "text": "approximately"
+              },
+              {
+                "id": "tr_1_tl_43_w5",
+                "coords": {
+                  "points": "1285,2368 1285,2428 1329,2428 1329,2368"
+                },
+                "text": "25"
+              },
+              {
+                "id": "tr_1_tl_43_w6",
+                "coords": {
+                  "points": "1363,2368 1363,2428 1513,2428 1513,2368"
+                },
+                "text": "percent"
+              },
+              {
+                "id": "tr_1_tl_43_w7",
+                "coords": {
+                  "points": "1536,2368 1536,2428 1630,2428 1630,2368"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_43_w8",
+                "coords": {
+                  "points": "1653,2368 1653,2428 1708,2428 1708,2368"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_43_w9",
+                "coords": {
+                  "points": "1742,2368 1742,2428 1925,2428 1925,2368"
+                },
+                "text": "complete"
+              },
+              {
+                "id": "tr_1_tl_43_w10",
+                "coords": {
+                  "points": "1959,2365 1959,2425 2069,2425 2069,2365"
+                },
+                "text": "series"
+              },
+              {
+                "id": "tr_1_tl_43_w11",
+                "coords": {
+                  "points": "2098,2365 2098,2425 2142,2425 2142,2365"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_43_w12",
+                "coords": {
+                  "points": "2165,2364 2165,2424 2258,2424 2258,2364"
+                },
+                "text": "light"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_44",
+            "coords": {
+              "points": "450,2473 485,2485 557,2480 567,2490 582,2485 589,2492 599,2482 629,2482 629,2428 572,2440 557,2426 542,2426 522,2440 502,2426 475,2423 468,2433 450,2435"
+            },
+            "baseline": {
+              "points": "465,2468 493,2468 521,2468 550,2468 578,2470 606,2470 635,2468"
+            },
+            "text": "flashes.",
+            "words": [
+              {
+                "id": "tr_1_tl_44_w1",
+                "coords": {
+                  "points": "451,2428 451,2488 626,2488 626,2428"
+                },
+                "text": "flashes."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_45",
+            "coords": {
+              "points": "282,2539 2267,2534 2267,2477 1918,2460 282,2468"
+            },
+            "baseline": {
+              "points": "295,2527 399,2527 503,2524 607,2527 711,2527 815,2527 919,2527 1024,2527 1128,2524 1232,2525 1336,2524 1440,2524 1544,2524 1649,2521 1753,2524 1857,2521 1961,2518 2065,2518 2169,2519 2274,2518"
+            },
+            "text": "Fig. 12 Voltage data recorded from the left optic tectum at five repetitions given baseline",
+            "words": [
+              {
+                "id": "tr_1_tl_45_w1",
+                "coords": {
+                  "points": "283,2487 283,2547 367,2547 367,2487"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_45_w2",
+                "coords": {
+                  "points": "391,2486 391,2546 430,2546 430,2486"
+                },
+                "text": "12"
+              },
+              {
+                "id": "tr_1_tl_45_w3",
+                "coords": {
+                  "points": "459,2484 459,2544 606,2544 606,2484"
+                },
+                "text": "Voltage"
+              },
+              {
+                "id": "tr_1_tl_45_w4",
+                "coords": {
+                  "points": "641,2487 641,2547 720,2547 720,2487"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_45_w5",
+                "coords": {
+                  "points": "749,2487 749,2547 920,2547 920,2487"
+                },
+                "text": "recorded"
+              },
+              {
+                "id": "tr_1_tl_45_w6",
+                "coords": {
+                  "points": "955,2487 955,2547 1028,2547 1028,2487"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_45_w7",
+                "coords": {
+                  "points": "1080,2484 1080,2544 1130,2544 1130,2484"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_45_w8",
+                "coords": {
+                  "points": "1165,2484 1165,2544 1233,2544 1233,2484"
+                },
+                "text": "left"
+              },
+              {
+                "id": "tr_1_tl_45_w9",
+                "coords": {
+                  "points": "1256,2484 1256,2544 1353,2544 1353,2484"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_45_w10",
+                "coords": {
+                  "points": "1382,2484 1382,2544 1501,2544 1501,2484"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_45_w11",
+                "coords": {
+                  "points": "1547,2483 1547,2543 1580,2543 1580,2483"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_45_w12",
+                "coords": {
+                  "points": "1604,2481 1604,2541 1677,2541 1677,2481"
+                },
+                "text": "five"
+              },
+              {
+                "id": "tr_1_tl_45_w13",
+                "coords": {
+                  "points": "1706,2482 1706,2542 1928,2542 1928,2482"
+                },
+                "text": "repetitions"
+              },
+              {
+                "id": "tr_1_tl_45_w14",
+                "coords": {
+                  "points": "1952,2478 1952,2538 2059,2538 2059,2478"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_45_w15",
+                "coords": {
+                  "points": "2094,2478 2094,2538 2252,2538 2252,2478"
+                },
+                "text": "baseline"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_46",
+            "coords": {
+              "points": "463,2606 2262,2589 2262,2542 2195,2532 463,2552"
+            },
+            "baseline": {
+              "points": "477,2587 566,2584 656,2584 745,2581 835,2581 924,2581 1014,2581 1103,2581 1193,2581 1282,2578 1372,2578 1462,2578 1551,2581 1641,2581 1730,2581 1820,2578 1909,2578 1999,2575 2088,2578 2178,2578 2268,2578"
+            },
+            "text": "parameters. Both on- and off-responses result from repeated light stimuli, and no clear",
+            "words": [
+              {
+                "id": "tr_1_tl_46_w1",
+                "coords": {
+                  "points": "463,2544 463,2604 700,2604 700,2544"
+                },
+                "text": "parameters."
+              },
+              {
+                "id": "tr_1_tl_46_w2",
+                "coords": {
+                  "points": "717,2541 717,2601 802,2601 802,2541"
+                },
+                "text": "Both"
+              },
+              {
+                "id": "tr_1_tl_46_w3",
+                "coords": {
+                  "points": "830,2541 830,2601 894,2601 894,2541"
+                },
+                "text": "on-"
+              },
+              {
+                "id": "tr_1_tl_46_w4",
+                "coords": {
+                  "points": "916,2541 916,2601 975,2601 975,2541"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_46_w5",
+                "coords": {
+                  "points": "1003,2541 1003,2601 1272,2601 1272,2541"
+                },
+                "text": "off-responses"
+              },
+              {
+                "id": "tr_1_tl_46_w6",
+                "coords": {
+                  "points": "1294,2538 1294,2598 1407,2598 1407,2538"
+                },
+                "text": "result"
+              },
+              {
+                "id": "tr_1_tl_46_w7",
+                "coords": {
+                  "points": "1424,2538 1424,2598 1493,2598 1493,2538"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_46_w8",
+                "coords": {
+                  "points": "1537,2541 1537,2601 1698,2601 1698,2541"
+                },
+                "text": "repeated"
+              },
+              {
+                "id": "tr_1_tl_46_w9",
+                "coords": {
+                  "points": "1726,2539 1726,2599 1817,2599 1817,2539"
+                },
+                "text": "light"
+              },
+              {
+                "id": "tr_1_tl_46_w10",
+                "coords": {
+                  "points": "1839,2537 1839,2597 1990,2597 1990,2537"
+                },
+                "text": "stimuli,"
+              },
+              {
+                "id": "tr_1_tl_46_w11",
+                "coords": {
+                  "points": "2007,2536 2007,2596 2071,2596 2071,2536"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_46_w12",
+                "coords": {
+                  "points": "2098,2538 2098,2598 2135,2598 2135,2538"
+                },
+                "text": "no"
+              },
+              {
+                "id": "tr_1_tl_46_w13",
+                "coords": {
+                  "points": "2163,2538 2163,2598 2254,2598 2254,2538"
+                },
+                "text": "clear"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_47",
+            "coords": {
+              "points": "458,2653 2188,2646 2161,2596 2069,2589 458,2609"
+            },
+            "baseline": {
+              "points": "471,2638 557,2641 643,2640 729,2638 815,2638 901,2641 987,2641 1073,2641 1159,2638 1245,2638 1332,2638 1418,2638 1504,2638 1590,2638 1676,2637 1762,2637 1848,2635 1934,2635 2020,2635 2106,2635 2193,2632"
+            },
+            "text": "trend governs their magnitudes. High levels of electrical noise are present in this run.",
+            "words": [
+              {
+                "id": "tr_1_tl_47_w1",
+                "coords": {
+                  "points": "458,2599 458,2659 553,2659 553,2599"
+                },
+                "text": "trend"
+              },
+              {
+                "id": "tr_1_tl_47_w2",
+                "coords": {
+                  "points": "580,2599 580,2659 729,2659 729,2599"
+                },
+                "text": "governs"
+              },
+              {
+                "id": "tr_1_tl_47_w3",
+                "coords": {
+                  "points": "751,2598 751,2658 840,2658 840,2598"
+                },
+                "text": "their"
+              },
+              {
+                "id": "tr_1_tl_47_w4",
+                "coords": {
+                  "points": "857,2601 857,2661 1101,2661 1101,2601"
+                },
+                "text": "magnitudes."
+              },
+              {
+                "id": "tr_1_tl_47_w5",
+                "coords": {
+                  "points": "1117,2598 1117,2658 1207,2658 1207,2598"
+                },
+                "text": "High"
+              },
+              {
+                "id": "tr_1_tl_47_w6",
+                "coords": {
+                  "points": "1235,2598 1235,2658 1340,2658 1340,2598"
+                },
+                "text": "levels"
+              },
+              {
+                "id": "tr_1_tl_47_w7",
+                "coords": {
+                  "points": "1362,2598 1362,2658 1398,2658 1398,2598"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_47_w8",
+                "coords": {
+                  "points": "1420,2598 1420,2658 1601,2658 1601,2598"
+                },
+                "text": "electrical"
+              },
+              {
+                "id": "tr_1_tl_47_w9",
+                "coords": {
+                  "points": "1617,2597 1617,2657 1713,2657 1713,2597"
+                },
+                "text": "noise"
+              },
+              {
+                "id": "tr_1_tl_47_w10",
+                "coords": {
+                  "points": "1735,2597 1735,2657 1787,2657 1787,2597"
+                },
+                "text": "are"
+              },
+              {
+                "id": "tr_1_tl_47_w11",
+                "coords": {
+                  "points": "1809,2595 1809,2655 1957,2655 1957,2595"
+                },
+                "text": "present"
+              },
+              {
+                "id": "tr_1_tl_47_w12",
+                "coords": {
+                  "points": "1974,2595 1974,2655 2000,2655 2000,2595"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_47_w13",
+                "coords": {
+                  "points": "2022,2595 2022,2655 2090,2655 2090,2595"
+                },
+                "text": "this"
+              },
+              {
+                "id": "tr_1_tl_47_w14",
+                "coords": {
+                  "points": "2112,2593 2112,2653 2186,2653 2186,2593"
+                },
+                "text": "run."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_48",
+            "coords": {
+              "points": "287,2715 2260,2700 2260,2651 2205,2646 287,2651"
+            },
+            "baseline": {
+              "points": "301,2695 399,2698 497,2696 595,2696 693,2698 792,2698 890,2698 988,2698 1086,2695 1184,2695 1283,2695 1381,2695 1479,2695 1577,2695 1675,2695 1774,2695 1872,2690 1970,2692 2068,2692 2166,2692 2265,2689"
+            },
+            "text": "Fig. 13. Voltage data recorded from the left optic tectum at five repetitions given a flash duration",
+            "words": [
+              {
+                "id": "tr_1_tl_48_w1",
+                "coords": {
+                  "points": "287,2655 287,2715 366,2715 366,2655"
+                },
+                "text": "Fig."
+              },
+              {
+                "id": "tr_1_tl_48_w2",
+                "coords": {
+                  "points": "382,2657 382,2717 445,2717 445,2657"
+                },
+                "text": "13."
+              },
+              {
+                "id": "tr_1_tl_48_w3",
+                "coords": {
+                  "points": "462,2656 462,2716 604,2716 604,2656"
+                },
+                "text": "Voltage"
+              },
+              {
+                "id": "tr_1_tl_48_w4",
+                "coords": {
+                  "points": "631,2657 631,2717 705,2717 705,2657"
+                },
+                "text": "data"
+              },
+              {
+                "id": "tr_1_tl_48_w5",
+                "coords": {
+                  "points": "732,2658 732,2718 890,2718 890,2658"
+                },
+                "text": "recorded"
+              },
+              {
+                "id": "tr_1_tl_48_w6",
+                "coords": {
+                  "points": "923,2658 923,2718 991,2718 991,2658"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_48_w7",
+                "coords": {
+                  "points": "1034,2655 1034,2715 1081,2715 1081,2655"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_48_w8",
+                "coords": {
+                  "points": "1109,2655 1109,2715 1171,2715 1171,2655"
+                },
+                "text": "left"
+              },
+              {
+                "id": "tr_1_tl_48_w9",
+                "coords": {
+                  "points": "1188,2655 1188,2715 1277,2715 1277,2655"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_48_w10",
+                "coords": {
+                  "points": "1299,2655 1299,2715 1410,2715 1410,2655"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_48_w11",
+                "coords": {
+                  "points": "1453,2655 1453,2715 1484,2715 1484,2655"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_48_w12",
+                "coords": {
+                  "points": "1500,2655 1500,2715 1569,2715 1569,2655"
+                },
+                "text": "five"
+              },
+              {
+                "id": "tr_1_tl_48_w13",
+                "coords": {
+                  "points": "1590,2655 1590,2715 1802,2715 1802,2655"
+                },
+                "text": "repetitions"
+              },
+              {
+                "id": "tr_1_tl_48_w14",
+                "coords": {
+                  "points": "1824,2650 1824,2710 1919,2710 1919,2650"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_48_w15",
+                "coords": {
+                  "points": "1946,2651 1946,2711 1961,2711 1961,2651"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_48_w16",
+                "coords": {
+                  "points": "1983,2652 1983,2712 2067,2712 2067,2652"
+                },
+                "text": "flash"
+              },
+              {
+                "id": "tr_1_tl_48_w17",
+                "coords": {
+                  "points": "2094,2651 2094,2711 2247,2711 2247,2651"
+                },
+                "text": "duration"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_49",
+            "coords": {
+              "points": "455,2762 2265,2767 2265,2708 455,2727"
+            },
+            "baseline": {
+              "points": "468,2754 558,2754 648,2754 738,2752 828,2754 918,2751 1008,2753 1099,2754 1189,2754 1279,2751 1369,2751 1459,2751 1549,2751 1639,2751 1730,2751 1820,2751 1910,2748 2000,2748 2090,2748 2180,2748 2271,2745"
+            },
+            "text": "and an interstimulus interval of 5 s. The ratio of off-response magnitude to on-response",
+            "words": [
+              {
+                "id": "tr_1_tl_49_w1",
+                "coords": {
+                  "points": "455,2714 455,2774 513,2774 513,2714"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_49_w2",
+                "coords": {
+                  "points": "540,2714 540,2774 577,2774 577,2714"
+                },
+                "text": "an"
+              },
+              {
+                "id": "tr_1_tl_49_w3",
+                "coords": {
+                  "points": "604,2712 604,2772 864,2772 864,2712"
+                },
+                "text": "interstimulus"
+              },
+              {
+                "id": "tr_1_tl_49_w4",
+                "coords": {
+                  "points": "886,2711 886,2771 1039,2771 1039,2711"
+                },
+                "text": "interval"
+              },
+              {
+                "id": "tr_1_tl_49_w5",
+                "coords": {
+                  "points": "1056,2713 1056,2773 1092,2773 1092,2713"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_49_w6",
+                "coords": {
+                  "points": "1114,2714 1114,2774 1124,2774 1124,2714"
+                },
+                "text": "5"
+              },
+              {
+                "id": "tr_1_tl_49_w7",
+                "coords": {
+                  "points": "1152,2714 1152,2774 1183,2774 1183,2714"
+                },
+                "text": "s."
+              },
+              {
+                "id": "tr_1_tl_49_w8",
+                "coords": {
+                  "points": "1199,2712 1199,2772 1268,2772 1268,2712"
+                },
+                "text": "The"
+              },
+              {
+                "id": "tr_1_tl_49_w9",
+                "coords": {
+                  "points": "1295,2711 1295,2771 1375,2771 1375,2711"
+                },
+                "text": "ratio"
+              },
+              {
+                "id": "tr_1_tl_49_w10",
+                "coords": {
+                  "points": "1402,2711 1402,2771 1444,2771 1444,2711"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_49_w11",
+                "coords": {
+                  "points": "1461,2711 1461,2771 1704,2771 1704,2711"
+                },
+                "text": "off-response"
+              },
+              {
+                "id": "tr_1_tl_49_w12",
+                "coords": {
+                  "points": "1732,2710 1732,2770 1938,2770 1938,2710"
+                },
+                "text": "magnitude"
+              },
+              {
+                "id": "tr_1_tl_49_w13",
+                "coords": {
+                  "points": "1960,2708 1960,2768 1991,2768 1991,2708"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_49_w14",
+                "coords": {
+                  "points": "2013,2708 2013,2768 2252,2768 2252,2708"
+                },
+                "text": "on-response"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_50",
+            "coords": {
+              "points": "458,2831 1596,2824 1596,2774 1525,2762 458,2777"
+            },
+            "baseline": {
+              "points": "471,2811 527,2811 584,2811 640,2811 697,2811 753,2811 810,2811 866,2811 923,2811 979,2811 1036,2811 1093,2811 1149,2811 1206,2811 1262,2810 1319,2808 1375,2808 1432,2808 1488,2808 1545,2808 1602,2805"
+            },
+            "text": "magnitude decreases as a function of repetition number.",
+            "words": [
+              {
+                "id": "tr_1_tl_50_w1",
+                "coords": {
+                  "points": "458,2771 458,2831 656,2831 656,2771"
+                },
+                "text": "magnitude"
+              },
+              {
+                "id": "tr_1_tl_50_w2",
+                "coords": {
+                  "points": "682,2771 682,2831 870,2831 870,2771"
+                },
+                "text": "decreases"
+              },
+              {
+                "id": "tr_1_tl_50_w3",
+                "coords": {
+                  "points": "891,2771 891,2831 926,2831 926,2771"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_50_w4",
+                "coords": {
+                  "points": "947,2771 947,2831 957,2831 957,2771"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_50_w5",
+                "coords": {
+                  "points": "983,2771 983,2831 1140,2831 1140,2771"
+                },
+                "text": "function"
+              },
+              {
+                "id": "tr_1_tl_50_w6",
+                "coords": {
+                  "points": "1166,2771 1166,2831 1207,2831 1207,2771"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_50_w7",
+                "coords": {
+                  "points": "1222,2768 1222,2828 1406,2828 1406,2768"
+                },
+                "text": "repetition"
+              },
+              {
+                "id": "tr_1_tl_50_w8",
+                "coords": {
+                  "points": "1432,2768 1432,2828 1594,2828 1594,2768"
+                },
+                "text": "number."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_51",
+            "coords": {
+              "points": "1238,3133 1257,3141 1277,3138 1285,3141 1297,3156 1314,3156 1324,3084 1319,3081 1294,3084 1289,3076 1277,3074 1262,3059 1247,3059"
+            },
+            "baseline": {
+              "points": "1250,3130 1275,3128 1300,3124 1325,3121"
+            },
+            "text": "29",
+            "words": [
+              {
+                "id": "tr_1_tl_51_w1",
+                "coords": {
+                  "points": "1243,3088 1243,3148 1287,3148 1287,3088"
+                },
+                "text": "29"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

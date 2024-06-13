@@ -1,0 +1,1793 @@
+{
+  "processId": 10376241,
+  "status": "FINISHED",
+  "content": {
+    "text": "Abstract\nZebrafish has long been a model organism for studying the visual system. They have a\nsimilar visual system as higher vertebrates but lack a visual cortex. Instead, higher order\nvisual processing occurs in the optic tectum. Previous studies of the zebrafish visual\nsystem have used mainly electrophysiological techniques to record wide field responses.\nWe have developed a new technique for perfusing and calcium imaging of live adult\nzebrafish. This technique allows for simultaneously recording of response in large\nneuronal populations and activity in neuronal processes as small as 2-5um. Zebrafish was\nimmersed in and perfused over the gills with physiological 75% Hank's solution in a\ncustom-built perfusion system. Optic tectum of zebrafish was exposed in a dissection and\nmicroinjected with fluorescent calcium indicator Fluo3. Confocal microscope was used to\nimage calcium activity in dendrites in the optic tectum receiving input from the retina. A\ntrain of light flashes given in five-second intervals was used as stimulus. Time series of\nresponses were recorded at two frames per second. Graphical analysis reveals that\ndendritic responses to stimuli showed different activity levels and oscillation patterns\ncompared with control, but responses were not time-locked to stimuli. Responses varied\nbetween dendrites, with both excitation and inhibition evident. Neighboring dendrites\nshowed a higher correlation in activity, suggesting synchronization of neuronal\npopulations in response to light stimuli.",
+    "regions": [
+      {
+        "id": "tr_1",
+        "coords": {
+          "points": "355,309 355,1455 2189,1455 2189,309"
+        },
+        "orientation": 0.0,
+        "lines": [
+          {
+            "id": "tr_1_tl_1",
+            "coords": {
+              "points": "342,363 361,358 374,365 393,356 415,377 427,370 441,381 484,370 509,349 557,354 559,297 539,290 525,297 504,276 463,290 445,276 431,288 393,290 372,281 345,290"
+            },
+            "baseline": {
+              "points": "355,340 380,337 406,337 432,337 458,337 483,337 509,337 535,337 561,337"
+            },
+            "text": "Abstract",
+            "words": [
+              {
+                "id": "tr_1_tl_1_w1",
+                "coords": {
+                  "points": "343,297 343,357 550,357 550,297"
+                },
+                "text": "Abstract"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_2",
+            "coords": {
+              "points": "352,470 2180,468 2180,409 2059,390 842,418 573,374 352,411"
+            },
+            "baseline": {
+              "points": "364,450 455,453 546,450 637,453 728,453 819,453 910,453 1001,453 1092,454 1183,453 1275,455 1366,455 1457,455 1548,455 1639,453 1730,453 1821,453 1912,453 2003,450 2094,450 2186,450"
+            },
+            "text": "Zebrafish has long been a model organism for studying the visual system. They have a",
+            "words": [
+              {
+                "id": "tr_1_tl_2_w1",
+                "coords": {
+                  "points": "352,412 352,472 528,472 528,412"
+                },
+                "text": "Zebrafish"
+              },
+              {
+                "id": "tr_1_tl_2_w2",
+                "coords": {
+                  "points": "559,411 559,471 621,471 621,411"
+                },
+                "text": "has"
+              },
+              {
+                "id": "tr_1_tl_2_w3",
+                "coords": {
+                  "points": "648,413 648,473 725,473 725,413"
+                },
+                "text": "long"
+              },
+              {
+                "id": "tr_1_tl_2_w4",
+                "coords": {
+                  "points": "756,413 756,473 839,473 839,413"
+                },
+                "text": "been"
+              },
+              {
+                "id": "tr_1_tl_2_w5",
+                "coords": {
+                  "points": "871,413 871,473 880,473 880,413"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_2_w6",
+                "coords": {
+                  "points": "907,413 907,473 1031,473 1031,413"
+                },
+                "text": "model"
+              },
+              {
+                "id": "tr_1_tl_2_w7",
+                "coords": {
+                  "points": "1052,413 1052,473 1218,473 1218,413"
+                },
+                "text": "organism"
+              },
+              {
+                "id": "tr_1_tl_2_w8",
+                "coords": {
+                  "points": "1260,415 1260,475 1317,475 1317,415"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_2_w9",
+                "coords": {
+                  "points": "1338,415 1338,475 1498,475 1498,415"
+                },
+                "text": "studying"
+              },
+              {
+                "id": "tr_1_tl_2_w10",
+                "coords": {
+                  "points": "1530,414 1530,474 1581,474 1581,414"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_2_w11",
+                "coords": {
+                  "points": "1608,413 1608,473 1727,473 1727,413"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_2_w12",
+                "coords": {
+                  "points": "1748,413 1748,473 1903,473 1903,413"
+                },
+                "text": "system."
+              },
+              {
+                "id": "tr_1_tl_2_w13",
+                "coords": {
+                  "points": "1919,411 1919,471 2012,471 2012,411"
+                },
+                "text": "They"
+              },
+              {
+                "id": "tr_1_tl_2_w14",
+                "coords": {
+                  "points": "2044,410 2044,470 2126,470 2126,410"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_2_w15",
+                "coords": {
+                  "points": "2158,410 2158,470 2167,470 2167,410"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_3",
+            "coords": {
+              "points": "352,536 2187,523 2187,468 2143,461 352,477"
+            },
+            "baseline": {
+              "points": "364,510 455,513 546,507 637,510 729,510 820,512 911,511 1002,510 1094,511 1185,512 1276,511 1367,513 1459,510 1550,512 1641,510 1732,510 1824,510 1915,510 2006,508 2097,508 2189,510"
+            },
+            "text": "similar visual system as higher vertebrates but lack a visual cortex. Instead, higher order",
+            "words": [
+              {
+                "id": "tr_1_tl_3_w1",
+                "coords": {
+                  "points": "351,471 351,531 484,531 484,471"
+                },
+                "text": "similar"
+              },
+              {
+                "id": "tr_1_tl_3_w2",
+                "coords": {
+                  "points": "510,467 510,527 623,527 623,467"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_3_w3",
+                "coords": {
+                  "points": "643,470 643,530 756,530 756,470"
+                },
+                "text": "system"
+              },
+              {
+                "id": "tr_1_tl_3_w4",
+                "coords": {
+                  "points": "801,471 801,531 835,531 835,471"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_3_w5",
+                "coords": {
+                  "points": "855,470 855,530 984,530 984,470"
+                },
+                "text": "higher"
+              },
+              {
+                "id": "tr_1_tl_3_w6",
+                "coords": {
+                  "points": "1004,471 1004,531 1216,531 1216,471"
+                },
+                "text": "vertebrates"
+              },
+              {
+                "id": "tr_1_tl_3_w7",
+                "coords": {
+                  "points": "1242,471 1242,531 1305,531 1305,471"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_3_w8",
+                "coords": {
+                  "points": "1321,472 1321,532 1394,532 1394,472"
+                },
+                "text": "lack"
+              },
+              {
+                "id": "tr_1_tl_3_w9",
+                "coords": {
+                  "points": "1424,470 1424,530 1434,530 1434,470"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_3_w10",
+                "coords": {
+                  "points": "1459,471 1459,531 1578,531 1578,471"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_3_w11",
+                "coords": {
+                  "points": "1598,470 1598,530 1736,530 1736,470"
+                },
+                "text": "cortex."
+              },
+              {
+                "id": "tr_1_tl_3_w12",
+                "coords": {
+                  "points": "1756,470 1756,530 1914,530 1914,470"
+                },
+                "text": "Instead,"
+              },
+              {
+                "id": "tr_1_tl_3_w13",
+                "coords": {
+                  "points": "1929,468 1929,528 2052,528 2052,468"
+                },
+                "text": "higher"
+              },
+              {
+                "id": "tr_1_tl_3_w14",
+                "coords": {
+                  "points": "2072,468 2072,528 2175,528 2175,468"
+                },
+                "text": "order"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_4",
+            "coords": {
+              "points": "354,577 2180,577 2180,527 354,534"
+            },
+            "baseline": {
+              "points": "367,567 462,567 558,567 654,567 749,570 845,570 941,570 1037,570 1132,570 1228,570 1324,570 1420,568 1515,569 1611,569 1707,567 1803,567 1898,567 1994,567 2090,565 2186,570"
+            },
+            "text": "visual processing occurs in the optic tectum. Previous studies of the zebrafish visual",
+            "words": [
+              {
+                "id": "tr_1_tl_4_w1",
+                "coords": {
+                  "points": "353,527 353,587 468,587 468,527"
+                },
+                "text": "visual"
+              },
+              {
+                "id": "tr_1_tl_4_w2",
+                "coords": {
+                  "points": "493,527 493,587 699,587 699,527"
+                },
+                "text": "processing"
+              },
+              {
+                "id": "tr_1_tl_4_w3",
+                "coords": {
+                  "points": "733,530 733,590 857,590 857,530"
+                },
+                "text": "occurs"
+              },
+              {
+                "id": "tr_1_tl_4_w4",
+                "coords": {
+                  "points": "892,530 892,590 915,590 915,530"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_4_w5",
+                "coords": {
+                  "points": "949,530 949,590 1001,590 1001,530"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w6",
+                "coords": {
+                  "points": "1036,530 1036,590 1126,590 1126,530"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_4_w7",
+                "coords": {
+                  "points": "1161,530 1161,590 1309,590 1309,530"
+                },
+                "text": "tectum."
+              },
+              {
+                "id": "tr_1_tl_4_w8",
+                "coords": {
+                  "points": "1334,528 1334,588 1506,588 1506,528"
+                },
+                "text": "Previous"
+              },
+              {
+                "id": "tr_1_tl_4_w9",
+                "coords": {
+                  "points": "1536,529 1536,589 1670,589 1670,529"
+                },
+                "text": "studies"
+              },
+              {
+                "id": "tr_1_tl_4_w10",
+                "coords": {
+                  "points": "1699,527 1699,587 1737,587 1737,527"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_4_w11",
+                "coords": {
+                  "points": "1762,527 1762,587 1814,587 1814,527"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_4_w12",
+                "coords": {
+                  "points": "1853,527 1853,587 2021,587 2021,527"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_4_w13",
+                "coords": {
+                  "points": "2060,526 2060,586 2179,586 2179,526"
+                },
+                "text": "visual"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_5",
+            "coords": {
+              "points": "354,639 2178,641 2148,577 354,596"
+            },
+            "baseline": {
+              "points": "367,627 457,624 548,624 639,624 730,627 821,627 911,624 1002,627 1093,627 1184,627 1275,627 1365,627 1456,627 1547,627 1638,626 1729,624 1819,624 1910,624 2001,624 2092,624 2183,627"
+            },
+            "text": "system have used mainly electrophysiological techniques to record wide field responses.",
+            "words": [
+              {
+                "id": "tr_1_tl_5_w1",
+                "coords": {
+                  "points": "353,585 353,645 466,645 466,585"
+                },
+                "text": "system"
+              },
+              {
+                "id": "tr_1_tl_5_w2",
+                "coords": {
+                  "points": "506,584 506,644 590,644 590,584"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_5_w3",
+                "coords": {
+                  "points": "620,584 620,644 699,644 699,584"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_5_w4",
+                "coords": {
+                  "points": "729,587 729,647 857,647 857,587"
+                },
+                "text": "mainly"
+              },
+              {
+                "id": "tr_1_tl_5_w5",
+                "coords": {
+                  "points": "887,587 887,647 1297,647 1297,587"
+                },
+                "text": "electrophysiological"
+              },
+              {
+                "id": "tr_1_tl_5_w6",
+                "coords": {
+                  "points": "1312,587 1312,647 1524,647 1524,587"
+                },
+                "text": "techniques"
+              },
+              {
+                "id": "tr_1_tl_5_w7",
+                "coords": {
+                  "points": "1549,586 1549,646 1574,646 1574,586"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_5_w8",
+                "coords": {
+                  "points": "1604,585 1604,645 1722,645 1722,585"
+                },
+                "text": "record"
+              },
+              {
+                "id": "tr_1_tl_5_w9",
+                "coords": {
+                  "points": "1747,584 1747,644 1835,644 1835,584"
+                },
+                "text": "wide"
+              },
+              {
+                "id": "tr_1_tl_5_w10",
+                "coords": {
+                  "points": "1866,584 1866,644 1945,644 1945,584"
+                },
+                "text": "field"
+              },
+              {
+                "id": "tr_1_tl_5_w11",
+                "coords": {
+                  "points": "1975,584 1975,644 2181,644 2181,584"
+                },
+                "text": "responses."
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_6",
+            "coords": {
+              "points": "354,682 694,719 790,687 2180,694 2180,641 2118,637 354,644"
+            },
+            "baseline": {
+              "points": "367,677 462,680 558,680 654,680 749,683 845,683 941,683 1037,683 1132,686 1228,685 1324,683 1420,685 1515,683 1611,683 1707,683 1803,683 1898,683 1994,683 2090,681 2186,683"
+            },
+            "text": "We have developed a new technique for perfusing and calcium imaging of live adult",
+            "words": [
+              {
+                "id": "tr_1_tl_6_w1",
+                "coords": {
+                  "points": "354,637 354,697 409,697 409,637"
+                },
+                "text": "We"
+              },
+              {
+                "id": "tr_1_tl_6_w2",
+                "coords": {
+                  "points": "440,640 440,700 525,700 525,640"
+                },
+                "text": "have"
+              },
+              {
+                "id": "tr_1_tl_6_w3",
+                "coords": {
+                  "points": "561,640 561,700 757,700 757,640"
+                },
+                "text": "developed"
+              },
+              {
+                "id": "tr_1_tl_6_w4",
+                "coords": {
+                  "points": "788,643 788,703 803,703 803,643"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_6_w5",
+                "coords": {
+                  "points": "834,643 834,703 894,703 894,643"
+                },
+                "text": "new"
+              },
+              {
+                "id": "tr_1_tl_6_w6",
+                "coords": {
+                  "points": "940,643 940,703 1127,703 1127,643"
+                },
+                "text": "technique"
+              },
+              {
+                "id": "tr_1_tl_6_w7",
+                "coords": {
+                  "points": "1157,645 1157,705 1212,705 1212,645"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_6_w8",
+                "coords": {
+                  "points": "1238,643 1238,703 1420,703 1420,643"
+                },
+                "text": "perfusing"
+              },
+              {
+                "id": "tr_1_tl_6_w9",
+                "coords": {
+                  "points": "1451,643 1451,703 1511,703 1511,643"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_6_w10",
+                "coords": {
+                  "points": "1547,643 1547,703 1678,703 1678,643"
+                },
+                "text": "calcium"
+              },
+              {
+                "id": "tr_1_tl_6_w11",
+                "coords": {
+                  "points": "1729,643 1729,703 1885,703 1885,643"
+                },
+                "text": "imaging"
+              },
+              {
+                "id": "tr_1_tl_6_w12",
+                "coords": {
+                  "points": "1916,643 1916,703 1956,703 1956,643"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_6_w13",
+                "coords": {
+                  "points": "1977,642 1977,702 2047,702 2047,642"
+                },
+                "text": "live"
+              },
+              {
+                "id": "tr_1_tl_6_w14",
+                "coords": {
+                  "points": "2078,641 2078,701 2178,701 2178,641"
+                },
+                "text": "adult"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_7",
+            "coords": {
+              "points": "358,751 2175,762 2175,703 2086,692 358,708"
+            },
+            "baseline": {
+              "points": "370,740 460,739 551,740 641,739 732,740 822,740 913,740 1003,740 1094,740 1184,743 1275,743 1365,742 1456,740 1546,740 1637,740 1727,740 1818,740 1908,740 1999,737 2089,740 2180,737"
+            },
+            "text": "zebrafish. This technique allows for simultaneously recording of response in large",
+            "words": [
+              {
+                "id": "tr_1_tl_7_w1",
+                "coords": {
+                  "points": "358,699 358,759 554,759 554,699"
+                },
+                "text": "zebrafish."
+              },
+              {
+                "id": "tr_1_tl_7_w2",
+                "coords": {
+                  "points": "579,699 579,759 665,759 665,699"
+                },
+                "text": "This"
+              },
+              {
+                "id": "tr_1_tl_7_w3",
+                "coords": {
+                  "points": "695,700 695,760 886,760 886,700"
+                },
+                "text": "technique"
+              },
+              {
+                "id": "tr_1_tl_7_w4",
+                "coords": {
+                  "points": "927,700 927,760 1048,760 1048,700"
+                },
+                "text": "allows"
+              },
+              {
+                "id": "tr_1_tl_7_w5",
+                "coords": {
+                  "points": "1084,700 1084,760 1139,760 1139,700"
+                },
+                "text": "for"
+              },
+              {
+                "id": "tr_1_tl_7_w6",
+                "coords": {
+                  "points": "1175,702 1175,762 1472,762 1472,702"
+                },
+                "text": "simultaneously"
+              },
+              {
+                "id": "tr_1_tl_7_w7",
+                "coords": {
+                  "points": "1508,700 1508,760 1694,760 1694,700"
+                },
+                "text": "recording"
+              },
+              {
+                "id": "tr_1_tl_7_w8",
+                "coords": {
+                  "points": "1730,700 1730,760 1770,760 1770,700"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_7_w9",
+                "coords": {
+                  "points": "1801,700 1801,760 1971,760 1971,700"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_7_w10",
+                "coords": {
+                  "points": "2012,697 2012,757 2037,757 2037,697"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_7_w11",
+                "coords": {
+                  "points": "2078,698 2078,758 2168,758 2168,698"
+                },
+                "text": "large"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_8",
+            "coords": {
+              "points": "358,813 2184,808 2184,765 2077,749 358,771"
+            },
+            "baseline": {
+              "points": "370,797 465,797 561,797 657,798 752,798 848,798 944,800 1040,800 1135,800 1231,800 1327,800 1423,800 1518,798 1614,797 1710,797 1806,797 1901,797 1997,797 2093,796 2189,797"
+            },
+            "text": "neuronal populations and activity in neuronal processes as small as 2-5um. Zebrafish was",
+            "words": [
+              {
+                "id": "tr_1_tl_8_w1",
+                "coords": {
+                  "points": "362,757 362,817 534,817 534,757"
+                },
+                "text": "neuronal"
+              },
+              {
+                "id": "tr_1_tl_8_w2",
+                "coords": {
+                  "points": "554,758 554,818 780,818 780,758"
+                },
+                "text": "populations"
+              },
+              {
+                "id": "tr_1_tl_8_w3",
+                "coords": {
+                  "points": "805,758 805,818 863,818 863,758"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_8_w4",
+                "coords": {
+                  "points": "888,760 888,820 1026,820 1026,760"
+                },
+                "text": "activity"
+              },
+              {
+                "id": "tr_1_tl_8_w5",
+                "coords": {
+                  "points": "1056,760 1056,820 1080,820 1080,760"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_8_w6",
+                "coords": {
+                  "points": "1105,760 1105,820 1282,820 1282,760"
+                },
+                "text": "neuronal"
+              },
+              {
+                "id": "tr_1_tl_8_w7",
+                "coords": {
+                  "points": "1297,760 1297,820 1484,820 1484,760"
+                },
+                "text": "processes"
+              },
+              {
+                "id": "tr_1_tl_8_w8",
+                "coords": {
+                  "points": "1504,757 1504,817 1538,817 1538,757"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_8_w9",
+                "coords": {
+                  "points": "1558,757 1558,817 1666,817 1666,757"
+                },
+                "text": "small"
+              },
+              {
+                "id": "tr_1_tl_8_w10",
+                "coords": {
+                  "points": "1681,757 1681,817 1715,817 1715,757"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_8_w11",
+                "coords": {
+                  "points": "1740,757 1740,817 1882,817 1882,757"
+                },
+                "text": "2-5um."
+              },
+              {
+                "id": "tr_1_tl_8_w12",
+                "coords": {
+                  "points": "1898,757 1898,817 2079,817 2079,757"
+                },
+                "text": "Zebrafish"
+              },
+              {
+                "id": "tr_1_tl_8_w13",
+                "coords": {
+                  "points": "2109,756 2109,816 2178,816 2178,756"
+                },
+                "text": "was"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_9",
+            "coords": {
+              "points": "349,872 2180,863 2180,817 2100,806 352,822"
+            },
+            "baseline": {
+              "points": "364,857 455,857 546,854 637,857 728,857 819,857 910,857 1001,857 1092,858 1183,857 1275,857 1366,857 1457,857 1548,857 1639,857 1730,854 1821,855 1912,854 2003,854 2094,854 2186,857"
+            },
+            "text": "immersed in and perfused over the gills with physiological 75% Hank's solution in a",
+            "words": [
+              {
+                "id": "tr_1_tl_9_w1",
+                "coords": {
+                  "points": "349,817 349,877 534,877 534,817"
+                },
+                "text": "immersed"
+              },
+              {
+                "id": "tr_1_tl_9_w2",
+                "coords": {
+                  "points": "572,815 572,875 598,875 598,815"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w3",
+                "coords": {
+                  "points": "631,817 631,877 694,877 694,817"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_9_w4",
+                "coords": {
+                  "points": "726,817 726,877 885,877 885,817"
+                },
+                "text": "perfused"
+              },
+              {
+                "id": "tr_1_tl_9_w5",
+                "coords": {
+                  "points": "923,817 923,877 1008,877 1008,817"
+                },
+                "text": "over"
+              },
+              {
+                "id": "tr_1_tl_9_w6",
+                "coords": {
+                  "points": "1030,817 1030,877 1082,877 1082,817"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_9_w7",
+                "coords": {
+                  "points": "1115,817 1115,877 1194,877 1194,817"
+                },
+                "text": "gills"
+              },
+              {
+                "id": "tr_1_tl_9_w8",
+                "coords": {
+                  "points": "1226,817 1226,877 1300,877 1300,817"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_9_w9",
+                "coords": {
+                  "points": "1333,817 1333,877 1609,877 1609,817"
+                },
+                "text": "physiological"
+              },
+              {
+                "id": "tr_1_tl_9_w10",
+                "coords": {
+                  "points": "1631,816 1631,876 1694,876 1694,816"
+                },
+                "text": "75%"
+              },
+              {
+                "id": "tr_1_tl_9_w11",
+                "coords": {
+                  "points": "1743,814 1743,874 1885,874 1885,814"
+                },
+                "text": "Hank's"
+              },
+              {
+                "id": "tr_1_tl_9_w12",
+                "coords": {
+                  "points": "1913,814 1913,874 2066,874 2066,814"
+                },
+                "text": "solution"
+              },
+              {
+                "id": "tr_1_tl_9_w13",
+                "coords": {
+                  "points": "2099,814 2099,874 2124,874 2124,814"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_9_w14",
+                "coords": {
+                  "points": "2157,816 2157,876 2172,876 2172,816"
+                },
+                "text": "a"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_10",
+            "coords": {
+              "points": "354,924 2184,924 2184,865 354,888"
+            },
+            "baseline": {
+              "points": "367,913 458,910 549,910 640,910 731,914 822,914 913,913 1004,916 1095,916 1186,915 1278,913 1369,913 1460,913 1551,913 1642,913 1733,912 1824,913 1915,910 2006,910 2097,910 2189,910"
+            },
+            "text": "custom-built perfusion system. Optic tectum of zebrafish was exposed in a dissection and",
+            "words": [
+              {
+                "id": "tr_1_tl_10_w1",
+                "coords": {
+                  "points": "359,870 359,930 610,930 610,870"
+                },
+                "text": "custom-built"
+              },
+              {
+                "id": "tr_1_tl_10_w2",
+                "coords": {
+                  "points": "630,873 630,933 807,933 807,873"
+                },
+                "text": "perfusion"
+              },
+              {
+                "id": "tr_1_tl_10_w3",
+                "coords": {
+                  "points": "832,873 832,933 983,933 983,873"
+                },
+                "text": "system."
+              },
+              {
+                "id": "tr_1_tl_10_w4",
+                "coords": {
+                  "points": "999,876 999,936 1104,936 1104,876"
+                },
+                "text": "Optic"
+              },
+              {
+                "id": "tr_1_tl_10_w5",
+                "coords": {
+                  "points": "1124,875 1124,935 1235,935 1235,875"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_10_w6",
+                "coords": {
+                  "points": "1281,873 1281,933 1316,933 1316,873"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_10_w7",
+                "coords": {
+                  "points": "1336,873 1336,933 1502,933 1502,873"
+                },
+                "text": "zebrafish"
+              },
+              {
+                "id": "tr_1_tl_10_w8",
+                "coords": {
+                  "points": "1533,873 1533,933 1603,933 1603,873"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_10_w9",
+                "coords": {
+                  "points": "1623,872 1623,932 1779,932 1779,872"
+                },
+                "text": "exposed"
+              },
+              {
+                "id": "tr_1_tl_10_w10",
+                "coords": {
+                  "points": "1805,872 1805,932 1830,932 1830,872"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_10_w11",
+                "coords": {
+                  "points": "1861,871 1861,931 1870,931 1870,871"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_10_w12",
+                "coords": {
+                  "points": "1896,870 1896,930 2081,930 2081,870"
+                },
+                "text": "dissection"
+              },
+              {
+                "id": "tr_1_tl_10_w13",
+                "coords": {
+                  "points": "2112,870 2112,930 2167,930 2167,870"
+                },
+                "text": "and"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_11",
+            "coords": {
+              "points": "358,986 2182,986 2182,929 2123,922 358,938"
+            },
+            "baseline": {
+              "points": "370,970 460,970 551,970 642,970 733,970 824,970 914,973 1005,973 1096,972 1187,973 1278,972 1368,970 1459,971 1550,970 1641,970 1732,970 1822,970 1913,970 2004,970 2095,969 2186,970"
+            },
+            "text": "microinjected with fluorescent calcium indicator Fluo3. Confocal microscope was used to",
+            "words": [
+              {
+                "id": "tr_1_tl_11_w1",
+                "coords": {
+                  "points": "357,930 357,990 622,990 622,930"
+                },
+                "text": "microinjected"
+              },
+              {
+                "id": "tr_1_tl_11_w2",
+                "coords": {
+                  "points": "647,930 647,990 721,990 721,930"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_11_w3",
+                "coords": {
+                  "points": "751,931 751,991 971,991 971,931"
+                },
+                "text": "fluorescent"
+              },
+              {
+                "id": "tr_1_tl_11_w4",
+                "coords": {
+                  "points": "987,932 987,992 1119,992 1119,932"
+                },
+                "text": "calcium"
+              },
+              {
+                "id": "tr_1_tl_11_w5",
+                "coords": {
+                  "points": "1164,932 1164,992 1335,992 1335,932"
+                },
+                "text": "indicator"
+              },
+              {
+                "id": "tr_1_tl_11_w6",
+                "coords": {
+                  "points": "1356,930 1356,990 1483,990 1483,930"
+                },
+                "text": "Fluo3."
+              },
+              {
+                "id": "tr_1_tl_11_w7",
+                "coords": {
+                  "points": "1498,930 1498,990 1679,990 1679,930"
+                },
+                "text": "Confocal"
+              },
+              {
+                "id": "tr_1_tl_11_w8",
+                "coords": {
+                  "points": "1695,930 1695,990 1920,990 1920,930"
+                },
+                "text": "microscope"
+              },
+              {
+                "id": "tr_1_tl_11_w9",
+                "coords": {
+                  "points": "1946,930 1946,990 2014,990 2014,930"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_11_w10",
+                "coords": {
+                  "points": "2034,929 2034,989 2112,989 2112,929"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_11_w11",
+                "coords": {
+                  "points": "2142,929 2142,989 2166,989 2166,929"
+                },
+                "text": "to"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_12",
+            "coords": {
+              "points": "354,1041 2178,1039 2164,981 354,993"
+            },
+            "baseline": {
+              "points": "367,1030 457,1030 548,1028 639,1029 730,1029 821,1030 911,1030 1002,1030 1093,1030 1184,1030 1275,1030 1365,1030 1456,1030 1547,1029 1638,1030 1729,1030 1819,1027 1910,1027 2001,1027 2092,1027 2183,1027"
+            },
+            "text": "image calcium activity in dendrites in the optic tectum receiving input from the retina. A",
+            "words": [
+              {
+                "id": "tr_1_tl_12_w1",
+                "coords": {
+                  "points": "354,990 354,1050 469,1050 469,990"
+                },
+                "text": "image"
+              },
+              {
+                "id": "tr_1_tl_12_w2",
+                "coords": {
+                  "points": "495,988 495,1048 626,1048 626,988"
+                },
+                "text": "calcium"
+              },
+              {
+                "id": "tr_1_tl_12_w3",
+                "coords": {
+                  "points": "672,989 672,1049 807,1049 807,989"
+                },
+                "text": "activity"
+              },
+              {
+                "id": "tr_1_tl_12_w4",
+                "coords": {
+                  "points": "838,990 838,1050 863,1050 863,990"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_12_w5",
+                "coords": {
+                  "points": "889,990 889,1050 1065,1050 1065,990"
+                },
+                "text": "dendrites"
+              },
+              {
+                "id": "tr_1_tl_12_w6",
+                "coords": {
+                  "points": "1091,990 1091,1050 1115,1050 1115,990"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_12_w7",
+                "coords": {
+                  "points": "1141,990 1141,1050 1196,1050 1196,990"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w8",
+                "coords": {
+                  "points": "1222,990 1222,1050 1313,1050 1313,990"
+                },
+                "text": "optic"
+              },
+              {
+                "id": "tr_1_tl_12_w9",
+                "coords": {
+                  "points": "1339,990 1339,1050 1449,1050 1449,990"
+                },
+                "text": "tectum"
+              },
+              {
+                "id": "tr_1_tl_12_w10",
+                "coords": {
+                  "points": "1490,989 1490,1049 1666,1049 1666,989"
+                },
+                "text": "receiving"
+              },
+              {
+                "id": "tr_1_tl_12_w11",
+                "coords": {
+                  "points": "1692,989 1692,1049 1792,1049 1792,989"
+                },
+                "text": "input"
+              },
+              {
+                "id": "tr_1_tl_12_w12",
+                "coords": {
+                  "points": "1813,987 1813,1047 1883,1047 1883,987"
+                },
+                "text": "from"
+              },
+              {
+                "id": "tr_1_tl_12_w13",
+                "coords": {
+                  "points": "1924,987 1924,1047 1974,1047 1974,987"
+                },
+                "text": "the"
+              },
+              {
+                "id": "tr_1_tl_12_w14",
+                "coords": {
+                  "points": "2000,987 2000,1047 2126,1047 2126,987"
+                },
+                "text": "retina."
+              },
+              {
+                "id": "tr_1_tl_12_w15",
+                "coords": {
+                  "points": "2146,987 2146,1047 2156,1047 2156,987"
+                },
+                "text": "A"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_13",
+            "coords": {
+              "points": "361,1098 2180,1102 2180,1039 361,1043"
+            },
+            "baseline": {
+              "points": "373,1084 463,1087 554,1084 644,1087 735,1087 826,1090 916,1090 1007,1087 1098,1087 1188,1088 1279,1087 1370,1087 1460,1087 1551,1087 1642,1087 1732,1087 1823,1084 1914,1084 2004,1084 2095,1084 2186,1087"
+            },
+            "text": "train of light flashes given in five-second intervals was used as stimulus. Time series of",
+            "words": [
+              {
+                "id": "tr_1_tl_13_w1",
+                "coords": {
+                  "points": "365,1045 365,1105 443,1105 443,1045"
+                },
+                "text": "train"
+              },
+              {
+                "id": "tr_1_tl_13_w2",
+                "coords": {
+                  "points": "473,1046 473,1106 512,1106 512,1046"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_13_w3",
+                "coords": {
+                  "points": "532,1044 532,1104 619,1104 619,1044"
+                },
+                "text": "light"
+              },
+              {
+                "id": "tr_1_tl_13_w4",
+                "coords": {
+                  "points": "640,1047 640,1107 771,1107 771,1047"
+                },
+                "text": "flashes"
+              },
+              {
+                "id": "tr_1_tl_13_w5",
+                "coords": {
+                  "points": "796,1050 796,1110 894,1110 894,1050"
+                },
+                "text": "given"
+              },
+              {
+                "id": "tr_1_tl_13_w6",
+                "coords": {
+                  "points": "924,1049 924,1109 952,1109 952,1049"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_13_w7",
+                "coords": {
+                  "points": "978,1047 978,1107 1203,1107 1203,1047"
+                },
+                "text": "five-second"
+              },
+              {
+                "id": "tr_1_tl_13_w8",
+                "coords": {
+                  "points": "1233,1047 1233,1107 1399,1107 1399,1047"
+                },
+                "text": "intervals"
+              },
+              {
+                "id": "tr_1_tl_13_w9",
+                "coords": {
+                  "points": "1424,1047 1424,1107 1492,1107 1492,1047"
+                },
+                "text": "was"
+              },
+              {
+                "id": "tr_1_tl_13_w10",
+                "coords": {
+                  "points": "1517,1047 1517,1107 1595,1107 1595,1047"
+                },
+                "text": "used"
+              },
+              {
+                "id": "tr_1_tl_13_w11",
+                "coords": {
+                  "points": "1625,1047 1625,1107 1659,1107 1659,1047"
+                },
+                "text": "as"
+              },
+              {
+                "id": "tr_1_tl_13_w12",
+                "coords": {
+                  "points": "1684,1045 1684,1105 1870,1105 1870,1045"
+                },
+                "text": "stimulus."
+              },
+              {
+                "id": "tr_1_tl_13_w13",
+                "coords": {
+                  "points": "1885,1044 1885,1104 1983,1104 1983,1044"
+                },
+                "text": "Time"
+              },
+              {
+                "id": "tr_1_tl_13_w14",
+                "coords": {
+                  "points": "2008,1044 2008,1104 2115,1104 2115,1044"
+                },
+                "text": "series"
+              },
+              {
+                "id": "tr_1_tl_13_w15",
+                "coords": {
+                  "points": "2140,1046 2140,1106 2174,1106 2174,1046"
+                },
+                "text": "of"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_14",
+            "coords": {
+              "points": "349,1153 2180,1160 2180,1107 2130,1098 349,1105"
+            },
+            "baseline": {
+              "points": "361,1143 452,1143 543,1143 634,1143 726,1143 817,1146 908,1144 999,1143 1091,1144 1182,1143 1273,1143 1364,1143 1456,1143 1547,1143 1638,1143 1729,1143 1821,1141 1912,1140 2003,1140 2094,1140 2186,1143"
+            },
+            "text": "responses were recorded at two frames per second. Graphical analysis reveals that",
+            "words": [
+              {
+                "id": "tr_1_tl_14_w1",
+                "coords": {
+                  "points": "348,1103 348,1163 535,1163 535,1103"
+                },
+                "text": "responses"
+              },
+              {
+                "id": "tr_1_tl_14_w2",
+                "coords": {
+                  "points": "570,1103 570,1163 661,1163 661,1103"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_14_w3",
+                "coords": {
+                  "points": "695,1104 695,1164 863,1164 863,1104"
+                },
+                "text": "recorded"
+              },
+              {
+                "id": "tr_1_tl_14_w4",
+                "coords": {
+                  "points": "902,1103 902,1163 940,1163 940,1103"
+                },
+                "text": "at"
+              },
+              {
+                "id": "tr_1_tl_14_w5",
+                "coords": {
+                  "points": "970,1103 970,1163 1032,1163 1032,1103"
+                },
+                "text": "two"
+              },
+              {
+                "id": "tr_1_tl_14_w6",
+                "coords": {
+                  "points": "1071,1103 1071,1163 1205,1163 1205,1103"
+                },
+                "text": "frames"
+              },
+              {
+                "id": "tr_1_tl_14_w7",
+                "coords": {
+                  "points": "1240,1103 1240,1163 1297,1163 1297,1103"
+                },
+                "text": "per"
+              },
+              {
+                "id": "tr_1_tl_14_w8",
+                "coords": {
+                  "points": "1331,1103 1331,1163 1485,1163 1485,1103"
+                },
+                "text": "second."
+              },
+              {
+                "id": "tr_1_tl_14_w9",
+                "coords": {
+                  "points": "1509,1103 1509,1163 1712,1163 1712,1103"
+                },
+                "text": "Graphical"
+              },
+              {
+                "id": "tr_1_tl_14_w10",
+                "coords": {
+                  "points": "1741,1101 1741,1161 1899,1161 1899,1101"
+                },
+                "text": "analysis"
+              },
+              {
+                "id": "tr_1_tl_14_w11",
+                "coords": {
+                  "points": "1934,1100 1934,1160 2068,1160 2068,1100"
+                },
+                "text": "reveals"
+              },
+              {
+                "id": "tr_1_tl_14_w12",
+                "coords": {
+                  "points": "2102,1101 2102,1161 2179,1161 2179,1101"
+                },
+                "text": "that"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_15",
+            "coords": {
+              "points": "354,1223 2184,1217 2184,1164 2116,1153 354,1164"
+            },
+            "baseline": {
+              "points": "367,1203 458,1203 549,1199 640,1202 731,1200 822,1200 913,1202 1004,1201 1095,1200 1186,1200 1278,1201 1369,1200 1460,1200 1551,1200 1642,1198 1733,1199 1824,1200 1915,1200 2006,1200 2097,1197 2189,1197"
+            },
+            "text": "dendritic responses to stimuli showed different activity levels and oscillation patterns",
+            "words": [
+              {
+                "id": "tr_1_tl_15_w1",
+                "coords": {
+                  "points": "354,1163 354,1223 524,1223 524,1163"
+                },
+                "text": "dendritic"
+              },
+              {
+                "id": "tr_1_tl_15_w2",
+                "coords": {
+                  "points": "556,1161 556,1221 747,1221 747,1161"
+                },
+                "text": "responses"
+              },
+              {
+                "id": "tr_1_tl_15_w3",
+                "coords": {
+                  "points": "774,1160 774,1220 804,1220 804,1160"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_15_w4",
+                "coords": {
+                  "points": "836,1161 836,1221 980,1221 980,1161"
+                },
+                "text": "stimuli"
+              },
+              {
+                "id": "tr_1_tl_15_w5",
+                "coords": {
+                  "points": "1002,1160 1002,1220 1146,1220 1146,1160"
+                },
+                "text": "showed"
+              },
+              {
+                "id": "tr_1_tl_15_w6",
+                "coords": {
+                  "points": "1178,1160 1178,1220 1348,1220 1348,1160"
+                },
+                "text": "different"
+              },
+              {
+                "id": "tr_1_tl_15_w7",
+                "coords": {
+                  "points": "1375,1160 1375,1220 1514,1220 1514,1160"
+                },
+                "text": "activity"
+              },
+              {
+                "id": "tr_1_tl_15_w8",
+                "coords": {
+                  "points": "1551,1158 1551,1218 1659,1218 1659,1158"
+                },
+                "text": "levels"
+              },
+              {
+                "id": "tr_1_tl_15_w9",
+                "coords": {
+                  "points": "1691,1158 1691,1218 1752,1218 1752,1158"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_15_w10",
+                "coords": {
+                  "points": "1784,1160 1784,1220 1986,1220 1986,1160"
+                },
+                "text": "oscillation"
+              },
+              {
+                "id": "tr_1_tl_15_w11",
+                "coords": {
+                  "points": "2022,1157 2022,1217 2172,1217 2172,1157"
+                },
+                "text": "patterns"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_16",
+            "coords": {
+              "points": "354,1265 2180,1265 2180,1214 2136,1207 354,1228"
+            },
+            "baseline": {
+              "points": "367,1260 462,1260 558,1258 654,1259 749,1260 845,1260 941,1260 1037,1260 1132,1259 1228,1259 1324,1260 1420,1260 1515,1257 1611,1257 1707,1257 1803,1255 1898,1256 1994,1257 2090,1254 2186,1257"
+            },
+            "text": "compared with control, but responses were not time-locked to stimuli. Responses varied",
+            "words": [
+              {
+                "id": "tr_1_tl_16_w1",
+                "coords": {
+                  "points": "359,1220 359,1280 545,1280 545,1220"
+                },
+                "text": "compared"
+              },
+              {
+                "id": "tr_1_tl_16_w2",
+                "coords": {
+                  "points": "575,1218 575,1278 650,1278 650,1218"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_16_w3",
+                "coords": {
+                  "points": "676,1220 676,1280 832,1280 832,1220"
+                },
+                "text": "control,"
+              },
+              {
+                "id": "tr_1_tl_16_w4",
+                "coords": {
+                  "points": "853,1220 853,1280 913,1280 913,1220"
+                },
+                "text": "but"
+              },
+              {
+                "id": "tr_1_tl_16_w5",
+                "coords": {
+                  "points": "933,1220 933,1280 1119,1280 1119,1220"
+                },
+                "text": "responses"
+              },
+              {
+                "id": "tr_1_tl_16_w6",
+                "coords": {
+                  "points": "1145,1219 1145,1279 1230,1279 1230,1219"
+                },
+                "text": "were"
+              },
+              {
+                "id": "tr_1_tl_16_w7",
+                "coords": {
+                  "points": "1261,1219 1261,1279 1321,1279 1321,1219"
+                },
+                "text": "not"
+              },
+              {
+                "id": "tr_1_tl_16_w8",
+                "coords": {
+                  "points": "1337,1218 1337,1278 1568,1278 1568,1218"
+                },
+                "text": "time-locked"
+              },
+              {
+                "id": "tr_1_tl_16_w9",
+                "coords": {
+                  "points": "1599,1217 1599,1277 1624,1277 1624,1217"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_16_w10",
+                "coords": {
+                  "points": "1654,1216 1654,1276 1805,1276 1805,1216"
+                },
+                "text": "stimuli."
+              },
+              {
+                "id": "tr_1_tl_16_w11",
+                "coords": {
+                  "points": "1826,1216 1826,1276 2032,1276 2032,1216"
+                },
+                "text": "Responses"
+              },
+              {
+                "id": "tr_1_tl_16_w12",
+                "coords": {
+                  "points": "2058,1214 2058,1274 2168,1274 2168,1214"
+                },
+                "text": "varied"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_17",
+            "coords": {
+              "points": "354,1328 2180,1324 2180,1267 354,1276"
+            },
+            "baseline": {
+              "points": "367,1317 462,1316 558,1317 654,1317 749,1319 845,1317 941,1317 1037,1317 1132,1317 1228,1317 1324,1317 1420,1314 1515,1317 1611,1314 1707,1315 1803,1315 1898,1314 1994,1314 2090,1314 2186,1311"
+            },
+            "text": "between dendrites, with both excitation and inhibition evident. Neighboring dendrites",
+            "words": [
+              {
+                "id": "tr_1_tl_17_w1",
+                "coords": {
+                  "points": "354,1276 354,1336 512,1336 512,1276"
+                },
+                "text": "between"
+              },
+              {
+                "id": "tr_1_tl_17_w2",
+                "coords": {
+                  "points": "545,1277 545,1337 746,1337 746,1277"
+                },
+                "text": "dendrites,"
+              },
+              {
+                "id": "tr_1_tl_17_w3",
+                "coords": {
+                  "points": "773,1277 773,1337 847,1337 847,1277"
+                },
+                "text": "with"
+              },
+              {
+                "id": "tr_1_tl_17_w4",
+                "coords": {
+                  "points": "884,1277 884,1337 958,1337 958,1277"
+                },
+                "text": "both"
+              },
+              {
+                "id": "tr_1_tl_17_w5",
+                "coords": {
+                  "points": "995,1277 995,1337 1181,1337 1181,1277"
+                },
+                "text": "excitation"
+              },
+              {
+                "id": "tr_1_tl_17_w6",
+                "coords": {
+                  "points": "1219,1277 1219,1337 1281,1337 1281,1277"
+                },
+                "text": "and"
+              },
+              {
+                "id": "tr_1_tl_17_w7",
+                "coords": {
+                  "points": "1314,1274 1314,1334 1499,1334 1499,1274"
+                },
+                "text": "inhibition"
+              },
+              {
+                "id": "tr_1_tl_17_w8",
+                "coords": {
+                  "points": "1532,1274 1532,1334 1695,1334 1695,1274"
+                },
+                "text": "evident."
+              },
+              {
+                "id": "tr_1_tl_17_w9",
+                "coords": {
+                  "points": "1717,1274 1717,1334 1960,1334 1960,1274"
+                },
+                "text": "Neighboring"
+              },
+              {
+                "id": "tr_1_tl_17_w10",
+                "coords": {
+                  "points": "1998,1274 1998,1334 2172,1334 2172,1274"
+                },
+                "text": "dendrites"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_18",
+            "coords": {
+              "points": "358,1383 1310,1376 1370,1417 1657,1383 1703,1417 2184,1381 2162,1322 358,1347"
+            },
+            "baseline": {
+              "points": "370,1379 465,1374 561,1376 657,1378 752,1376 848,1376 944,1375 1040,1376 1135,1376 1231,1376 1327,1374 1423,1376 1518,1376 1614,1373 1710,1373 1806,1373 1901,1371 1997,1373 2093,1370 2189,1373"
+            },
+            "text": "showed a higher correlation in activity, suggesting synchronization of neuronal",
+            "words": [
+              {
+                "id": "tr_1_tl_18_w1",
+                "coords": {
+                  "points": "353,1336 353,1396 491,1396 491,1336"
+                },
+                "text": "showed"
+              },
+              {
+                "id": "tr_1_tl_18_w2",
+                "coords": {
+                  "points": "539,1335 539,1395 554,1395 554,1335"
+                },
+                "text": "a"
+              },
+              {
+                "id": "tr_1_tl_18_w3",
+                "coords": {
+                  "points": "598,1337 598,1397 731,1397 731,1337"
+                },
+                "text": "higher"
+              },
+              {
+                "id": "tr_1_tl_18_w4",
+                "coords": {
+                  "points": "769,1335 769,1395 981,1395 981,1335"
+                },
+                "text": "correlation"
+              },
+              {
+                "id": "tr_1_tl_18_w5",
+                "coords": {
+                  "points": "1030,1336 1030,1396 1056,1396 1056,1336"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_18_w6",
+                "coords": {
+                  "points": "1105,1336 1105,1396 1270,1396 1270,1336"
+                },
+                "text": "activity,"
+              },
+              {
+                "id": "tr_1_tl_18_w7",
+                "coords": {
+                  "points": "1307,1335 1307,1395 1515,1395 1515,1335"
+                },
+                "text": "suggesting"
+              },
+              {
+                "id": "tr_1_tl_18_w8",
+                "coords": {
+                  "points": "1564,1333 1564,1393 1878,1393 1878,1333"
+                },
+                "text": "synchronization"
+              },
+              {
+                "id": "tr_1_tl_18_w9",
+                "coords": {
+                  "points": "1926,1331 1926,1391 1969,1391 1969,1331"
+                },
+                "text": "of"
+              },
+              {
+                "id": "tr_1_tl_18_w10",
+                "coords": {
+                  "points": "2007,1330 2007,1390 2187,1390 2187,1330"
+                },
+                "text": "neuronal"
+              }
+            ]
+          },
+          {
+            "id": "tr_1_tl_19",
+            "coords": {
+              "points": "354,1470 591,1481 682,1452 888,1484 1000,1443 1112,1474 1180,1447 1180,1399 1141,1381 354,1399"
+            },
+            "baseline": {
+              "points": "367,1442 407,1437 448,1436 489,1436 530,1435 571,1433 612,1433 653,1433 694,1433 735,1433 776,1433 816,1433 857,1433 898,1435 939,1436 980,1436 1021,1435 1062,1433 1103,1433 1144,1433 1185,1436"
+            },
+            "text": "populations in response to light stimuli.",
+            "words": [
+              {
+                "id": "tr_1_tl_19_w1",
+                "coords": {
+                  "points": "360,1396 360,1456 594,1456 594,1396"
+                },
+                "text": "populations"
+              },
+              {
+                "id": "tr_1_tl_19_w2",
+                "coords": {
+                  "points": "616,1393 616,1453 642,1453 642,1393"
+                },
+                "text": "in"
+              },
+              {
+                "id": "tr_1_tl_19_w3",
+                "coords": {
+                  "points": "665,1393 665,1453 839,1453 839,1393"
+                },
+                "text": "response"
+              },
+              {
+                "id": "tr_1_tl_19_w4",
+                "coords": {
+                  "points": "862,1393 862,1453 888,1453 888,1393"
+                },
+                "text": "to"
+              },
+              {
+                "id": "tr_1_tl_19_w5",
+                "coords": {
+                  "points": "916,1396 916,1456 1008,1456 1008,1396"
+                },
+                "text": "light"
+              },
+              {
+                "id": "tr_1_tl_19_w6",
+                "coords": {
+                  "points": "1026,1393 1026,1453 1183,1453 1183,1393"
+                },
+                "text": "stimuli."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
