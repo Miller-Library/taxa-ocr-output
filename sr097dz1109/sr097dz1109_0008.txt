@@ -1,0 +1,27 @@
+schematic was constructed for this purpose (See Fig. 4). Data
+from the oxygen depletion and addition experiments provided
+values to be assigned to the arrows in the diagram. The
+dependency of various fluxes on the ambient oxygen level itself
+implied by the data - is depicted in the schematic in the form of
+dashed-line informational controls, and was entered into the
+computer program within the flux equations (See Appendices 1 and
+4). Oxygen addition rates were assumed to be dependent upon solar
+irradiance, which can be modeled as:
+L = Lmax X SIN(/daylength X time of day)
+Since photosynthetic rates do not increase linearly with
+irradiance, but rather in a fashion described in Fig. 5, oxygen
+addition was assumed to ascend during the morning (and descend
+during the evening) proportionally to the square root of the
+sine, which seems to accurately model the increase in oxygen levels
+observed during early morning in directly sunlit pools (See Fig.
+10).
+I introduced an ad hoc equation for diffusion of oxygen to
+the atmosphere at levels above supersaturation (28 ppm):
+Rate = (K) (Surface Area) ([0) - 7.966)
+((o) in uM/1, S.A. in sq. m)
+Such a development in the model can necessitate additional model
+inputs - in this example, tidepool surface area. A full listing
+of the oxygen model inputs can be found in Table 1. Note that the
+times of sunrise and sunset are necessary inputs to define the
+daylength, and subsequently influence oxygen addition in the
+model.

@@ -1,0 +1,23 @@
+distance at which it is combined with another cluster (Fig. 5). Clusters can be identified by
+drawing a line down the dendrogram at a specified distance from the origin, crossing various
+cluster branches. Each branch that is crossed denotes a cluster (Fig. 6). Branches that are
+crossed that have only a single object attached (one site) are outliers. When choosing where to
+place my cluster denotation line, I wanted to obtain sizable clusters that were very general
+groupings, but still maximize the distance of the moats that 1 was crossing.
+All cluster analyses in this project were undertaken using SYSTAT’s cluster analysis
+module.
+Additionally, this project used multiple regression analysis to quantify the relationship
+between physical factors and the biological diversity at each site. To obtain unbiased residuals
+when conducting the correlations, biological data were transformed using the arcsine-square-root
+transformation and physical data were transformed using a log transformation. The model used
+for all regressions was:
+Species abundance = constant + azimuth angle + slope angle + wave force + temperature + crevice index
+Azimuth and slope angles were measured in degrees. Azimuth angle was transformed to
+cosine of degrees so that a value of 1 represented due north and -1 due south. Slope angle was
+transformed to sine of degrees so that a value of 1 represented a perfectly vertical site, and -1
+represented a perfectly horizontal site. Wave force was measured in Newtons. Temperature was
+measured in degrees Celsius.
+Results
+Cluster Analyses
+The first type of cluster analysis performed was on species, regardless of their location
+along the transect. The dendrogram for the species clusters (Fig. 7) shows three distinct clusters,

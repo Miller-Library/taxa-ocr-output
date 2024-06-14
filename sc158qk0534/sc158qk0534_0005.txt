@@ -1,0 +1,20 @@
+observe activity without stimulus. We then recorded another time series from the same
+site while providing a light train stimulus consisting of one second flashes followed by
+four seconds of darkness. The first flash was given at 20 seconds after recording began.
+Brain Slice - Slices of the optic tectum was made from zebrafish injected with the FMI¬
+43XM dye, using the same procedure as for Fluo3 injection. FMI-43XM is fluorescent
+only when incorporated into the lipid membrane, and was used to outline neurons and
+their processes. It was determined from calcium imaging of the slices that signals came
+from optic tectum dendrites, which were 2-5um structures (Fig. 1C).
+Data Analysis - In FluoView, dendrites of interest were circled as regions of interest and
+their mean intensities exported to an excel file (Fig. 1D). Intensities for each circle was
+normalized to the average intensity of the first five seconds, and fading was accounted for
+using either only the first minute of the series, during which no fading occurred, or by
+averaging the last ten seconds (Ffinal) and adding (1-(Ffinal)/240*framef to the normalized
+intensity. The normalized values were used for analysis. Igor Pro software was used to
+generate a smoothed graph of the data by taking a rolling average of three data points.
+Results
+While performing the described dissection, perfusion, and injection, one main
+concern was for the vitality of the fish. We found that the main indicators that a live fish
+were red gills, visible capillaries under the dissecting scope, and visible blood flow
+through capillaries under the confocal microscope. Not only were we able to keep the fish

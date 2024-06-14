@@ -1,0 +1,27 @@
+proximal and distal to the node (see Figure 3). Lift is deemed to be negligible
+in algae such as E. menziesii (Gaylord et al. 1990, in press) The forces at each
+node are those that would be felt by the section of the frond which that point
+represents. Treating the forces as vectors, the acceleration of each point is
+determined. The basic equation by which the model operates is:
+Ed+Ea+B+T=M(duo/dt)
+(eq. 6)
+where uo is the velocity of the point relative to the stationary substratum and
+where all the forces are vectors. This equation is solved simultaneously for
+all nodes using a fourth order Runge-Kutta algorithm and time steps of .0025
+seconds. See Utter and Denny (in preparation) for further details.
+A plant with average size and strength was selected and used to
+determine the physical parameters for the model. The plant's terminal
+lamina and rachis (see Figure 1) were separated, and each was used to describe
+the corresponding section of the plant in the model. First, the rachis was
+divided into sections of equal length. This length, L = 0.14 m, was the length
+of the symbolic rope between the nodes of the rachis in the model. The
+sections were then weighed, and the mean mass was used for M. The area of
+a section was calculated by tracing as before, and used in calculations of Eq and
+Ea. The drag coefficient that was also needed for calculations of Eq was
+obtained by towing an E. menziesii plant behind a boat and measuring the
+drag at different velocities (see Figure 4). The cross sectional area of the stipe
+was measured with vernier callipers as before, and the resulting value was
+used for the cross section of the rope. The same sequence of measurements
+was made on the terminal lamina, which was divided into two sections of L =
+0.12 m. These new values were given to the last two nodes in the model. A
+value for the tensile strength was obtained from tests done by Buchanan

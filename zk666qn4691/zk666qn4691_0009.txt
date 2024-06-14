@@ -1,0 +1,23 @@
+Felton 10
+This assay is adapted from Beers and Sizer (1952); updated by Weydert and Cullen
+(2010). In this assay, hydrogen peroxide (H2O2) is broken down by CAT present in the sample.
+yielding a decrease in absorbance at 240 nanometers (UV range). Since there is potentially
+significant background rates of CAT, breaking down hydrogen peroxide already present in the
+sample, each sample must have a background rate obtained, by adding 25 uL of the sample to 0.5
+mL of phosphate buffer (pH 7.64) and recording absorbance over two minutes. Each sample is
+then assayed two times in a solution of H2O2 in phosphate buffer. In general, the CAT replicates
+tend to be closer than SOD replicates and so it is not necessary to do them in triplicate (data not
+shown).
+The data file for each individual assay was collected in Excel, and a scatter plot used to
+determine whether any data points (usually the first) would be dropped. In this case, the p-values
+for the background rates were consistently low, which would be expected when the rate is close
+to zero. The background rates were subtracted from the average of the two CAT trials, unless
+some significant anomaly required the exclusion of one of the trials, in which case no average
+was obtained (less than 5% of cases)
+Statistical Analysis:
+This experiment consisted of two fixed factors, time and mussel bed. Even though the
+mussel beds were each sampled repeatedly, the level of interest is the individual mussel.
+Combined with the decision to treat time as a fixed factor, this avoids the need for a repeated
+measure ANOVA.
+The linear model for the 2 factor, Model I ANÖVA is: x = time point + mussel bed +
+time point * mussel bed + g; where x = SOD or CAT activity. To answer whether the

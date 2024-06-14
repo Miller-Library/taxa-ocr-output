@@ -1,0 +1,28 @@
+O
+C
+Plus (MacNeal Schwendler, 1986). This finite element
+analysis program is designed to perform stress and vibrational
+analysis of mechanical systems and structures. The analyst
+provides the following for his/her structure:
+the spatial location of the nodal points defining the
+structure
+the mass and material properties of the structure
+the types of connections between the nodes (e.g.
+beams or
+plates)
+any boundary conditions or structural restraints
+the static or dynamic load forces
+and the type of analysis desired
+The program then generates a mathematical model of discrete
+nodes and elements from this information and simulates its
+physical behavior under the given conditions. It is up to the
+analyst to create the descretization (that is, the connectivity
+of finite nodes) which will most accurately reflect the
+structure's behavior. In general, the more nodal points the
+more accurate the model.
+The following limpet morphologies were developed for this
+experimentation (figure 1)
+1. "High profile" — a uniform thickness shell with a
+height to diameter ratio of 0.5
+2. Low profile" — a uniform thickness shell with a
+height to diameter ratio of 0.25

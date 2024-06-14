@@ -1,0 +1,23 @@
+dendrogram of that had clusters of sites with related species abundances. Both analyses
+excluded rare species, where "rare" is defined as being found in five percent or fewer of the total
+quadrats along the transect. This exclusion minimized groupings that didn’t accurately represent
+the real structure of the data. Rare species tend to cluster with relationships that are artificial, as
+a result of the cluster structure imposed on them.
+The cluster analyses that were performed in this study utilized two different types of
+distance methods. The R“ distance metric (which is the square of the Pearson correlation
+coefficient) was used when clustering the sites as a function of species composition. Because the
+alternative methods (Euclidean and City-block measures) are highly influenced by large values,
+the R“ metric was chosen so as to include all values at an approximately equal weight in the
+clustering. The gamma metric, a measure of association, was used when creating the clusters of
+species regardless of sites. Gamma correlation is a metric used when clustering variables that
+have large quantities of cases to describe them. It is especially useful when comparing data that
+have large quantities of "tied observations" or observations that are the same among variables or
+among cases (Wilkinson et al, 1996). In this case, many quadrats contained none of a particular
+species, which made the gamma correlation ideal.
+Complete linkage was used rather than single or average linkages. One of the goals of
+the cluster analysis in this project was to identify different communities in the intertidal zone.
+To achieve that, the complete linkage was a better metric because it only groups objects that are
+highly similar.
+The dendrograms produced by cluster analysis branched to the left off of the main stem
+of the cluster tree. Lengths of the branches are known as moats. Estabrook (1966) defines the
+moat of a cluster as the difference between the distance at which a cluster is formed and the

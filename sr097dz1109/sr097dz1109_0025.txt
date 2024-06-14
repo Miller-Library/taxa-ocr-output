@@ -1,0 +1,96 @@
+11
+APPENDIX4
+JEM MODEL
+O
+++ TIDEFOCL OX
+SY STEUEN MOCRE
+JUME 7. 1780
+S:PRINT"TIDEFCOL OXVG
+N MCLEL"
+10 CL
+PFINT
+— — —
+SOLUED GXYGEN LEUELS TN
+TILEF
+FOCLS FECM THE
+15 ERINT"
+'THIS MCDEL WILL PREDICT DIS!
+ION.
+AM IO THE TIME OF SE-INUNDA
+SEFARATION FEOM THE OC
+IME OF
+-I
+E LIMITE TAN
+CORFD
+CONETFUCT 7
+15 PRINT:FRINT"THE MODEL WILL ALSC!
+MOXYGEN AND H LEVELE. ANFL
+ICN EE
+ERVED FIELD COFREL
+OF H BASED ON OE
+- = 28."
+T"ELEASE IHEUT THE FELLCHTME ALUET
+NNDHEL
+EINTERI
+IMEE
+a-
+
+
+Tidenel Volume
+
+MEL
+aaa-
+ttaaat
+
+NEE
+O
+
+F
+a
+MEUI"Time of Re-inundation by Oeean heuryninute H."m,e
+E
+
+I"Iime af Sanrise hoarminute'
+
+IMEUI"Iime of Sunset (heuraminute!':s.
+47 INEUT"EStimate Leyel of Cloudiness (-Cles -npletaly Overcast;
+SIF W35 THEM 57
+70 PRIMT"Now, Enter the range during the day in which the Tidepool is entirely
+illuminated by Direct Sunlight."
+75 INFUT"Baginning Time (hour,minute, r F)":EH,EM,ABT
+IMEUT"Ending Time (hour.minute.aor
+EE
+IMEMI"Local Topography Factor (0-Open, 1-Semi-Tranch, E-Trench)";G
+2IF TG2 THEN
+TG=O THEN TF=.07
+74 IF7
+THEM TF=.67
+95 IF TG=1
+96 IF TG=2 THEN TF=.022
+100 ERINT"Now, enter the time increment you'd wish to have owygen readings pred:
+(in minutes).
+cted at
+110 INPUT
+IHEIMUATICN
+115 INEUT"WQULD YOU LIKE A FRINTOUT MADE
+117 IF P="Y" THEN PT=1
+140 HI=H:MI=M:AIt=AS:GOSUB 5000:T-71
+000:TM=T
+145 HI=HH:MI=MM:A1S=AAS:GOSUB
+5000:TB=T1
+SO HI=BH:MI=BM:AIS=ABS:GOSUB
+5000:TE=I1
+155 HI=EH:MI=EM:A1S=ACS:GOSUB
+160 HI=RH:MI=RM:A1S="A":GOSUB
+SO00:TR=T1
+165 HI=SH:MI=SM:A1S="P":GOSUB
+5000:TS=T1
+US="*4.*4“
+N
+TI=1
+CLS
+00
+205 IF TDTN THEN T6=1
+OH 952 CONFIDENCE LIMIT!
+210 PRINT,,"
+225 PRINT"TINE", "OXYGEN (ppm)", "pH", "LOUER", "UPPER

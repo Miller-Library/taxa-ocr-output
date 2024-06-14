@@ -1,0 +1,23 @@
+into groups based values in the similarity matrix. Again, many methods of creating these
+linkages are available.
+Different types of similarity and linkage calculations generally result in different cluster
+diagrams. Similarity calculations affect the matrix representing the data, and thus can affect the
+cluster groupings (Milligan, 1996). Some different similarity metrics include the Pearson
+correlation coefficient, and indices of distance, such as the Euclidean method or the City-block
+distance. Pearson’s correlation metric is a measure of the covariance in pairwise comparisons
+between variables, whereas the Euclidean and City-block metrics are based on an arithmetic
+distance formulae and often are strongly influenced by large values in the data (Quinn and
+Keough, 2002).
+Gordon (1996) describes the effects of different linkage methods on clusters. Complete
+linkage, which characterizes each cluster by the furthest member of the group, typically produces
+balanced, even dendrograms, where objects in clusters are highly similar to one another. Single
+linkage produces clusters that are more distinctly separate from the other groupings but contain
+objects that are less similar to one another. Complete linkage tends to produce more clusters
+than single linkage methods. Various other types of linkages take a middle road between these
+two extremes.
+Two different cluster analyses were performed in this project. The first compared
+species, regardless of their location along the transect. The comparison was accomplished by
+doing a pairwise comparison of species by their abundances along the transect. This yielded a
+dendrogram that had clusters of species that occurred together. The second type of analysis
+compared sites along the transect to each other. These comparisons were performed by doing
+pairwise comparisons of all species abundances for each site. This analysis yielded a

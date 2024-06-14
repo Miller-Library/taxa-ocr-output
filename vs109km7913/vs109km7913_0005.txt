@@ -1,0 +1,24 @@
+(approximately the basal area of the shell), was designed to
+simulate the muscle force of an undisturbed limpet attaching
+itself gently to a rock surface(see Grenon and Walker on
+tenacity, 1981) In the case of the variable thickness model,
+each component of force was divided in half and applied over
+two nodes (from 42 to 56 and 62 to 76) to better simulate
+the muscle force.
+Experiment 2
+In addition to the muscle force of experiment 1, two
+external forces were applied to the set of variable thickness
+limpets: one to simulate a bird peck on the shell, the second,
+to simulate a limpet, such as Lottia gigantea, using its shell
+to nudge another limpet out of its territory (a bulldozer
+effect). The forces were simulated in the following manner
+1. The bird peck was a point load of approximately
+360 N applied at node 68 with the following components: 300
+N in the —Y direction, 120 N in the -X, and 160 N in the
+-2.
+2. The bulldozer force was a point load of 250 N
+applied at node 1 in the tX direction.
+The force magnitudes were estimated by multiplying the
+tenacity of a limpet attaching itself firmly to a rock by
+approximately the basal area of the shell, and then
+estimating a value large enough to disturb the limpet while

@@ -1,0 +1,22 @@
+Felton 9
+nature of units of SÖD vs. % inhibition, is the range of inhibitions over which the assay is most
+accurate (McCord & Fridovich 1969).
+Each day, the average background rate of cytochrome c oxidation was determined to
+account for innate daily variation. Each sample was assayed three times. The data were
+collected in excel, and a linear regression was run on the first 20 seconds of each data file in
+order to avoid possible curvature due to slowing down of reactions as they run out of substrate.
+A visual inspection of a scatter plot of the data from each assay determined whether any small
+jumps or dips in the data (1 or 2 points) were likely to be significantly affecting the p-value.
+These values were discarded and the regression re-run. The slope of the regression was
+converted to units of SÖD using the relationship: units of inhibition = (standardized activity of
+sample) / (100 - standardized activity of sample) and standardized activity of sample = ((rate of
+change in absorbance of daily average background - rate of change in absorbance of individual
+assay) / rate of change in absorbance of daily average background rate) * 100. Given this
+relationship, one unit is defined as 50% inhibition of the “control rate" (rate of change in
+absorbance of daily average background) of cytochrome c inhibition. The p-values for each
+regression were checked, and those below 0.95 were discarded. The choice to reject p-values
+below 0.95 was arbitrary, but driven by the consistent ability to attain p-values above 0.98 (data
+not shown). Very few samples were rejected (less than 5%). The remaining two assays for each
+sample were averaged to yield the SÖD activity. For those samples that all three assays had
+sufficiently high p-values, the two closer trials were averaged to yield overall activity.
+Catalase Activity Assay:
