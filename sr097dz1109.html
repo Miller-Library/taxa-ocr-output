@@ -1,0 +1,1189 @@
+<html><body><pre style='margin:2rem auto;width:fit-content'>ABSTRACT
+Rates of oxygen depletion per biomass were determined
+separately for four groups of organisms: fish, invertebrates,
+healthy algae, and necrotic algae. Rates of oxygen addition per
+biomass were determined for healthy algae at varying degrees of
+solar irradiance. These rates were incorporated into a computer
+program and used to predict oxygen levels in tidepools with known
+amounts of biomass of the above groups of organisms. The model
+was calibrated using input values from one pool, and tested using
+values from two other pools. The model predicted oxygen levels
+reasonably close to actual field values for night depletion and
+morning addition, but predicted a continuous rise in tidepool
+oxygen during the afternoon, when actual tidepool oxygen
+concentrations tend to level off. When manipulated over a
+midnight to noon time course, the model highlighted the
+importance of algae to both addition and depletion of oxygen in
+tidepools. Other factors that showed significant effects on
+ambient oxygen levels included invertebrate population,
+daylength, and local topography.
+INTRODUCTION
+The tidepool is an interesting ecosystem to model because
+physico-chemical parameters such as dissolved oxygen or
+temperature display much greater diurnal fluctuation there
+compared to variation seen in the ocean (See Figs. 1 & 2).
+Temperatures in these pools at low tide during the day reach
+levels never experienced in the ocean the whole year round, and
+this limits the number of species that may exist there. For
+instance, two species of tidepool cottids, <span style='background-color:#cfc' title='Clinocottus globiceps : Exact'>Clinocottus globiceps</span>
+and <span style='background-color:#cfc' title='Oligocottus maculosis : Exact'>Oligocottus maculosis,</span> have upper temperature limits of 26°c,
+and so they are only found in tidepools on the Pacific coast from
+San Francisco northward, as temperatures in Monterey Bay
+tidepools exceed this threshold (See Fig. 2). The cottid
+<span style='background-color:#cfc' title='Oligocottus snyderi : Exact'>Oligocottus snyderi</span> resides in pools at Hopkins Marine Station,
+and has an upper temperature limit of 30°C (Morris, 1960), well
+above the maximum level recorded during a sunny day in June (Fig,
+2).
+While temperature can limit the number of species in
+tidepools during the day, dissolved oxygen levels may limit the
+number of species at night, when algae becomes a consumer
+of oxygen instead of a producer. As Fig. 1 shows, oxygen levels
+may dip to near zero in a tidepool by dawn, and fish cannot
+survive at zero oxygen for long. Fig. 1 also demonstrates that
+oxygen levels vary significantly from pool to pool, and that they
+may decrease even during the day. It appears from this natural
+variation that a number of factors determine ambient oxygen
+factors comprises the focus of this investigation.
+Here a computer simulation model is constructed to elucidate
+factors controlling oxygen levels and the relative significances
+of their control. Models are observer-defined abstractions of the
+real world, and though they may only approximate what is
+happening in an ecosystem, they can be valuable research tools
+for a number of reasons (Wetzel and Wiegert, 1983). First of all,
+they provide an easy way to "manipulate" the environment without
+causing damage, and may be used to forecast potentially harmful
+impacts of a questionable environmental alteration. Additionally,
+a model can condense years into minutes, further assisting in the
+long-term prediction of impacts. Models also determine sensitive
+or controlling parameters and may be used to identify areas where
+information is lacking or inadequate. These characteristics point
+to computer modeling as a sound research vehicle for this
+investigation into what factors, biological or physical,
+determine ambient oxygen levels in tidepools.
+MATERIALS AND METHODS
+We identified sixteen tidepools on the coastline of Hopkins
+Marine Station, located on the southern end of Monterey Bay, as
+feasible potential study sites. Factors which went into
+determining feasibility included size (less than one square meter
+surface area), elevation (less than two meters above MLLW), and
+separation from any interconnected pool networks. Each pool was
+numbered and marked with surveyor's tape glued to the rock.
+Tidepool surface areas were determined by approximating the
+surface as a combination of triangles and rectangles. Volumes
+were estimated by removal and measurement of the tidepool water.
+We determined each tidepool's elevation above MLLW through the
+use of a surveyor's transit.
+Extensive field measurements were made for six randomly
+chosen pools. I measured dissolved oxygen and temperature on site
+with a Yellow Springs Instruments Model 54 oxygen meter, and
+samples were taken and removed to the lab for determination of pH
+and salinity. The readings spanned three days and nights, and
+were obtained at high and low tides and at midpoints between
+tides. These measurements were designed to identify any
+correlations between tidepool physico-chemical parameters. I
+calculated linear regressions of oxygen against corresponding
+temperature readings (n=69) and pH readings (n=58) to note
+whether such correlations existed.
+An experiment was conducted to determine the degree of
+mixing that takes place in a tidepool. The experiment was carried
+out on a single oval-shaped tidepool on a calm day (wind speed =
+0-5 mph) and on a windy day (w.s. - 15-20 mph) to note whether
+air turbulence affects mixing. I performed the experiment on a
+horseshoe-shaped pool as well to determine the effect of pool
+shape on mixing. A wire grid marked off in inches was placed over
+the tidepools and anchored against the rocks. I gently pipeted
+1/2 ml of a 1 g/1 solution of fluorescein dye into the tidepool
+at the center of the grid, starting the stopwatch simultaneously,
+I recorded the time elapsed when dye crossed the marked lines on
+the grid in the north, south, east, and west directions. Average
+tidepool horizontal mixing velocity (THMV) was then determined by
+dividing distance by the time recorded in all directions. These
+values were added and then divided by the number of readings to
+arrive at an estimate of average THMV.
+To establish oxygen depletion rates for the simulation
+model, rates of oxygen depletion by the different groups of
+organisms were determined in the lab. About 100g of fish and
+600g of invertebrates (e.g. crabs, snails, anenomes, urchins)
+were captured and brought to the lab. I bubbled carbon dioxide
+into an unmarked tidepool to facilitate fish capture. The
+invertebrate species were sampled in roughly the same ratio as
+seen in the tidepools. About 500g of healthy algae was collected
+from the intertidal zone at low tide, mostly composed of species
+found in the sample tidepools, and it was divided into two
+samples. About 300g of upcast necrotic (rotting) algae was
+collected from the West Beach of Hopkins Marine Station. Total
+biomass of the fish, invertebrates, necrotic algae, and the two
+samples of healthy algae were determined on a Mettler 1 kg
+balance. The number of each kind of fish and invertebrate species
+was recorded (Note: the calcium carbonate or chitin exoskeletons
+of the invertebrates were included in the measurement of
+biomass).
+Seven aquaria were prepared for the experiment by filling
+each with 20 liters of sea water and nothing else. They were
+situated away from direct sunlight, and the algae tanks were
+covered with black plastic to prevent photosynthesis from
+occurring. I took oxygen and temperature readings as well as
+samples for pH and salinity determination before loading any of
+the groups of organisms into their respective aquaria. Using an
+Aquarium Systems aquarium heater, I heated one tank to 25°C to
+measure temperature effects on the oxygen consumption rate of
+healthy algae. One aquarium was left empty as a control for
+microbial influence upon oxygen levels, pH, and salinity. The
+invertebrate tank was covered with a screen mesh to prevent the
+animals from escaping. After the different samples were placed in
+their aquaria, readings and samples were taken every three hours
+for twelve hours (the algae tanks were sampled every four hours
+for twelve hours). From these data I determined instantaneous
+oxygen depletion rate per ambient oxygen level for fish,
+invertebrates, algae at 25°C, algae at 15°C, necrotic algae, and
+microorganisms [in umole 0 / (g biomass X hr. X ppm ambient o,))
+(See Appendix 1).
+Experiments were also carried out to determine rates of
+oxygen addition by algae. These experiments were begun at 12
+noon, so that oxygen addition rates obtained represented those at
+maximum solar irradiance, which occurs at about 1 pm. About 1 kg
+of healthy algae was collected in the manner described above.
+Four aquaria were then prepared: one for direct sunlight exposure
+and three for gradations of diffuse sunlight exposure. The
+interiors of the aquaria were lined with black plastic to mimic
+tidepool conditions. Without taking this precaution the aquaria
+would receive radiant input from the sides as well as the top, a
+situation that does not occur in tidepools. Two of the aquaria
+were lined with the plastic to the 20 liter waterline. One of
+these was placed in direct sunlight and one in a fully shaded
+area to mimic the diffuse sunlight a trench tidepool would
+receive. A third aquarium was lined with plastic to the level
+where the algae resting on the bottom barely showed above the
+plastic line, thus imitating diffuse sunlight exposure in an open
+pool. A fourth aquarium was lined at a level in between the two
+prior plastic levels, approximating the amount of diffuse
+sunlight a semi-trench pool would receive. The latter two aquaria
+were also placed in a fully shaded area.
+All four aquaria were filled with 20 liters of filtered sea
+water and initial oxygen levels were recorded. The collected
+algae were divided into four samples, each of which was weighed
+and loaded into one of the four prepared aquaria. Oxygen
+readings were made at 15, 30, 45, 60, 90, 120, and 150 minutes.
+Oxygen addition rates were calculated in umole O/(g biomassX
+hour) for each of the four conditions represented by the
+experimental aquaria (See Appendix 2).
+To provide field data to test the oxygen model against, and
+to demonstrate the stresses that the tidepool ecosystem must
+endure, I took hourly oxygen and temperature readings from three
+sample tidepools and from the ocean off Agassiz Beach, Hopkins
+Marine Station. One of these pools, Tidepool 3, represented an
+open pool, while #4 and #7 represented a trench pool and a semi¬
+trench pool, respectively (See Fig. 3). These hourly readings,
+taken on three separate days, combined to form one diurnal cycle.
+The weather was virtually identical on the three days - sunny and
+clear - and the readings fit together smoothly (See Figs. 1 and
+2).
+Before modeling oxygen flux, oxygen sources, sinks, and
+pathways had to be clearly defined. A tidepool oxygen model
+schematic was constructed for this purpose (See Fig. 4). Data
+from the oxygen depletion and addition experiments provided
+values to be assigned to the arrows in the diagram. The
+dependency of various fluxes on the ambient oxygen level itself
+implied by the data - is depicted in the schematic in the form of
+dashed-line informational controls, and was entered into the
+computer program within the flux equations (See Appendices 1 and
+4). Oxygen addition rates were assumed to be dependent upon solar
+irradiance, which can be modeled as:
+L = Lmax X SIN(/daylength X time of day)
+Since photosynthetic rates do not increase linearly with
+irradiance, but rather in a fashion described in Fig. 5, oxygen
+addition was assumed to ascend during the morning (and descend
+during the evening) proportionally to the square root of the
+sine, which seems to accurately model the increase in oxygen levels
+observed during early morning in directly sunlit pools (See Fig.
+10).
+I introduced an ad hoc equation for diffusion of oxygen to
+the atmosphere at levels above supersaturation (28 ppm):
+Rate = (K) (Surface Area) ([0) - 7.966)
+((o) in uM/1, S.A. in sq. m)
+Such a development in the model can necessitate additional model
+inputs - in this example, tidepool surface area. A full listing
+of the oxygen model inputs can be found in Table 1. Note that the
+times of sunrise and sunset are necessary inputs to define the
+daylength, and subsequently influence oxygen addition in the
+model.
+To test the model, characteristics of real tidepools had to
+be determined, for example the biomass of different groups of
+organisms. Each of the sixteen sample tidepools were censused for
+fish biomass.
+To estimate invertebrate biomass I collected average-sized
+individuals of different species found in the pools (e.g.,
+<span style='background-color:#cfc' title='Tegula : Exact'>Tegula,</span> <span style='background-color:#cfc' title='Anthopleura : Exact'>Anthopleura,</span> etc.). The weights of these individuals were
+recorded and used to convert the number of individuals to
+biomass. I counted individuals of the different species in each
+test pool.
+Two types of healthy algal biomass had to be estimated in
+the test pools: foliose and crustose. To estimate foliose
+biomass, I collected fronds of algal species found in the test
+pools, weighed them for reference, and counted the number of
+similar-sized fronds found in the pools. I repeated this
+procedure for the determination of necrotic algal biomass. I
+collected samples of crustose algae (e.g., corallines, Hilden¬
+brandia spp.) by hammer and chisel and measured the area of the
+larger pieces. The weights of these pieces were determined, and
+an area:biomass conversion factor was developed. Exposed area of
+crustose algae was determined in each test pool, and estimates of
+biomass were derived from these values.
+Phytoplankton content of each of the sixteen sample
+tidepools was determined by spectrophotometric analysis for
+chlorophyll in the sample water. This survey was performed to
+determine whether enough phytoplankton biomass was present to
+affect net oxygen addition in the pools.
+The model parameters were fine-tuned by using Tidepool 3
+10
+model input values. The diffuse sunlight coefficient of 0.178
+umole 0/(g X hr.) was adjusted to 0.070 to provide for a tighter
+fit to the field data. This adjustment indicates that
+experimental conditions for the determination of algal oxygen
+addition did not accurately mimic actual diffuse solar irradiance
+occurring in the tidepools. The diffuse sunlight coefficient for
+a semi-trench pool determined in the algal oxygen addition
+experiment was approximately half that of the open pool [0.083
+umole 0/ (g X hr.)], and this value was adjusted to 0.037,
+using the same scale above. Once the model predicted oxygen
+levels close to actual field levels along the time course of a
+low tide in Tidepool 3 it was tested with the specified values
+for Tidepools 4 and 7 for validation.
+As soon as the model had achieved some degree of accuracy
+with regard to all three test pools, model inputs were
+manipulated to simulate changes in the tidepool ecosystem, and
+predicted impacts on the oxygen levels were noted. Examples of
+such manipulations include the removal or addition of fish,
+removal of half the invertebrates or algae, and the addition of
+drifting necrotic algae.
+RESULTS
+Linear regression analysis of 58 simultaneous oxygen and pH
+readings yielded a product-moment correlation coefficient of
+r=.932, which at 56 degrees of freedom is significant to the
+Pe.O01 level. This highly significant correlation allowed for the
+formulation of a linear equation predicting pH levels at any
+11
+given oxygen concentration (in ppm):
+pH = 7.34434 + 0.093187 X [01
+In the computer program, predicted oxygen levels are converted
+into an estimation of pH using the above equation along with 953
+confidence limits. The derivation of these limits comprises
+Appendix 3. See also Fig. 6.
+Oxygen and temperature were also found to be significantly
+correlated, but not as directly (See Fig. 7). High oxygen
+concentrations correspond to high temperature, however, which
+goes against the physical relationship between the two
+parameters, whereby oxygen is less soluble in water at higher
+temperatures. Salinity was found to be uniform throughout the
+tidepools.
+The tidepool mixing experiment yielded higher average
+horizontal mixing velocities during windy days compared to calm
+days: 0.0556 inches/second compared to 0.0308 ips. During the
+windy day test, the dye was untrackably dilute after about four
+minutes, whereas the dye on the calm day could be tracked for 6-8
+minutes. Additionally, on the windy day, fluorescein was
+distributed evenly over the oval-shaped pool (t7) while in a
+horseshoe-shaped pool (+3) the dye tended to drift toward one
+end.
+Oxygen depletion rates by fish, invertebrates, and algae are
+depicted in Fig. 8, as are the weights of each group observed.
+The fish consumed about as much oxygen per time as the other
+groups, even though much less biomass was present. The control
+tank showed no net depletion, so microorganisms were assumed to
+have negligible effects upon oxygen levels compared to the other
+﻿12
+groups of organisms. Algae at 25°C showed a greater depletion rate
+than algae at 15°C. The initial steep slopes of the lines in Fig.
+8 demonstrate what appears to be a dependency of depletion rate
+on ambient oxygen levels. A sample calculation of this dependency
+is given in Appendix 1. Only necrotic algae continued to deplete
+oxygen linearly with time at oxygen levels less than 3 ppm.
+Oxygen depletion constants for each group of organisms are listed
+in Table 4 on a per-mass basis.
+The two-hour algal oxygen addition experiments yielded
+linear addition rates at all levels of sunlight exposure (see
+Fig. 9). The calculation of addition coefficients (in umole o,/Ig X
+hrj) with respect to exposure type was straightforward and is
+presented in Appendix 2.
+Field values of fish biomass and estimates of invertebrate
+and algal biomass in the three model test pools (3,4,7) are
+listed in Table 2. Other model inputs are also listed therein.
+When entered into the model, these values lead to predictions
+that follow actual field readings quite closely during the night
+and morning (Figs. 10, 11, 12). However, during the afternoon,
+the model continues to rapidly add oxygen due to photosynthesis,
+while field values for tidepool oxygen show a tendency to level
+off (See Fig. 1 to note this leveling effect). Increasing the
+mass-flux coefficient, K, helps to dampen the model's erroneous
+afternoon oxygen climb, but it also dampens the morning oxygen
+rise which otherwise fits rather closely to the field readings.
+Hence the model in its present form seems to predict night to
+morning levels with some accuracy, but loses its usefulness from
+13
+about solar noon on.
+The phytoplankton biomasses determined for the sample
+tidepools were very low compared to their algal biomasses. The
+average value found was 0.227 mg chlorophyll per pool - hardly
+significant compared to the amount of macrophytic chlorophyll in
+any given pool (over 500 g).
+Manipulations of the model led to some interesting results
+(see Table 3). Neither removal of fish nor addition (up
+to the highest biomass found in the 16 sample tidepools) resulted
+in any significant changes in oxygen levels. The most significant
+results occurred when half the algal biomass was removed,
+indicating the importance of algae in terms of affecting both
+oxygen addition and depletion. Daylength was also found to be
+important in determining oxygen concentrations. All other factors
+held constant, the same pool during the second week of December
+had oxygen levels decline further than in June because of the
+longer night.
+A tendency for Tegula to migrate above the waterline of
+pools at night was noted during diurnal surveys. <span style='background-color:#cfc' title='Pachygrapsus : Exact'>Pachygrapsus</span>
+crabs also enter and exit the pools often. These phenomena were
+observed in Tidepool 4, which contained 145g of snails and crabs.
+Removing these animals from the pool would hence mimic their
+migratory behavior. However, when this was done in a model
+simulation, the oxygen still fell to about the same level as when
+the snails and crabs were present.
+An upcast heap of <span style='background-color:#ffcc00' title='Macrocystis : PartialExact'>Macrocystis came</span> to rest in the trench of
+Tidepool 4 during mid-May for about a week, until another high
+tide carried it away again. Toward the end of its stay it was
+﻿14
+emitting a strong odor, and no fish were noticeable in the pool.
+Addition of 1000g necrotic algae (probably a gross underestimate
+of actual levels) into the modeled pool resulted in a decline to
+zero ppm oxygen 1 1/2 hours after separation from the ocean, not
+gaining any oxygen until the next high tide. This simulation
+points to drifting necrotic algae as a potential factor
+controlling tidepool oxygen concentrations.
+Tidepool 7 is largely encrusted by coralline algae
+(estimated 1357.6g of 2041.8g total algae present there).
+Simulation of a specific parasite which kills off all the
+coralline algae, assuming no necrotic oxygen utilization, results
+in oxygen levels significantly higher at dawn and significantly
+lower at the next high tide (see Table 3). This simulation once
+more demonstrates how important algae are to tidepool oxygen
+depletion as well as addition.
+Simulation of the removal of a large rock wall from the east
+side of Tidepool 7 yielded predictions of oxygen levels which
+differed significantly from levels with an intact wall present.
+This alteration transforms the semi-trench pool into an open
+pool, and allows direct sunlight to reach the pool about an hour
+earlier. The higher oxygen levels experienced in the morning
+without the rock wall demonstrate the importance of local
+topography in determining oxygen concentrations during the day.
+DISCUSSION
+The relationship of oxygen levels to pH and temperature in
+the field tidepool readings was striking. However, it would be a
+mistake to conclude that a causal relationship exists, for
+instance, between pH and oxygen levels in the tidepools simply
+because they correlate significantly. One hypothesis regarding
+this correlation is that a third input is controlling both
+parameters separately. According to this hypothesis, the
+photosynthesis-respiration exchange of CO, and O, gases is
+responsible:
+« PHOTOSYNT. (DAY)
+(NIGHT) RESPIR.
+0 + C(H,O) «= H,O + CO «=» HCO3-+ H+
+In this way, when oxygen levels are high due to photosynthetic
+activity, carbon is being fixed in the algae, depleting ambient
+carbon dioxide stores, pulling overall equilibrium to the left of
+the equation, lowering H" concentrations and making the solution
+less acidic - the trend seen in the field and in the laboratory
+(See Fig. 6).
+Similarly, the correlation between oxygen and temperature
+depicted in Fig. 7 can be viewed as an influence of one outside
+factor upon two independent physico-chemical parameters. Solar
+irradiation causes water temperature to rise, and it also causes
+dissolved oxygen to rise due to its photosynthetic effect.
+The discrepancies between predicted and actual values of
+oxygen depicted in Figs. 10-12 are minor, but significant enough
+to merit further development of the model. More importantly, the
+model yet fails to predict the afternoon leveling effect
+aforementioned. In this way, the model helps to point out what
+﻿16
+information is lacking or inadequate, as some mechanism after
+solar noon is either enhancing oxygen depletion or stemming algal
+oxygen production. To fine tune the model further, one needs to
+consider the fundamental assumptions of the model in its current
+form. Some assumptions are listed in Table 5. The assumption that
+temperature remains constant at lab conditions of 15-17°c is
+invalid for tidepools, as demonstrated by the field data. Further
+investigations into temperature effects on oxygen depletion rates
+of the different groups of organisms could perhaps yield insight
+into the afternoon leveling effect. For instance, Table 4 reveals
+a clear positive correlation of algal oxygen consumption with
+temperature.
+Additionally, oxygen depletion was found to be dependent on
+ambient oxygen levels, but the experiment that provided this
+information was conducted at oxygen levels of 0-10 ppm with
+readings taken every 3 hours, and therefore did not provide a
+complete picture of ambient oxygen effects on depletion rates in
+the tidepools (no readings above 10 ppm, regularly exceeded in my
+tidepools). To obtain a more accurate picture of these effects,
+an experiment could be conducted that began at levels of 25-30
+ppm, with readings taken every 1/2 hour, which would offer better
+estimates of instantaneous oxygen depletion rate per ambient
+oxygen concentration.
+The model also assumes uniform mixing in tidepools, which
+may or may not be the case in different situations. The tidepool
+mixing experiment showed that pool shape and air turbulence can
+affect overall mixing rates. Field readings performed early in
+17
+the investigation showed that oxygen levels could vary
+substantially in one pool - the extreme example being Tidepool 1,
+a horseshoe-shaped pool which showed a gradient from 5.3 ppm at
+one end to 7.2 ppm at the other at 3:00 pm on a sunny day.
+Gradients present in pools on a much smaller scale, say along a
+transect beginning at an algal frond and extending
+perpendicularly outward, could not be detected with the Model 54
+oxygen meter, as the probe had to be continuously moved to
+complete a measurement. A study on microzonation of oxygen levels
+within tidepools using a more precise technique of measurement
+could lead to the determination of contours of oxygen
+concentrations in tidepools. The Model 54 meter was also
+inadequate for this investigation because the maximum oxygen
+level it could measure was 20 ppm, a value regularly exceeded in
+my tidepools.
+Other assumptions of the model which may affect its accuracy
+include the assumptions that oxygen depletion and addition rates
+are similar among the different groups of organisms analyzed. The
+model could benefit from a species by species analysis of oxygen
+depletion and addition as well as a more precise field method of
+biomass estimation.
+The model in its present form does not account for seasonal
+or geographic variations in such parameters as solar irradiance
+and temperature, and this renders it very specific to the
+Monterey Bay area. Field investigations conducted at various
+locations during various seasons could provide a more accurate
+view of tidepool oxygen dynamics. Additionally, much more testing
+is necessary before this model can be deemed accurate. More
+18
+diurnal field readings and biomass data for more tidepools would
+be necessary to adequately test and tune the model. One can be
+confident in a model's predictive power only when the model is
+tested in such a rigorous manner.
+In spite of the many shortcomings of the model, some
+conclusions could be drawn. The simulations pointed to algae as
+the most important controlling factor in terms of both oxygen
+addition and depletion. Additionally, the model suggests that
+fish play an insignificant role in affecting ambient oxygen
+levels in tidepools off of Hopkins Marine Station. These two
+findings appear to be fundamentally derived from the biomass of
+the groups of organisms present in tidepools as opposed to their
+depletion rate per biomass, as fish certainly consume more oxygen
+per time per biomass than algae, but the typical tidepool
+contains so much more algal biomass, as shown in Table 2, that
+the net depletion due to fish is insignificant.
+Manipulating the model also helped to show the importance of
+other factors in determining tidepool oxygen levels, such as
+daylength, local topography, and random ecological events such
+as upcast drifting necrotic algae. The next logical
+step would be to remove half of the algae in one of the test
+pools to see if oxygen levels are really affected in the way the
+model predicts.
+LITERATURE CITED
+Morris, Robert W., "Temperature, Salinity, and Southern Limits of
+Three Species of Pacific Cottid Fishes," Limnology and
+Oceanography, 5:175-9, 1960.
+Sokal, Robert B., and F. James Rohlf, Biometry, W.H. Freeman &
+Co., New York, 1981.
+Wetzel, Richard L., and Richard G. Wiegert, "Ecosystem Simulation
+Models," from Carpenter, E. J., and D. Capone, eds.
+Nitrogen in the Marine Environment, Academic Press, New
+York, 1983.
+ACKNOWLEDGEMENTS
+I would like to thank Mark W. Denny for his invaluable
+assistance and advice regarding this project, as well as for his
+steadfast encouragement and patience. I also would like to thank
+<span style='background-color:#cfc' title='Ladd : Exact'>Ladd</span> Johnson and Dick Zimmerman for their willingness to take
+time out of their busy schedules to assist me in my research.
+Lastly, but certainly not least, I would like to extend my
+deepest thanks to Kelly Jensen, my field partner, for her time,
+efforts, patience, intellectual stimulation, and good sense of
+humor.
+20
+FIGURE LEGENDS
+Figure 1: Oxygen field readings conducted over a diurnal cycle on
+5/31/89 and 6/4/89. This graph demonstrates the fluctuations of
+oxygen found in tidepools relative to the ocean, variations among
+tidepools in oxygen concentration, and the afternoon leveling
+effect unaccounted for by the simulation model.
+Figure 2: Temperature field readings conducted over a diurnal
+cycle on 5/31/89 and 6/4/89. This graph shows temperature
+fluctuations found in tidepools during the day which exceed any
+temperature extremes found in the ocean.
+Figure 3: Local topography of the three model test pools. All
+three sketches are views from the south-south west. These
+sketches demonstrate how topography can affect the amount of
+diffuse sunlight that may irradiate a tidepool.
+Figure 4: Schematic of the computer simulation model. Dashed
+boxes indicate factors not accounted for in the model. Large
+rectangles indicate biological oxygen sources and sinks.
+Triangles depict ambient oxygen concentration.
+Figure 5: Rough mathematical relationship of photosynthetic
+output to solar irradiance (Denny, 1989).
+Figure 6: Scatter plot and linear regression of simultaneous
+21
+oxygen and pH readings (n=58) from the field and the lab showing
+the strong correlation used to derive the pH predictive capacity
+of the computer program.
+Figure 7: Scatter plot and linear regression of simultaneous
+oxygen and temperature field readings (n=69), indicating a strong
+correlation.
+Figure 8: Oxygen depletion by different groups of organisms.
+Rates of depletion are listed in Table 4 on a per-mass basis.
+Figure 9: Oxygen addition by algae at varying degrees of solar
+irradiance.
+Figure 10: Model test run on the calibration pool, Tidepool 3 (an
+open pool), conducted over a low tide beginning in the middle of
+the night and extending through to late morning.
+Figure 11: Model test run on a validation pool, Tidepool 4 (a
+trench pool), conducted over the same low tide as Tidepool 3.
+Figure 12: Model test run on a validation pool, Tidepool 7 (a
+semi-trench pool), conducted over the same low tide as the others.
+22
+APPENDIX 1
+
+SONPLE, CALCULATION OF OXYGEN DEFLETICN
+RATE PER AMBIENT CXYGEN CONCENTRATICN
+
+
+
+s)
+1
+instantaessat u -Oky/(lX.
+- 6.X (20 1 in aguarium
+- 18 umoles y  (110.2 ima  hr.
+= O.16333 umoles /g  hr.)
+At Oxygen Level of: (3.2 - 5.5) / 2 - 5.85 ppm
+4t X's reprasent midpoints between data points to which the calculated
+instantaneous rates correspond.
+** Dots ara the experimental data points.
+APPENDIX2
+SAMFLE CALCULATICN CF ALGAL OXYGEN ADDITICH
+IN UMOLES OXYGEN PER  BICMASS FER HCUR
+UNDER UARIOUS LEVELS OF SOLAR IRRADIANCE
+Linear regreesions were calculated for each af the
+data setsas they appearedoeaddingge
+
+in each experimental aguaritm.
+Direct Sunlight:
+Eitpe af regreesion -.Se amolehr.)
+Rateaf Additin ope
+-m
+Diffuse Sunlight (Trench Feol):
+Slope af regreesion - G.164705 umle OE /(1X hr.)
+Rate of Addition = Slope X (20 1 / 245.0 g blomass)
+- 0.01 umola hr.)
+Diffuse Sunlight (Open Pool):
+Slope of regression = 2.05029 umale 02 / (1 X hr.)
+Rate of Addition = Slope X (20 1 / 230.0 g biomass)
+- 0.178 umle  h.)
+Diffuse Sunlight (Semi-Trench Fool)
+Slope of regression = 1.001754 umole C2 / (1 X hr.)
+Rate of Addition = Slope X (20 1 / 235.g biomass)
+= 0.083 umole 02 /(qXhr.)
+APPENDIX 3
+Linear Regressien Eqvation:
+- 0.093187 o t 7 37139
+XIndepender
+varalle (Lo.1)
+AFR
+dependat
+[=.732
+Varfable (pH)
+Jp. - S6 n-58
+ttest for significance ef
+(o.073187-0
+t- Sope- -
+= 77.23
+0.004 876
+Sslope
+t 3.20
+Nate: sope ande
+ott ho The lineat
+P.00
+rgsin pte
+781 Canfdence limik for pl Espnales
+T latus S.tware,
+2X- 449.4
+DY-467.85
+X= 7.748
+Vr.74
+x4404.04
+2
+2Xy - 3110.746
+(X)  921.905
+X
+(9 - 30.8844
+Zy - 2)
+(EX)(29) - 85915
+Lry - ZXy-
+Explahed Variaten!
+
+(85.915)
+29
+-8006
+921.765
+2x
+Onexplawed Varate!
+= 2229 = 30.8841-8.000 - 22.88
+Xx
+w SZx - 22.82 - 0.4085
+V.)
+5
+h-2
+Sadard tr.f Pestate fon
+4 (K.-3)
+59 =
+464-7748)
+s n
+5.4085
+2x
+721.965
+Cerfidaee lait
+Ly - pt  (to)sy)
+la - ph- t)(s)
+11
+APPENDIX4
+JEM MODEL
+O
+++ TIDEFOCL OX
+SY STEUEN MOCRE
+JUME 7. 1780
+S:PRINT"TIDEFCOL OXVG
+N MCLEL"
+10 CL
+PFINT
+— — —
+SOLUED GXYGEN LEUELS TN
+TILEF
+FOCLS FECM THE
+15 ERINT"
+'THIS MCDEL WILL PREDICT DIS!
+ION.
+AM IO THE TIME OF SE-INUNDA
+SEFARATION FEOM THE OC
+IME OF
+-I
+E LIMITE TAN
+CORFD
+CONETFUCT 7
+15 PRINT:FRINT"THE MODEL WILL ALSC!
+MOXYGEN AND H LEVELE. ANFL
+ICN EE
+ERVED FIELD COFREL
+OF H BASED ON OE
+- = 28."
+T"ELEASE IHEUT THE FELLCHTME ALUET
+NNDHEL
+EINTERI
+IMEE
+a-
+
+
+Tidenel Volume
+
+MEL
+aaa-
+ttaaat
+
+NEE
+O
+
+F
+a
+MEUI"Time of Re-inundation by Oeean heuryninute H."m,e
+E
+
+I"Iime af Sanrise hoarminute'
+
+IMEUI"Iime of Sunset (heuraminute!':s.
+47 INEUT"EStimate Leyel of Cloudiness (-Cles -npletaly Overcast;
+SIF W35 THEM 57
+70 PRIMT"Now, Enter the range during the day in which the Tidepool is entirely
+illuminated by Direct Sunlight."
+75 INFUT"Baginning Time (hour,minute, r F)":EH,EM,ABT
+IMEUT"Ending Time (hour.minute.aor
+EE
+IMEMI"Local Topography Factor (0-Open, 1-Semi-Tranch, E-Trench)";G
+2IF TG2 THEN
+TG=O THEN TF=.07
+74 IF7
+THEM TF=.67
+95 IF TG=1
+96 IF TG=2 THEN TF=.022
+100 ERINT"Now, enter the time increment you'd wish to have owygen readings pred:
+(in minutes).
+cted at
+110 INPUT
+IHEIMUATICN
+115 INEUT"WQULD YOU LIKE A FRINTOUT MADE
+117 IF P="Y" THEN PT=1
+140 HI=H:MI=M:AIt=AS:GOSUB 5000:T-71
+000:TM=T
+145 HI=HH:MI=MM:A1S=AAS:GOSUB
+5000:TB=T1
+SO HI=BH:MI=BM:AIS=ABS:GOSUB
+5000:TE=I1
+155 HI=EH:MI=EM:A1S=ACS:GOSUB
+160 HI=RH:MI=RM:A1S="A":GOSUB
+SO00:TR=T1
+165 HI=SH:MI=SM:A1S="P":GOSUB
+5000:TS=T1
+US="*4.*4“
+N
+TI=1
+CLS
+00
+205 IF TDTN THEN T6=1
+OH 952 CONFIDENCE LIMIT!
+210 PRINT,,"
+225 PRINT"TINE", "OXYGEN (ppm)", "pH", "LOUER", "UPPER
+O M2=T-(60(INT(T/80)))
+H2=INT(T/0)
+FM=O
+IF H2I2 THEN HA-H2-12:FM=1
+37 IF H2-O THEN H2=12
+239 IF H2=12 THEN PM=1
+245 PRINT HE;:PRINT USING":44";M2;
+247 IF PM=O THEN FRINT"am", ELSE FRINT"pm",
+248 IF OHO THEN O=O
+249 GO
+U 00
+2EO FRINT O/V,:FRINT USING US;FH;:FRINT TAB(4S);:FRINT USING US:LI::FRINT TAEC
+);:FRINT USING USL
+260 X1=0:X2-0:XS=O:X4=0:XS-O:X-0
+270 IF PT=O THEM 27E
+PRINT HE;:LFRINT USING":44":M2
+272
+27
+IF FM=O THEN LFRIMT"am", ELSE LFRIN
+"m"
+274
+PRINT O/V.:LFRINT USING"44.44"; (7.34434+(.673187(0/0))
+275
+IE TETH THEM 999
+I=II
+280
+00
+T=T+1
+IFT14 THEM
+TH=1 THEN 310
+304
+F TTH THEN TETM
+3
+I1=1/60
+310
+—.
+REM FISH DEFLEION
+D1=.007014+(.580404(0/))
+1=DIAFEII
+2
+230 O=O-X1
+HEM INVEETE
+-RIEERATE DEPLETION
+IF D/VSS THEN D2=.008(079)
+TO 345
+FO/OS4.S THEN D2=.00435(/):C
+34
+344
+2=.00(0/V)
+X2=D2IEI1
+345
+35
+C=O-X2
+EALTHY ALGAE
+360
+IF TTR AND TKTS THEN 380
+365
+REM DEFLETICN IN DAEE
+IF O/V39.S THEN DS=.00727(0/0):GOTO 372
+369
+371 DS=.00S(O/)
+(3=D3I1kAB
+1=0-X3
+375
+37
+TATR THEN 450
+IF TSTB AND TKTE THEN 400
+380
+ssa
+IN DIFFUSE SUNLIGHT
+FEM ADDITION
+S4=SIN((3.14157274/(TS-TR))(T-TR))
+383
+38
+Q=0+X4
+388
+X4=(TF(S40.7))I1AB
+389
+Q=0+X4
+GOTO 450
+390
+399
+MM ADDITION IN DIRECT SUNLIGHT
+SS=SIN((3.14159274/(TS-TR))(T-TR)
+400
+27-(W((.3
+7-TF)/5)))(SS.7))I14B
+5=.
+405
+410 C=OX5
+450
+NECROTIC ALGAE DEPLETION
+REM
+455
+X6=.OS3IINB
+O=C-X6
+OXYGEN DIFFUSION TO ATMOSFHERE
+
+DX=.35SA((0/V)-7.766)
+466
+IF DXO THEN 475
+468
+470
+C=O-DX
+475
+IF TETN THEN 230
+IF TTI THEM 300
+480
+
+GOTO
+797
+END
+FH=(7.34434+(.093187(0/9)))
+000
+SY=(.408((1/8)(((0/)-7.748)2)/21.7
+400
+Li-FH-(2.0042)
+4010
+2-FH+(2.0042)
+4011
+RET
+402
+1=0:IF AIS-"A" THEMO
+o
+IF HIE12 THEM TI(HIO)-MI ELSE TI((1S-HI0+MI
+SOOt
+TO EOBE
+01 IF HI=12 THEN TIEMI ELSE TI(HIOHI
+SOS RETURN
+MODEL INPUTS
+TIDEPOOL OXYGEN
+FISH BIOMASS
+INVERTEBRATE BIOMASS
+HEALTHY ALGAE BIOMASS
+NECROTIC ALGAE BIOMASS
+TIDEPOOL VOLUME
+TIDEPOOL SURFACE AREA
+INITIAL HIGH TIDE OXYGEN LEVEL
+TIME OF SEPARATION FROM OCEAN
+TIME OF RE-INUNDATION BY OCEAN
+TIME OF SUNRISE
+TIME OF SUNSET
+ESTIMOTE OF CLOUDINESS LEVEL (O=CLEAR, 5-COMPLETELY OVERCAST)
+IIHE RONGE IN WHICH TIDEPOOL IS IRRADIATED BY DIRECT SUNLIGHT
+LOCOL TOPOGRAPHY FACTOR (O=OPEN, 1=SEMI-TRENCH, 2-TRENCH)
+I
+02
+O m
+7
+12
+19
+
+
+7
+a-
+—
+Table 3: Some Manipulations of the Model
+Maximum OI
+Minimum LOe
+Manipulation
+What It
+Represents
+at 5:45 am
+at 10:45 am
+TIDEPOOL 3
+—
+20.4
+3.0
+None
+——
+3.0
+20.4
+Removal of Fish
+20.0
+2.9
+ii of
+Highest Fish Mass
+Found in 15 Sample
+2.g Fis
+Tidepools.
+12.7
+——
+Remaval af 1/2
+4.1
+Algal Biomass
+———
+22.3
+3.5
+Remal of 1/
+Inyert. Biomass
+2.2 (7:4am)
+Canrise at 7:0am Same Tidepool.
+17.1
+in December
+TIDEFCOL
+—---——
+S.2
+.3
+Nae
+0.9
+8.2
+Migration of
+Removal of 1459
+Tegula and
+Invertebrates
+Pachygrapsus
+at Night
+Upcast Heap
+O.O
+.O
+itn o
+f Drifting
+Necrtic Algae
+<span style='background-color:#cfc' title='Macrocystis : Exact'>Macrocystis</span>
+TIDEFOOL
+—--—
+2.7
+10.-
+None
+S.3
+Parasite ills Off
+Remoal of
+4.2
+Al1 Crustose
+1357.6g Algae
+Coralline Algae
+In Tidepool
+17.3
+Removal of Large
+2.7
+Cpen Fool
+emi
+Rock Wall From
+Insteadof
+at ie f ol
+Trench Pool:
+with irect
+Sunlight
+Irradiating
+at 7:Soam
+Table 4: Per-Nass Oxygen Depletion Constants
+Derived From Experimental Data
+Depletion Rate (umoles Oxygen 7 fg X hr. X LGxygenl in ppal)
+Fish
+O.020404
+9.006497
+Invertebrates
+Algae at 15
+O.00S754
+lgae at
+O.011128
+Necrati lgae
+.O5 umel ehr.
+(independent of Cxygan
+SOME ASSUMPTIONS OF THE MODEL
+STEADY STATE RATES OF OXYGEN ADDITION AND DEFLETION
+UNIFOEM MIXING OF TIDEFOOL
+UNIFOEM OXYGEN DEFLETION FATES AMONG ALL INVERTEEFATE SFECIES
+UNIFOEM OXYGEN DEFLETION RATES AMONG ALL FISH EFECIES
+UNIFOEM OXYGEN DEFLETION FATES AMONG ALL SFECIES OF ALGAE
+UNIFOEM OXYGEN ADDITION RATES AMOMG ALL SFECIES OF ALGAE
+OXYGEN CONSUMFTION RATES INCREASE WITH OXYGEN CONCENTRATION
+ALL INVERTEBRATES STAY IN FOOL FOR DURATION OF LOW TIDE
+COMSTANT TEMPERATURE OF 15-17 DEGREES C
+MICROBIAL ACTIVITY HAS NEGLIGIBLE EFFECT
+OXYGEN DIFFUSION TO ATMOSPHERE DUE TO SUFEF-SATUFATION
+IS CONTRIBUTING TO DEPLETION AT HIGHER OXYGEN LEVELS
+V
+DISSOLVED OXYGEN (ppm)
+S
+
+
+
+
+
+D
+Z
+
+G)
+Z
+Z
+0
+8+
+H
+x0
+
+E
+TEMPERATURE (C)
+S +
+5
+O
+
+
+
+
++
+2 8
+
+Ae
+O
+
+7
+2
+I
+Z
+G)
+0
+3
+C
++
+S
+8
+—
+7
+
+3
+SOLAR RRADIANCE
+pH
+aatataavaaaaaaaa-
+
+
+o-
+04
+1
+D
+
+o
+D
+
+( -
+
+
+1
+D
+p
+)
+
++
+
+-
+
+9
+51 -
+
+-
+
+TEIAPERATURE (degrees C)
+tatakakataaaaaavaa-
+
+
+&
+5
+
+6
+
+1Z
+
+9
+o+
+
+O¬
+o.
+G.
+I
+Z
+2
+
+O
+O 0
+
+DISSOLVED OXYGEN (ppm)
+o+
+DISSOLVED OXYGEN (ppm)
+N
+
+6
+5
+
+—
+
+G)
+2
+9
+X
+30
+
++
+N +
+
+4
+6
+
+Z
+—
+T
+
+
+0
+DISSOLVED OXGEN (pm
+
+L
+25
+9
+-
+
+30
+UISSOLVEU CXYGEH (pp
+n
+
+
+T
+
+9
+E
+
+
+-
+H
+
+Z
+—
+—
+
+
+—
++
+N-
+-
+n
+DISSOLVED ONGEN (pom)
+
+-
+
+P
+
+
+a
+
+L 4
+
+Z
+
+C
+
+—
+</pre></body></html>

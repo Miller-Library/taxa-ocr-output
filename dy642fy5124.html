@@ -1,0 +1,833 @@
+<html><body><pre style='margin:2rem auto;width:fit-content'>ABSTRACT
+This model of primary production in Monterey Bay predicts weekly
+phytoplankton growth under given environmental conditions. Growth values are
+then combined with equations for fallout, advection, and nutrient recycling to
+calculate each week's phytoplankton biomass. The model's predictions,
+especially for production, compare well to actual measurements for the bay. The
+model also predicts a small winter phytoplankton bloom resulting from nitrate
+accumulation. This bloom has been observed in the field. With additional
+complexity, this simulation could provide input terms for future bay models.
+INTRODUCTION
+Computer models are frequently used in investigating complex
+ecosystems. While field research describes the individual components of an
+ecosystem, a model integrates these components. The aim is to produce a model
+sufficiently simple to be instructive, but sufficiently complex to approximate the
+natural world. Models are also useful when direct experimentation would be
+destructive, as in most environmental research; one cannot manipulate an
+ecosystem to discover the limits of its resilience. Simulations allow non-invasive
+research.
+Primary production in Monterey Bay is an ideal subject for an ecosystem
+model. Considerable research has been done on the euphotic zone of the bay. A
+model would organize the results of this research and allow further investigation
+of the parameters regulating photosynthesis in the bay. In addition, because
+photosynthesis produces the organic compounds required by all other organisms,
+an accurate model of phytoplankton dynamics could potentially provide input
+values for models of other bay ecosystems, from the kelp beds to the canyon
+floor. For example, a detrital fallout term could serve as a "food source" for a
+model of deep water communities.
+This model uses recorded wind speeds, isotherm depths and irradiance
+levels to generate weekly values for primary production and phytoplankton
+biomass in the bay. The model follows the phytoplankton population for a user-
+selected number of years. Although this simulation requires considerable added
+complexity, it already provides information on several questions. For example,
+using only light and nitrate levels, the model accurately predicts production levels.
+This unexpected accuracy supports the original assumption that irradiance level
+and nitrogen supply are the two most important factors limiting photosynthesis in
+the bay.
+In addition to answering questions about the bay, this simulation suggests
+several directions for further field research. For example, accurate
+measurements of zooplankton biomass and grazing rates are not yet available.
+Without these figures, the model considerably overestimates peak phytoplankton
+populations.
+Similarly, research on benthic communities is ongoing, and the importance
+of mesopelagic organisms to bay nutrient cycles was recognized only recently.
+Both of these areas must be researched more thoroughly before a model of the
+entire Monterey Bay can be completed.
+MATERIALS & METHODS
+This model of primary production in Monterey Bay derives weekly
+phytoplankton biomass values and production rates from known environmental
+conditions (Figure 1 & Table 1). The model is written in <span style='background-color:#cfc' title='Turbo : Exact'>Turbo</span> C (Appendix 1).
+It runs for a user-selected number of years. Instead of running a full simulation,
+the user can opt to set fallout to zero (allowing for exponential growth) or to hold
+the phytoplankton biomass constant.
+WEEKLY PRODUCTION
+In Monterey Bay, nitrogen, supplied as either nitrate (NO3) or ammonia
+(NH4), is thought to be the limiting nutrient in photosynthesis. Upwelling is the
+primary source of surface water NO3 in the bay. Although some nitrogen may
+diffuse upward across the nutricline, and some may be carried in fresh water
+runoff, these terms are considered negligible.
+Ekman’s theory (Ekman, 1905, quoted in Mendo, et al., 1987) provides the
+algorithms used in calculating the mass of water upwelled per time interval.
+Values are determined as follows, using the Coriolis parameter (f) for this
+latitude, and the monthly-mean wind stress (r) off the California coast (Breaker
+& Broenkow, 1987)
+E = 1/f
+f=2() * sin(37)
+(Bakun, 1973, quoted in Mendo, et al., 1987)
+In the equation for f, is the angular velocity of the earth’s rotation, and 37 is the
+latitude in degrees. Because the wind parallels the coastline, the entire wind
+stress contributes to upwelling. Upwelled water is assumed to originate at a
+depth of fifty meters (Barber & Smith, 1981).
+Upwelled water brings with it some mass of NO3 per unit volume. This
+concentration is determined according to the equation:
+[NO3 = 32.9-.172(z) (r = 0.998)
+where z is the depth of the ten-degree isotherm (Breaker & Broenkow, 1987).
+This value, multiplied by the volume of water upwelled, predicts the amount of
+NO3 carried upward into the euphotic zone.
+Upwelling primarily occurs in the mouth of the bay (Figure 2). The above
+equations calculate the mass of NO3 upwelled per meter of coastline. Of the
+water in which this NO3 is dissolved, at most half flows into the bay; the
+remainder flows into the open ocean. Advection further decreases the supply of
+nitrogen to the euphotic zone. To account for these factors, this simulation
+divides the total amount of upwelled NO3 by four. The result is a mass of NO3
+available for primary production in the bay per meter of coastline, per week. The
+model then divides this figure by the mean width of the bay in order to simulate
+diffusion over the bay. Finally, since phytoplankton incorporate approximately
+six times as much carbon as nitrogen, the model multiplies the upwelled NO3 by
+5.8 to convert to "carbon equivalents."
+The model then derives a value for total, nitrogen limited, primary
+production - that is, production supported both by "new" nitrogen (upwelled
+NO3) and by NHA recycled by heterotrophs. According to Eppley and Peterson
+(1979), new and total production are related by:
+new/total =.0025(total)
+for total production « 200 (gC/m2year). For total production greater than this
+amount, this model uses the ratio:
+new/total =.75
+(modified from Eppley and Peterson, 1979, using Dugdale, 1985).
+In the bay, phytoplankton growth is sometimes limited by light rather than
+nitrogen availability. This model therefore calculates a weekly light limited value
+for production using Platt, et al.’s equation:
+biomass
+Prodn = (0.069 + 0.45(1o)
+(mg Chlam?
+(1988). lo is the incident radiation (Einsteins/m2). The biomass is converted
+from mg carbon to mg chlorophyll a according to a variable ratio (Figure 3). This
+ratio changes with season because phytoplankton produce more chlorophyll a per
+unit carbon during the winter months, when light levels are lower. Total
+production is the smaller of this light limited value and the nitrogen limited value
+calculated above.
+During execution, the model keeps track of a NO3 pool in the euphotic
+zone. At the start of each week's calculations, the NO3 upwelled is added to this
+pool. If production for the week is nitrogen limited, the pool is totally depleted-
+i.e. set to zero. If production is biomass limited, Eppley and Peterson's ratio
+(described above) is applied to determine the amount of production supported by
+NO3. The NO3 pool is then decremented by this amount. Any NO3 left in the
+pool is used in the next week's production calculations.
+BIOMASS
+The phytoplankton biomass is incremented weekly. The original model
+added 95% of the calculated weekly production to the previous week's biomass.
+5% of the production was assumed to be lost from the system as dissolved organic
+matter (DÖM). Running the model with these figures, however, resulted in
+unreasonably high phytoplankton populations. The final model still subtracts 5%
+of each week's production, but adds only 25% of the remaining production to the
+week's biomass. The portion of production not taken up by phytoplankton
+probably goes to support grazer populations, for which this model does not yet
+account.
+The biomass calculation has two loss terms: detrital fallout - nutrients
+totally lost from the system - and recycled matter - nutrients remaining in the
+euphotic zone but no longer incorporated in living phytoplankton. Both terms
+include many natural processes, but this model does not distinguish these
+processes.
+For steady state to be maintained, the nitrogen lost from the system must
+equal the upwelled nitrogen. Little is known, however, about the time span over
+which equilibrium is reached. The model was run several times with different
+input values to determine a reasonable value for this time lag. Exporting NO3
+one week after it was upwelled resulted in a constant phytoplankton population,
+because all production was immediately lost as fallout. On the other hand, if the
+lag time for NO3 loss was too long, the simulated population grew well above
+observed limits. The best estimate for the lag time appears to be one month.
+The model therefore equates detrital fallout to NÖ3-supported phytoplankton
+growth from four weeks previous.
+Recycled nitrogen (NH4)- the final term used in calculating biomass - is
+simply set equal to the difference between total production and new production.
+Because the model adds only 25% of weekly production to weekly biomass, only
+25% of the recycled nitrogen is subtracted each week.
+The final equation for phytoplankton population is:
+phyto (wk+1) - phyto(wk) +25(prodn(wk)-recy(wk))-detritus(wk)
+where
+detritus(wk) = new production(wk-4)
+and
+recyc (wk) - production(wk)- new production(wk)
+Before discussing the results of the simulation, there are several
+underlying assumptions that require justification. First, the model ignores the
+accepted equations relating photosynthesis to changes in temperature. This
+probably does not introduce significant error, given the relative constancy of the
+water temperature in Monterey Bay. The model also disregards the relationship
+between phytoplankton density and euphotic zone depth. Although the
+extinction coefficient for chlorophyll a is actually quite high, Platt’s equation for
+production as a function of PAR already factors in this consideration. Adjusting
+the model's PAR values for phytoplankton density would therefore be redundant.
+The final, and most questionable assumption is that light and nitrogen level are
+the most important variables influencing primary production in the bay. This
+assumption is not obvious, but the relative accuracy of the model’s predictions
+supports its validity.
+RESULTS
+Running this simulation generates predictions of phytoplankton biomass
+(Figures 4 & 5), nitrate (NO3) levels (Figure 6), and primary production (Figure
+7). All of these terms are calculated on a weekly basis. Comparing the model's
+output in these areas with actual measurements taken in the bay provides
+feedback on the accuracy of the simulation.
+Average phytoplankton biomass in the bay is easily measurable. The
+precision of the computer-generated biomass figures can therefore be evaluated.
+This comparison suggests that, although the trends in simulated values follow the
+yearly cycle observed in the bay, with peak populations reached in the early
+spring, the model's values are not yet close enough to be of use in predictions
+(Figure 9). In fact, the model's maximum values are three times actual
+measurements.
+As previously stated, NO3 levels are calculated weekly, in mg NO3
+upwelled, per m2, per week. These values cannot be quantitatively compared
+with the instantaneous NO3 concentrations measured in the field, because there
+is no obvious way to convert from instantaneous to weekly concentrations. As a
+result, the accuracy of the simulation with respect to this variable cannot be
+assessed. The increase in nitrate levels predicted for January and February,
+however, agrees qualitatively with field observations. In addition, since NO3
+levels are used in calculating production, the high correlation between real and
+actual production values suggests that the NO3 predictions are also reasonable.
+Comparison with actual data suggests that the model is most successful in
+simulating primary production (Figure 8). In order to determine total weekly
+production, the model calculates light limited and nitrogen limited production
+(Figure 11); actual production is the smaller of these values. In a given time
+period, if the light limited term is smaller than the nitrogen limited term, light is
+considered to be limiting. During such a time period, excess NO3 remains in the
+euphotic zone. In the model this occurs yearly, during January and February. In
+the spring, when light levels increase, the accumulated NO3 predicted by the
+model supports a brief phytoplankton bloom (Figure 12). This bloom has been
+observed in the field.
+Production in the bay, while not as easily calculated as average biomass,
+can be determined. Comparing simulated and actual production values results in
+a correlation coefficient of.7, which is significant at the .01 level (Figure 8). In
+other words, the variables used in the model explain 50% of the variance seen in
+phytoplankton primary production. This correlation increases to.8 (and thus
+explains 64% of the variance in primary production) if the simulated values are
+shifted forward six weeks. Perhaps the model does not correctly account for the
+lag time between upwelling and production.
+10
+DISCUSSION
+Primary production in Monterey Bay is far more complex than this model
+suggests. The only independent variables used in the model are
+photosynthetically active radiation (PAR), wind stress and isotherm depth. The
+euphotic zone in the bay is influenced by many other environmental factors.
+Similarly, the model only follows phytoplankton populations, while in the bay,
+population dynamics depend on the interactions of many different groups of
+organisms.
+Given the simplicity of the model, the accuracy of the simulation is
+interesting. Why should primary production in the bay be predictable using only
+nitrate concentrations and light levels? Possibly, the model's algorithms, although
+simplistic, already include the most important factors regulating production. If
+nitrate were not the limiting nutrient in the bay, nitrate concentrations would not
+correlate to primary productivity. Similarly, if sunlight were not limiting, light
+levels would be irrelevant in predicting production. The fact that these variables
+are sufficient to calculate productivity implies that they are regulatory.
+The model is less successful in predicting biomass than weekly production;
+peak biomass figures are overestimated by a factor of three. Adding a grazer
+population would partially eliminate this inaccuracy. In nature, photosynthesis
+supports not only the producers themselves but also populations of heterotrophs
+and carnivores. By contrast, in this simulation, production is briefly incorporated
+in the phytoplankton population and then immediately recycled or lost as
+detritus.
+11
+Because the total quantity of nutrients is limited, both in nature and in the
+model, allowing them to pass quickly through the cycle (i.e. never "trapping" them
+in grazer populations) increases their availability, and therefore increases
+nutrient limited production. This allows the phytoplankton population to grow
+well beyond natural limits. Maintaining a large grazer population would
+introduce a lag time in nutrient cycling; nutrients used in production would not
+immediately be available again. This, in turn, would decrease the simulation's
+maximum biomass predictions. Potentially, this correction could also decrease
+the six week time difference between predicted and actual peaks in production.
+Unfortunately, this correction is not as easy as it may seem, because little data is
+available on grazing rates or zooplankton biomass in the bay.
+There are many other possible explanations for the errors in biomass
+predictions. For instance, the current model determines the quantity of recycled
+nitrogen (in the form of ammonia) from production equations, using a ratio of
+new:total production. Phytoplankton biomass is ignored. In nature, the
+availability of recycled nutrients clearly depends on phytoplankton and grazer
+populations, as these nutrients result from the decomposition of organisms and
+from excretion. Adding this dependence would improve the model's predictive
+capability.
+The detrital fallout term, which includes all organic matter leaving the
+euphotic zone, should also be a function of biomass. As with recycled nitrogen
+levels, fallout is more closely related to population size than to production. The
+model now exports an amount of detritus equal to the production from four
+weeks previous. In fact, this term should vary with biomass; it should be greater
+than production when the phytoplankton biomass (and therefore grazing) is high,
+﻿12
+and considerably lower than production when the population is low. Changing
+the program to include this relationship would decrease peak biomass
+predictions, because as the phytoplankton population started to climb, the fallout
+term would also increase.
+Another inaccuracy in the model is the use of weekly averages in
+calculating production and biomass; living phytoplankton encounter
+instantaneous, rather than average conditions. They are subject both to the
+maximum and to the minimum light levels and nitrogen concentrations.
+Averaging conditions masks environmental extremes. This is an inherent
+problem with mathematical models; it is possible, to calculate population
+changes instantaneously, but it is not possible, with current measurement
+techniques, to determine instantaneous environmental conditions.
+A complete bay model is clearly a distant goal, but this simulation is a first
+step. Its predictions for primary productivity approach actual measurements,
+supporting the initial assumption that photosynthesis in the bay is primarily
+regulated by light and nitrate levels. The biomass predictions may improve and
+could potentially be used to drive future models. Further, the model highlights
+several components of the bay requiring further research: grazing rates in the
+euphotic zone, nutrient flows between bay ecosystems, and mesopelagic
+communities
+13
+REFERENCES
+Barber, R.T. and R. L. Smith. 1981. Coastal upwelling ecosystems. pp 31-68. In:
+A.R. Longhurst (ed.) Analysis of Marine Ecosystems. Academic Press, New
+York.
+Breaker, L. C. and W. W. Broenkow. 1987. The circulation of Monterey Bay and
+Related Processes. Moss Landing Marine Laboratories Technical Report.
+90pp.
+Dugdale, R.C. 1985. The effects of varying nutrient concentrations on biological
+production in upwelling regions. CalCOFI Rep, 26, 93-96.
+Eppley, R.W. and B.J. Peterson. 1979. Particulate organic matter flux and
+planktonic new production in the deep ocean, Nature, 282, 677-680.
+Mendo, J., L. Pizarro and S. Castillo. 1987. Monthly turbulence and Ekman
+transport indexes, 1953 to 1985, based on local wind records from
+Trujillo
+and Callao, Peru, pp. 75-88. In: D. Pauly and I. Tsukayama (eds.). The
+Peruvian anchoveta and its upwelling ecosystem: three decades of change.
+ICLARM Studies and Reviews, 15. Instituto del Mar del Peru, Callao, Peru.
+Platt, T., S. Sathyendranath, C.M. Caverhill and M.L. Lewis. 1988. Ocean
+primary production and available light: further algorithms for remote
+sensing, Deep-Sea Research, 35, 855-879.
+Figure Legend
+Figure 1. Model Flow Chart. The arrows imply either that matter flows in the direction of the
+arrow, or that the variable at the head influences the variable at the tail. "Date
+is a weekly date; all subsequent quantities are calculated on a weekly basis.
+Figure 2. Map of Upwelling Region. Water upwells across the mouth of the bay. Half flows
+into the bay and half into the open ocean. Nutrients in the upwelled water
+diffuse through the euphotic zone.
+Figure 3. Ratio of Carbon:Chlorophyll a in Phytoplankton. This ratio changes with season
+because phytoplankton produce more chlorophyll per unit carbon during the
+winter, when light levels are lower.
+Figure 4. Phytoplankton Biomass in Monterey Bay, simulated over a two year period. The
+output for biomass is in units of mg C per m
+Figure 5. Phytoplankton Biomass in Monterey Bay, simulated over a two year period. The
+biomass predictions shown in figure four are converted to units of mg Chl a per
+m“ using the ratio shown in figure three.
+Figure 6. Nitrate Available for Primary Productivity, simulated over a one year period. The
+available nitrate is the sum of upwelled nitrate for the given time period and
+nitrate left in the euphotic zone from previous time periods.
+Figure 7. Primary Production in Monterey Bay, simulated over a two year period. The
+production figures are expressed in units of mg C per me per day. The model's
+weekly predictions are divided by 7.5 to give daily values, because the model
+assumes four weeks in a thirty day month.
+Figure 8. Primary Production in Monterey for one year (a comparison of actual and simulated
+values). The predicted production values are compared with averaged
+production measurements taken in the bay in 1989 (MBARI unpublished data,
+1989). Both are in units of mg C per me per week.
+Figure 9. Phytoplankton Biomass in Monterey Bay for one year (a comparison of actual and
+simulated values). The predicted biomass values are compared with averaged
+phytoplankton biomass measurements taken in the bay in 1989 and 1990
+(MBARI unpublished data, 1990). Both are in units of mg Chl a per m’. (The
+ratio shown in figure three was used to convert the model's predicted values
+from C concentrations to Chl a concentrations)
+Figure 10. Light and Nitrogen Limited Production, simulated over a two year perigd. Both light
+and nitrogen limited production values are in units of mg C per me per day.
+Figure 11. Nitrate Supported Blooms in Phytoplankton Biomass. This figure is identical to
+figure four, with the winter, nitrate supported bloom is labelled.
+LEGEND:
+DATE
+= INPUTS to the MODEL
+(MEASURED VALUES)
+OUTPUT VALUES
+O
+(CALCULATIONS)
+ONOg LIMITED NEW PRODUCTION
+(last week's value)
+depth of
+NSOTHERM
+1-2
+NO POOL
+BIOMASS / LIGHT LIMITED NEW PRODUCTION
+INO J AT DEPTH
+(last week's value)
+
+N0, UPWELLED)
+UPWELLING
+NO LIMITED NEW PRODUCTION
+RECYCLED NITROGEN
+= TOTAL PRODUCTION - NEW PRODUCTION)
+(NOg UMITED TOTAL PRODUCTION
+PRODUCTIONsthis weekl
+-—( PHYTOPLANKTONInext week)
+MIN OF N. LTD AND BIOMASS UTO
+(*.05)
+BIOMASS / LIGHT
+DOM
+LIMITED NEW PRODUCTION
+IRRADIANCE
+PHYTOPLANKTONsthis week)
+BIOMASS / LIGHT
+UMITED TOTAL PRODUCTION
+DETRITUS
+(= LAST MONTH'S NEW PRODUCTIOT
+Figure 1.
+57°N
+36°30'N-
+Figure 2.
+
+
+
+22°W
+Sen Lorense Siver Soquel Cresk
+k
+...
+
+
+Santacru
+W
+
+...
+knor
+
+
+
+::
+
+ss
+
+Lanc
+Monterey
+Cypress
+:
+
+Pt. <span style='background-color:#cfc' title='Lobos : Exact'>Lobos</span>
+ranite Canyon
+Distance (
+t. Sur
+Depth in M
+Z
+C
+++
+2 +
+D +
+O-
+O-
+Z
+CARBON/CHLOROPHYLL-A (mg C/mq Chl a)
+8
+C
+(D +
+—
+BIOMASS (mg C/m
+
+
+
+O
+O
+O
+O
+I
+BIOMASS (mg Chlam
+
+——
+
+
+
+
+
+
+O
+I
+
+7 +
++
+—
++
+P +
+01
+O
+Z
+O
+NITRATE (mg No3/m
+N
+—
+
+
+S
+c
+u
+—
+o
+O
+I
+o
+0 +
+(D -
+PRODUCTION (ma o/m2
+
+
+
+—
+
+2
+2
+
+
+2
+—
+
+
+day)
+E
+1.
+O
+I
+
+2 +
+2 +
+2—
+
++
+2 —
+-
+ol
+21
+S —
+PRODUCTION (mg
+C/m2/day,
+O
+O
+
+
+——
+
+
+S
+
+—
+
+
+I
+O
+0
+C—
+—
+
+—
+X-
+C—
+I
+—
+—
+o
+Z
+O -
+—
+BIOMASS (mg Chlatm
+—
+C
+4
+
+
+
+
+—
+
+
+O
+0
+I
+
+PRODUCTION (mg c/m2/day)
+
+
+
+
+
+
+2
+
+
+
+0
+O
+OC
+c
+8
+o
+(D +
+BIOMASS (mg C/m:
+
+
+
+
+O
++
+8
+Appendix 1
+C Code
+lose.C
+tincludestdio.h»
+tinctudesmath.h»
+tdefine min(x,y) ((x « y) ? (x) : (y))
+define max(x,y) ((x » y) ? (x) : (y))
+tdefine nl printf("An")
+tdefine write printf (
+tdefine nuts lost.01
+tdefine depth 50
+tdefine MAX 25
+char 'get file();
+/* phyto is actual biomass; N up is upuelled N
+double phyto t501, N up1491
+/* Ntd is N-limitted prodn for current mo
+Ntdt491, Npool
+/C ltd is biomass-limitted prodn for current mo
+C tdt491, prodn1491
+/ prodn is current mo's total photosynthesis
+C out 1491, recyc 1491;
+/*C out is amount of (mo-1)'s biomass lost from phyto
+/ recyc is amount of (mo-1)'s biomass incorporated in
+/ current mo's prodn
+int options(), num yr();
+void
+clear(), find N prodn(), find C prodn(),
+find prodn(), find Cout(), find phyto(),
+get new(), wkly output(), output();
+main()
+int i, yr, mo, wk, box, opt;
+char file name,c;
+FILE *fp1, *p2, fopen():
+/* Get ouput file name from user
+file name  get file(); nt;
+i = num yr();
+/* Ask user how many years to run simulation
+/ and which type of simulation to run
+opt - options():
+if (opt == 3) (
+/* if full sim., does user want to enter own
+c yes or no(); nl; nl;
+/* weekly biomass values?
+) else c - 'n';
+/User's outut ile
+fpl = fopen(file name, "w")
+fp2 - fopen("nitrate", "w");
+/* Temporary output file in which nitrate pool
+/" data is stored (used in NO3 pool comparisons)*/
+for (yrel; yrsi; yr+*) (
+clear(yr);
+/* twelve month year (30 days per month)
+for (mo=1; moc=12; mo+) (
+for (wk=1; wka-4; wk-*)
+/* four weeks per month =» 7.5 days per week
+/* given week in given yr (cycles from 1 to 48)
+box - (mo-1)*4 + wk:
+find C prodn(mo, box);
+/* find biomass and nutrient limits on prodn
+find N prodn(mo, box); /* (also finds recycled term for current wk)
+/" production = min(N td and C ltd)
+find prodn(box)
+/* find prodn and carbon fallout for current wk
+find C out (yr, box);
+/* find biomass values for current wk
+find phyto(opt, box)
+ukly output(yr, box, fp2);
+/* prints out weekly values for all variables
+if ((  y')  ( = ))
+get new(yr, mo, box);
+/* if user opted to enter weekly values, get
+/* value and re-print weekly values
+output (fp1):
+/“ At end of year, print all array values to
+*/
+/ output ile
+floseal1();
+void clear(int yr)
+int x;
+if (yr==1) (
+Ntdfo  CtdO  N pool  prodnOl -
+Cout f0 = recyc 01  phytofO = 0:
+NuptOj = 6000;
+/" initialize program so biomass doesn't blow up
+phytof1l = 600;
+/* mg/m2; measure N in C equivalents
+else (
+phytof1l - phyto1491;
+for (x=2; x-=47; x+*)
+Nltdix = CtdIx = phytolxl = prodnIxl = C out Ixl =
+recyc Ixl = NupIx = 0:
+/* initialize all but Jan and Dec with zeros (Jan and
+/* Dec values are used in future calculations
+void find C prodn(int mo, int box)
+double light, chl,
+PARL131 = (0, 24.7, 28.6, 40.6, 49.4, 56.5.
+60.6, 57.2, 47.3, 38.8, 25.4, 25, 22):
+int Chl convers 1131 = (0, 20, 21, 23, 30, 45, 55, 57, 51, 45.
+37, 30, 25);
+chl = phytolboxl/(double) Chl convers Imol:
+/* Phytoplankton concentration converted to Chl a/m2*
+light = PAR Imo) * 7.5
+/* Light over 1/4 of month
+C Itdlboxl = (chl)“(.069+.45*light);
+/* Platt's equation relating light to photosynthesis
+void find N prodn(int mo, int box)
+doubl e upu():
+Nupbox - up(mo);
+Npool + NupIboxl:
+Nltdiboxl - ((N pool) « 4687) ?
+(sgrt(N pool/(.0025*.048))) : (N pool/.75):
+/" Eppley equation for new:total production (using
+/* a max ration of .75 instead of .5)
+/“.048 is conversion factor; have to convert
+/* from g/yr to mgc/uk; (* 1000mg/g * yr/12mo * mo/Auk)"/
+double upw(int mo)
+double arrows(), upuell, N:
+int isof131 = (0, 100, 95, 70, 30, 20, 25, 60,
+75, 90, 95, 98, 100);
+N = 14*(32.9-(.172“ (double) isoImol));
+/* 14 is M ut of N, 32.9... is equation generated from
+/* <span style='background-color:#fcc' title=' : NoMatch'>MBARI unpubl</span> ished data relating depth of 10-deg
+/ to concentration of NO3 at depth (r =.99)
+/* calculate weekly upwelling
+upwell = arrows(mo);
+return((.25“upwel l“N“3600“24“7.5/25280)*5.8):
+/ assume 25% of water flows into the bay (half flows
+/" out, half lost to advection)
+/* mg N/m/s * s/hr * hr/day * day/wk * 1/mngg
+/ (25280 - approx. width of bay) -- accounts for
+/ diffusion
+/* calculates weekly upwel ling
+double arrows(int n)
+double x;
+int af131 = (0, 7, 28, 38, 50, 64, 59, 42, 46, 40, 29, 12, 7);
+/* Lengths of wind arrows (Breaker & Broenkow)
+x = ((double) alnl)/10;
+X *= (.5/4);
+/ convert to Dynes
+return((x/(2“(7.29e-5)“(.602)))"(1e-4));
+/ upwelling eg'n from Mendo, et al.
+/ results in volume upwelled m'3/s/m(coastline)
+/* .602 = sin(latitutde)
+/" finds weekly production
+void find prodn(int box)
+double new = 0:
+if (ctbox « Ntdboxl) (
+prodnIbox - Ctdboxl;
+/* if production is biomass limited, find new and total */
+new = (prodnIbox) « 6250) ?
+((.0025*.048)* (prodn Iboxl*prodn Iboxl)) : (prodn Ibox)*.75);
+/* Eppley equation for ratio of new:total prodn (using
+/ a max of .75 instead of .5)
+/ decrement NO3 pool by amount of new prodn
+Npool -- new;
+recyc tbox) - prodnIboxl - new;
+else (
+prodnIbox = Ntdboxl;
+recyc boxl - prodnIbox) - N pool;
+/* if NO3 is limiting, assume all is used (pool=0)
+N pool = 0;
+void find C out (int yr, int box)
+int temp box - ((yr » 1) &a (box « 5)) ? (48 + (box-4)) :
+((yr == 1) &ampap; (box « 5)) ?
+: (box - 4);
+/* if Jan, yr»1, wk-4 = a wk in Dec, yr-1
+double DOM = nuts lost * prodnIboxl;
+/* 5 of each week's production lost as DOM
+C out Iboxl = (.25 * (prodnItemp boxl - recycItemp boxl)) + DOM,
+/* Major loss term is previous month's new production */
+/* (still no explanation for incorporating 252 of prodn */
+void find phyto(int opt, int box)
+suitch(opt) (
+case 1: phytolbox + 11 - phytoIboxl; break;
+/user opted to hold biomass constant
+case 2: phytoIbox + 11 - phytolboxl + prodnIboxl; break
+/user opted to set fallout to ero
+case 3: phytofbox + 11 = max((phytolboxl + (.25 * prodnlboxl)
+C out Ibox) - (.25 * recyc Iboxl)),600); break;
+/" user opted for full simulation
+void get new(int yr, int mo, int box)
+/ user opted to enter new weekly values
+float temp;
+write"(data for month 22d, week 22d)", mo, (box-(mo-1)"4)); nl;
+write"Neu biomass value: ");
+scanf ("Zf", &temp);
+/* If user entered non-zero value, show change */
+if (temp » 0) (
+phytoIbox = temp;
+temp = 0;
+ukly output (yr, box);
+void ukly output(int yr, int box, FILE *fp2)
+if ((yr == 1) &ap (box == 1)) (
+write" Cltd Nltd Npool prodn recyc C out phyto"); nl;
+if (box == 1) (
+urite"YEAR = Zd",yr); nl;
+write“z10.2f 210.2f 210.2f 210.2f 210.2f 210.2f 210.2f“,
+Ctdbox,Ntdbox,Npool, prodnIbox, recyc Ibox),
+C out Iboxl, phyto Iboxl); nl;
+/* temporary record of NO3 pool for NO3 figure */
+fprintf(fp2, "210.2fn", N pool);
+void output (FILE *fp1)
+void convert();
+int box:
+/* convert from carbon biomass values to chl*
+convert (0);
+for (box=1; box48; box*)(
+fprintf (fpl, "22.Of 210.2f 210.2f 210.2f 210.2f 210.2f 210.2f 210.2fn“,
+(double) ((box-1)/4)-1,tbox,Ntdbox,Nupboxl,
+prodnIboxl, recyc Iboxl,C out Iboxl, phyto sboxl);
+convert back to carbon
+convert (1);
+void convert(int inverse)
+int mo, box, Chl convers 1131 = (0, 20, 21, 23, 30, 45, 55, 57,
+51, 45, 37, 30, 25);
+for (mo=0; mos12; mo**)(
+for (box=1; box5; box-)(
+if (linverse)
+phytomo*4 + box  phytomo"4 + boxl/((double) Chl convers Imo11);
+else phytomo*4 + boxl - phytomo“4 + boxl"((double) Chl convers Imot11);
+Foncs.C
+tincludeconio.h»
+tdefine write printf(
+tdefine nt; printf("n")
+tdefine MAX 25
+void cirscr(void);
+/*Gets an output file name from the user
+char get file(void)
+char file name, malloc();
+crscr();
+write"This program simulates primary production in the bay ");
+write"for a given"); nt;
+urite"number of years."); nl:
+file name = (char *)malloc(MAX * sizeof (char));
+/ allocates memory space for the file name "/
+write"Where would you like the data stored? (Please enter a file name.)"); nl;
+scanf ("Zs", file name); nl;
+return(file name)
+/Asks user how many years to simulate
+int num yr()
+int i
+urite"How many years would you like simulated? ");
+scanf ("Zd", &i); nt; n;
+return i;
+/* Asks user which type of simulation to run *
+int options()
+char c, yes or no();
+int i;
+urite"Would you like to:"); nt;
+write"1.) hold biomass constant (i.e. keep production ");
+write"biomass-limited)?"); nt;
+write"2.) set fallout to zero (i.e. allow biomass to grow exponentially)?"); nl;
+write"3.) run a full simulation?"); nl; nl;
+write"Please enter 1, 2, or 3."); nl;
+scanf ("Zd", &i); nl;
+crcr();
+return i;
+/If full simulation, asks user whether to
+char yesorno()
+/* pause for user-input biomass values
+char c;
+int getche();
+write"Would you like to be able to enter your own monthly values for "); nl;
+write"phytoplankton population? (y/n) ");
+c = (char) getche():
+if (( = y) | ( =))(
+nl; nt;
+write"After each month's values are printed, the simulation will pause."); nl;
+write"If, at this point, you would like to enter a new value for the phytoplankton"); nt:
+write"population, type in that value. Otherwise, enter zero."):
+return c;
+</pre></body></html>
